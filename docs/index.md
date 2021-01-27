@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Ichicraft Widgets
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This website provides information regarding releases of Ichicraft Widgets.
 
-## Commands
+**Ichicraft Widgets is a personal digital workplace for SharePoint and Teams.**
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Ichicraft Widgets allows users to personalize their digital workplace in SharePoint or Microsoft Teams. It offers the user a canvas that can be filled with configurable widgets (blocks) that clearly display up-to-date and personalized information. This increases the productivity and involvement of employees in the organization.
 
-## Project layout
+Do you want to know more about Ichicraft Widgets? Contact us or visit our website at https://ichicraft.com.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+*This website was automagically generated using [mkdocs.org](https://www.mkdocs.org).*
