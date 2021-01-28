@@ -1,3 +1,9 @@
+## 1.13.0 - January 28, 2021
+
+### Changes
+
+- Faky change
+
 ## 1.12.0 - January 28, 2021
 
 ### Changes

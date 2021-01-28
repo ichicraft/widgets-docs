@@ -1,3 +1,9 @@
+## [Another Widget](./Widgets/Another Widget.md) 1.13.0 - January 28, 2021
+
+### Changes
+
+- Faky change
+
 ## [Another Widget](./Widgets/Another Widget.md) 1.12.0 - January 28, 2021
 
 ### Changes
