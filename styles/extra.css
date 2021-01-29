@@ -3,6 +3,7 @@
     --md-accent-fg-color: #f9b62b;
 }
 
+.md-nav__title .md-nav__button.md-logo img,
 .md-header-nav__button.md-logo img {
     width: auto;
     height: auto;
