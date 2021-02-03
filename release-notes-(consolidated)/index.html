@@ -10,7 +10,7 @@
       
       
       <link rel="shortcut icon" href="../images/favicon.png">
-      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.2.6">
+      <meta name="generator" content="mkdocs-1.1, mkdocs-material-6.2.6">
     
     
       
@@ -58,6 +58,11 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
+      
+        
+        <a href="#widget-board-170-february-03-2021" class="md-skip">
+          Skip to content
+        </a>
       
     </div>
     <div data-md-component="announce">
@@ -178,18 +183,11 @@
 
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
-        Release notes (consolidated)
+    <li class="md-nav__item">
+      <a href="../Widget%20Board/" class="md-nav__link">
+        Widget Board
       </a>
-      
     </li>
   
 
@@ -200,11 +198,65 @@
 
   
   
+    
   
-    <li class="md-nav__item">
-      <a href="../Widget%20Board/" class="md-nav__link">
-        Widget Board
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Release notes (consolidated)
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Release notes (consolidated)
       </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#widget-board-170-february-03-2021" class="md-nav__link">
+    Widget Board 1.7.0 - February 03, 2021
+  </a>
+  
+    <nav class="md-nav" aria-label="Widget Board 1.7.0 - February 03, 2021">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#added" class="md-nav__link">
+    Added
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#changed" class="md-nav__link">
+    Changed
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -415,6 +467,55 @@
               </div>
             
             
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#widget-board-170-february-03-2021" class="md-nav__link">
+    Widget Board 1.7.0 - February 03, 2021
+  </a>
+  
+    <nav class="md-nav" aria-label="Widget Board 1.7.0 - February 03, 2021">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#added" class="md-nav__link">
+    Added
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#changed" class="md-nav__link">
+    Changed
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
@@ -423,7 +524,48 @@
                 
                   <h1>Release notes (consolidated)</h1>
                 
-                
+                <h2 id="widget-board-170-february-03-2021"><a href="../Widget%20Board/">Widget Board</a> 1.7.0 - February 03, 2021</h2>
+<h3 id="added">Added</h3>
+<ul>
+<li>Posibility to target (variants of) widgets to specific audiences</li>
+</ul>
+<h3 id="changed">Changed</h3>
+<ul>
+<li>
+<p>Updates to Portugese translations after review</p>
+</li>
+<li>
+<p>Changed handling of non-fatal errors to improve experience for users</p>
+</li>
+<li>Additional stuff added to &#x60;WidgetContext&#x60; to provide environment details</li>
+</ul>
+<p>German translation review by Sascha</p>
+<p>fixed registration save &amp; bug in bundlepicker</p>
+<p>Oops, removed dummy resource</p>
+<p>Fixed json</p>
+<p>Not sure if the PowerApp changes from Michel need to be merged to Master.</p>
+<p>default padding added to board</p>
+<p>fix max width in Teams</p>
+<p>Fixes for better support in Teams</p>
+<p>Het is een PR voor DEV naar MASTER, dus misschien iets met versie verhogen? Of niet?</p>
+<p><strong>Improvements</strong></p>
+<ul>
+<li>Improved logging from the Widgetboard webpart</li>
+<li>Ported old &#x27;widget details&#x27; functionality to new &quot;Help&quot;-button for widgets</li>
+<li>Removed &quot;Help &amp; Support&quot; link from main menu since we haven&#x27;t implemented that yet</li>
+<li>Support for rootsite deployment</li>
+</ul>
+<p><strong>Internal remarks</strong>
+- Cleanup of npm dependencies
+- Updated npm dependencies
+- Major update of pnp packages
+- Major update of redux
+- Re</p>
+<p>Added permission for graph</p>
+<p>Twee fixes:
+- saving widget configuration fails in Disrupted Widget, works after refresh
+- standard release user gets error when adding widget that was already loaded before, resulting in Disrupted Widget</p>
+<p>Added Manifest ID</p>
                 
               
               
@@ -442,7 +584,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
         
-          <a href=".." class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../Widget%20Board/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-footer-nav__button md-icon">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
             </div>
@@ -451,19 +593,19 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                About
+                Widget Board
               </div>
             </div>
           </a>
         
         
-          <a href="../Widget%20Board/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../Widgets/Apps/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-footer-nav__title">
               <div class="md-ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                Widget Board
+                Apps
               </div>
             </div>
             <div class="md-footer-nav__button md-icon">
