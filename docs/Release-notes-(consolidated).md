@@ -1,3 +1,17 @@
+## [Apps](./Widgets/Apps.md) 1.2.0 - February 04, 2021
+
+### Changed
+- Updates to Portuguese translations after review
+- Improvements to exception handling and logging
+
+German translation review by Sascha
+
+
+
+Fixed inclusion of carousel styles
+
+
+
 ## [Power BI](./Widgets/Power BI.md) 1.2.0 - February 04, 2021
 
 ### Changed
