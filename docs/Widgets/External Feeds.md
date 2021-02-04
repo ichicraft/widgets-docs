@@ -1,3 +1,8 @@
+## 1.3.0 - February 04, 2021
+
+### Changes
+- More improvements to exception handling and logging
+
 ## 1.2.0 - February 04, 2021
 
 ### Changes
