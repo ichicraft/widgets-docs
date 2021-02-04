@@ -1,15 +1,15 @@
 ## [External Feeds](./Widgets/External Feeds.md) 1.3.0 - February 04, 2021
 
-### Changes
+### Changed
 - More improvements to exception handling and logging
 
 ## [External Feeds](./Widgets/External Feeds.md) 1.2.0 - February 04, 2021
 
-### Changes
-- Updates to Portugese translations after review
+### Changed
+- Updates to Portuguese translations after review
 - Improvements to exception handling and logging
 
-### Fixes
+### Fixed
 - Fixed a bug where updating admin configuration as an admin didn&#x27;t result in clearing cache
 
 ## [Widget Board](./Widget Board.md) 1.7.0 - February 03, 2021
@@ -18,4 +18,4 @@
 - Posibility to target (variants of) widgets to specific audiences
 
 ### Changed
-- Updates to Portugese translations after review
+- Updates to Portuguese translations after review
