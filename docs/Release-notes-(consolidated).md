@@ -1,3 +1,32 @@
+## [Events](./Widgets/Events.md) 1.2.0 - February 22, 2021
+
+### Changed
+- Replaced automatic data refresh with manual refresh button
+- Updates to Portuguese translations after review
+- Improvements to exception handling and logging
+
+German translation review by Sascha
+
+
+
+
+
+
+
+
+
+Fix for Teams
+
+
+
+
+
+
+
+
+
+Added GitVersion.yml to /
+
 ## [Apps](./Widgets/Apps.md) 1.2.0 - February 04, 2021
 
 ### Changed
