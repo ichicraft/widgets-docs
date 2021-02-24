@@ -1,3 +1,7 @@
+## [People Search](./Widgets/People Search.md) 0.1.0 - February 24, 2021
+
+Initial release
+
 ## [Widget Board](./Widget Board.md) 1.8.0 - February 24, 2021
 
 ### Added
