@@ -1,4 +1,4 @@
-## [Saved for Later](./Widgets/Saved for Later.md) 0.1.0 - February 25, 2021
+## [Saved for Later](./Widgets/Saved for Later.md) 1.0.0 - February 25, 2021
 
 Initial release
 
