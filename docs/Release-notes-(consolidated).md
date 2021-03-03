@@ -1,3 +1,8 @@
+## [People Search](./Widgets/People Search.md) 1.1.0 - March 03, 2021
+
+### Fixed
+- Added missing API permission People.Read for Microsoft Graph
+
 ## [Saved for Later](./Widgets/Saved for Later.md) 1.0.0 - February 25, 2021
 
 Initial release
