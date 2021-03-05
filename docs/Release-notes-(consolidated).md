@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.10.0 - March 05, 2021
+
+### Fixed
+- Fixed an issue with z-indexes being too high for widget elements, causing stacking issues with new App Bar in SharePoint
+
 ## [Widget Board](./Widget Board.md) 1.9.0 - March 05, 2021
 
 ### Fixed
