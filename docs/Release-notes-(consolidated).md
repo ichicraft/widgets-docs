@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.9.0 - March 05, 2021
+
+### Fixed
+- Hotfixed an issue that could occur in browsers that don&#x27;t support customElements
+
 ## [People Search](./Widgets/People Search.md) 1.1.0 - March 03, 2021
 
 ### Fixed
