@@ -1,4 +1,4 @@
-## [Embed](./Widgets/Embed.md) 0.1.0 - March 08, 2021
+## [Embed](./Widgets/Embed.md) 1.0.0 - March 08, 2021
 
 Initial release
 
