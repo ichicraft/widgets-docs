@@ -1,3 +1,7 @@
+## [Embed](./Widgets/Embed.md) 0.1.0 - March 08, 2021
+
+Initial release
+
 ## [Widget Board](./Widget Board.md) 1.10.0 - March 05, 2021
 
 ### Fixed
