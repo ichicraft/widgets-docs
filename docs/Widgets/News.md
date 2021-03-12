@@ -11,27 +11,5 @@
 ### Fixed
 - Minor bug where essential/pushed sites were in some scenarios also rendered as followed sites in user config
 
-German translation review by Sascha
-
-
-
-Added fix for carousel css
-
-
-
-
-
-
-
-Removed BETA label
-
-
-
-
-
-
-
-
-
 ## 1.0.0 - March 16, 2020
 Initial release

@@ -2,7 +2,7 @@
 
 ### Added
 - Support for Multi-Geo tenants
-- Support for mult-language content
+- Support for multi-language content
 
 ### Changed
 - Improved error handling and exception logging
@@ -10,28 +10,6 @@
 
 ### Fixed
 - Minor bug where essential/pushed sites were in some scenarios also rendered as followed sites in user config
-
-German translation review by Sascha
-
-
-
-Added fix for carousel css
-
-
-
-
-
-
-
-Removed BETA label
-
-
-
-
-
-
-
-
 
 ## [Embed](./Widgets/Embed.md) 1.0.0 - March 08, 2021
 
