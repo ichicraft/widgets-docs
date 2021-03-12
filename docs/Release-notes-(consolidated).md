@@ -1,3 +1,8 @@
+## [Events](./Widgets/Events.md) 1.3.0 - March 12, 2021
+
+### Added
+- Support for Multi-Geo tenants
+
 ## [News](./Widgets/News.md) 1.3.0 - March 12, 2021
 
 ### Fixed
