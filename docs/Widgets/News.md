@@ -1,3 +1,8 @@
+## 1.3.0 - March 12, 2021
+
+### Fixed
+- Fixed a bug where opening items from other domains (in multi-geo setup) in a dialog resulted in an error
+
 ## 1.2.0 - March 12, 2021
 
 ### Added
