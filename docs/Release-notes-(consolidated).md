@@ -1,3 +1,15 @@
+## [Inbox](./Widgets/Inbox.md) 1.1.0 - March 23, 2021
+
+### Changed
+- Clicking the widget title now opens Outlook in new window
+- Some minor updates to text labels/translations
+
+
+
+Added French and Portuguese
+
+Style improvements
+
 ## [Events](./Widgets/Events.md) 1.3.0 - March 12, 2021
 
 ### Added
