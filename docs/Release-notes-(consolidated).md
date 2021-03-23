@@ -1,3 +1,18 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.2.0 - March 23, 2021
+
+### Fixed
+- Bug where timezones weren&#x27;t taken into consideration correctly in displaying birthdays
+
+
+
+
+
+
+
+
+
+
+
 ## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.2.0 - March 23, 2021
 
 ### Added
