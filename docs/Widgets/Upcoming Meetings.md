@@ -12,14 +12,5 @@
 ### Fixed
 - Bug where masked private events sometimes did show details
 
-
-German translation review by Sascha
-
-
-
-
-
-
-
 ## 1.0.0 - March 6, 2020
 Initial release
