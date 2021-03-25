@@ -9,7 +9,7 @@
 
 ### Fixed
 - A bug where sometimes the widget board stays empty when user&#x27;s groups failed loading
-- A bug where a notifi
+- A bug where a notification could grow beyond the board header's max width
 
 ## 1.10.0 - March 05, 2021
 
