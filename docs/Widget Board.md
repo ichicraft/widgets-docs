@@ -1,3 +1,16 @@
+## 1.11.0 - March 25, 2021
+
+### Added
+- Option to use a 6 column layout in SharePoint on high resolution screens
+
+### Changed
+- Improved initialization of widget board with optional retries for service calls that sometimes fail
+- Improved handling of user resetting his/her board by clearing all cache items
+
+### Fixed
+- A bug where sometimes the widget board stays empty when user&#x27;s groups failed loading
+- A bug where a notifi
+
 ## 1.10.0 - March 05, 2021
 
 ### Fixed
