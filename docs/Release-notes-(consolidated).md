@@ -1,3 +1,14 @@
+## [People Search](./Widgets/People Search.md) 1.2.0 - April 02, 2021
+
+### Added
+- The ability to include other user properties in the search so you can also search in job title and deparment details
+
+### Fixed
+- A bug where people results only included people close to the user doing the search. We now include the entire organization
+
+### Removed
+- We had to remove the ability to include external users since we now depend on a different endpoint in MS Graph to search
+
 ## [Widget Board](./Widget Board.md) 1.11.0 - March 25, 2021
 
 ### Added
