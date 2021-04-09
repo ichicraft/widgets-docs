@@ -1,3 +1,12 @@
+## 1.12.0 - April 09, 2021
+
+### Changed
+- Various improvements to initialization of widget board (lower timeout, auto refresh once on error, etc.)
+- New visualization of fatal error, introducing retry button and admin panel button
+
+### Fixed
+- A bug where the indicator of missing API permissions was no longer visible in admin panel
+
 ## 1.11.0 - March 25, 2021
 
 ### Added
