@@ -1,3 +1,8 @@
+## 1.3.0 - April 19, 2021
+
+### Fixed
+- Fixed an issue where for some person results the fly-out wouldn&#x27;t render
+
 ## 1.2.0 - April 02, 2021
 
 ### Added

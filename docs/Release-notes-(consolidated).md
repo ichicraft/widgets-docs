@@ -1,3 +1,8 @@
+## [People Search](./Widgets/People Search.md) 1.3.0 - April 19, 2021
+
+### Fixed
+- Fixed an issue where for some person results the fly-out wouldn&#x27;t render
+
 ## [Saved for Later](./Widgets/Saved for Later.md) 1.1.0 - April 19, 2021
 
 ### Fixed
