@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.4.0 - April 19, 2021
+
+### Fixed
+- Fixed a bug where news articles wouldn&#x27;t open in a dialog in MS Viva Connections
+
 ## [Widget Board](./Widget Board.md) 1.13.0 - April 13, 2021
 
 ### Fixed

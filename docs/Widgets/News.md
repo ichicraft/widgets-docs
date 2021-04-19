@@ -1,3 +1,8 @@
+## 1.4.0 - April 19, 2021
+
+### Fixed
+- Fixed a bug where news articles wouldn&#x27;t open in a dialog in MS Viva Connections
+
 ## 1.3.0 - March 12, 2021
 
 ### Fixed
