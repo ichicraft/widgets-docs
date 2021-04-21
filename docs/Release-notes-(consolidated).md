@@ -1,3 +1,10 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.4.0 - April 21, 2021
+
+### Fixed
+- A bug where for some feeds, images could not be loaded
+- A bug where for some feeds, the publication date of items wasn&#x27;t interpreted correctly
+- A situation where for failing feeds, the widget kept showing a spinner
+
 ## [People Search](./Widgets/People Search.md) 1.3.0 - April 19, 2021
 
 ### Fixed
