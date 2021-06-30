@@ -4,18 +4,6 @@
 - Implementation of logging functionality
 - Updates to Portuguese resources
 
-German translation review by Sascha
-
-
-
-Style fixes
-
-Fix links for teams
-
-Removed legacy props &amp; images, added Norwegian
-
-
-
 ## [Power BI](./Widgets/Power BI.md) 1.3.0 - June 04, 2021
 
 ### Added
