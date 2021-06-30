@@ -1,7 +1,8 @@
 site_name: Ichicraft Widgets - Release Notes
+site_url: https://ichicraft.github.io/widgets-docs/
 theme:
-  name: material
-  logo: images/logo.png
-  favicon: images/favicon.png
+    name: material
+    logo: images/logo.png
+    favicon: images/favicon.png
 extra_css:
-  - styles/extra.css
+    - styles/extra.css
