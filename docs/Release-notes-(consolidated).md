@@ -1,3 +1,8 @@
+## [OneDrive](./Widgets/OneDrive.md) 1.3.0 - June 30, 2021
+
+### Fixed 
+- An issue where a missing webDavUrl property can result in an exception in the widget
+
 ## [OneDrive](./Widgets/OneDrive.md) 1.2.0 - June 30, 2021
 
 ### Changed
