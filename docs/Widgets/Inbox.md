@@ -1,3 +1,14 @@
+## 1.2.0 - July 07, 2021
+
+### Added
+- Users can now use the widget for shared mailboxes
+- Users can now configure the display density of the widget (options are Full, Medium and Compact)
+- Users can now configure whether they want a notification/summary in the welcome box for unread messages
+- Widget can now span 2 columns instead of only 1
+
+### Changed
+- Improved display of unread messages for better readability
+
 ## 1.1.0 - March 23, 2021
 
 ### Changed

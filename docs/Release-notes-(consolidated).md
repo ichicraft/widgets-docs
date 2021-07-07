@@ -1,3 +1,14 @@
+## [Inbox](./Widgets/Inbox.md) 1.2.0 - July 07, 2021
+
+### Added
+- Users can now use the widget for shared mailboxes
+- Users can now configure the display density of the widget (options are Full, Medium and Compact)
+- Users can now configure whether they want a notification/summary in the welcome box for unread messages
+- Widget can now span 2 columns instead of only 1
+
+### Changed
+- Improved display of unread messages for better readability
+
 ## [OneDrive](./Widgets/OneDrive.md) 1.4.0 - June 30, 2021
 
 
