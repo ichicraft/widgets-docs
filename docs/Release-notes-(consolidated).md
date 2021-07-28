@@ -1,3 +1,11 @@
+## [Widget Board](./Widget Board.md) 1.14.0 - July 28, 2021
+
+### Added
+- All new Board Template editing experience
+
+### Changed
+- Minor update to Portuguese resources
+
 ## [Inbox](./Widgets/Inbox.md) 1.2.0 - July 07, 2021
 
 ### Added

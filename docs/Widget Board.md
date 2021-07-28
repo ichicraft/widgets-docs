@@ -1,3 +1,11 @@
+## 1.14.0 - July 28, 2021
+
+### Added
+- All new Board Template editing experience
+
+### Changed
+- Minor update to Portuguese resources
+
 ## 1.13.0 - April 13, 2021
 
 ### Fixed
