@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.5.0 - August 25, 2021
+
+### Updated
+- Improved search experience when adding sites to configured source sites
+
 ## [Widget Board](./Widget Board.md) 1.14.0 - July 28, 2021
 
 ### Added
