@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.15.0 - August 26, 2021
+
+### Fixed
+- A bug where the main user board layout gets messed up when an extra board is edited
+
 ## [News](./Widgets/News.md) 1.5.0 - August 25, 2021
 
 ### Updated

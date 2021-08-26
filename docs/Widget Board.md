@@ -1,3 +1,8 @@
+## 1.15.0 - August 26, 2021
+
+### Fixed
+- A bug where the main user board layout gets messed up when an extra board is edited
+
 ## 1.14.0 - July 28, 2021
 
 ### Added
