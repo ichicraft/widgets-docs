@@ -1,3 +1,12 @@
+## [Events](./Widgets/Events.md) 1.4.0 - September 01, 2021
+
+### Changed
+- Improved query and search result sorting to always include only most relevant events
+
+### Fixed
+- A bug where upcoming events appeared to be missing in some cases where more than 100 items matched the search query
+- A bug where events that were created over 2 months ago, were missing in the results
+
 ## [Widget Board](./Widget Board.md) 1.15.0 - August 26, 2021
 
 ### Fixed
