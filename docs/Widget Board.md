@@ -1,3 +1,9 @@
+## 1.16.0 - September 15, 2021
+
+### Added
+- New options in the so called &#x27;pushed widget&#x27; feature: it&#x27;s now possible to define if a pushed widget is _deletable_, _movable_ or _resizable_ by the user.
+- An optional toggle in &#x27;board template&#x27; feature to disable strict audience mismatch warnings
+
 ## 1.15.0 - August 26, 2021
 
 ### Fixed
