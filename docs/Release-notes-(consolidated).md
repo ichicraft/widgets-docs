@@ -1,3 +1,5 @@
+## [Inbox](./Widgets/Inbox.md) 1.3.0 - September 24, 2021
+
 ## [Widget Board](./Widget Board.md) 1.16.0 - September 15, 2021
 
 ### Added
