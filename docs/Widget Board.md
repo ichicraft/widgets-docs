@@ -1,3 +1,27 @@
+## 1.17.0 - October 07, 2021
+
+### Changed
+- This version of the widget board supports V2 widget manifests. V2 introduces &#x27;externals&#x27;, allowing async loading and sharing of modules/libraries among widgets. Make sure you upgrade your widgets using [this wiki page](https://github.com/ichicraft/widgets-docs/wiki/Migrate-widget-to-Manifest-V2) to benefit from these optimizations.
+
+## 1.16.0 - September 15, 2021
+
+### Added
+- New options in the so called &#x27;pushed widget&#x27; feature: it&#x27;s now possible to define if a pushed widget is _deletable_, _movable_ or _resizable_ by the user.
+- An optional toggle in &#x27;board template&#x27; feature to disable strict audience mismatch warnings
+
+## 1.15.0 - August 26, 2021
+
+### Fixed
+- A bug where the main user board layout gets messed up when an extra board is edited
+
+## 1.14.0 - July 28, 2021
+
+### Added
+- All new Board Template editing experience
+
+### Changed
+- Minor update to Portuguese resources
+
 ## 1.13.0 - April 13, 2021
 
 ### Fixed

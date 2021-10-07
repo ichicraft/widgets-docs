@@ -1,3 +1,71 @@
+## [Inbox](./Widgets/Inbox.md) 1.4.0 - October 07, 2021
+
+### Changed
+- &#x60;87%&#x60; optimization in bundle size due to use of external modules
+- Upgraded underlying Fluent UI component library from version 7 to 8
+
+
+## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.3.0 - October 07, 2021
+
+### Changed
+- &#x60;85%&#x60; optimization in bundle size due to use of external modules
+- Upgraded underlying Fluent UI component library from version 7 to 8
+
+## [Widget Board](./Widget Board.md) 1.17.0 - October 07, 2021
+
+### Changed
+- This version of the widget board supports V2 widget manifests. V2 introduces &#x27;externals&#x27;, allowing async loading and sharing of modules/libraries among widgets. Make sure you upgrade your widgets using [this wiki page](https://github.com/ichicraft/widgets-docs/wiki/Migrate-widget-to-Manifest-V2) to benefit from these optimizations.
+
+## [Inbox](./Widgets/Inbox.md) 1.3.0 - September 24, 2021
+
+## [Widget Board](./Widget Board.md) 1.16.0 - September 15, 2021
+
+### Added
+- New options in the so called &#x27;pushed widget&#x27; feature: it&#x27;s now possible to define if a pushed widget is _deletable_, _movable_ or _resizable_ by the user.
+- An optional toggle in &#x27;board template&#x27; feature to disable strict audience mismatch warnings
+
+## [Events](./Widgets/Events.md) 1.4.0 - September 01, 2021
+
+### Changed
+- Improved query and search result sorting to always include only most relevant events
+
+### Fixed
+- A bug where upcoming events appeared to be missing in some cases where more than 100 items matched the search query
+- A bug where events that were created over 2 months ago, were missing in the results
+
+## [Widget Board](./Widget Board.md) 1.15.0 - August 26, 2021
+
+### Fixed
+- A bug where the main user board layout gets messed up when an extra board is edited
+
+## [News](./Widgets/News.md) 1.5.0 - August 25, 2021
+
+### Updated
+- Improved search experience when adding sites to configured source sites
+
+## [Widget Board](./Widget Board.md) 1.14.0 - July 28, 2021
+
+### Added
+- All new Board Template editing experience
+
+### Changed
+- Minor update to Portuguese resources
+
+## [Inbox](./Widgets/Inbox.md) 1.2.0 - July 07, 2021
+
+### Added
+- Users can now use the widget for shared mailboxes
+- Users can now configure the display density of the widget (options are Full, Medium and Compact)
+- Users can now configure whether they want a notification/summary in the welcome box for unread messages
+- Widget can now span 2 columns instead of only 1
+
+### Changed
+- Improved display of unread messages for better readability
+
+## [OneDrive](./Widgets/OneDrive.md) 1.4.0 - June 30, 2021
+
+
+
 ## [OneDrive](./Widgets/OneDrive.md) 1.3.0 - June 30, 2021
 
 ### Fixed 

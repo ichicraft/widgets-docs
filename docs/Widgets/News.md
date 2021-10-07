@@ -1,3 +1,8 @@
+## 1.5.0 - August 25, 2021
+
+### Updated
+- Improved search experience when adding sites to configured source sites
+
 ## 1.4.0 - April 19, 2021
 
 ### Fixed
