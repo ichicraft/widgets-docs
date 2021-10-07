@@ -1,3 +1,9 @@
+## [Events](./Widgets/Events.md) 1.5.0 - October 07, 2021
+
+### Changed
+- &#x60;87%&#x60; optimization in bundle size due to use of external modules
+- Upgraded underlying Fluent UI component library from version 7 to 8
+
 ## [Followed Sites](./Widgets/Followed Sites.md) 1.2.0 - October 07, 2021
 
 ### Changed
