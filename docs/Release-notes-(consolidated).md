@@ -1,3 +1,5 @@
+## [Bookmarks](./Widgets/Bookmarks.md)  - October 07, 2021
+
 ## [Power BI](./Widgets/Power BI.md) 1.4.0 - October 07, 2021
 
 ### Changed
