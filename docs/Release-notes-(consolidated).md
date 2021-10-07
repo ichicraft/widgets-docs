@@ -1,3 +1,13 @@
+## [Teams](./Widgets/Teams.md) 1.2.0 - October 07, 2021
+
+### Changed
+- &#x60;72%&#x60; optimization in bundle size due to use of external modules
+- Upgraded underlying Fluent UI component library from version 7 to 8
+
+Added French and Portuguese
+
+
+
 ## [Embed](./Widgets/Embed.md) 1.1.0 - October 07, 2021
 
 ### Changed
