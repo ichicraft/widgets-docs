@@ -4,7 +4,7 @@
 }
 
 .md-nav__title .md-nav__button.md-logo img,
-.md-header-nav__button.md-logo img {
+.md-header__button.md-logo img {
     width: auto;
     height: auto;
     fill: none;
