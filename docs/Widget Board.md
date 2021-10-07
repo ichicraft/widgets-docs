@@ -25,7 +25,7 @@
 ## 1.13.0 - April 13, 2021
 
 ### Fixed
-- Hopefully solved an issue where in rare cases the &#x60;pageContext&#x60; property of the web part context is &#x60;undefined&#x60;
+- Hopefully solved an issue where in rare cases the `pageContext` property of the web part context is `undefined`
 
 ## 1.12.0 - April 09, 2021
 

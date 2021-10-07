@@ -1,134 +1,91 @@
 ## [Apps](./Widgets/Apps.md) 1.3.0 - October 07, 2021
 
 ### Changed
-- &#x60;85%&#x60; optimization in bundle size due to use of external modules
+- `85%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
 
 ## [Birthdays](./Widgets/Birthdays.md) 1.3.0 - October 07, 2021
 
 ### Changed
-- &#x60;65%&#x60; optimization in bundle size due to use of external modules
+- `65%` optimization in bundle size due to use of external module`s
 - Upgraded underlying Fluent UI component library from version 7 to 8
 
 ## [Teams](./Widgets/Teams.md) 1.2.0 - October 07, 2021
 
 ### Changed
-- &#x60;72%&#x60; optimization in bundle size due to use of external modules
+- `72%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
-
-Added French and Portuguese
-
-
 
 ## [Embed](./Widgets/Embed.md) 1.1.0 - October 07, 2021
 
 ### Changed
-- &#x60;90%&#x60; optimization in bundle size due to use of external modules
+- `90%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
 
 ## [Events](./Widgets/Events.md) 1.5.0 - October 07, 2021
 
 ### Changed
-- &#x60;87%&#x60; optimization in bundle size due to use of external modules
+- `87%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
 
 ## [Followed Sites](./Widgets/Followed Sites.md) 1.2.0 - October 07, 2021
 
 ### Changed
-- &#x60;37%&#x60; optimization in bundle size due to use of external modules
+- `37%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
-
-German translation review by Sascha
-
-Added French and Portuguese
-
-Style fixes
-
-
-
-Fixed for Teams
-
-Removed legacy props &amp; images, added Norwegian
-
-
-
-
 
 ## [OneDrive](./Widgets/OneDrive.md) 1.5.0 - October 07, 2021
 
 ### Changed
-- &#x60;41%&#x60; optimization in bundle size due to use of external modules
+- `41%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
-
-## [Bookmarks](./Widgets/Bookmarks.md)  - October 07, 2021
 
 ## [Power BI](./Widgets/Power BI.md) 1.4.0 - October 07, 2021
 
 ### Changed
-- &#x60;84%&#x60; optimization in bundle size due to use of external modules
+- `84%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
 
 ## [External Feeds](./Widgets/External Feeds.md) 1.5.0 - October 07, 2021
 
 ### Changed
-- &#x60;70%&#x60; optimization in bundle size due to use of external modules
+- `70%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
 
 ## [Tasks](./Widgets/Tasks.md) 1.3.0 - October 07, 2021
 
 ### Changed
-- &#x60;81%&#x60; optimization in bundle size due to use of external modules
+- `81%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
-
-German translation review by Sascha
-
-
-
-
-
-
-
-
-
-Added Norqwgian, removed legacy props
-
-
 
 ## [Tableau Reports](./Widgets/Tableau Reports.md) 1.1.0 - October 07, 2021
 
 ### Changed
-- &#x60;82%&#x60; optimization in bundle size due to use of external modules
+- `82%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
-
-
-
-
-
-
 
 ## [News](./Widgets/News.md) 1.6.0 - October 07, 2021
 
 ### Changed
-- &#x60;72%&#x60; optimization in bundle size due to use of external modules
+- `72%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
 
 ## [People Search](./Widgets/People Search.md) 1.4.0 - October 07, 2021
 
 ### Changed
-- &#x60;61%&#x60; optimization in bundle size due to use of external modules
+- `61%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
 
 ## [Inbox](./Widgets/Inbox.md) 1.4.0 - October 07, 2021
 
 ### Changed
-- &#x60;87%&#x60; optimization in bundle size due to use of external modules
+- `87%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
-
 
 ## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.3.0 - October 07, 2021
 
 ### Changed
-- &#x60;85%&#x60; optimization in bundle size due to use of external modules
+- `85%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
 
 ## [Widget Board](./Widget Board.md) 1.17.0 - October 07, 2021
@@ -230,7 +187,7 @@ Added Norqwgian, removed legacy props
 ## [Widget Board](./Widget Board.md) 1.13.0 - April 13, 2021
 
 ### Fixed
-- Hopefully solved an issue where in rare cases the &#x60;pageContext&#x60; property of the web part context is &#x60;undefined&#x60;
+- Hopefully solved an issue where in rare cases the `pageContext` property of the web part context is `undefined`
 
 ## [Widget Board](./Widget Board.md) 1.12.0 - April 09, 2021
 

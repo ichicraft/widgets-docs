@@ -1,9 +1,8 @@
 ## 1.4.0 - October 07, 2021
 
 ### Changed
-- &#x60;87%&#x60; optimization in bundle size due to use of external modules
+- `87%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
-
 
 ## 1.3.0 - September 24, 2021
 
