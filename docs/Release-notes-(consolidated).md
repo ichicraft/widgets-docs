@@ -1,3 +1,23 @@
+## [Tasks](./Widgets/Tasks.md) 1.3.0 - October 07, 2021
+
+### Changed
+- &#x60;81%&#x60; optimization in bundle size due to use of external modules
+- Upgraded underlying Fluent UI component library from version 7 to 8
+
+German translation review by Sascha
+
+
+
+
+
+
+
+
+
+Added Norqwgian, removed legacy props
+
+
+
 ## [Tableau Reports](./Widgets/Tableau Reports.md) 1.1.0 - October 07, 2021
 
 ### Changed
