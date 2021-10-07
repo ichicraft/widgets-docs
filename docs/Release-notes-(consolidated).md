@@ -1,3 +1,9 @@
+## [Saved for Later](./Widgets/Saved for Later.md) 1.2.0 - October 07, 2021
+
+### Changed
+- &#x60;82%&#x60; optimization in bundle size due to use of external modules
+- Upgraded underlying Fluent UI component library from version 7 to 8
+
 ## [Apps](./Widgets/Apps.md) 1.3.0 - October 07, 2021
 
 ### Changed
