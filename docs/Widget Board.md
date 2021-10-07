@@ -1,3 +1,8 @@
+## 1.17.0 - October 07, 2021
+
+### Changed
+- This version of the widget board supports V2 widget manifests. V2 introduces &#x27;externals&#x27;, allowing async loading and sharing of modules/libraries among widgets. Make sure you upgrade your widgets using [this wiki page](https://github.com/ichicraft/widgets-docs/wiki/Migrate-widget-to-Manifest-V2) to benefit from these optimizations.
+
 ## 1.16.0 - September 15, 2021
 
 ### Added

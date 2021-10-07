@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.17.0 - October 07, 2021
+
+### Changed
+- This version of the widget board supports V2 widget manifests. V2 introduces &#x27;externals&#x27;, allowing async loading and sharing of modules/libraries among widgets. Make sure you upgrade your widgets using [this wiki page](https://github.com/ichicraft/widgets-docs/wiki/Migrate-widget-to-Manifest-V2) to benefit from these optimizations.
+
 ## [Inbox](./Widgets/Inbox.md) 1.3.0 - September 24, 2021
 
 ## [Widget Board](./Widget Board.md) 1.16.0 - September 15, 2021
