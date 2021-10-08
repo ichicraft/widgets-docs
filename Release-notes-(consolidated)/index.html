@@ -11,8 +11,8 @@
       
         <link rel="canonical" href="https://ichicraft.github.io/widgets-docs/Release-notes-%28consolidated%29/">
       
-      <link rel="shortcut icon" href="../images/favicon.png">
-      <meta name="generator" content="mkdocs-1.1, mkdocs-material-6.2.6">
+      <link rel="icon" href="../images/favicon.png">
+      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.3.2">
     
     
       
@@ -20,10 +20,10 @@
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.cb6bc1d0.min.css">
+      <link rel="stylesheet" href="../assets/stylesheets/main.24c991ad.min.css">
       
         
-        <link rel="stylesheet" href="../assets/stylesheets/palette.39b8e14a.min.css">
+        <link rel="stylesheet" href="../assets/stylesheets/palette.3f5d1f46.min.css">
         
       
     
@@ -33,7 +33,7 @@
         
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
-        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
       
     
     
@@ -42,6 +42,8 @@
     
     
       
+
+
     
     
   </head>
@@ -53,8 +55,9 @@
     
     
     <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
-      
   
+    
+    <script>function __prefix(e){return new URL("..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -62,7 +65,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#saved-for-later-120-october-07-2021" class="md-skip">
+        <a href="#bookmarks-130-october-08-2021" class="md-skip">
           Skip to content
         </a>
       
@@ -74,23 +77,23 @@
       
 
 <header class="md-header" data-md-component="header">
-  <nav class="md-header-nav md-grid" aria-label="Header">
-    <a href="https://ichicraft.github.io/widgets-docs/" title="Ichicraft Boards - Release Notes" class="md-header-nav__button md-logo" aria-label="Ichicraft Boards - Release Notes">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Ichicraft Boards - Release Notes" class="md-header__button md-logo" aria-label="Ichicraft Boards - Release Notes" data-md-component="logo">
       
   <img src="../images/logo.png" alt="logo">
 
     </a>
-    <label class="md-header-nav__button md-icon" for="__drawer">
+    <label class="md-header__button md-icon" for="__drawer">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
     </label>
-    <div class="md-header-nav__title" data-md-component="header-title">
-      <div class="md-header-nav__ellipsis">
-        <div class="md-header-nav__topic">
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
           <span class="md-ellipsis">
             Ichicraft Boards - Release Notes
           </span>
         </div>
-        <div class="md-header-nav__topic">
+        <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
               Release notes (consolidated)
@@ -100,22 +103,28 @@
       </div>
     </div>
     
-      <label class="md-header-nav__button md-icon" for="__search">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
       </label>
       
 <div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
     <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
       <label class="md-search__icon md-icon" for="__search">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
       </label>
-      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
-      </button>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
     </form>
     <div class="md-search__output">
       <div class="md-search__scrollwrap" data-md-scrollfix>
@@ -132,11 +141,14 @@
     
     
   </nav>
+  
 </header>
     
     <div class="md-container" data-md-component="container">
       
       
+        
+          
         
       
       <main class="md-main" data-md-component="main">
@@ -144,17 +156,15 @@
           
             
               
-              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation" >
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
 
 
-
-
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="https://ichicraft.github.io/widgets-docs/" title="Ichicraft Boards - Release Notes" class="md-nav__button md-logo" aria-label="Ichicraft Boards - Release Notes">
+    <a href=".." title="Ichicraft Boards - Release Notes" class="md-nav__button md-logo" aria-label="Ichicraft Boards - Release Notes" data-md-component="logo">
       
   <img src="../images/logo.png" alt="logo">
 
@@ -193,6 +203,7 @@
       <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
       
       
+      
         <label class="md-nav__link md-nav__link--active" for="__toc">
           Release notes (consolidated)
           <span class="md-nav__icon md-icon"></span>
@@ -207,11 +218,32 @@
   
   
   
+  
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
       Table of contents
     </label>
-    <ul class="md-nav__list" data-md-scrollfix>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#bookmarks-130-october-08-2021" class="md-nav__link">
+    Bookmarks 1.3.0 - October 08, 2021
+  </a>
+  
+    <nav class="md-nav" aria-label="Bookmarks 1.3.0 - October 08, 2021">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#changed" class="md-nav__link">
+    Changed
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
       
         <li class="md-nav__item">
   <a href="#saved-for-later-120-october-07-2021" class="md-nav__link">
@@ -222,7 +254,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed" class="md-nav__link">
+  <a href="#changed_1" class="md-nav__link">
     Changed
   </a>
   
@@ -242,7 +274,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_1" class="md-nav__link">
+  <a href="#changed_2" class="md-nav__link">
     Changed
   </a>
   
@@ -262,7 +294,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_2" class="md-nav__link">
+  <a href="#changed_3" class="md-nav__link">
     Changed
   </a>
   
@@ -282,7 +314,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_3" class="md-nav__link">
+  <a href="#changed_4" class="md-nav__link">
     Changed
   </a>
   
@@ -302,7 +334,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_4" class="md-nav__link">
+  <a href="#changed_5" class="md-nav__link">
     Changed
   </a>
   
@@ -322,7 +354,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_5" class="md-nav__link">
+  <a href="#changed_6" class="md-nav__link">
     Changed
   </a>
   
@@ -342,7 +374,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_6" class="md-nav__link">
+  <a href="#changed_7" class="md-nav__link">
     Changed
   </a>
   
@@ -362,7 +394,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_7" class="md-nav__link">
+  <a href="#changed_8" class="md-nav__link">
     Changed
   </a>
   
@@ -382,7 +414,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_8" class="md-nav__link">
+  <a href="#changed_9" class="md-nav__link">
     Changed
   </a>
   
@@ -402,7 +434,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_9" class="md-nav__link">
+  <a href="#changed_10" class="md-nav__link">
     Changed
   </a>
   
@@ -422,7 +454,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_10" class="md-nav__link">
+  <a href="#changed_11" class="md-nav__link">
     Changed
   </a>
   
@@ -442,7 +474,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_11" class="md-nav__link">
+  <a href="#changed_12" class="md-nav__link">
     Changed
   </a>
   
@@ -462,7 +494,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_12" class="md-nav__link">
+  <a href="#changed_13" class="md-nav__link">
     Changed
   </a>
   
@@ -482,7 +514,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_13" class="md-nav__link">
+  <a href="#changed_14" class="md-nav__link">
     Changed
   </a>
   
@@ -502,7 +534,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_14" class="md-nav__link">
+  <a href="#changed_15" class="md-nav__link">
     Changed
   </a>
   
@@ -522,7 +554,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_15" class="md-nav__link">
+  <a href="#changed_16" class="md-nav__link">
     Changed
   </a>
   
@@ -542,7 +574,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_16" class="md-nav__link">
+  <a href="#changed_17" class="md-nav__link">
     Changed
   </a>
   
@@ -589,7 +621,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_17" class="md-nav__link">
+  <a href="#changed_18" class="md-nav__link">
     Changed
   </a>
   
@@ -663,7 +695,7 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#changed_18" class="md-nav__link">
+  <a href="#changed_19" class="md-nav__link">
     Changed
   </a>
   
@@ -690,7 +722,7 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#changed_19" class="md-nav__link">
+  <a href="#changed_20" class="md-nav__link">
     Changed
   </a>
   
@@ -737,7 +769,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_20" class="md-nav__link">
+  <a href="#changed_21" class="md-nav__link">
     Changed
   </a>
   
@@ -764,7 +796,7 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#changed_21" class="md-nav__link">
+  <a href="#changed_22" class="md-nav__link">
     Changed
   </a>
   
@@ -884,7 +916,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_22" class="md-nav__link">
+  <a href="#changed_23" class="md-nav__link">
     Changed
   </a>
   
@@ -952,7 +984,7 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#changed_23" class="md-nav__link">
+  <a href="#changed_24" class="md-nav__link">
     Changed
   </a>
   
@@ -1006,7 +1038,7 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#changed_24" class="md-nav__link">
+  <a href="#changed_25" class="md-nav__link">
     Changed
   </a>
   
@@ -1033,7 +1065,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_25" class="md-nav__link">
+  <a href="#changed_26" class="md-nav__link">
     Changed
   </a>
   
@@ -1100,7 +1132,7 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#changed_26" class="md-nav__link">
+  <a href="#changed_27" class="md-nav__link">
     Changed
   </a>
   
@@ -1215,7 +1247,7 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#changed_27" class="md-nav__link">
+  <a href="#changed_28" class="md-nav__link">
     Changed
   </a>
   
@@ -1242,7 +1274,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_28" class="md-nav__link">
+  <a href="#changed_29" class="md-nav__link">
     Changed
   </a>
   
@@ -1262,7 +1294,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_29" class="md-nav__link">
+  <a href="#changed_30" class="md-nav__link">
     Changed
   </a>
   
@@ -1282,7 +1314,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_30" class="md-nav__link">
+  <a href="#changed_31" class="md-nav__link">
     Changed
   </a>
   
@@ -1309,7 +1341,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_31" class="md-nav__link">
+  <a href="#changed_32" class="md-nav__link">
     Changed
   </a>
   
@@ -1329,7 +1361,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_32" class="md-nav__link">
+  <a href="#changed_33" class="md-nav__link">
     Changed
   </a>
   
@@ -1363,7 +1395,7 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#changed_33" class="md-nav__link">
+  <a href="#changed_34" class="md-nav__link">
     Changed
   </a>
   
@@ -1408,21 +1440,25 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
       
-      <label class="md-nav__link" for="nav-4">
-        Widgets
-        <span class="md-nav__icon md-icon"></span>
-      </label>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Widgets
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <nav class="md-nav" aria-label="Widgets" data-md-level="1">
-        <label class="md-nav__title" for="nav-4">
+        <label class="md-nav__title" for="__nav_4">
           <span class="md-nav__icon md-icon"></span>
           Widgets
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
           
-          
             
+              
   
   
   
@@ -1433,8 +1469,10 @@
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -1445,8 +1483,10 @@
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -1457,8 +1497,10 @@
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -1469,8 +1511,10 @@
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -1481,8 +1525,10 @@
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -1493,8 +1539,10 @@
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -1505,8 +1553,10 @@
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -1517,8 +1567,10 @@
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -1529,8 +1581,10 @@
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -1541,8 +1595,10 @@
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -1553,8 +1609,10 @@
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -1565,8 +1623,10 @@
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -1577,8 +1637,10 @@
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -1589,8 +1651,10 @@
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -1601,8 +1665,10 @@
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -1613,8 +1679,10 @@
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -1625,6 +1693,7 @@
     </li>
   
 
+            
           
         </ul>
       </nav>
@@ -1640,7 +1709,7 @@
             
             
               
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc" >
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -1648,11 +1717,32 @@
   
   
   
+  
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
       Table of contents
     </label>
-    <ul class="md-nav__list" data-md-scrollfix>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#bookmarks-130-october-08-2021" class="md-nav__link">
+    Bookmarks 1.3.0 - October 08, 2021
+  </a>
+  
+    <nav class="md-nav" aria-label="Bookmarks 1.3.0 - October 08, 2021">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#changed" class="md-nav__link">
+    Changed
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
       
         <li class="md-nav__item">
   <a href="#saved-for-later-120-october-07-2021" class="md-nav__link">
@@ -1663,7 +1753,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed" class="md-nav__link">
+  <a href="#changed_1" class="md-nav__link">
     Changed
   </a>
   
@@ -1683,7 +1773,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_1" class="md-nav__link">
+  <a href="#changed_2" class="md-nav__link">
     Changed
   </a>
   
@@ -1703,7 +1793,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_2" class="md-nav__link">
+  <a href="#changed_3" class="md-nav__link">
     Changed
   </a>
   
@@ -1723,7 +1813,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_3" class="md-nav__link">
+  <a href="#changed_4" class="md-nav__link">
     Changed
   </a>
   
@@ -1743,7 +1833,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_4" class="md-nav__link">
+  <a href="#changed_5" class="md-nav__link">
     Changed
   </a>
   
@@ -1763,7 +1853,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_5" class="md-nav__link">
+  <a href="#changed_6" class="md-nav__link">
     Changed
   </a>
   
@@ -1783,7 +1873,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_6" class="md-nav__link">
+  <a href="#changed_7" class="md-nav__link">
     Changed
   </a>
   
@@ -1803,7 +1893,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_7" class="md-nav__link">
+  <a href="#changed_8" class="md-nav__link">
     Changed
   </a>
   
@@ -1823,7 +1913,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_8" class="md-nav__link">
+  <a href="#changed_9" class="md-nav__link">
     Changed
   </a>
   
@@ -1843,7 +1933,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_9" class="md-nav__link">
+  <a href="#changed_10" class="md-nav__link">
     Changed
   </a>
   
@@ -1863,7 +1953,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_10" class="md-nav__link">
+  <a href="#changed_11" class="md-nav__link">
     Changed
   </a>
   
@@ -1883,7 +1973,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_11" class="md-nav__link">
+  <a href="#changed_12" class="md-nav__link">
     Changed
   </a>
   
@@ -1903,7 +1993,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_12" class="md-nav__link">
+  <a href="#changed_13" class="md-nav__link">
     Changed
   </a>
   
@@ -1923,7 +2013,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_13" class="md-nav__link">
+  <a href="#changed_14" class="md-nav__link">
     Changed
   </a>
   
@@ -1943,7 +2033,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_14" class="md-nav__link">
+  <a href="#changed_15" class="md-nav__link">
     Changed
   </a>
   
@@ -1963,7 +2053,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_15" class="md-nav__link">
+  <a href="#changed_16" class="md-nav__link">
     Changed
   </a>
   
@@ -1983,7 +2073,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_16" class="md-nav__link">
+  <a href="#changed_17" class="md-nav__link">
     Changed
   </a>
   
@@ -2030,7 +2120,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_17" class="md-nav__link">
+  <a href="#changed_18" class="md-nav__link">
     Changed
   </a>
   
@@ -2104,7 +2194,7 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#changed_18" class="md-nav__link">
+  <a href="#changed_19" class="md-nav__link">
     Changed
   </a>
   
@@ -2131,7 +2221,7 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#changed_19" class="md-nav__link">
+  <a href="#changed_20" class="md-nav__link">
     Changed
   </a>
   
@@ -2178,7 +2268,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_20" class="md-nav__link">
+  <a href="#changed_21" class="md-nav__link">
     Changed
   </a>
   
@@ -2205,7 +2295,7 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#changed_21" class="md-nav__link">
+  <a href="#changed_22" class="md-nav__link">
     Changed
   </a>
   
@@ -2325,7 +2415,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_22" class="md-nav__link">
+  <a href="#changed_23" class="md-nav__link">
     Changed
   </a>
   
@@ -2393,7 +2483,7 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#changed_23" class="md-nav__link">
+  <a href="#changed_24" class="md-nav__link">
     Changed
   </a>
   
@@ -2447,7 +2537,7 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#changed_24" class="md-nav__link">
+  <a href="#changed_25" class="md-nav__link">
     Changed
   </a>
   
@@ -2474,7 +2564,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_25" class="md-nav__link">
+  <a href="#changed_26" class="md-nav__link">
     Changed
   </a>
   
@@ -2541,7 +2631,7 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#changed_26" class="md-nav__link">
+  <a href="#changed_27" class="md-nav__link">
     Changed
   </a>
   
@@ -2656,7 +2746,7 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#changed_27" class="md-nav__link">
+  <a href="#changed_28" class="md-nav__link">
     Changed
   </a>
   
@@ -2683,7 +2773,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_28" class="md-nav__link">
+  <a href="#changed_29" class="md-nav__link">
     Changed
   </a>
   
@@ -2703,7 +2793,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_29" class="md-nav__link">
+  <a href="#changed_30" class="md-nav__link">
     Changed
   </a>
   
@@ -2723,7 +2813,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_30" class="md-nav__link">
+  <a href="#changed_31" class="md-nav__link">
     Changed
   </a>
   
@@ -2750,7 +2840,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_31" class="md-nav__link">
+  <a href="#changed_32" class="md-nav__link">
     Changed
   </a>
   
@@ -2770,7 +2860,7 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#changed_32" class="md-nav__link">
+  <a href="#changed_33" class="md-nav__link">
     Changed
   </a>
   
@@ -2804,7 +2894,7 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#changed_33" class="md-nav__link">
+  <a href="#changed_34" class="md-nav__link">
     Changed
   </a>
   
@@ -2823,111 +2913,118 @@
               </div>
             
           
-          <div class="md-content">
+          <div class="md-content" data-md-component="content">
             <article class="md-content__inner md-typeset">
               
                 
                 
                   <h1>Release notes (consolidated)</h1>
                 
-                <h2 id="saved-for-later-120-october-07-2021"><a href="../Widgets/Saved%20for%20Later/">Saved for Later</a> 1.2.0 - October 07, 2021</h2>
+                <h2 id="bookmarks-130-october-08-2021"><a href="../Widgets/Bookmarks/">Bookmarks</a> 1.3.0 - October 08, 2021</h2>
 <h3 id="changed">Changed</h3>
 <ul>
-<li>&#x60;82%&#x60; optimization in bundle size due to use of external modules</li>
+<li>&#x60;95%&#x60; optimization in bundle size due to use of external modules</li>
+<li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
+</ul>
+<p>German translation review by Sascha</p>
+<h2 id="saved-for-later-120-october-07-2021"><a href="../Widgets/Saved%20for%20Later/">Saved for Later</a> 1.2.0 - October 07, 2021</h2>
+<h3 id="changed_1">Changed</h3>
+<ul>
+<li><code>82%</code> optimization in bundle size due to use of external modules</li>
 <li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
 </ul>
 <h2 id="apps-130-october-07-2021"><a href="../Widgets/Apps/">Apps</a> 1.3.0 - October 07, 2021</h2>
-<h3 id="changed_1">Changed</h3>
+<h3 id="changed_2">Changed</h3>
 <ul>
 <li><code>85%</code> optimization in bundle size due to use of external modules</li>
 <li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
 </ul>
 <h2 id="birthdays-130-october-07-2021"><a href="../Widgets/Birthdays/">Birthdays</a> 1.3.0 - October 07, 2021</h2>
-<h3 id="changed_2">Changed</h3>
+<h3 id="changed_3">Changed</h3>
 <ul>
 <li><code>65%</code> optimization in bundle size due to use of external module`s</li>
 <li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
 </ul>
 <h2 id="teams-120-october-07-2021"><a href="../Widgets/Teams/">Teams</a> 1.2.0 - October 07, 2021</h2>
-<h3 id="changed_3">Changed</h3>
+<h3 id="changed_4">Changed</h3>
 <ul>
 <li><code>72%</code> optimization in bundle size due to use of external modules</li>
 <li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
 </ul>
 <h2 id="embed-110-october-07-2021"><a href="../Widgets/Embed/">Embed</a> 1.1.0 - October 07, 2021</h2>
-<h3 id="changed_4">Changed</h3>
+<h3 id="changed_5">Changed</h3>
 <ul>
 <li><code>90%</code> optimization in bundle size due to use of external modules</li>
 <li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
 </ul>
 <h2 id="events-150-october-07-2021"><a href="../Widgets/Events/">Events</a> 1.5.0 - October 07, 2021</h2>
-<h3 id="changed_5">Changed</h3>
+<h3 id="changed_6">Changed</h3>
 <ul>
 <li><code>87%</code> optimization in bundle size due to use of external modules</li>
 <li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
 </ul>
 <h2 id="followed-sites-120-october-07-2021"><a href="../Widgets/Followed%20Sites/">Followed Sites</a> 1.2.0 - October 07, 2021</h2>
-<h3 id="changed_6">Changed</h3>
+<h3 id="changed_7">Changed</h3>
 <ul>
 <li><code>37%</code> optimization in bundle size due to use of external modules</li>
 <li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
 </ul>
 <h2 id="onedrive-150-october-07-2021"><a href="../Widgets/OneDrive/">OneDrive</a> 1.5.0 - October 07, 2021</h2>
-<h3 id="changed_7">Changed</h3>
+<h3 id="changed_8">Changed</h3>
 <ul>
 <li><code>41%</code> optimization in bundle size due to use of external modules</li>
 <li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
 </ul>
 <h2 id="power-bi-140-october-07-2021"><a href="../Widgets/Power%20BI/">Power BI</a> 1.4.0 - October 07, 2021</h2>
-<h3 id="changed_8">Changed</h3>
+<h3 id="changed_9">Changed</h3>
 <ul>
 <li><code>84%</code> optimization in bundle size due to use of external modules</li>
 <li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
 </ul>
 <h2 id="external-feeds-150-october-07-2021"><a href="../Widgets/External%20Feeds/">External Feeds</a> 1.5.0 - October 07, 2021</h2>
-<h3 id="changed_9">Changed</h3>
+<h3 id="changed_10">Changed</h3>
 <ul>
 <li><code>70%</code> optimization in bundle size due to use of external modules</li>
 <li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
 </ul>
 <h2 id="tasks-130-october-07-2021"><a href="../Widgets/Tasks/">Tasks</a> 1.3.0 - October 07, 2021</h2>
-<h3 id="changed_10">Changed</h3>
+<h3 id="changed_11">Changed</h3>
 <ul>
 <li><code>81%</code> optimization in bundle size due to use of external modules</li>
 <li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
 </ul>
 <h2 id="tableau-reports-110-october-07-2021"><a href="../Widgets/Tableau%20Reports/">Tableau Reports</a> 1.1.0 - October 07, 2021</h2>
-<h3 id="changed_11">Changed</h3>
+<h3 id="changed_12">Changed</h3>
 <ul>
 <li><code>82%</code> optimization in bundle size due to use of external modules</li>
 <li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
 </ul>
 <h2 id="news-160-october-07-2021"><a href="../Widgets/News/">News</a> 1.6.0 - October 07, 2021</h2>
-<h3 id="changed_12">Changed</h3>
+<h3 id="changed_13">Changed</h3>
 <ul>
 <li><code>72%</code> optimization in bundle size due to use of external modules</li>
 <li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
 </ul>
 <h2 id="people-search-140-october-07-2021"><a href="../Widgets/People%20Search/">People Search</a> 1.4.0 - October 07, 2021</h2>
-<h3 id="changed_13">Changed</h3>
+<h3 id="changed_14">Changed</h3>
 <ul>
 <li><code>61%</code> optimization in bundle size due to use of external modules</li>
 <li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
 </ul>
 <h2 id="inbox-140-october-07-2021"><a href="../Widgets/Inbox/">Inbox</a> 1.4.0 - October 07, 2021</h2>
-<h3 id="changed_14">Changed</h3>
+<h3 id="changed_15">Changed</h3>
 <ul>
 <li><code>87%</code> optimization in bundle size due to use of external modules</li>
 <li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
 </ul>
 <h2 id="upcoming-meetings-130-october-07-2021"><a href="../Widgets/Upcoming%20Meetings/">Upcoming Meetings</a> 1.3.0 - October 07, 2021</h2>
-<h3 id="changed_15">Changed</h3>
+<h3 id="changed_16">Changed</h3>
 <ul>
 <li><code>85%</code> optimization in bundle size due to use of external modules</li>
 <li>Upgraded underlying Fluent UI component library from version 7 to 8</li>
 </ul>
 <h2 id="widget-board-1170-october-07-2021"><a href="../Widget%20Board/">Widget Board</a> 1.17.0 - October 07, 2021</h2>
-<h3 id="changed_16">Changed</h3>
+<h3 id="changed_17">Changed</h3>
 <ul>
 <li>This version of the widget board supports V2 widget manifests. V2 introduces &#x27;externals&#x27;, allowing async loading and sharing of modules/libraries among widgets. Make sure you upgrade your widgets using <a href="https://github.com/ichicraft/widgets-docs/wiki/Migrate-widget-to-Manifest-V2">this wiki page</a> to benefit from these optimizations.</li>
 </ul>
@@ -2939,7 +3036,7 @@
 <li>An optional toggle in &#x27;board template&#x27; feature to disable strict audience mismatch warnings</li>
 </ul>
 <h2 id="events-140-september-01-2021"><a href="../Widgets/Events/">Events</a> 1.4.0 - September 01, 2021</h2>
-<h3 id="changed_17">Changed</h3>
+<h3 id="changed_18">Changed</h3>
 <ul>
 <li>Improved query and search result sorting to always include only most relevant events</li>
 </ul>
@@ -2963,7 +3060,7 @@
 <ul>
 <li>All new Board Template editing experience</li>
 </ul>
-<h3 id="changed_18">Changed</h3>
+<h3 id="changed_19">Changed</h3>
 <ul>
 <li>Minor update to Portuguese resources</li>
 </ul>
@@ -2975,7 +3072,7 @@
 <li>Users can now configure whether they want a notification/summary in the welcome box for unread messages</li>
 <li>Widget can now span 2 columns instead of only 1</li>
 </ul>
-<h3 id="changed_19">Changed</h3>
+<h3 id="changed_20">Changed</h3>
 <ul>
 <li>Improved display of unread messages for better readability</li>
 </ul>
@@ -2986,7 +3083,7 @@
 <li>An issue where a missing webDavUrl property can result in an exception in the widget</li>
 </ul>
 <h2 id="onedrive-120-june-30-2021"><a href="../Widgets/OneDrive/">OneDrive</a> 1.2.0 - June 30, 2021</h2>
-<h3 id="changed_20">Changed</h3>
+<h3 id="changed_21">Changed</h3>
 <ul>
 <li>Implementation of logging functionality</li>
 <li>Updates to Portuguese resources</li>
@@ -2996,7 +3093,7 @@
 <ul>
 <li>Support for Power BI Apps, you can now view complete reports/apps in a single widget</li>
 </ul>
-<h3 id="changed_21">Changed</h3>
+<h3 id="changed_22">Changed</h3>
 <ul>
 <li>Improved visualization of loading Power BI data</li>
 </ul>
@@ -3028,7 +3125,7 @@
 <li>Hopefully solved an issue where in rare cases the <code>pageContext</code> property of the web part context is <code>undefined</code></li>
 </ul>
 <h2 id="widget-board-1120-april-09-2021"><a href="../Widget%20Board/">Widget Board</a> 1.12.0 - April 09, 2021</h2>
-<h3 id="changed_22">Changed</h3>
+<h3 id="changed_23">Changed</h3>
 <ul>
 <li>Various improvements to initialization of widget board (lower timeout, auto refresh once on error, etc.)</li>
 <li>New visualization of fatal error, introducing retry button and admin panel button</li>
@@ -3055,7 +3152,7 @@
 <ul>
 <li>Option to use a 6 column layout in SharePoint on high resolution screens</li>
 </ul>
-<h3 id="changed_23">Changed</h3>
+<h3 id="changed_24">Changed</h3>
 <ul>
 <li>Improved initialization of widget board with optional retries for service calls that sometimes fail</li>
 <li>Improved handling of user resetting his/her board by clearing all cache items</li>
@@ -3076,7 +3173,7 @@
 <li>Next day&#x27;s meetings</li>
 <li>Visualization of event status (busy, free, out-of-office, tentative, etc.)</li>
 </ul>
-<h3 id="changed_24">Changed</h3>
+<h3 id="changed_25">Changed</h3>
 <ul>
 <li>Improved translations/labels</li>
 <li>Clicking the widget title now opens Outlook calendar in new window</li>
@@ -3087,7 +3184,7 @@
 <li>Bug where masked private events sometimes did show details</li>
 </ul>
 <h2 id="inbox-110-march-23-2021"><a href="../Widgets/Inbox/">Inbox</a> 1.1.0 - March 23, 2021</h2>
-<h3 id="changed_25">Changed</h3>
+<h3 id="changed_26">Changed</h3>
 <ul>
 <li>Clicking the widget title now opens Outlook in new window</li>
 <li>Some minor updates to text labels/translations</li>
@@ -3108,7 +3205,7 @@
 <li>Support for Multi-Geo tenants</li>
 <li>Support for multi-language content</li>
 </ul>
-<h3 id="changed_26">Changed</h3>
+<h3 id="changed_27">Changed</h3>
 <ul>
 <li>Improved error handling and exception logging</li>
 <li>Updates in Portuguese resources after review</li>
@@ -3144,7 +3241,7 @@
 <li>Added additional static class names to allow CSS overrides of the board navigation (part of board header)</li>
 <li>Added <code>teamsSdk</code> and <code>userEmail</code> to <code>WidgetContext</code> which are now available for widgets</li>
 </ul>
-<h3 id="changed_27">Changed</h3>
+<h3 id="changed_28">Changed</h3>
 <ul>
 <li>Moved &quot;Reset widget board&quot; from main command bar to new &#x27;Danger zone&#x27; in admin panel</li>
 <li>Renamed &quot;About&quot; to &quot;Registration&quot;</li>
@@ -3156,20 +3253,20 @@
 <li>Fixed minor issue with caching of debugging widget manifest</li>
 </ul>
 <h2 id="events-120-february-22-2021"><a href="../Widgets/Events/">Events</a> 1.2.0 - February 22, 2021</h2>
-<h3 id="changed_28">Changed</h3>
+<h3 id="changed_29">Changed</h3>
 <ul>
 <li>Replaced automatic data refresh with manual refresh button</li>
 <li>Updates to Portuguese translations after review</li>
 <li>Improvements to exception handling and logging</li>
 </ul>
 <h2 id="apps-120-february-04-2021"><a href="../Widgets/Apps/">Apps</a> 1.2.0 - February 04, 2021</h2>
-<h3 id="changed_29">Changed</h3>
+<h3 id="changed_30">Changed</h3>
 <ul>
 <li>Updates to Portuguese translations after review</li>
 <li>Improvements to exception handling and logging</li>
 </ul>
 <h2 id="power-bi-120-february-04-2021"><a href="../Widgets/Power%20BI/">Power BI</a> 1.2.0 - February 04, 2021</h2>
-<h3 id="changed_30">Changed</h3>
+<h3 id="changed_31">Changed</h3>
 <ul>
 <li>Updates to Portuguese translations after review</li>
 <li>Improvements to exception handling and logging</li>
@@ -3179,12 +3276,12 @@
 <li>Fixed a bug where updating admin configuration as an admin didn&#x27;t result in clearing local cache</li>
 </ul>
 <h2 id="external-feeds-130-february-04-2021"><a href="../Widgets/External%20Feeds/">External Feeds</a> 1.3.0 - February 04, 2021</h2>
-<h3 id="changed_31">Changed</h3>
+<h3 id="changed_32">Changed</h3>
 <ul>
 <li>More improvements to exception handling and logging</li>
 </ul>
 <h2 id="external-feeds-120-february-04-2021"><a href="../Widgets/External%20Feeds/">External Feeds</a> 1.2.0 - February 04, 2021</h2>
-<h3 id="changed_32">Changed</h3>
+<h3 id="changed_33">Changed</h3>
 <ul>
 <li>Updates to Portuguese translations after review</li>
 <li>Improvements to exception handling and logging</li>
@@ -3198,7 +3295,7 @@
 <ul>
 <li>Posibility to target (variants of) widgets to specific audiences</li>
 </ul>
-<h3 id="changed_33">Changed</h3>
+<h3 id="changed_34">Changed</h3>
 <ul>
 <li>Updates to Portuguese translations after review</li>
 </ul>
@@ -3212,54 +3309,58 @@
             </article>
           </div>
         </div>
+        
       </main>
       
         
 <footer class="md-footer">
   
-    <div class="md-footer-nav">
-      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
         
-          <a href=".." class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
-            <div class="md-footer-nav__button md-icon">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+        <a href=".." class="md-footer__link md-footer__link--prev" aria-label="Previous: About" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              About
             </div>
-            <div class="md-footer-nav__title">
-              <div class="md-ellipsis">
-                <span class="md-footer-nav__direction">
-                  Previous
-                </span>
-                About
-              </div>
-            </div>
-          </a>
+          </div>
+        </a>
+      
+      
         
-        
-          <a href="../Widget%20Board/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
-            <div class="md-footer-nav__title">
-              <div class="md-ellipsis">
-                <span class="md-footer-nav__direction">
-                  Next
-                </span>
-                Widget Board
-              </div>
+        <a href="../Widget%20Board/" class="md-footer__link md-footer__link--next" aria-label="Next: Widget Board" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Widget Board
             </div>
-            <div class="md-footer-nav__button md-icon">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
-            </div>
-          </a>
-        
-      </nav>
-    </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
       <div class="md-footer-copyright">
         
-        Made with
-        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
-          Material for MkDocs
-        </a>
+        
+          Made with
+          <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+            Material for MkDocs
+          </a>
+        
+        
       </div>
       
     </div>
@@ -3267,19 +3368,13 @@
 </footer>
       
     </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "..", "features": [], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../assets/javascripts/workers/search.e99e714c.min.js", "version": null}</script>
     
-      <script src="../assets/javascripts/vendor.53cc9318.min.js"></script>
-      <script src="../assets/javascripts/bundle.e9c9f54f.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
-      
-      <script>
-        app = initialize({
-          base: "..",
-          features: [],
-          search: Object.assign({
-            worker: "../assets/javascripts/worker/search.9c0e82ba.min.js"
-          }, typeof search !== "undefined" && search)
-        })
-      </script>
+    
+      <script src="../assets/javascripts/bundle.bc35569b.min.js"></script>
       
     
   </body>
