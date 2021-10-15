@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.18.0 - October 15, 2021
+
+### Fixed
+- An issue where a pushed widget that was later removed from board configuration could break a user&#x27;s board
+- An issue where in some cases exceptions didn&#x27;t show friendly error messages
+
 ## [Bookmarks](./Widgets/Bookmarks.md) 1.3.0 - October 07, 2021
 
 ### Changed
