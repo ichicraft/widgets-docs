@@ -1,3 +1,13 @@
+## [Widget Board](./Widget Board.md) 1.19.0 - October 20, 2021
+
+### Changed
+- Small (~10%) optimization in bundle size
+- Upgrade to FluentUI version 8
+
+### Fixed
+- a bug where initial installation fails if a user doesn&#x27;t pick a single widget to install
+- a faulty message to indicate that no board templates have been created yet
+
 ## [Widget Board](./Widget Board.md) 1.18.0 - October 15, 2021
 
 ### Fixed
