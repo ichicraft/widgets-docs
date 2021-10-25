@@ -1,3 +1,8 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.6.0 - October 25, 2021
+
+### Fixed
+- An issue where clearing the search box in the configuration panel resulted in an error
+
 ## [Power BI](./Widgets/Power BI.md) 1.5.0 - October 25, 2021
 
 ### Fixed
