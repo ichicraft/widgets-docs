@@ -1,3 +1,8 @@
+## 1.4.0 - October 25, 2021
+
+### Fixed
+- An issue where clearing the search box in the configuration panel resulted in an error
+
 ## 1.3.0 - October 07, 2021
 
 ### Changed
