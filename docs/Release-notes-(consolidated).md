@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.5.0 - October 25, 2021
+
+### Fixed
+- An issue where clearing the search box in the configuration panel resulted in an error
+
 ## [News](./Widgets/News.md) 1.7.0 - October 25, 2021
 
 ### Fixed
