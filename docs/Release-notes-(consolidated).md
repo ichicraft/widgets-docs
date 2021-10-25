@@ -1,3 +1,8 @@
+## [People Search](./Widgets/People Search.md) 1.5.0 - October 25, 2021
+
+### Fixed
+- An issue where clearing the search box in the configuration panel resulted in an error
+
 ## [Widget Board](./Widget Board.md) 1.19.0 - October 20, 2021
 
 ### Changed
