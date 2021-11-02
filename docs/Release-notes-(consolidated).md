@@ -1,3 +1,11 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.7.0 - November 02, 2021
+
+### Added
+- Support for rendering images on feeds that conform to Media RSS Specification
+
+### Fixed
+- An issue where a feed item with missing pubDate caused the widget to crash
+
 ## [Apps](./Widgets/Apps.md) 1.4.0 - October 25, 2021
 
 ### Fixed
