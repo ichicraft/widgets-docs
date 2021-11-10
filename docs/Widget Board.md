@@ -1,12 +1,12 @@
 ## 1.20.0 - November 10, 2021
 
 ### Added
-- Full support for &lt;span style&#x3D;&quot;color:white;background-color:black&quot;&gt;&amp;nbsp;dark&amp;nbsp;&lt;/span&gt; themes in MS Teams and SharePoint
+- Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
 - Name of editing board template to modal header
-- Various new properties to &#x60;WidgetContext&#x60; for use in widgets
+- Various new properties to `WidgetContext` for use in widgets
 
 ### Fixed
-- A bug where pressing &lt;esc&gt; or clicking the &#x27;clear&#x27; icon in a search box resulted in an error
+- A bug where pressing &lt;esc&gt; or clicking the "clear" icon in a search box resulted in an error
 
 
 ## 1.19.0 - October 20, 2021
