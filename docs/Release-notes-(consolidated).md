@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.6.0 - November 10, 2021
+
+### Added
+- Full support for &lt;span style&#x3D;&quot;color:white;background-color:black&quot;&gt;&amp;nbsp;dark&amp;nbsp;&lt;/span&gt; themes in MS Teams and SharePoint
+
 ## [Widget Board](./Widget Board.md) 1.20.0 - November 10, 2021
 
 ### Added
