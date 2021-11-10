@@ -1,3 +1,8 @@
+## [Events](./Widgets/Events.md) 1.6.0 - November 10, 2021
+
+### Added
+- Full support for &lt;span style&#x3D;&quot;color:white;background-color:black&quot;&gt;&amp;nbsp;dark&amp;nbsp;&lt;/span&gt; themes in MS Teams and SharePoint
+
 ## [Inbox](./Widgets/Inbox.md) 1.5.0 - November 10, 2021
 
 ### Added
