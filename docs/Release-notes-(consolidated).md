@@ -1,3 +1,8 @@
+## [Saved for Later](./Widgets/Saved for Later.md) 1.3.0 - November 10, 2021
+
+### Added
+- Full support for &lt;span style&#x3D;&quot;color:white;background-color:black&quot;&gt;&amp;nbsp;dark&amp;nbsp;&lt;/span&gt; themes in MS Teams and SharePoint
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.8.0 - November 10, 2021
 
 ### Added
