@@ -1,57 +1,57 @@
 ## [Events](./Widgets/Events.md) 1.6.0 - November 10, 2021
 
 ### Added
-- Full support for &lt;span style&#x3D;&quot;color:white;background-color:black&quot;&gt;&amp;nbsp;dark&amp;nbsp;&lt;/span&gt; themes in MS Teams and SharePoint
+- Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
 
 ## [Inbox](./Widgets/Inbox.md) 1.5.0 - November 10, 2021
 
 ### Added
-- Full support for &lt;span style&#x3D;&quot;color:white;background-color:black&quot;&gt;&amp;nbsp;dark&amp;nbsp;&lt;/span&gt; themes in MS Teams and SharePoint
+- Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
 
 ## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.4.0 - November 10, 2021
 
 ### Added
-- Full support for &lt;span style&#x3D;&quot;color:white;background-color:black&quot;&gt;&amp;nbsp;dark&amp;nbsp;&lt;/span&gt; themes in MS Teams and SharePoint
+- Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
 
 ## [People Search](./Widgets/People Search.md) 1.6.0 - November 10, 2021
 
 ### Added
-- Full support for &lt;span style&#x3D;&quot;color:white;background-color:black&quot;&gt;&amp;nbsp;dark&amp;nbsp;&lt;/span&gt; themes in MS Teams and SharePoint
+- Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
 
 ## [News](./Widgets/News.md) 1.8.0 - November 10, 2021
 
 ### Added
-- Full support for &lt;span style&#x3D;&quot;color:white;background-color:black&quot;&gt;&amp;nbsp;dark&amp;nbsp;&lt;/span&gt; themes in MS Teams and SharePoint
+- Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
 
 ## [Saved for Later](./Widgets/Saved for Later.md) 1.3.0 - November 10, 2021
 
 ### Added
-- Full support for &lt;span style&#x3D;&quot;color:white;background-color:black&quot;&gt;&amp;nbsp;dark&amp;nbsp;&lt;/span&gt; themes in MS Teams and SharePoint
+- Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
 
 ## [External Feeds](./Widgets/External Feeds.md) 1.8.0 - November 10, 2021
 
 ### Added
-- Full support for &lt;span style&#x3D;&quot;color:white;background-color:black&quot;&gt;&amp;nbsp;dark&amp;nbsp;&lt;/span&gt; themes in MS Teams and SharePoint
+- Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
 
 ## [Bookmarks](./Widgets/Bookmarks.md) 1.4.0 - November 10, 2021
 
 ### Added
-- Full support for &lt;span style&#x3D;&quot;color:white;background-color:black&quot;&gt;&amp;nbsp;dark&amp;nbsp;&lt;/span&gt; themes in MS Teams and SharePoint
+- Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
 
 ## [Apps](./Widgets/Apps.md) 1.5.0 - November 10, 2021
 
 ### Added
-- Full support for &lt;span style&#x3D;&quot;color:white;background-color:black&quot;&gt;&amp;nbsp;dark&amp;nbsp;&lt;/span&gt; themes in MS Teams and SharePoint
+- Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
 
 ## [Tableau Reports](./Widgets/Tableau Reports.md) 1.2.0 - November 10, 2021
 
 ### Added
-- Full support for &lt;span style&#x3D;&quot;color:white;background-color:black&quot;&gt;&amp;nbsp;dark&amp;nbsp;&lt;/span&gt; themes in MS Teams and SharePoint
+- Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
 
 ## [Power BI](./Widgets/Power BI.md) 1.6.0 - November 10, 2021
 
 ### Added
-- Full support for &lt;span style&#x3D;&quot;color:white;background-color:black&quot;&gt;&amp;nbsp;dark&amp;nbsp;&lt;/span&gt; themes in MS Teams and SharePoint
+- Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
 
 ## [Widget Board](./Widget Board.md) 1.20.0 - November 10, 2021
 

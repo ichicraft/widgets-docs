@@ -1,7 +1,7 @@
 ## 1.6.0 - November 10, 2021
 
 ### Added
-- Full support for &lt;span style&#x3D;&quot;color:white;background-color:black&quot;&gt;&amp;nbsp;dark&amp;nbsp;&lt;/span&gt; themes in MS Teams and SharePoint
+- Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
 
 ## 1.5.0 - October 25, 2021
 
