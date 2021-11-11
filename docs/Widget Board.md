@@ -1,3 +1,8 @@
+## 1.21.0 - November 11, 2021
+
+### Changed
+- Minor change in product name in sppkg package
+
 ## 1.20.0 - November 10, 2021
 
 ### Added

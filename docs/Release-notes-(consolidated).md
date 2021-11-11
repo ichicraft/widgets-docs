@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.21.0 - November 11, 2021
+
+### Changed
+- Minor change in product name in sppkg package
+
 ## [Events](./Widgets/Events.md) 1.6.0 - November 10, 2021
 
 ### Added
