@@ -1,3 +1,8 @@
+## 1.5.0 - November 19, 2021
+
+### Added
+- A search box to quickly find the bookmark you&#x27;re looking for (available from 6 bookmarks and above)
+
 ## 1.4.0 - November 10, 2021
 
 ### Added

@@ -1,3 +1,8 @@
+## [Bookmarks](./Widgets/Bookmarks.md) 1.5.0 - November 19, 2021
+
+### Added
+- A search box to quickly find the bookmark you&#x27;re looking for (available from 6 bookmarks and above)
+
 ## [Widget Board](./Widget Board.md) 1.21.0 - November 11, 2021
 
 ### Changed
