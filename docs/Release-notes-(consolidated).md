@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.22.0 - January 11, 2022
+
+### Fixed
+- A UI issue where the Save/Cancel buttons were hidden below the scroll in a large admin config panel
+- A minor issue where detecting a user&#x27;s language in Teams didn&#x27;t work with &#x27;en-GB&#x27;
+
 ## [Bookmarks](./Widgets/Bookmarks.md) 1.5.0 - November 19, 2021
 
 ### Added
