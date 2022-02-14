@@ -1,3 +1,13 @@
+## [Widget Board](./Widget Board.md) 1.23.0 - February 14, 2022
+
+### Added
+- Support for only making a widget variant available for new employees (to support onboarding scenarios)
+- Some new properties and functions to the widget context object (for custom development)
+
+### Fixed
+- A bug where content languages weren&#x27;t displayed in board config panel but a spinner was shown instead
+- A bug where sometimes a custom tooltip re-appeared unintentionally in the widg
+
 ## [Widget Board](./Widget Board.md) 1.22.0 - January 11, 2022
 
 ### Fixed
