@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.24.0 - February 14, 2022
+
+### Changed
+-  Replaced permission requirement User.ReadWrite.All with less privileged User.ReadWrite
+
 ## [Widget Board](./Widget Board.md) 1.23.0 - February 14, 2022
 
 ### Added
