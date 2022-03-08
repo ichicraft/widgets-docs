@@ -1,3 +1,12 @@
+## [Power BI](./Widgets/Power BI.md) 1.7.0 - March 08, 2022
+
+### Added
+- The ability to pick and display a report directly from a workspace
+
+### Changed
+- Automatic authentication token refresh in the background (for long browser sessions)
+- Sorting of dropdown lists is now alphabetical
+
 ## [Widget Board](./Widget Board.md) 1.24.0 - February 14, 2022
 
 ### Changed

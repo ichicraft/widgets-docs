@@ -1,3 +1,12 @@
+## 1.7.0 - March 08, 2022
+
+### Added
+- The ability to pick and display a report directly from a workspace
+
+### Changed
+- Automatic authentication token refresh in the background (for long browser sessions)
+- Sorting of dropdown lists is now alphabetical
+
 ## 1.6.0 - November 10, 2021
 
 ### Added
