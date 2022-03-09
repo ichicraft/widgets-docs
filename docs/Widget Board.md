@@ -1,3 +1,9 @@
+## 1.25.0 - March 09, 2022
+
+### Added
+- A handy search box in the Add widget panel
+- A handy search box in the Widgets maintenance panel
+
 ## 1.24.0 - February 14, 2022
 
 ### Changed

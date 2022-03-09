@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.25.0 - March 09, 2022
+
+### Added
+- A handy search box in the Add widget panel
+- A handy search box in the Widgets maintenance panel
+
 ## [Power BI](./Widgets/Power BI.md) 1.7.0 - March 08, 2022
 
 ### Added
