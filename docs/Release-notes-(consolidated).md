@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.26.0 - March 10, 2022
+
+### Added
+- The long awaited feature that allows a user to edit the title of a widget
+
 ## [People Search](./Widgets/People Search.md) 1.7.0 - March 10, 2022
 
 ### Fixed

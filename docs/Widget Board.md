@@ -1,3 +1,8 @@
+## 1.26.0 - March 10, 2022
+
+### Added
+- The long awaited feature that allows a user to edit the title of a widget
+
 ## 1.25.0 - March 09, 2022
 
 ### Added
