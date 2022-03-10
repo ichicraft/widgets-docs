@@ -1,3 +1,8 @@
+## 1.7.0 - March 10, 2022
+
+### Fixed
+- A bug where duplicate people where sometimes displayed in &quot;People I work with&quot;
+
 ## 1.6.0 - November 10, 2021
 
 ### Added

@@ -1,3 +1,8 @@
+## [People Search](./Widgets/People Search.md) 1.7.0 - March 10, 2022
+
+### Fixed
+- A bug where duplicate people where sometimes displayed in &quot;People I work with&quot;
+
 ## [Widget Board](./Widget Board.md) 1.25.0 - March 09, 2022
 
 ### Added
