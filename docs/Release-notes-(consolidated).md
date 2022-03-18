@@ -1,3 +1,11 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.4.0 - March 18, 2022
+
+### Fixed
+- An issue where the date was sometimes falsely displayed one day too early
+
+### Changed
+- Changed necessary API Permission scope to a lower level
+
 ## [Widget Board](./Widget Board.md) 1.26.0 - March 10, 2022
 
 ### Added

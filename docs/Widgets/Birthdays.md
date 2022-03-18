@@ -1,3 +1,11 @@
+## 1.4.0 - March 18, 2022
+
+### Fixed
+- An issue where the date was sometimes falsely displayed one day too early
+
+### Changed
+- Changed necessary API Permission scope to a lower level
+
 ## 1.3.0 - October 07, 2021
 
 ### Changed
