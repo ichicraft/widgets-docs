@@ -1,5 +1,8 @@
 ## [Widget Board](./Widget Board.md) 1.27.0 - March 24, 2022
 
+### Added
+- A temporary work-around to help users with an issue that occurs in older Viva Connections apps in Teams
+
 ## [Birthdays](./Widgets/Birthdays.md) 1.4.0 - March 18, 2022
 
 ### Fixed
