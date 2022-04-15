@@ -1,3 +1,7 @@
+## 0.1.0 - April 15, 2022
+
+Initial release
+
 ## 1.6.0 - November 10, 2021
 
 ### Added
