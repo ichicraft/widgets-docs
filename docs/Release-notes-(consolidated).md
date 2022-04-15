@@ -1,3 +1,7 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 0.1.0 - April 15, 2022
+
+Initial release
+
 ## [Events](./Widgets/Events.md) 0.1.0 - April 15, 2022
 
 Initial release
