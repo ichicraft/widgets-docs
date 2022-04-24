@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.28.0 - April 24, 2022
+
+### Added
+- A whole new design experience to Ichicraft Boards! Check the Design tab in the Board Adminsitration Panel for all the new options.
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 0.2.0 - April 15, 2022
 
 Initial release

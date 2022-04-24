@@ -1,3 +1,8 @@
+## 1.28.0 - April 24, 2022
+
+### Added
+- A whole new design experience to Ichicraft Boards! Check the Design tab in the Board Adminsitration Panel for all the new options.
+
 ## 1.27.0 - March 24, 2022
 
 ### Added
