@@ -1,3 +1,8 @@
+## 1.9.0 - April 24, 2022
+
+### Added
+- All new design for this widget that goes along nicely with the new design for Ichicraft Boards
+
 ## 1.8.0 - November 10, 2021
 
 ### Added

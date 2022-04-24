@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.9.0 - April 24, 2022
+
+### Added
+- All new design for this widget that goes along nicely with the new design for Ichicraft Boards
+
 ## [Widget Board](./Widget Board.md) 1.28.0 - April 24, 2022
 
 ### Added
