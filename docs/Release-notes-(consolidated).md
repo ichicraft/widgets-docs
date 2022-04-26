@@ -1,3 +1,8 @@
+## [People Search](./Widgets/People Search.md) 1.8.0 - April 26, 2022
+
+### Changed
+- Updated rendering of result list to support new Board UI
+
 ## [News](./Widgets/News.md) 1.9.0 - April 24, 2022
 
 ### Added

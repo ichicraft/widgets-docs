@@ -1,3 +1,8 @@
+## 1.8.0 - April 26, 2022
+
+### Changed
+- Updated rendering of result list to support new Board UI
+
 ## 1.7.0 - March 10, 2022
 
 ### Fixed
