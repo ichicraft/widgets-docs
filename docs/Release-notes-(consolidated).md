@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.29.0 - April 27, 2022
+
+### Fixed 
+- A bug where widgets rerendered when moved around the grid
+- A bug where resizing or dragging a widget with an iframe as content, sometimes caused the widget to lock in a strange place
+
 ## [People Search](./Widgets/People Search.md) 1.8.0 - April 26, 2022
 
 ### Changed
