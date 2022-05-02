@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.30.0 - May 02, 2022
+
+### Added
+- An experimental feature to import and export board configuration to your local file system.
+
 ## [Widget Board](./Widget Board.md) 1.29.0 - April 27, 2022
 
 ### Fixed 
