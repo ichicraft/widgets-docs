@@ -1,3 +1,11 @@
+## [Power BI](./Widgets/Power BI.md) 1.8.0 - May 02, 2022
+
+### Added
+- The possibility to open different Power BI content in the lightbox than what is shown in the widget.
+
+### Changed
+- The term &quot;(Power BI) Tile&quot; is replaced with &quot;(Power BI) Content&quot; to better reflect that we support different types of content to be rendered.
+
 ## [Widget Board](./Widget Board.md) 1.30.0 - May 02, 2022
 
 ### Added

@@ -1,3 +1,11 @@
+## 1.8.0 - May 02, 2022
+
+### Added
+- The possibility to open different Power BI content in the lightbox than what is shown in the widget.
+
+### Changed
+- The term &quot;(Power BI) Tile&quot; is replaced with &quot;(Power BI) Content&quot; to better reflect that we support different types of content to be rendered.
+
 ## 1.7.0 - March 08, 2022
 
 ### Added
