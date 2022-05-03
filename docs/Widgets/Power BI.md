@@ -1,3 +1,12 @@
+## 1.9.0 - May 03, 2022
+
+### Added
+- Possibility to select a specific page in an embedded report to display by default
+- Possibility to hide page navigation in embedded reports
+
+### Fixed
+- Handling of title generating based on selected Power BI content
+
 ## 1.8.0 - May 02, 2022
 
 ### Added
