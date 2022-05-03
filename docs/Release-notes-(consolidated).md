@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.31.0 - May 03, 2022
+
+### Changed
+- The way the widget board loads when configuration cache is available, speeding up initial load time considerably
+- Added caching to profile picture, preventing a fresh fetch on each page load
+
 ## [Power BI](./Widgets/Power BI.md) 1.9.0 - May 03, 2022
 
 ### Added
