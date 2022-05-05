@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.10.0 - May 05, 2022
+
+### Added
+- New layout mode &quot;List&quot;, to display a list of items instead of displaying Power BI content directly.
+
 ## [Widget Board](./Widget Board.md) 1.31.0 - May 03, 2022
 
 ### Changed
