@@ -1,3 +1,8 @@
+## 1.11.0 - May 06, 2022
+
+### Fixed
+- An issue where a custom PBI Content title was falsely overwritten in some scenarios
+
 ## 1.10.0 - May 05, 2022
 
 ### Added
