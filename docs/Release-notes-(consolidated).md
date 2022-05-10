@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.12.0 - May 10, 2022
+
+### Added
+- An option to render alternative page navigation next to a report
+
 ## [People Search](./Widgets/People Search.md) 1.9.0 - May 10, 2022
 
 ### Fixed

@@ -1,3 +1,8 @@
+## 1.12.0 - May 10, 2022
+
+### Added
+- An option to render alternative page navigation next to a report
+
 ## 1.11.0 - May 06, 2022
 
 ### Fixed
