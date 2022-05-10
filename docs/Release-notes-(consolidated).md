@@ -1,3 +1,8 @@
+## [People Search](./Widgets/People Search.md) 1.9.0 - May 10, 2022
+
+### Fixed
+- Now works much better with new styling/branding options in Ichicraft Boards
+
 ## [Power BI](./Widgets/Power BI.md) 1.11.0 - May 06, 2022
 
 ### Fixed

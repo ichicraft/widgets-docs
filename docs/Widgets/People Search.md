@@ -1,3 +1,8 @@
+## 1.9.0 - May 10, 2022
+
+### Fixed
+- Now works much better with new styling/branding options in Ichicraft Boards
+
 ## 1.8.0 - April 26, 2022
 
 ### Changed
