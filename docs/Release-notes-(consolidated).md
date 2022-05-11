@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.10.0 - May 11, 2022
+
+### Fixed
+- Revert required API permission level to Sites.ReadWrite.All because (un)following sites requires these permissions
+
 ## [Power BI](./Widgets/Power BI.md) 1.12.0 - May 10, 2022
 
 ### Added

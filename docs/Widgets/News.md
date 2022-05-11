@@ -1,3 +1,8 @@
+## 1.10.0 - May 11, 2022
+
+### Fixed
+- Revert required API permission level to Sites.ReadWrite.All because (un)following sites requires these permissions
+
 ## 1.9.0 - April 24, 2022
 
 ### Added
