@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.32.0 - May 12, 2022
+
+### Added
+- An alternative way to store board configuration to support large configurations (&gt; 1MB) (experimental feature for now)
+
 ## [News](./Widgets/News.md) 1.10.0 - May 11, 2022
 
 ### Fixed
