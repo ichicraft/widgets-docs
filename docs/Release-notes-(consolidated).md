@@ -1,3 +1,11 @@
+## [Power BI](./Widgets/Power BI.md) 1.13.0 - May 13, 2022
+
+### Fixed
+- An issue where report page navigation didn&#x27;t offer a scroll bar if the number of pages exceeds page height
+
+### Changed
+- Color scheme used by report page navigation
+
 ## [Widget Board](./Widget Board.md) 1.32.0 - May 12, 2022
 
 ### Added

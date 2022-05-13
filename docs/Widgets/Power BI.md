@@ -1,3 +1,11 @@
+## 1.13.0 - May 13, 2022
+
+### Fixed
+- An issue where report page navigation didn&#x27;t offer a scroll bar if the number of pages exceeds page height
+
+### Changed
+- Color scheme used by report page navigation
+
 ## 1.12.0 - May 10, 2022
 
 ### Added
