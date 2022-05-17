@@ -1,3 +1,8 @@
+## [Followed Sites](./Widgets/Followed Sites.md) 1.4.0 - May 17, 2022
+
+### Fixed
+- An issue where the widget would fail if updated Graph permissions weren&#x27;t set yet
+
 ## [Followed Sites](./Widgets/Followed Sites.md) 1.3.0 - May 17, 2022
 
 ### Changed
