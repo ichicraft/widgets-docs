@@ -1,3 +1,11 @@
+## [News](./Widgets/News.md) 1.11.0 - May 17, 2022
+
+### Changed
+- Reverted API permissions again to Sites.Read.All since we no longer use Graph API to follow/unfollow but use SharePoint Social API instead
+
+### Fixed
+- An issue caused by the SharePoint API and the Graph API returning inconsistent lists of followed sites
+
 ## [Power BI](./Widgets/Power BI.md) 1.13.0 - May 13, 2022
 
 ### Fixed
