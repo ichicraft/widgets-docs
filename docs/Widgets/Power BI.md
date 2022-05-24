@@ -1,3 +1,11 @@
+## 1.14.0 - May 24, 2022
+
+### Changed
+- Added automatic browser refresh when token retrieval fails
+- Improved resizing of widgets and effect this has on responsive reports
+- Used PBI bootstrap to speed up loading of PBI content
+- Introduced a retry button for when the widget isn&#x27;t able to render somehow
+
 ## 1.13.0 - May 13, 2022
 
 ### Fixed
