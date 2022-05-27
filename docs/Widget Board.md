@@ -1,3 +1,11 @@
+## 1.33.0 - May 27, 2022
+
+### Fixed
+- An issue where the WidgetBoard_Assets library was no longer visible in the Admin panel
+- An issue where the title of a widget could grow out of the bounds of the header
+- An issue where users from China were no longer able to use widget due to a CDN being blocked
+- Other minor improvements
+
 ## 1.32.0 - May 12, 2022
 
 ### Added

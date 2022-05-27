@@ -1,3 +1,11 @@
+## [Widget Board](./Widget Board.md) 1.33.0 - May 27, 2022
+
+### Fixed
+- An issue where the WidgetBoard_Assets library was no longer visible in the Admin panel
+- An issue where the title of a widget could grow out of the bounds of the header
+- An issue where users from China were no longer able to use widget due to a CDN being blocked
+- Other minor improvements
+
 ## [Power BI](./Widgets/Power BI.md) 1.14.0 - May 24, 2022
 
 ### Changed
