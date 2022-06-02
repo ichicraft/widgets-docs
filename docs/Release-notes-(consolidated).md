@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.6.0 - June 02, 2022
+
+### Changed
+- Improved user picker readability for long group names
+
 ## [Widget Board](./Widget Board.md) 1.33.0 - May 27, 2022
 
 ### Fixed

@@ -1,3 +1,8 @@
+## 1.6.0 - June 02, 2022
+
+### Changed
+- Improved user picker readability for long group names
+
 ## 1.5.0 - November 10, 2021
 
 ### Added
