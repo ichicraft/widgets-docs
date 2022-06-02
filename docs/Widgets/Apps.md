@@ -1,3 +1,8 @@
+## 1.7.0 - June 02, 2022
+
+### Fixed
+- An issue with the carousel buttons not rendering correctly
+
 ## 1.6.0 - June 02, 2022
 
 ### Changed
