@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.34.0 - June 15, 2022
+
+### Fixed
+- An issue where 4-column layouts in SharePoint were no longer enforced correctly
+- An issue where icon buttons in some occasions didn&#x27;t load in Teams
+
 ## [Apps](./Widgets/Apps.md) 1.7.0 - June 02, 2022
 
 ### Fixed

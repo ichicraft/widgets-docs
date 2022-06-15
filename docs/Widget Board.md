@@ -1,3 +1,9 @@
+## 1.34.0 - June 15, 2022
+
+### Fixed
+- An issue where 4-column layouts in SharePoint were no longer enforced correctly
+- An issue where icon buttons in some occasions didn&#x27;t load in Teams
+
 ## 1.33.0 - May 27, 2022
 
 ### Fixed
