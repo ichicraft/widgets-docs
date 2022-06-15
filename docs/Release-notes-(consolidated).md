@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.8.0 - June 15, 2022
+
+### Changed
+- Removed unnessecary cache feature that caused confusion
+
 ## [Widget Board](./Widget Board.md) 1.34.0 - June 15, 2022
 
 ### Fixed

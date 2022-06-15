@@ -1,3 +1,8 @@
+## 1.8.0 - June 15, 2022
+
+### Changed
+- Removed unnessecary cache feature that caused confusion
+
 ## 1.7.0 - June 02, 2022
 
 ### Fixed
