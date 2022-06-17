@@ -1,3 +1,10 @@
+## 1.12.0 - June 17, 2022
+
+### Fixed
+- An issue where (hub) site navigation was visible when viewing a news article in the lightbox
+- An issue where filtering for items coming from the root site also included news articles from other sites
+- An issue where adding sites to followed sites didn&#x27;t clear local cache of followed sites immediately
+
 ## 1.11.0 - May 17, 2022
 
 ### Changed
