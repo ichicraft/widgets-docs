@@ -1,3 +1,8 @@
+## 1.15.0 - June 22, 2022
+
+### Changed
+- Power BI content not visible in the carousel is now lazily loaded, giving priority to initially visible content
+
 ## 1.14.0 - May 24, 2022
 
 ### Changed

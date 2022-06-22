@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.15.0 - June 22, 2022
+
+### Changed
+- Power BI content not visible in the carousel is now lazily loaded, giving priority to initially visible content
+
 ## [News](./Widgets/News.md) 1.12.0 - June 17, 2022
 
 ### Fixed
