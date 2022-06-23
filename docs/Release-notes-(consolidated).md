@@ -1,3 +1,11 @@
+## [Inbox](./Widgets/Inbox.md) 1.6.0 - June 23, 2022
+
+### Changed
+- Changed the look &amp; feel to match the new styles of the widget board
+- Improved exception logging
+- Upgraded underlying Graph Client SDK
+- Removed logic to get unread item count because we no longer support the old notification messages
+
 ## [Power BI](./Widgets/Power BI.md) 1.15.0 - June 22, 2022
 
 ### Changed
