@@ -1,3 +1,11 @@
+## [Widget Board](./Widget Board.md) 1.35.0 - June 28, 2022
+
+### Added
+- Time-based analytics feature allowing events to be raised and sent to third party analytics tools like Google Analytics, Segment, CrazyEgg and many more using the [Analytics](https://getanalytics.io/) library
+
+### Fixed
+- A bug where icon buttons don&#x27;t work consistently in Teams and Viva Connections
+
 ## [Inbox](./Widgets/Inbox.md) 1.6.0 - June 23, 2022
 
 ### Changed

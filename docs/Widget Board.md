@@ -1,3 +1,11 @@
+## 1.35.0 - June 28, 2022
+
+### Added
+- Time-based analytics feature allowing events to be raised and sent to third party analytics tools like Google Analytics, Segment, CrazyEgg and many more using the [Analytics](https://getanalytics.io/) library
+
+### Fixed
+- A bug where icon buttons don&#x27;t work consistently in Teams and Viva Connections
+
 ## 1.34.0 - June 15, 2022
 
 ### Fixed
