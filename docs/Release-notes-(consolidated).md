@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.36.0 - July 06, 2022
+
+### Fixed
+- [#214] An issue where sometimes category filters were visible that had no selectable widgets in them
+- An issue where widget&#x27;s production script was always loaded before a widget&#x27;s script running in debug mode
+
 ## [Widget Board](./Widget Board.md) 1.35.0 - June 28, 2022
 
 ### Added
