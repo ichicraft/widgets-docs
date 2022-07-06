@@ -1,3 +1,8 @@
+## [Inbox](./Widgets/Inbox.md) 1.7.0 - July 06, 2022
+
+### Fixed
+- An issue where the widget continued to try to refresh content indefinitely even if connection was lost or failed for a while
+
 ## [Widget Board](./Widget Board.md) 1.36.0 - July 06, 2022
 
 ### Fixed

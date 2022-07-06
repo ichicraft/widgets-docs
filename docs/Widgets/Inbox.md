@@ -1,3 +1,8 @@
+## 1.7.0 - July 06, 2022
+
+### Fixed
+- An issue where the widget continued to try to refresh content indefinitely even if connection was lost or failed for a while
+
 ## 1.6.0 - June 23, 2022
 
 ### Changed
