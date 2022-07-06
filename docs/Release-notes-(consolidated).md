@@ -1,3 +1,11 @@
+## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.5.0 - July 06, 2022
+
+### Changed
+- Updated look &amp; feel to better match new styling of Ichicraft Boards
+
+### Fixed
+- An issue where the widget continued to try to refresh content indefinitely even if connection was lost or failed for a while
+
 ## [Inbox](./Widgets/Inbox.md) 1.7.0 - July 06, 2022
 
 ### Fixed

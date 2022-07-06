@@ -1,3 +1,11 @@
+## 1.5.0 - July 06, 2022
+
+### Changed
+- Updated look &amp; feel to better match new styling of Ichicraft Boards
+
+### Fixed
+- An issue where the widget continued to try to refresh content indefinitely even if connection was lost or failed for a while
+
 ## 1.4.0 - November 10, 2021
 
 ### Added
