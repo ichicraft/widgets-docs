@@ -1,3 +1,11 @@
+## [Power BI](./Widgets/Power BI.md) 1.16.0 - July 12, 2022
+
+### Fixed
+- An issue where long words with no spaces could break the UI of list views of Power BI content
+
+### Changed
+- Behavior of zooming in on content is now consistent with the Tableau Reports widget. This means that to open the zoomed in report you now have to click either the title of the widget or the zoom button in the widget header. Clicking on the content (report) itself will no longer 
+
 ## [Tableau Reports](./Widgets/Tableau Reports.md) 1.4.0 - July 12, 2022
 
 ### Added
