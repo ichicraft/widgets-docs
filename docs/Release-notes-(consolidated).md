@@ -1,3 +1,14 @@
+## [Tableau Reports](./Widgets/Tableau Reports.md) 1.4.0 - July 12, 2022
+
+### Added
+- Zoom behavior so you can open a full-screen view of Tableau content
+
+### Added
+- [#211] Additional layout to render a list of Tableau content instead of a carousel
+
+### Changed
+- Refactoring and updating to match Power BI widget visualization
+
 ## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.5.0 - July 06, 2022
 
 ### Changed

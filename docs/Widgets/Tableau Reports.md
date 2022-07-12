@@ -1,3 +1,14 @@
+## 1.4.0 - July 12, 2022
+
+### Added
+- Zoom behavior so you can open a full-screen view of Tableau content
+
+### Added
+- [#211] Additional layout to render a list of Tableau content instead of a carousel
+
+### Changed
+- Refactoring and updating to match Power BI widget visualization
+
 ## 1.2.0 - November 10, 2021
 
 ### Added
