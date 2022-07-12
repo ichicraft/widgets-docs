@@ -2,8 +2,6 @@
 
 ### Added
 - Zoom behavior so you can open a full-screen view of Tableau content
-
-### Added
 - [#211] Additional layout to render a list of Tableau content instead of a carousel
 
 ### Changed

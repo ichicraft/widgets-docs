@@ -10,8 +10,6 @@
 
 ### Added
 - Zoom behavior so you can open a full-screen view of Tableau content
-
-### Added
 - [#211] Additional layout to render a list of Tableau content instead of a carousel
 
 ### Changed
@@ -207,13 +205,7 @@
 ### Added
 - A whole new design experience to Ichicraft Boards! Check the Design tab in the Board Adminsitration Panel for all the new options.
 
-## [Inform and Onboard](./Widgets/Inform and Onboard.md) 0.2.0 - April 15, 2022
-
-Initial release
-
-Initial release
-
-## [Inform and Onboard](./Widgets/Inform and Onboard.md) 0.1.0 - April 15, 2022
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.0.0 - April 15, 2022
 
 Initial release
 
