@@ -4,7 +4,7 @@ This website provides information regarding releases of Ichicraft Boards.
 
 **Ichicraft Boards is a personal digital workplace for SharePoint and Teams.**
 
-![Ichicraft Boards](images/impression.png)
+![Ichicraft Boards](images/impression-new.png)
 
 Ichicraft Boards allows users to personalize their digital workplace in SharePoint or Microsoft Teams. It offers the user a canvas that can be filled with configurable widgets (blocks) that clearly display up-to-date and personalized information. This increases the productivity and involvement of employees in the organization.
 
