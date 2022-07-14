@@ -1,3 +1,8 @@
+## [People Search](./Widgets/People Search.md) 1.10.0 - July 14, 2022
+
+### Changed
+- Upgraded underlying Graph Toolkit version
+
 ## [Power BI](./Widgets/Power BI.md) 1.16.0 - July 12, 2022
 
 ### Fixed

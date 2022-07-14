@@ -1,3 +1,8 @@
+## 1.10.0 - July 14, 2022
+
+### Changed
+- Upgraded underlying Graph Toolkit version
+
 ## 1.9.0 - May 10, 2022
 
 ### Fixed
