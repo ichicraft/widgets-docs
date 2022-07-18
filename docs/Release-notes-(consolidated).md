@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.37.0 - July 18, 2022
+
+### Added
+- [221] Ability to add subtitles to widgets, allowing for more distinguishable widget headers
+
 ## [People Search](./Widgets/People Search.md) 1.10.0 - July 14, 2022
 
 ### Changed
