@@ -1,3 +1,8 @@
+## 1.38.0 - July 19, 2022
+
+### Fixed
+- [#192] An issue where in rare cases the first name of a user could not be retrieved correctly and a weird message [object Object] is displayed instead
+
 ## 1.37.0 - July 18, 2022
 
 ### Added
