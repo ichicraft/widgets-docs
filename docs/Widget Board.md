@@ -6,7 +6,7 @@
 ## 1.37.0 - July 18, 2022
 
 ### Added
-- [221] Ability to add subtitles to widgets, allowing for more distinguishable widget headers
+- [#221] Ability to add subtitles to widgets, allowing for more distinguishable widget headers
 
 ## 1.36.0 - July 06, 2022
 
