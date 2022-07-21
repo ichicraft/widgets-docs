@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.17.0 - July 21, 2022
+
+### Changed
+- PBI content in hidden carrousel slides is no longer loaded in the background. Instead, it&#x27;s loaded upon navigating to the slide. This is to prevent unnecessary burdening of the browser.
+
 ## [Widget Board](./Widget Board.md) 1.38.0 - July 19, 2022
 
 ### Fixed
