@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.39.0 - August 09, 2022
+
+### Fixed
+- [#232] An issue where fetching a user&#x27;s security groups could result in a fatal error in case local storage quota was exceeded
+
 ## [Power BI](./Widgets/Power BI.md) 1.17.0 - July 21, 2022
 
 ### Changed

@@ -1,3 +1,8 @@
+## 1.39.0 - August 09, 2022
+
+### Fixed
+- [#232] An issue where fetching a user&#x27;s security groups could result in a fatal error in case local storage quota was exceeded
+
 ## 1.38.0 - July 19, 2022
 
 ### Fixed
