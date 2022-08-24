@@ -1,3 +1,8 @@
+## [Followed Sites](./Widgets/Followed Sites.md) 1.5.0 - August 24, 2022
+
+### Fixed
+- A minor issue where an invalid label was rendered in case something went wrong in getting a user&#x27;s sites
+
 ## [Widget Board](./Widget Board.md) 1.39.0 - August 09, 2022
 
 ### Fixed

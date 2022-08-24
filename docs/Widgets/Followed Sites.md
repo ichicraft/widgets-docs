@@ -1,3 +1,8 @@
+## 1.5.0 - August 24, 2022
+
+### Fixed
+- A minor issue where an invalid label was rendered in case something went wrong in getting a user&#x27;s sites
+
 ## 1.4.0 - May 17, 2022
 
 ### Fixed
