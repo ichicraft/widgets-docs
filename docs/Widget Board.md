@@ -4,7 +4,7 @@
 - An issue where selecting an image in the file picker (from within settings panel) didn&#x27;t work correctly when using the checkbox to select a file
 
 ### Changed
-- Prepared the internal file picker component so it can be used by widgets too. There&#x27;s now a function &#x60;openFilePicker&#x60; as part of the &#x60;WidgetContext&#x60; that can be used from within widgets.
+- Prepared the internal file picker component so it can be used by widgets too. There&#x27;s now a function `openFilePicker` as part of the `WidgetContext` that can be used from within widgets.
 
 ## 1.39.0 - August 09, 2022
 
