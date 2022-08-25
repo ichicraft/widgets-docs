@@ -1,3 +1,12 @@
+## [Apps](./Widgets/Apps.md) 1.9.0 - August 25, 2022
+
+### Added
+- Functionality to group/categorize apps
+- Easy image picker/uploader for app icons
+- Option to use a Fluent UI font icon instead of an image for app icons
+- Option to use characters as an app icon
+- Option to style the app with different foreground and background colors
+
 ## [Widget Board](./Widget Board.md) 1.40.0 - August 25, 2022
 
 ### Fixed
