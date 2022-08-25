@@ -1,3 +1,11 @@
+## 1.41.0 - August 25, 2022
+
+### Added
+- [#220] Improved ways to organize widgets using category sets and hierarchies
+- [#219-1] When adding a widget it&#x27;s now visible which widgets are already on your board
+- [#219-2] Adding multiple widgets is now easier for the end user
+- [#219-3] Browsing the widget library is easier for users with new filter options
+
 ## 1.40.0 - August 25, 2022
 
 ### Fixed
