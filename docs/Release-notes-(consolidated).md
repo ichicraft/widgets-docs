@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.18.0 - August 25, 2022
+
+### Added
+- Option to open a Power BI visual in full screen
+
 ## [Widget Board](./Widget Board.md) 1.41.0 - August 25, 2022
 
 ### Added

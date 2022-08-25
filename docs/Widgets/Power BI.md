@@ -1,3 +1,8 @@
+## 1.18.0 - August 25, 2022
+
+### Added
+- Option to open a Power BI visual in full screen
+
 ## 1.17.0 - July 21, 2022
 
 ### Changed
