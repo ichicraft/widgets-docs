@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.43.0 - August 26, 2022
+
+### Fixed
+- An error where the new category management feature causes an issue in some cases
+
 ## [Widget Board](./Widget Board.md) 1.42.0 - August 26, 2022
 
 ### Fixed
