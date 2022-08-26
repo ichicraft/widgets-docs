@@ -1,3 +1,8 @@
+## 1.42.0 - August 26, 2022
+
+### Fixed
+- An issue where the widget library throws an error
+
 ## 1.41.0 - August 25, 2022
 
 ### Added
