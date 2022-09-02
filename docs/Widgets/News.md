@@ -1,3 +1,9 @@
+## 1.13.0 - September 02, 2022
+
+### Added
+- [#239] Support for boosted news articles
+- Optional click event tracking for Boards Analytics feature
+
 ## 1.12.0 - June 17, 2022
 
 ### Fixed

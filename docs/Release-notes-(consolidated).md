@@ -1,3 +1,9 @@
+## [News](./Widgets/News.md) 1.13.0 - September 02, 2022
+
+### Added
+- [#239] Support for boosted news articles
+- Optional click event tracking for Boards Analytics feature
+
 ## [Widget Board](./Widget Board.md) 1.43.0 - August 26, 2022
 
 ### Fixed
