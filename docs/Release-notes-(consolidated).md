@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.44.0 - September 05, 2022
+
+### Added
+- [#234] Some extra options to open urls in a dialog (used by widgets)
+
 ## [News](./Widgets/News.md) 1.13.0 - September 02, 2022
 
 ### Added

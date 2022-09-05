@@ -1,3 +1,8 @@
+## 1.44.0 - September 05, 2022
+
+### Added
+- [#234] Some extra options to open urls in a dialog (used by widgets)
+
 ## 1.43.0 - August 26, 2022
 
 ### Fixed
