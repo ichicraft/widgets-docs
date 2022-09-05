@@ -1,3 +1,9 @@
+## 1.10.0 - September 05, 2022
+
+### Added
+- [#234] An even better way to manage apps with a redesigned layout picker
+- A new setting to configure the click behavior of an app item
+
 ## 1.9.0 - August 25, 2022
 
 ### Added
