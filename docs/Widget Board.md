@@ -1,3 +1,8 @@
+## 1.45.0 - September 08, 2022
+
+### Fixed
+- An issue where the background color of the header bleeds out when the web part is placed in a non full-width section
+
 ## 1.44.0 - September 05, 2022
 
 ### Added
