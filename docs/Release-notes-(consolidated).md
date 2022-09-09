@@ -1,7 +1,3 @@
-## [Power BI](./Widgets/Power BI.md) 20220909.1 - September 09, 2022
-
-## [Power BI](./Widgets/Power BI.md) 20220909.1 - September 09, 2022
-
 ## [Widget Board](./Widget Board.md) 1.45.0 - September 08, 2022
 
 ### Fixed
