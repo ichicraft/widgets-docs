@@ -1,3 +1,11 @@
+## [Events](./Widgets/Events.md) 1.7.0 - September 16, 2022
+
+### Added
+- The same &quot;follow sites logic&quot; as in the News widget is now available in the Events widget too!
+
+### Fixed
+- An issue where following the root site collection returns events from all other site collections
+
 ## [Widget Board](./Widget Board.md) 1.45.0 - September 08, 2022
 
 ### Fixed

@@ -1,3 +1,11 @@
+## 1.7.0 - September 16, 2022
+
+### Added
+- The same &quot;follow sites logic&quot; as in the News widget is now available in the Events widget too!
+
+### Fixed
+- An issue where following the root site collection returns events from all other site collections
+
 ## 0.1.0 - April 15, 2022
 
 Initial release
