@@ -1,3 +1,10 @@
+## [Widget Board](./Widget Board.md) 1.47.0 - September 20, 2022
+
+### Fixed
+- An issue where the wrong current language was passed to a widget if that language wasn&#x27;t configured as a content language
+- An issue where the confirmation dialog didn&#x27;t close after deleting a content language
+- An issue where the API Permissions tab showed all variants of a widget type where only one would suffice to give the proper permissions
+
 ## [Widget Board](./Widget Board.md) 1.46.0 - September 20, 2022
 
 ### Changed
