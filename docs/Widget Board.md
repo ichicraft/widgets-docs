@@ -1,3 +1,8 @@
+## 1.46.0 - September 20, 2022
+
+### Changed
+- Big under-the-hood update to prepare for separate licenses for product features including the upcoming feature &quot;Shared Boards&quot;
+
 ## 1.45.0 - September 08, 2022
 
 ### Fixed

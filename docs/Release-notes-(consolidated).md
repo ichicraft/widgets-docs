@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.46.0 - September 20, 2022
+
+### Changed
+- Big under-the-hood update to prepare for separate licenses for product features including the upcoming feature &quot;Shared Boards&quot;
+
 ## [Events](./Widgets/Events.md) 1.7.0 - September 16, 2022
 
 ### Added
