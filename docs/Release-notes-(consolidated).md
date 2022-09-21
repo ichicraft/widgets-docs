@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.19.0 - September 21, 2022
+
+### Fixed
+- An issue where all of a sudden the report page picker didn&#x27;t work due to an update in the underlying Power BI REST API
+
 ## [Widget Board](./Widget Board.md) 1.47.0 - September 20, 2022
 
 ### Fixed

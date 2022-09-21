@@ -1,3 +1,8 @@
+## 1.19.0 - September 21, 2022
+
+### Fixed
+- An issue where all of a sudden the report page picker didn&#x27;t work due to an update in the underlying Power BI REST API
+
 ## 1.18.0 - August 25, 2022
 
 ### Added
