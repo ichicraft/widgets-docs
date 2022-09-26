@@ -1,3 +1,11 @@
+## 1.49.0 - September 26, 2022
+
+### Fixed
+- An issue where pushed widgets were re-pushed after a user suffered from a connection error
+
+### Fixed
+- An issue where the (advanced) export / import feature fails in certain circumstances
+
 ## 1.47.0 - September 20, 2022
 
 ### Fixed

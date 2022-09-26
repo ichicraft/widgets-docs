@@ -1,3 +1,11 @@
+## [Widget Board](./Widget Board.md) 1.49.0 - September 26, 2022
+
+### Fixed
+- An issue where pushed widgets were re-pushed after a user suffered from a connection error
+
+### Fixed
+- An issue where the (advanced) export / import feature fails in certain circumstances
+
 ## [Power BI](./Widgets/Power BI.md) 1.19.0 - September 21, 2022
 
 ### Fixed
