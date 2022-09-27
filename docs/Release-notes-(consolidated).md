@@ -1,3 +1,12 @@
+## [Events](./Widgets/Events.md) 1.8.0 - September 27, 2022
+
+### Fixed
+- An issue where sorting wasn&#x27;t correct
+- An issue where long event titles weren&#x27;t cropped correctly
+
+### Changed
+- Now loading events for 6 months ahead instead of 2
+
 ## [Widget Board](./Widget Board.md) 1.49.0 - September 26, 2022
 
 ### Fixed
