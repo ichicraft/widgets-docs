@@ -1,3 +1,8 @@
+## 1.50.0 - October 31, 2022
+
+### Added
+- Introducing the first version of Ichicraft Board&#x27;s newest feature: Shared Boards!
+
 ## 1.49.0 - September 26, 2022
 
 ### Fixed

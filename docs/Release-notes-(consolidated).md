@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.50.0 - October 31, 2022
+
+### Added
+- Introducing the first version of Ichicraft Board&#x27;s newest feature: Shared Boards!
+
 ## [Events](./Widgets/Events.md) 1.8.0 - September 27, 2022
 
 ### Fixed
