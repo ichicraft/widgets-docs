@@ -1,3 +1,8 @@
+## 1.51.0 - November 01, 2022
+
+### Fixed
+- An issue where renaming or deleting a widget on a shared board caused an error in some cases
+
 ## 1.50.0 - October 31, 2022
 
 ### Added
