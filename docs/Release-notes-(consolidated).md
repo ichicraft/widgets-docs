@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.52.0 - November 01, 2022
+
+### Added
+- It&#x27;s now possible for a user to change the order of boards in the left navigation
+
 ## [Widget Board](./Widget Board.md) 1.51.0 - November 01, 2022
 
 ### Fixed
