@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.53.0 - November 09, 2022
+
+### Added
+- Option to push a Shared Board to (groups of) users
+
 ## [Widget Board](./Widget Board.md) 1.52.0 - November 01, 2022
 
 ### Added
