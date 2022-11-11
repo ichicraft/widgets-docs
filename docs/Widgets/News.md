@@ -1,3 +1,8 @@
+## 1.14.0 - November 11, 2022
+
+### Changed
+- Greatly improved the loading speed of the widget
+
 ## 1.13.0 - September 02, 2022
 
 ### Added

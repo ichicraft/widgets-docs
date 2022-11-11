@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.14.0 - November 11, 2022
+
+### Changed
+- Greatly improved the loading speed of the widget
+
 ## [Widget Board](./Widget Board.md) 1.53.0 - November 09, 2022
 
 ### Added
