@@ -1,3 +1,9 @@
+## 1.54.0 - November 23, 2022
+
+### Added
+- Board templates can now also be defined for shared boards
+- Specify if widgets (variants) are available for either personal boards, shared boards, or both
+
 ## 1.53.0 - November 09, 2022
 
 ### Added

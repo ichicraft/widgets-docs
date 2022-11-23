@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.54.0 - November 23, 2022
+
+### Added
+- Board templates can now also be defined for shared boards
+- Specify if widgets (variants) are available for either personal boards, shared boards, or both
+
 ## [News](./Widgets/News.md) 1.14.0 - November 11, 2022
 
 ### Changed
