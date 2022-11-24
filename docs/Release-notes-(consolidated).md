@@ -1,3 +1,13 @@
+## [Apps](./Widgets/Apps.md) 1.11.0 - November 24, 2022
+
+### Fixed
+- An issue where a dialog doesn&#x27;t render nicely on mobile devices
+- An issue where not in all cases an event is raised on app-click
+
+### Changed
+- There is now a 32 character limit on app titles
+- If title doesn&#x27;t fit on two lines, we now show ellipsis (...) to make this clear
+
 ## [Widget Board](./Widget Board.md) 1.54.0 - November 23, 2022
 
 ### Added
