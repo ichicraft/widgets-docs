@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.55.0 - November 25, 2022
+
+### Changed
+- Removed last jsdelivr CDN pointers
+- Removed redundant log messages
+
 ## [Apps](./Widgets/Apps.md) 1.11.0 - November 24, 2022
 
 ### Fixed

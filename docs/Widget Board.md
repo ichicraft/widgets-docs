@@ -1,3 +1,9 @@
+## 1.55.0 - November 25, 2022
+
+### Changed
+- Removed last jsdelivr CDN pointers
+- Removed redundant log messages
+
 ## 1.54.0 - November 23, 2022
 
 ### Added
