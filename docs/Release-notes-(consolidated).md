@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.12.0 - November 30, 2022
+
+### Fixed
+- An issue where in some cases the app tiles continuously triggered redraws of hidden div elements (LineEllipsis)
+
 ## [Widget Board](./Widget Board.md) 1.55.0 - November 25, 2022
 
 ### Changed

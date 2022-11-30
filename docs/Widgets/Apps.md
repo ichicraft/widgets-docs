@@ -1,3 +1,8 @@
+## 1.12.0 - November 30, 2022
+
+### Fixed
+- An issue where in some cases the app tiles continuously triggered redraws of hidden div elements (LineEllipsis)
+
 ## 1.11.0 - November 24, 2022
 
 ### Fixed
