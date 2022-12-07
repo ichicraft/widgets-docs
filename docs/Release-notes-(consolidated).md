@@ -1,3 +1,15 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.5.0 - December 07, 2022
+
+### Added
+- Flyout cards with personal information of a user
+- Ability to directly congratulate someone having a birthday using Teams chat or e-mail
+- Ability to update your own birthday
+- Better support for small factor widget (horizontal rendering)
+
+### Changed
+- Completely refactored widget code
+- Updated visual elements in widget with more focus for birthday user
+
 ## [Apps](./Widgets/Apps.md) 1.12.0 - November 30, 2022
 
 ### Fixed
