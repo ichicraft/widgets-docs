@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.20.0 - December 08, 2022
+
+### Changed
+- Loading page navigation on &#x27;loaded&#x27; instead of &#x27;rendered&#x27;
+
 ## [Birthdays](./Widgets/Birthdays.md) 1.5.0 - December 07, 2022
 
 ### Added
