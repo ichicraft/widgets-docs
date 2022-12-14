@@ -1,3 +1,14 @@
+## 1.4.0 - December 14, 2022
+
+### Added
+- Support for lists in To Do (show list info, choose lists to show, add items to list)
+- Choose which plans to show in Planner pane
+- Filter capabilities on both Planner &amp; To Do tasks
+- Option to show either To Do or Planner (not both per se)
+
+### Changed
+- Visual improvements
+
 ## 1.3.0 - October 07, 2021
 
 ### Changed

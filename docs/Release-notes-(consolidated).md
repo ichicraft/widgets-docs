@@ -1,3 +1,14 @@
+## [Tasks](./Widgets/Tasks.md) 1.4.0 - December 14, 2022
+
+### Added
+- Support for lists in To Do (show list info, choose lists to show, add items to list)
+- Choose which plans to show in Planner pane
+- Filter capabilities on both Planner &amp; To Do tasks
+- Option to show either To Do or Planner (not both per se)
+
+### Changed
+- Visual improvements
+
 ## [Power BI](./Widgets/Power BI.md) 1.20.0 - December 08, 2022
 
 ### Changed
