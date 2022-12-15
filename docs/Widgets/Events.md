@@ -1,3 +1,8 @@
+## 1.9.0 - December 15, 2022
+
+### Changed
+- Allow Shared Board owners to specify the sites that serve as news source for the widget
+
 ## 1.8.0 - September 27, 2022
 
 ### Fixed

@@ -1,3 +1,8 @@
+## [Events](./Widgets/Events.md) 1.9.0 - December 15, 2022
+
+### Changed
+- Allow Shared Board owners to specify the sites that serve as news source for the widget
+
 ## [News](./Widgets/News.md) 1.15.0 - December 15, 2022
 
 ### Changed
