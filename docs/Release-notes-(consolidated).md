@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.56.0 - December 15, 2022
+
+### Changed
+- Under-the-hood update where info about board type and user role is provided to widgets
+
 ## [Tasks](./Widgets/Tasks.md) 1.4.0 - December 14, 2022
 
 ### Added

@@ -1,3 +1,8 @@
+## 1.56.0 - December 15, 2022
+
+### Changed
+- Under-the-hood update where info about board type and user role is provided to widgets
+
 ## 1.55.0 - November 25, 2022
 
 ### Changed
