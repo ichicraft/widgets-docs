@@ -1,3 +1,8 @@
+## [Tasks](./Widgets/Tasks.md) 1.5.0 - December 16, 2022
+
+### Changed
+- The default setting is now that users can update configuration of this widget
+
 ## [Events](./Widgets/Events.md) 1.9.0 - December 15, 2022
 
 ### Changed

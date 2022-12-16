@@ -1,3 +1,8 @@
+## 1.5.0 - December 16, 2022
+
+### Changed
+- The default setting is now that users can update configuration of this widget
+
 ## 1.4.0 - December 14, 2022
 
 ### Added
