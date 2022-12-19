@@ -1,3 +1,11 @@
+## 1.57.0 - December 19, 2022
+
+### Added
+- Ichicraft Boards announcements are now visible from within the product
+
+### Fixed
+- A small visual issue where some icons weren&#x27;t visible in dark mode
+
 ## 1.56.0 - December 15, 2022
 
 ### Changed
