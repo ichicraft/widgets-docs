@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.13.0 - December 19, 2022
+
+### Added
+- Support for users and shared board owners to create their own apps
+
 ## [Countdown](./Widgets/Countdown.md) 0.1.0 - December 19, 2022
 
 Initial release

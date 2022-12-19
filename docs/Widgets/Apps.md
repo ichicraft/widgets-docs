@@ -1,3 +1,8 @@
+## 1.13.0 - December 19, 2022
+
+### Added
+- Support for users and shared board owners to create their own apps
+
 ## 1.12.0 - November 30, 2022
 
 ### Fixed
