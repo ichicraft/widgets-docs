@@ -1,3 +1,12 @@
+## [Inbox](./Widgets/Inbox.md) 1.8.0 - December 19, 2022
+
+### Added
+- Ability for adminstrator to set default inbox type (Personal/Shared)
+- Better support for Inbox widget in Shared Board context
+
+### Fixed
+- An issue where opening a Shared inbox from widget header didn&#x27;t work at all
+
 ## [Files](./Widgets/Files.md) 1.6.0 - December 19, 2022
 
 ### Added
