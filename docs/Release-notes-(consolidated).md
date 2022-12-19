@@ -1,3 +1,8 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.6.0 - December 19, 2022
+
+### Fixed
+- An issue where in some cases a user couldn&#x27;t update his/her birthday
+
 ## [Inbox](./Widgets/Inbox.md) 1.8.0 - December 19, 2022
 
 ### Added
