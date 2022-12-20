@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.58.0 - December 20, 2022
+
+### Changed
+- Url to Ichicraft announcements updated to ichicraft.com domain
+
 ## [Widget Board](./Widget Board.md) 1.57.0 - December 19, 2022
 
 ### Added
