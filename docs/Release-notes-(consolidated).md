@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.59.0 - January 17, 2023
+
+### Added
+- You can now configure a custom theme to be used by Ichicraft Boards (includes dark mode!)
+
 ## [Widget Board](./Widget Board.md) 1.58.0 - December 20, 2022
 
 ### Changed
