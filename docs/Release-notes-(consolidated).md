@@ -1,3 +1,12 @@
+## [Widget Board](./Widget Board.md) 1.61.0 - January 18, 2023
+
+### Fixed
+- An issue where the file picker navigation failes sometimes
+
+### Fixed
+- An issue where some configurations didn&#x27;t load correctly after previous release
+- An issue where the file picker didn&#x27;t work correctly after previous release
+
 ## [Widget Board](./Widget Board.md) 1.59.0 - January 17, 2023
 
 ### Added
