@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.62.0 - January 27, 2023
+
+### Fixed
+- An issue where in some cases a pushed widget could not be resized when configuration dictates it should be able to do so
+- An issue where in some cases a move lock appeared even though a pushed widget was allowed to be moved
+
 ## [Widget Board](./Widget Board.md) 1.61.0 - January 18, 2023
 
 ### Fixed
