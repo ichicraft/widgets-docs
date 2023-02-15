@@ -1,3 +1,11 @@
+## 1.21.0 - February 15, 2023
+
+### Added
+- The ability to select individual report _visuals_ to render
+- The ability to _clone_ PBI content for quicker creation of content
+- PBI content _previews_ as part of the content management
+- Content viewed and clicked _events_ to feed the Ichicraft Boards analytics feature
+
 ## 1.20.0 - December 08, 2022
 
 ### Changed
