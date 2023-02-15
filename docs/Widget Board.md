@@ -1,3 +1,9 @@
+## 1.63.0 - February 15, 2023
+
+### Added
+- The ability to log additional user data as part of the Analytics feature
+- More events related to recently added features to the Analytics feature
+
 ## 1.62.0 - January 27, 2023
 
 ### Fixed
