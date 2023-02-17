@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.22.0 - February 17, 2023
+
+### Fixed
+- An issue with page visibility in horizontal navigation
+
 ## [Power BI](./Widgets/Power BI.md) 1.21.0 - February 15, 2023
 
 ### Added
