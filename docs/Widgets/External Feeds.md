@@ -1,3 +1,8 @@
+## 1.9.0 - March 07, 2023
+
+### Added
+- The ability to detecting feed item images by looking for image urls in the description, allowing for more feeds to display images
+
 ## 1.8.0 - November 10, 2021
 
 ### Added
