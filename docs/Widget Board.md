@@ -1,5 +1,3 @@
-## 1.64.0-feature-become-shell.12 - March 09, 2023
-
 ## 1.63.0 - February 15, 2023
 
 ### Added
