@@ -1,3 +1,8 @@
+## 1.4.0 - March 13, 2023
+
+### Fixed
+- A breaking issue where saved items could no longer be loaded, caused by an updated service endpoint @ Microsoft
+
 ## 1.3.0 - November 10, 2021
 
 ### Added

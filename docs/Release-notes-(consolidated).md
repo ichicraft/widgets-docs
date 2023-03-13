@@ -1,3 +1,8 @@
+## [Saved for Later](./Widgets/Saved for Later.md) 1.4.0 - March 13, 2023
+
+### Fixed
+- A breaking issue where saved items could no longer be loaded, caused by an updated service endpoint @ Microsoft
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.9.0 - March 07, 2023
 
 ### Added
