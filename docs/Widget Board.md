@@ -1,3 +1,142 @@
+## 1.64.0 - March 17, 2023
+
+### Added
+- The ability to show multiple custom command bar buttons per widget
+
+### Added
+- The ability to log additional user data as part of the Analytics feature
+- More events related to recently added features to the Analytics feature
+
+### Fixed
+- An issue where in some cases a pushed widget could not be resized when configuration dictates it should be able to do so
+- An issue where in some cases a move lock appeared even though a pushed widget was allowed to be moved
+
+### Fixed
+- An issue where the file picker navigation failes sometimes
+
+### Fixed
+- An issue where some configurations didn&#x27;t load correctly after previous release
+- An issue where the file picker didn&#x27;t work correctly after previous release
+
+### Added
+- You can now configure a custom theme to be used by Ichicraft Boards (includes dark mode!)
+
+### Changed
+- Url to Ichicraft announcements updated to ichicraft.com domain
+
+### Added
+- Ichicraft Boards announcements are now visible from within the product
+
+### Fixed
+- A small visual issue where some icons weren&#x27;t visible in dark mode
+
+### Changed
+- Under-the-hood update where info about board type and user role is provided to widgets
+
+### Changed
+- Removed last jsdelivr CDN pointers
+- Removed redundant log messages
+
+### Added
+- Board templates can now also be defined for shared boards
+- Specify if widgets (variants) are available for either personal boards, shared boards, or both
+
+### Added
+- Option to push a Shared Board to (groups of) users
+
+### Added
+- It&#x27;s now possible for a user to change the order of boards in the left navigation
+
+### Fixed
+- An issue where renaming or deleting a widget on a shared board caused an error in some cases
+
+### Added
+- Introducing the first version of Ichicraft Board&#x27;s newest feature: Shared Boards!
+
+### Fixed
+- An issue where pushed widgets were re-pushed after a user suffered from a connection error
+
+### Fixed
+- An issue where the (advanced) export / import feature fails in certain circumstances
+
+### Fixed
+- An issue where the wrong current language was passed to a widget if that language wasn&#x27;t configured as a content language
+- An issue where the confirmation dialog didn&#x27;t close after deleting a content language
+- An issue where the API Permissions tab showed all variants of a widget type where only one would suffice to give the proper permissions
+
+### Changed
+- Big under-the-hood update to prepare for separate licenses for product features including the upcoming feature &quot;Shared Boards&quot;
+
+### Fixed
+- An issue where the background color of the header bleeds out when the web part is placed in a non full-width section
+
+### Added
+- [#234] Some extra options to open urls in a dialog (used by widgets)
+
+### Fixed
+- An error where the new category management feature causes an issue in some cases
+
+### Fixed
+- An issue where the widget library throws an error
+
+### Added
+- [#220] Improved ways to organize widgets using category sets and hierarchies
+- [#219-1] When adding a widget it&#x27;s now visible which widgets are already on your board
+- [#219-2] Adding multiple widgets is now easier for the end user
+- [#219-3] Browsing the widget library is easier for users with new filter options
+
+### Fixed
+- An issue where selecting an image in the file picker (from within settings panel) didn&#x27;t work correctly when using the checkbox to select a file
+
+### Changed
+- Prepared the internal file picker component so it can be used by widgets too. There&#x27;s now a function &#x60;openFilePicker&#x60; as part of the &#x60;WidgetContext&#x60; that can be used from within widgets.
+
+### Fixed
+- [#232] An issue where fetching a user&#x27;s security groups could result in a fatal error in case local storage quota was exceeded
+
+### Fixed
+- [#192] An issue where in rare cases the first name of a user could not be retrieved correctly and a weird message [object Object] is displayed instead
+
+### Added
+- [221] Ability to add subtitles to widgets, allowing for more distinguishable widget headers
+
+### Fixed
+- [#214] An issue where sometimes category filters were visible that had no selectable widgets in them
+- An issue where widget&#x27;s production script was always loaded before a widget&#x27;s script running in debug mode
+
+### Added
+- Time-based analytics feature allowing events to be raised and sent to third party analytics tools like Google Analytics, Segment, CrazyEgg and many more using the [Analytics](https://getanalytics.io/) library
+
+### Fixed
+- A bug where icon buttons don&#x27;t work consistently in Teams and Viva Connections
+
+### Fixed
+- An issue where 4-column layouts in SharePoint were no longer enforced correctly
+- An issue where icon buttons in some occasions didn&#x27;t load in Teams
+
+### Fixed
+- An issue where the WidgetBoard_Assets library was no longer visible in the Admin panel
+- An issue where the title of a widget could grow out of the bounds of the header
+- An issue where users from China were no longer able to use widget due to a CDN being blocked
+- Other minor improvements
+
+### Added
+- An alternative way to store board configuration to support large configurations (&gt; 1MB) (experimental feature for now)
+
+### Changed
+- The way the widget board loads when configuration cache is available, speeding up initial load time considerably
+- Added caching to profile picture, preventing a fresh fetch on each page load
+
+### Added
+- An experimental feature to import and export board configuration to your local file system.
+
+### Fixed 
+- A bug where widgets rerendered when moved around the grid
+- A bug where resizing or dragging a widget with an iframe as content, sometimes caused the widget to lock in a strange place
+
+### Added
+- A whole new design experience to Ichicraft Boards! Check the Design tab in the Board Adminsitration Panel for all the new options.
+
 ## 1.63.0 - February 15, 2023
 
 ### Added
