@@ -1,3 +1,10 @@
+## [Power BI](./Widgets/Power BI.md) 1.23.0 - March 17, 2023
+
+### Added
+- The ability to group PBI-content in the list view
+- The ability to apply filters on PBI-content directly in the widget
+- Improvements to the add/edit PBI-content dialog
+
 ## [Saved for Later](./Widgets/Saved for Later.md) 1.4.0 - March 13, 2023
 
 ### Fixed
