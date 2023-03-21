@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.25.0 - March 21, 2023
+
+### Fixed
+- Various small bugs introduced in last release
+
 ## [Power BI](./Widgets/Power BI.md) 1.24.0 - March 20, 2023
 
 ### Changed
