@@ -1,3 +1,10 @@
+## [Power BI](./Widgets/Power BI.md) 1.26.0 - March 23, 2023
+
+Fix local storage reset when editing admin config.
+
+
+
+
 ## [Power BI](./Widgets/Power BI.md) 1.25.0 - March 21, 2023
 
 ### Fixed
