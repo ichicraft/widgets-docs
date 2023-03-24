@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.27.0 - March 24, 2023
+
+### Fixed
+- An issue where changes in default filters from an admin perspective weren&#x27;t visible to the user due to caching issues
+
 ## [Power BI](./Widgets/Power BI.md) 1.26.0 - March 23, 2023
 
 Fix local storage reset when editing admin config.
