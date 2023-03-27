@@ -1,3 +1,9 @@
+## [Power BI](./Widgets/Power BI.md) 1.28.0 - March 27, 2023
+
+### Changed
+- Minor system update to prevent flooding logs with failed access token retrieval
+
+
 ## [Power BI](./Widgets/Power BI.md) 1.27.0 - March 24, 2023
 
 ### Fixed
