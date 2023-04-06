@@ -1,3 +1,8 @@
+## 1.64.2 - April 06, 2023
+
+### Fixed
+- An issue with missing resource files
+
 ## 1.64.1 - April 06, 2023
 
 ### Added
