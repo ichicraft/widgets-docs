@@ -1,3 +1,18 @@
+## 1.29.0 - April 06, 2023
+
+**Added:**
+- Live filters within the same table
+- Apply formatting to filter values (specifically DateTime strings)
+- Tooltip when hovering over filter values &amp; people picker values
+
+**Changed:**
+- Remove page- and visual level filters from available filters list
+
+**Fixed:**
+- Displayname fix
+- Fix number &amp; boolean filters not working
+- Fix performance on large collection of filter values (e.g. da
+
 ## 1.28.0 - March 27, 2023
 
 ### Changed
