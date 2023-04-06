@@ -1,17 +1,20 @@
 ## 1.29.0 - April 06, 2023
 
-**Added:**
+### Added
 - Live filters within the same table
 - Apply formatting to filter values (specifically DateTime strings)
 - Tooltip when hovering over filter values &amp; people picker values
 
-**Changed:**
+### Changed
 - Remove page- and visual level filters from available filters list
 
-**Fixed:**
+### Fixed
 - Displayname fix
 - Fix number &amp; boolean filters not working
-- Fix performance on large collection of filter values (e.g. da
+- Fix performance on large collection of filter values (e.g. date filter)
+- Fix horizontal page navigation cutting off part of the embed
+- Fix available filters when selecting a Visual
+- Fix report filters not resetting when enabling custom filters
 
 ## 1.28.0 - March 27, 2023
 
