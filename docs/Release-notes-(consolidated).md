@@ -1,3 +1,13 @@
+## [Widget Board](./Widget Board.md) 1.64.1 - April 06, 2023
+
+### Added
+- The option to onboard new users without showing a welcome message if no interaction is required
+- Functionality to the File Picker control so it can be used by widgets properly
+- The option for a user to completely reset a his/her profile (by using SHIFT key when board settings menu is open)
+
+### Fixed
+- An issue where no primary personal board was provisioned when the Personal Boards 
+
 ## [Power BI](./Widgets/Power BI.md) 1.28.0 - March 27, 2023
 
 ### Changed
