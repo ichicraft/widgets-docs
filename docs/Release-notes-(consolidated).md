@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.64.3 - April 12, 2023
+
+### Fixed
+- An issue where API permissions could no longer be requested from admin panel
+- An issue with loading (very) old configurations
+
 ## [Power BI](./Widgets/Power BI.md) 1.29.0 - April 06, 2023
 
 ### Added

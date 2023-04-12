@@ -1,3 +1,9 @@
+## 1.64.3 - April 12, 2023
+
+### Fixed
+- An issue where API permissions could no longer be requested from admin panel
+- An issue with loading (very) old configurations
+
 ## 1.64.2 - April 06, 2023
 
 ### Fixed
