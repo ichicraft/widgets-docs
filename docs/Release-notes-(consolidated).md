@@ -1,3 +1,14 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 0.3.0 - April 13, 2023
+
+### Added
+- Podcasts item type
+- Min and Max account age range filter
+- FilePicker functionality to generate an embed code
+
+### Changed
+- Visual revamp (in line with News widget)
+- Renamed  &#x27;Mark as read&#x27; functionality to &#x27;Mark as completed&#x27;
+
 ## [Files](./Widgets/Files.md) 1.7.0 - April 13, 2023
 
 ### Fixed
