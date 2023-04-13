@@ -1,3 +1,8 @@
+## 1.7.0 - April 13, 2023
+
+### Fixed
+- an issue where the file size of the widget bundle file was very large due to invalid sharing of external libraries
+
 ## 1.6.0 - December 19, 2022
 
 ### Added

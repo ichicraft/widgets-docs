@@ -1,3 +1,8 @@
+## [Files](./Widgets/Files.md) 1.7.0 - April 13, 2023
+
+### Fixed
+- an issue where the file size of the widget bundle file was very large due to invalid sharing of external libraries
+
 ## [Widget Board](./Widget Board.md) 1.64.3 - April 12, 2023
 
 ### Fixed
