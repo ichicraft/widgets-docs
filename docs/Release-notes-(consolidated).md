@@ -1,3 +1,7 @@
+## [Embed](./Widgets/Embed.md) 1.2.0 - April 14, 2023
+
+
+
 ## [Widget Board](./Widget Board.md) 1.64.4 - April 14, 2023
 
 ### Fixed
