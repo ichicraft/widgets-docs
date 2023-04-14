@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.4 - April 14, 2023
+
+### Fixed
+- an issue where the file picker sometimes falls behind another dialog
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 0.3.0 - April 13, 2023
 
 ### Added

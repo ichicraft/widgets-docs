@@ -1,3 +1,8 @@
+## 1.64.4 - April 14, 2023
+
+### Fixed
+- an issue where the file picker sometimes falls behind another dialog
+
 ## 1.64.3 - April 12, 2023
 
 ### Fixed
