@@ -1,3 +1,8 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 0.4.0 - April 18, 2023
+
+###Fixed
+- An issue where items and categories could not be updated unless they used the age range feature
+
 ## [Power BI](./Widgets/Power BI.md) 1.30.0 - April 18, 2023
 
 ### Fixed

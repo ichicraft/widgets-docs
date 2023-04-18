@@ -1,3 +1,8 @@
+## 0.4.0 - April 18, 2023
+
+###Fixed
+- An issue where items and categories could not be updated unless they used the age range feature
+
 ## 0.3.0 - April 13, 2023
 
 ### Added
