@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.30.0 - April 18, 2023
+
+### Fixed
+- an issue where live filters weren&#x27;t working for multiple columns at once
+
 ## [Embed](./Widgets/Embed.md) 1.2.0 - April 14, 2023
 
 

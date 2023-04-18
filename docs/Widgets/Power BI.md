@@ -1,3 +1,8 @@
+## 1.30.0 - April 18, 2023
+
+### Fixed
+- an issue where live filters weren&#x27;t working for multiple columns at once
+
 ## 1.29.0 - April 06, 2023
 
 ### Added
