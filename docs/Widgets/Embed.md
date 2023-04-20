@@ -1,3 +1,8 @@
+## 1.3.0 - April 20, 2023
+
+### Added
+- Dynamic theme support for embeds
+
 ## 1.2.0 - April 14, 2023
 
 

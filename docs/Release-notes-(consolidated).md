@@ -1,3 +1,8 @@
+## [Embed](./Widgets/Embed.md) 1.3.0 - April 20, 2023
+
+### Added
+- Dynamic theme support for embeds
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 0.4.0 - April 18, 2023
 
 ###Fixed
