@@ -1,3 +1,8 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.10.0 - May 01, 2023
+
+### Added
+- An icon depicting that a link is taking a user outside the current web page or client
+
 ## [Embed](./Widgets/Embed.md) 1.3.0 - April 20, 2023
 
 ### Added

@@ -1,3 +1,8 @@
+## 1.10.0 - May 01, 2023
+
+### Added
+- An icon depicting that a link is taking a user outside the current web page or client
+
 ## 1.9.0 - March 07, 2023
 
 ### Added
