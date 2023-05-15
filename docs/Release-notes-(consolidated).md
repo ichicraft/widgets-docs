@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.31.0 - May 15, 2023
+
+### Added
+- Support for slicer override and manipulation 
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.10.0 - May 01, 2023
 
 ### Added

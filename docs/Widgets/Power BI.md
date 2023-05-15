@@ -1,3 +1,8 @@
+## 1.31.0 - May 15, 2023
+
+### Added
+- Support for slicer override and manipulation 
+
 ## 1.30.0 - April 18, 2023
 
 ### Fixed
