@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.32.0 - May 16, 2023
+
+### Fixed
+- An issue where working with the new slicers feature could cause an error in the configuration panel
+
 ## [Power BI](./Widgets/Power BI.md) 1.31.0 - May 15, 2023
 
 ### Added
