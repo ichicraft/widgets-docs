@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.34.0 - May 16, 2023
+
+### Fixed
+- An issue where rendering a single visual in a widget and using a full report as zoom content results in an error when using the zoom function
+
 ## [Power BI](./Widgets/Power BI.md) 1.33.0 - May 16, 2023
 
 ### Fixed
