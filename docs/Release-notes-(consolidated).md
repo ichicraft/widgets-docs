@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.33.0 - May 16, 2023
+
+### Fixed
+- An issue where users applying changes to slicers on one shared board, see the same changes applied on other shared boards that use the same report.
+
 ## [Power BI](./Widgets/Power BI.md) 1.32.0 - May 16, 2023
 
 ### Fixed
