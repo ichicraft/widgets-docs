@@ -1,3 +1,12 @@
+## [Widget Board](./Widget Board.md) 1.64.6 - May 17, 2023
+
+### Changed
+- (non-functional) Upgraded underlying SPFx version to 1.17.2
+
+### Changed
+- Support for different language codes included that come from Teams
+- Some updates under the hood to support other shapes of etags
+
 ## [Power BI](./Widgets/Power BI.md) 1.34.0 - May 16, 2023
 
 ### Fixed
