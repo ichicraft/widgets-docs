@@ -1,3 +1,10 @@
+## 1.64.7 - May 24, 2023
+
+### Fixed
+- An issue where the people picker didn&#x27;t work correctly all the time
+- An issue where the newly generated sppkg package included too many assets
+- An issue where the newly generated sppkg package introduced an issue with conflicting React versions
+
 ## 1.64.6 - May 17, 2023
 
 ### Changed
