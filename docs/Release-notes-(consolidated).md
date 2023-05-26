@@ -1,3 +1,14 @@
+## [Power BI](./Widgets/Power BI.md) 1.35.0 - May 26, 2023
+
+###Fixed
+- An issue where cached filters were not applied on first render of PBI content
+- An issue where visuals of a hidden page were not selectable from the PBI content Add/Edit dialog
+- An issue where the content preview would crash when changing content source
+- An issue where the PBI content Add/Edit dialog would crash when selecting a dashboard tile
+
+###Changed
+- Removed the Clear functiona
+
 ## [Widget Board](./Widget Board.md) 1.64.7 - May 24, 2023
 
 ### Fixed
