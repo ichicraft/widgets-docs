@@ -1,3 +1,17 @@
+## 1.15.0 - June 12, 2023
+
+
+
+### Added
+- Added new button to widget header to quickly add new apps
+- CSS override options for more visual control over Apps
+- Personalized URLs by using the tokens [User.Email] or [User.UPN]
+
+### Changed
+- Improved user experience in the User Configuration for adding/removing apps
+- Improved Layout option behaviour
+- Improved carousel design
+
 ## 1.13.0 - December 19, 2022
 
 ### Added

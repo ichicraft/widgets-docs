@@ -1,3 +1,17 @@
+## [Apps](./Widgets/Apps.md) 1.15.0 - June 12, 2023
+
+
+
+### Added
+- Added new button to widget header to quickly add new apps
+- CSS override options for more visual control over Apps
+- Personalized URLs by using the tokens [User.Email] or [User.UPN]
+
+### Changed
+- Improved user experience in the User Configuration for adding/removing apps
+- Improved Layout option behaviour
+- Improved carousel design
+
 ## [Power BI](./Widgets/Power BI.md) 1.35.0 - May 26, 2023
 
 ###Fixed
