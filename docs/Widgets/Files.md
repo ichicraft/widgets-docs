@@ -1,3 +1,13 @@
+## 1.8.0 - June 13, 2023
+
+### Added
+- A new preview option for files
+
+### Fixed
+- An issue where the Recent tab failed when a user no longer has access to one ore more files or to the sites these files are stored in
+- An issue where Loop files that reside in a new hidden storage location can&#x27;t programmatically be accessed properly, resulting in an error
+- An issue where only 10 items were visible in the default Favorites t
+
 ## 1.7.0 - April 13, 2023
 
 ### Fixed
