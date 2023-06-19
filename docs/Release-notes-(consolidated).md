@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.36.0 - June 19, 2023
+
+###Fixed
+- An issue where report pages were synched incorrectly between the widget board and content dialog
+
 ## [Files](./Widgets/Files.md) 1.8.0 - June 13, 2023
 
 ### Added

@@ -1,3 +1,8 @@
+## 1.36.0 - June 19, 2023
+
+###Fixed
+- An issue where report pages were synched incorrectly between the widget board and content dialog
+
 ## 1.35.0 - May 26, 2023
 
 ###Fixed
