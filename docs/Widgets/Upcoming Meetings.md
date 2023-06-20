@@ -1,3 +1,8 @@
+## 1.6.0 - June 20, 2023
+
+### Changed
+- Update solution to stop using beta API from Microsoft where it&#x27;s no longer needed
+
 ## 1.5.0 - July 06, 2022
 
 ### Changed

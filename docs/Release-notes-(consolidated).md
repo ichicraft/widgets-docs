@@ -1,3 +1,8 @@
+## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.6.0 - June 20, 2023
+
+### Changed
+- Update solution to stop using beta API from Microsoft where it&#x27;s no longer needed
+
 ## [Widget Board](./Widget Board.md) 1.64.9 - June 20, 2023
 
 ### Added
