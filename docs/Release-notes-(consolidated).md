@@ -1,3 +1,11 @@
+## [Widget Board](./Widget Board.md) 1.64.9 - June 20, 2023
+
+### Added
+- Navigation policies (New Feature!) to specify the boards (personal + shared) that should be in a user&#x27;s navigation (only available if and when Shared Boards feature is active)
+
+### Fixed &amp; Changed
+- Many small fixes and improvements done with regards to UI (initial loading, switching back and forth between Ichicraft Boards and other SharePoint pages, the way that widgets appear and are
+
 ## [Power BI](./Widgets/Power BI.md) 1.36.0 - June 19, 2023
 
 ###Fixed
