@@ -1,3 +1,8 @@
+## 0.5.0 - June 21, 2023
+
+### Fixed
+- An issue where, in an onboarding scenario, the widget could be removed by a user after all items were marked as complete, even though (unread) items are scheduled to be visible in the future.
+
 ## 0.4.0 - April 18, 2023
 
 ###Fixed

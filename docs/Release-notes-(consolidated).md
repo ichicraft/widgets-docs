@@ -1,3 +1,8 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 0.5.0 - June 21, 2023
+
+### Fixed
+- An issue where, in an onboarding scenario, the widget could be removed by a user after all items were marked as complete, even though (unread) items are scheduled to be visible in the future.
+
 ## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.6.0 - June 20, 2023
 
 ### Changed
