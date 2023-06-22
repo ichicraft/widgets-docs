@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.10 - June 22, 2023
+
+### Fixed
+- An issue where failing to retrieve account creation date/time results in infinite loading board
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 0.5.0 - June 21, 2023
 
 ### Fixed

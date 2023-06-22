@@ -1,3 +1,8 @@
+## 1.64.10 - June 22, 2023
+
+### Fixed
+- An issue where failing to retrieve account creation date/time results in infinite loading board
+
 ## 1.64.9 - June 20, 2023
 
 ### Added
