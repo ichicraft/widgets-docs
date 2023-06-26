@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.11 - June 26, 2023
+
+### Fixed
+- An issue where in some scenarios the onboarding of new users was impossible due to a disabled &quot;Let&#x27;s get started&quot; button
+
 ## [Widget Board](./Widget Board.md) 1.64.10 - June 22, 2023
 
 ### Fixed
