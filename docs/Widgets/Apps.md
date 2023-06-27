@@ -1,9 +1,5 @@
 ## 1.17.0 - June 27, 2023
 
-
-
-## 1.16.0 - June 27, 2023
-
 ### Added
 - A new experimental feature that enables integration with Azure Virtual Desktop applications and desktops
 - The ability to reuse the same app across multiple widget variants
