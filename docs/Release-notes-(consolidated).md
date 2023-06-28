@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.18.0 - June 28, 2023
+
+### Fixed
+- An issue where improper initialisation of the Apps list caused an error in some occasions
+
 ## [Apps](./Widgets/Apps.md) 1.17.0 - June 27, 2023
 
 ### Added
