@@ -1,3 +1,8 @@
+## 1.19.0 - June 29, 2023
+
+### Fixed
+- An issue where provisioning the app storage list failed due to limited permissions
+
 ## 1.18.0 - June 28, 2023
 
 ### Fixed
