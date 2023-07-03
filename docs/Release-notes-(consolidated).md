@@ -1,5 +1,8 @@
 ## [Apps](./Widgets/Apps.md) 1.20.0 - July 03, 2023
 
+### Fixed
+- An issue where AVD apps didn't open from within Teams client
+
 ## [Apps](./Widgets/Apps.md) 1.19.0 - June 29, 2023
 
 ### Fixed
@@ -1026,7 +1029,7 @@ Initial release
 - `37%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
 
-## [OneDrive](./Widgets/OneDrive.md) 1.5.0 - October 07, 2021
+## [OneDrive](./Widgets/Files.md) 1.5.0 - October 07, 2021
 
 ### Changed
 - `41%` optimization in bundle size due to use of external modules
@@ -1131,16 +1134,16 @@ Initial release
 ### Changed
 - Improved display of unread messages for better readability
 
-## [OneDrive](./Widgets/OneDrive.md) 1.4.0 - June 30, 2021
+## [OneDrive](./Widgets/Files.md) 1.4.0 - June 30, 2021
 
 
 
-## [OneDrive](./Widgets/OneDrive.md) 1.3.0 - June 30, 2021
+## [OneDrive](./Widgets/Files.md) 1.3.0 - June 30, 2021
 
 ### Fixed 
 - An issue where a missing webDavUrl property can result in an exception in the widget
 
-## [OneDrive](./Widgets/OneDrive.md) 1.2.0 - June 30, 2021
+## [OneDrive](./Widgets/Files.md) 1.2.0 - June 30, 2021
 
 ### Changed
 - Implementation of logging functionality

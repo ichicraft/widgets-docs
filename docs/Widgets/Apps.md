@@ -1,5 +1,8 @@
 ## 1.20.0 - July 03, 2023
 
+### Fixed
+- An issue where AVD apps didn't open from within Teams client
+
 ## 1.19.0 - June 29, 2023
 
 ### Fixed
