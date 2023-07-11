@@ -1,3 +1,13 @@
+## [News](./Widgets/News.md) 1.16.0 - July 11, 2023
+
+### Added
+- Support for SharePoint audience targeting
+- Possibility to create new news articles straight from the widget header
+- Support for the Repost Page content type (news from external sources)
+
+### Changed
+- Carrousel is updated to reflect new style
+
 ## [Apps](./Widgets/Apps.md) 1.20.0 - July 03, 2023
 
 ### Fixed
