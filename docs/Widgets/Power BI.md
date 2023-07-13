@@ -1,3 +1,8 @@
+## 1.37.0 - July 13, 2023
+
+###Added
+- The ability to configure a subtitle for PBI content
+
 ## 1.36.0 - June 19, 2023
 
 ###Fixed

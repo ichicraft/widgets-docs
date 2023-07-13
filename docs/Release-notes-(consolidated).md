@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.37.0 - July 13, 2023
+
+###Added
+- The ability to configure a subtitle for PBI content
+
 ## [News](./Widgets/News.md) 1.16.0 - July 11, 2023
 
 ### Added
