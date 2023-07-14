@@ -1,10 +1,10 @@
 ## [External Feeds](./Widgets/External Feeds.md) 1.11.0 - July 14, 2023
 
-# Changed
-- Upgraded UI to use new carousel
-
 ### Added
-- Support for an extra field that could contain the image url: **itunes:image**.
+- Support for an extra field that could contain the image url: **itunes:image**
+
+### Changed
+- Upgraded UI to use new carousel
 
 ## [Power BI](./Widgets/Power BI.md) 1.37.0 - July 13, 2023
 
