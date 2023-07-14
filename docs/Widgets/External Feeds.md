@@ -1,3 +1,11 @@
+## 1.11.0 - July 14, 2023
+
+# Changed
+- Upgraded UI to use new carousel
+
+### Added
+- Support for an extra field that could contain the image url: **itunes:image**.
+
 ## 1.10.0 - May 01, 2023
 
 ### Added
