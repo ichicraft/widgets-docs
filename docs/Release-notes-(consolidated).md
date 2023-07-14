@@ -1,3 +1,15 @@
+## [Widget Board](./Widget Board.md) 1.64.12 - July 14, 2023
+
+### Added
+- The option to collapse the left navigation
+- Some extra CSS override classes in the welcome message
+
+### Changed
+- Audience targeted widgets are no longer visible to visitors of a shared board who are not in the audience of that widget
+
+### Fixed
+- An issue where in some specific scenario, a non-owner of a shared board was able to update that board
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.11.0 - July 14, 2023
 
 ### Added
