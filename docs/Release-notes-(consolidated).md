@@ -1,3 +1,5 @@
+## [Apps](./Widgets/Apps.md) 1.21.0 - July 17, 2023
+
 ## [Widget Board](./Widget Board.md) 1.64.12 - July 14, 2023
 
 ### Added
