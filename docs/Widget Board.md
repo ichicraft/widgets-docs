@@ -1,3 +1,8 @@
+## 1.64.13 - July 17, 2023
+
+### Fixed
+- An issue where the navigation panel sometimes closed automatically in Teams
+
 ## 1.64.12 - July 14, 2023
 
 ### Added
