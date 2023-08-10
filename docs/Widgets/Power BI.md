@@ -1,3 +1,12 @@
+## 1.38.0 - August 10, 2023
+
+### Fixed
+- An issue where the embed disappears when resizing window or going fullscreen
+- An issue where slicers are not updated when using the clear button on the embed
+
+### Changed
+- Refactored the content dialog to reuse the same embed code as the carousel &amp; preview
+
 ## 1.37.0 - July 13, 2023
 
 ###Added
