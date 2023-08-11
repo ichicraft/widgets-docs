@@ -1,3 +1,16 @@
+## [Widget Board](./Widget Board.md) 1.64.14 - August 11, 2023
+
+### Added
+- Option to quickly access a widget&#x27;s admin configuration from a widget on a board using the widget&#x27;s context menu
+- Browser check to warn a user that changes in board configuration might get lost when board updates aren&#x27;t saved yet
+
+### Changed
+- Minor updates to styling of widget&#x27;s context menu
+- Changed positioning of Configuration and Trial message bars
+
+### Fixed
+- An issue where th
+
 ## [Power BI](./Widgets/Power BI.md) 1.38.0 - August 10, 2023
 
 ### Fixed
