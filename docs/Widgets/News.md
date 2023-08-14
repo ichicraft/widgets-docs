@@ -1,3 +1,17 @@
+## 1.17.0 - August 14, 2023
+
+### Added
+- Number of views per article
+- A new &#x27;Open in new window&#x27; button from within a dialog
+- An animation when hovering over an article
+
+### Changed
+- The number of articles placed on a grid row, offering more space for articles
+- Small visual improvements
+
+### Fixed
+- A bug where sometimes the recent sites can&#x27;t be loaded in the Create News Post dialog
+
 ## 1.16.0 - July 11, 2023
 
 ### Added
