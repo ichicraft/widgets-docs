@@ -9,7 +9,7 @@
 - Changed positioning of Configuration and Trial message bars
 
 ### Fixed
-- An issue where th
+- An issue where the web part wouldn&#x27;t render correctly when the (SP) page is in edit mode
 
 ## 1.64.13 - July 17, 2023
 

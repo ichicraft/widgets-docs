@@ -9,7 +9,7 @@
 - Changed positioning of Configuration and Trial message bars
 
 ### Fixed
-- An issue where th
+- An issue where the web part wouldn&#x27;t render correctly when the (SP) page is in edit mode
 
 ## [Power BI](./Widgets/Power BI.md) 1.38.0 - August 10, 2023
 
