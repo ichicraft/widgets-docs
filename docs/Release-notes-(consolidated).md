@@ -1,3 +1,11 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.12.0 - August 15, 2023
+
+### Added
+- Support for an extra field that could contain the image url: **media:thumbnail**
+
+### Changed
+- Complete refactoring of solution to match new standards
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.0.0 - August 15, 2023
 
 ### Changed

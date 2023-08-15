@@ -1,3 +1,11 @@
+## 1.12.0 - August 15, 2023
+
+### Added
+- Support for an extra field that could contain the image url: **media:thumbnail**
+
+### Changed
+- Complete refactoring of solution to match new standards
+
 ## 1.11.0 - July 14, 2023
 
 ### Added
