@@ -1,3 +1,8 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.13.0 - August 15, 2023
+
+### Fixed
+- An issue where the widget only shows one RSS feed at a time
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.12.0 - August 15, 2023
 
 ### Added
