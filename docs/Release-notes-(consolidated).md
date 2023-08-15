@@ -1,3 +1,8 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.0.0 - August 15, 2023
+
+### Changed
+- New visualization for carousel
+
 ## [News](./Widgets/News.md) 1.17.0 - August 14, 2023
 
 ### Added

@@ -1,3 +1,8 @@
+## 1.0.0 - August 15, 2023
+
+### Changed
+- New visualization for carousel
+
 ## 0.5.0 - June 21, 2023
 
 ### Fixed
