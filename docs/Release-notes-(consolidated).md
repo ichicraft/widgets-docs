@@ -7,7 +7,11 @@
 - Automatically filling the Ichicraft Product Key during subsequent installations within a single tenant
 
 ### Fixed
-- An issue where the catalog of ins
+- An issue where the catalog of installable widgets wasn&#x27;t sorted alphabetically
+- An issue where the buttons in the widget configuration panel were rendered on top of content
+- An issue where a hex color in CSS wasn&#x27;t applied correctly in Teams
+- An issue where board configuration cache invalidation didn&#x27;t work correctly in certain scenarios
+
 
 ## [External Feeds](./Widgets/External Feeds.md) 1.13.0 - August 15, 2023
 
