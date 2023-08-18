@@ -1,3 +1,14 @@
+## 1.64.15 - August 18, 2023
+
+### Added
+- A **new feature** that allows users to update their profile right from their boards
+- A warning message when admins leave the page without saving board configuration updates
+- Searching for widgets is now possible on a widget&#x27;s subtitle
+- Automatically filling the Ichicraft Product Key during subsequent installations within a single tenant
+
+### Fixed
+- An issue where the catalog of ins
+
 ## 1.64.14 - August 11, 2023
 
 ### Added

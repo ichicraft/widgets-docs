@@ -1,3 +1,14 @@
+## [Widget Board](./Widget Board.md) 1.64.15 - August 18, 2023
+
+### Added
+- A **new feature** that allows users to update their profile right from their boards
+- A warning message when admins leave the page without saving board configuration updates
+- Searching for widgets is now possible on a widget&#x27;s subtitle
+- Automatically filling the Ichicraft Product Key during subsequent installations within a single tenant
+
+### Fixed
+- An issue where the catalog of ins
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.13.0 - August 15, 2023
 
 ### Fixed
