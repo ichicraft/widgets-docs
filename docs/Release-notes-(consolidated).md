@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.16 - August 22, 2023
+
+### Fixed
+- An issue with a newer version of the installation package failing to load the Boards web part correctly
+
 ## [Widget Board](./Widget Board.md) 1.64.15 - August 18, 2023
 
 ### Added
