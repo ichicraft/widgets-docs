@@ -1,3 +1,9 @@
+## 1.18.0 - August 22, 2023
+
+### Fixed
+- An issue with error handling for News article thumbnails
+- Unnecessary use of the date-fns package
+
 ## 1.17.0 - August 14, 2023
 
 ### Added

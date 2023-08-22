@@ -1,3 +1,9 @@
+## [News](./Widgets/News.md) 1.18.0 - August 22, 2023
+
+### Fixed
+- An issue with error handling for News article thumbnails
+- Unnecessary use of the date-fns package
+
 ## [Widget Board](./Widget Board.md) 1.64.16 - August 22, 2023
 
 ### Fixed
