@@ -1,3 +1,19 @@
+## [Apps](./Widgets/Apps.md) 1.22.0 - August 23, 2023
+
+### Added
+- Default value support for managed metadata fields
+
+### Fixed
+- Carousel visualization
+- Backwards compatibility issues where it is assumed an app catalog already exists
+- Missing translation key for contact details
+- Localization issues when migrating to catalog system
+
+### Changed
+- Improved UX design for admin configuration
+- Improved UX design for user configuration
+- Different info
+
 ## [News](./Widgets/News.md) 1.18.0 - August 22, 2023
 
 ### Fixed
