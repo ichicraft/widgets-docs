@@ -1,3 +1,7 @@
+## [Apps](./Widgets/Apps.md) 1.23.0 - August 23, 2023
+
+
+
 ## [Apps](./Widgets/Apps.md) 1.22.0 - August 23, 2023
 
 ### Added
