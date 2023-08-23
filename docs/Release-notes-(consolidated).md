@@ -1,9 +1,5 @@
 ## [Apps](./Widgets/Apps.md) 1.23.0 - August 23, 2023
 
-
-
-## [Apps](./Widgets/Apps.md) 1.22.0 - August 23, 2023
-
 ### Added
 - Default value support for managed metadata fields
 
@@ -16,7 +12,7 @@
 ### Changed
 - Improved UX design for admin configuration
 - Improved UX design for user configuration
-- Different info
+- Different info icon in the app list when an extended description is available
 
 ## [News](./Widgets/News.md) 1.18.0 - August 22, 2023
 
@@ -102,8 +98,6 @@
 
 ### Fixed
 - An issue where the navigation panel sometimes closed automatically in Teams
-
-## [Apps](./Widgets/Apps.md) 1.21.0 - July 17, 2023
 
 ## [Widget Board](./Widget Board.md) 1.64.12 - July 14, 2023
 

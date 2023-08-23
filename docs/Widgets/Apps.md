@@ -1,9 +1,5 @@
 ## 1.23.0 - August 23, 2023
 
-
-
-## 1.22.0 - August 23, 2023
-
 ### Added
 - Default value support for managed metadata fields
 
@@ -16,9 +12,7 @@
 ### Changed
 - Improved UX design for admin configuration
 - Improved UX design for user configuration
-- Different info
-
-## 1.21.0 - July 17, 2023
+- Different info icon in the app list when an extended description is available
 
 ## 1.20.0 - July 03, 2023
 
