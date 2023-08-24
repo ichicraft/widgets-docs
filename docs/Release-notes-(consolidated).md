@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.24.0 - August 24, 2023
+
+### Fixed
+- An issue where the new App launcher didn&#x27;t work in Boards Lite
+
 ## [Power BI](./Widgets/Power BI.md) 1.39.0 - August 24, 2023
 
 ### Fixed

@@ -1,3 +1,8 @@
+## 1.24.0 - August 24, 2023
+
+### Fixed
+- An issue where the new App launcher didn&#x27;t work in Boards Lite
+
 ## 1.23.0 - August 23, 2023
 
 ### Added
