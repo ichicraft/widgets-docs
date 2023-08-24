@@ -1,3 +1,11 @@
+## 1.25.0 - August 24, 2023
+
+### Fixed
+- An issue where extended description callouts would always open on touchscreen devices
+- An issue where touchscreen devices would always render the widget in compact mode
+- An issue where no top padding was applied in the extended description dialog
+- An issue in Boards Lite where the save/cancel buttons in the UserConfig panel were not clickable
+
 ## 1.24.0 - August 24, 2023
 
 ### Fixed
