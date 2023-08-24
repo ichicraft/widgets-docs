@@ -1,3 +1,8 @@
+## 1.39.0 - August 24, 2023
+
+### Fixed
+- An issue where horizontal navigation pivots for list layouts would not update correctly
+
 ## 1.38.0 - August 10, 2023
 
 ### Fixed
