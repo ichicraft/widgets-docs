@@ -1,3 +1,8 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.14.0 - August 25, 2023
+
+### Added
+- Support for an extra field that could contain the image url: **media.group &gt; media:thumbnail**
+
 ## [Apps](./Widgets/Apps.md) 1.25.0 - August 24, 2023
 
 ### Fixed

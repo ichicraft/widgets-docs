@@ -1,3 +1,8 @@
+## 1.14.0 - August 25, 2023
+
+### Added
+- Support for an extra field that could contain the image url: **media.group &gt; media:thumbnail**
+
 ## 1.13.0 - August 15, 2023
 
 ### Fixed
