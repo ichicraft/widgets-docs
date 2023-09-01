@@ -1,3 +1,12 @@
+## 1.19.0 - September 01, 2023
+
+### Changed
+- Site titles in news items are now clickable and navigate to appropriate site
+
+### Fixed
+- An issue where searching for sites in the followed sites picker resulted in endless refreshes
+- An issue where in a specific scenario, news items could show up twice in the widget
+
 ## 1.18.0 - August 22, 2023
 
 ### Fixed
