@@ -1,3 +1,9 @@
+## 1.64.17 - September 07, 2023
+
+### Added
+
+- A **new feature** that allows designated users to publish urgent messages to specific boards or to the entire organisation
+
 ## 1.64.16 - August 22, 2023
 
 ### Fixed

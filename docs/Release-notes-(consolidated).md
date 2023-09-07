@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.64.17 - September 07, 2023
+
+### Added
+
+- A **new feature** that allows designated users to publish urgent messages to specific boards or to the entire organisation
+
 ## [News](./Widgets/News.md) 1.19.0 - September 01, 2023
 
 ### Changed
