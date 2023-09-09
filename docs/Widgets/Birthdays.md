@@ -1,3 +1,8 @@
+## 1.7.0 - September 09, 2023
+
+### Fixed
+- An issue that occurs in a situation where users&#x27; login names aren&#x27;t identical to their primary e-mail addresses
+
 ## 1.6.0 - December 19, 2022
 
 ### Fixed

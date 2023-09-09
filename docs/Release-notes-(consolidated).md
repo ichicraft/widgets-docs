@@ -1,3 +1,8 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.7.0 - September 09, 2023
+
+### Fixed
+- An issue that occurs in a situation where users&#x27; login names aren&#x27;t identical to their primary e-mail addresses
+
 ## [Widget Board](./Widget Board.md) 1.64.17 - September 07, 2023
 
 ### Added
