@@ -1,3 +1,7 @@
+## [Sticky Notes](./Widgets/Sticky Notes.md) 0.1.0 - September 12, 2023
+
+Initial release
+
 ## [Widget Board](./Widget Board.md) 1.64.18 - September 11, 2023
 
 Minor system update
