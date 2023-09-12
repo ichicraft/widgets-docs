@@ -1,4 +1,4 @@
-## [Sticky Notes](./Widgets/Sticky Notes.md) 0.1.0 - September 12, 2023
+## [Sticky Notes](./Widgets/Sticky Notes.md) 1.0.0 - September 12, 2023
 
 Initial release
 
