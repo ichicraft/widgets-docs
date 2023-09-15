@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.40.0 - September 15, 2023
+
+### Fixed
+- An issue where Power BI embeds are reloaded when resizing the browser window
+
 ## [Sticky Notes](./Widgets/Sticky Notes.md) 1.1.0 - September 13, 2023
 
 ### Fixed

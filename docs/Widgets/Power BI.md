@@ -1,3 +1,8 @@
+## 1.40.0 - September 15, 2023
+
+### Fixed
+- An issue where Power BI embeds are reloaded when resizing the browser window
+
 ## 1.39.0 - August 24, 2023
 
 ### Fixed
