@@ -1,3 +1,7 @@
+## [Banner](./Widgets/Banner.md) 0.1.0 - September 18, 2023
+
+Initial release
+
 ## [Power BI](./Widgets/Power BI.md) 1.40.0 - September 15, 2023
 
 ### Fixed
