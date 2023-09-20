@@ -1,4 +1,4 @@
-## [Banner](./Widgets/Banner.md) 0.1.0 - September 18, 2023
+## [Banner](./Widgets/Banner.md) 1.0.0 - September 18, 2023
 
 Initial release
 
