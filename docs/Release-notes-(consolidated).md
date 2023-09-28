@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.41.0 - September 28, 2023
+
+###Fixed
+- An issue where the horizontal page navigation would not correctly apply the selected page
+
 ## [Banner](./Widgets/Banner.md) 1.0.0 - September 18, 2023
 
 Initial release

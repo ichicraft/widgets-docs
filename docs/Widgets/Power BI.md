@@ -1,3 +1,8 @@
+## 1.41.0 - September 28, 2023
+
+###Fixed
+- An issue where the horizontal page navigation would not correctly apply the selected page
+
 ## 1.40.0 - September 15, 2023
 
 ### Fixed
