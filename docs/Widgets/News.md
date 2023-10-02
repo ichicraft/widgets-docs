@@ -1,3 +1,18 @@
+## 1.20.0 - October 02, 2023
+
+### Added
+- Autoplay on slides
+- Audience mechanism on selected sites
+- Expanded push mechanism on selected sites
+- Ability for users to manage their own sites
+
+### Changed
+- Improved news post rendering
+- Improved overall UI and UX
+- Improved site selection functionality
+- Sites now display their own icon
+- Simplified followed sites feature
+
 ## 1.19.0 - September 01, 2023
 
 ### Changed
