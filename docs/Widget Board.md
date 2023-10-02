@@ -1,3 +1,9 @@
+## 1.64.19 - October 02, 2023
+
+### Fixed
+- Some smaller issues with the recently released urgent messages feature (wrong icon, missing sorting in drop-down list, unfiltered list of messages during onboarding, etc)
+- A German translation that wasn&#x27;t correct
+
 ## 1.64.18 - September 11, 2023
 
 Minor system update

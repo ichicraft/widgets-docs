@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.64.19 - October 02, 2023
+
+### Fixed
+- Some smaller issues with the recently released urgent messages feature (wrong icon, missing sorting in drop-down list, unfiltered list of messages during onboarding, etc)
+- A German translation that wasn&#x27;t correct
+
 ## [Power BI](./Widgets/Power BI.md) 1.41.0 - September 28, 2023
 
 ###Fixed
