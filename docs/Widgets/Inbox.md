@@ -1,3 +1,16 @@
+## 1.9.0 - October 04, 2023
+
+### Added
+- Shared mailbox now supports adding an e-mail address if a user could not be found
+
+### Changed
+- Improved UI for user configuration panel
+
+### Fixed
+- An issue in Boards Lite where shared mailbox functionality could not be used
+
+
+
 ## 1.8.0 - December 19, 2022
 
 ### Added

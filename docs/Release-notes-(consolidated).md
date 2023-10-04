@@ -1,3 +1,16 @@
+## [Inbox](./Widgets/Inbox.md) 1.9.0 - October 04, 2023
+
+### Added
+- Shared mailbox now supports adding an e-mail address if a user could not be found
+
+### Changed
+- Improved UI for user configuration panel
+
+### Fixed
+- An issue in Boards Lite where shared mailbox functionality could not be used
+
+
+
 ## [News](./Widgets/News.md) 1.20.0 - October 02, 2023
 
 ### Added
