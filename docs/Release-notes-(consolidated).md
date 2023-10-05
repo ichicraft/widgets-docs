@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.20 - October 05, 2023
+
+### Fixed
+- An issue where creating urgent messages fails in certain scenarios
+
 ## [Inbox](./Widgets/Inbox.md) 1.9.0 - October 04, 2023
 
 ### Added

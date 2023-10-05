@@ -1,3 +1,8 @@
+## 1.64.20 - October 05, 2023
+
+### Fixed
+- An issue where creating urgent messages fails in certain scenarios
+
 ## 1.64.19 - October 02, 2023
 
 ### Fixed
