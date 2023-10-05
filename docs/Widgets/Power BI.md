@@ -1,3 +1,8 @@
+## 1.42.0 - October 05, 2023
+
+### Fixed
+- An issue where cached filters were not applied on load
+
 ## 1.41.0 - September 28, 2023
 
 ###Fixed

@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.42.0 - October 05, 2023
+
+### Fixed
+- An issue where cached filters were not applied on load
+
 ## [Widget Board](./Widget Board.md) 1.64.20 - October 05, 2023
 
 ### Fixed
