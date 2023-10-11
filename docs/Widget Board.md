@@ -1,3 +1,14 @@
+## 1.64.22 - October 11, 2023
+
+### Added
+- Widget variants can now have an icon representation instead of just a thumbnail
+
+### Changed
+- Improved widget details panel
+
+### Fixed
+- A bug where custom theme colors didn&#x27;t work correctly
+
 ## 1.64.20 - October 05, 2023
 
 ### Fixed
