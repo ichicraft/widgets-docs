@@ -1,3 +1,13 @@
+## 1.21.0 - October 11, 2023
+
+### Added
+- News preview in admin config
+- Option to change the overlay color and opacity
+
+### Changed
+- Improved UX of user picker fields
+- Empty widget now shows thumbnail icon
+
 ## 1.20.0 - October 02, 2023
 
 ### Added

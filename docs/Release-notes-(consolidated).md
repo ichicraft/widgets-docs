@@ -1,3 +1,13 @@
+## [News](./Widgets/News.md) 1.21.0 - October 11, 2023
+
+### Added
+- News preview in admin config
+- Option to change the overlay color and opacity
+
+### Changed
+- Improved UX of user picker fields
+- Empty widget now shows thumbnail icon
+
 ## [Widget Board](./Widget Board.md) 1.64.22 - October 11, 2023
 
 ### Added
