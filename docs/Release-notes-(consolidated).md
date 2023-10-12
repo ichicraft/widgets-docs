@@ -1,3 +1,7 @@
+## [Clocks](./Widgets/Clocks.md) 0.1.0 - October 12, 2023
+
+
+
 ## [News](./Widgets/News.md) 1.21.0 - October 11, 2023
 
 ### Added
