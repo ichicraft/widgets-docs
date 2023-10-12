@@ -1,6 +1,6 @@
-## [Clocks](./Widgets/Clocks.md) 0.1.0 - October 12, 2023
+## [World Clock](./Widgets/World Clock.md) 1.0.0 - October 12, 2023
 
-
+Initial release
 
 ## [News](./Widgets/News.md) 1.21.0 - October 11, 2023
 
