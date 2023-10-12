@@ -18,6 +18,7 @@
 
 ### Fixed
 - A bug where custom theme colors didn&#x27;t work correctly
+- A bug where in the Teams client, the navigation bar wasn&#x27;t scrollable when there are lots of menu items
 
 ## [Power BI](./Widgets/Power BI.md) 1.42.0 - October 05, 2023
 
