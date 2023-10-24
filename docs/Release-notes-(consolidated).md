@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.23 - October 24, 2023
+
+### Added
+- Several CSS classes to the navigation elements to override the show/hide toggle
+
 ## [World Clock](./Widgets/World Clock.md) 1.0.0 - October 12, 2023
 
 Initial release

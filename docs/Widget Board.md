@@ -1,3 +1,8 @@
+## 1.64.23 - October 24, 2023
+
+### Added
+- Several CSS classes to the navigation elements to override the show/hide toggle
+
 ## 1.64.22 - October 11, 2023
 
 ### Added
