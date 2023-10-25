@@ -1,3 +1,8 @@
+## 1.64.24 - October 25, 2023
+
+### Fixed
+- an issue where the People Picker didn&#x27;t always store data correctly
+
 ## 1.64.23 - October 24, 2023
 
 ### Added
