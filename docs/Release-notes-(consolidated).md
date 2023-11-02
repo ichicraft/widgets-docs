@@ -1,3 +1,9 @@
+## [News](./Widgets/News.md) 1.22.0 - November 02, 2023
+
+### Changed
+- Sites now display the Site logo thumbnail instead of the Site logo
+- News posts now use a different thumbnail url, resulting in higher resolution images in most cases
+
 ## [Widget Board](./Widget Board.md) 1.64.24 - October 25, 2023
 
 ### Fixed

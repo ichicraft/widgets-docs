@@ -1,3 +1,9 @@
+## 1.22.0 - November 02, 2023
+
+### Changed
+- Sites now display the Site logo thumbnail instead of the Site logo
+- News posts now use a different thumbnail url, resulting in higher resolution images in most cases
+
 ## 1.21.0 - October 11, 2023
 
 ### Added
