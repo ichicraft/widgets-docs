@@ -1,3 +1,8 @@
+## 1.23.0 - November 08, 2023
+
+### Fixed
+- An issue where once boosted news articles were no longer visible in certain configurations
+
 ## 1.22.0 - November 02, 2023
 
 ### Changed
