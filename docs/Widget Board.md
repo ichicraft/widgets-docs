@@ -1,3 +1,9 @@
+## 1.64.25 - November 09, 2023
+
+### Fixed
+- An issue where in some cases the icon for resetting something wasn&#x27;t visible
+- An issue where selecting a board template in some screen resolutions caused automatic deselecting, leaving a user unable to pick a template
+
 ## 1.64.24 - October 25, 2023
 
 ### Fixed

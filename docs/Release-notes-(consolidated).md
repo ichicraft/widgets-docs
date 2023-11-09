@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.64.25 - November 09, 2023
+
+### Fixed
+- An issue where in some cases the icon for resetting something wasn&#x27;t visible
+- An issue where selecting a board template in some screen resolutions caused automatic deselecting, leaving a user unable to pick a template
+
 ## [News](./Widgets/News.md) 1.23.0 - November 08, 2023
 
 ### Fixed
