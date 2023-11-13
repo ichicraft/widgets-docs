@@ -1,3 +1,13 @@
+## [News](./Widgets/News.md) 1.24.0 - November 13, 2023
+
+### Changed
+- Implemented retrying fetching news articles on sporadic API errors
+
+### Added
+- Auto refreshing is now available, making sure items keep updating in the background when window is open for a longer period of time
+
+
+
 ## [Widget Board](./Widget Board.md) 1.64.25 - November 09, 2023
 
 ### Fixed
