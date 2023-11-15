@@ -1,3 +1,11 @@
+## 1.43.0 - November 15, 2023
+
+### Fixed
+- An issue with the user picker, used for audience targeting
+
+### Changed
+- Removed 15 minute cache delay
+
 ## 1.42.0 - October 05, 2023
 
 ### Fixed
