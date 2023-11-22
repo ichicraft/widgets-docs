@@ -1,3 +1,14 @@
+## [Widget Board](./Widget Board.md) 1.64.26 - November 22, 2023
+
+### Added
+- New functionality to fully backup (or restore) an installation of Ichicraft Boards
+
+### Fixed
+- An issue where the wrong fields were rendered in the Teams admin section
+- An issue where the navigation showed a footer section under the wrong circumstances
+- An issue where an error occurred if the manifest of a widget could not be loaded
+- An issue where an error occurred if no translati
+
 ## [Power BI](./Widgets/Power BI.md) 1.43.0 - November 15, 2023
 
 ### Fixed

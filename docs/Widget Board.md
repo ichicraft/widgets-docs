@@ -1,3 +1,14 @@
+## 1.64.26 - November 22, 2023
+
+### Added
+- New functionality to fully backup (or restore) an installation of Ichicraft Boards
+
+### Fixed
+- An issue where the wrong fields were rendered in the Teams admin section
+- An issue where the navigation showed a footer section under the wrong circumstances
+- An issue where an error occurred if the manifest of a widget could not be loaded
+- An issue where an error occurred if no translati
+
 ## 1.64.25 - November 09, 2023
 
 ### Fixed
