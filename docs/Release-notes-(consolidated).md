@@ -1,3 +1,8 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.1.0 - November 22, 2023
+
+###Added
+- Support for import/export feature
+
 ## [Apps](./Widgets/Apps.md) 1.26.0 - November 22, 2023
 
 ### Changed

@@ -1,3 +1,8 @@
+## 1.1.0 - November 22, 2023
+
+###Added
+- Support for import/export feature
+
 ## 1.0.0 - August 15, 2023
 
 ### Changed
