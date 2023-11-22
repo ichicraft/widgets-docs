@@ -1,3 +1,11 @@
+## [Apps](./Widgets/Apps.md) 1.26.0 - November 22, 2023
+
+### Changed
+- Minor styling change in carousel component to allow for more controlled overrides
+
+### Added
+- Support for new Boards import/export feature
+
 ## [Widget Board](./Widget Board.md) 1.64.26 - November 22, 2023
 
 ### Added

@@ -1,3 +1,11 @@
+## 1.26.0 - November 22, 2023
+
+### Changed
+- Minor styling change in carousel component to allow for more controlled overrides
+
+### Added
+- Support for new Boards import/export feature
+
 ## 1.25.0 - August 24, 2023
 
 ### Fixed
