@@ -20,7 +20,10 @@
 - An issue where the wrong fields were rendered in the Teams admin section
 - An issue where the navigation showed a footer section under the wrong circumstances
 - An issue where an error occurred if the manifest of a widget could not be loaded
-- An issue where an error occurred if no translati
+- An issue where an error occurred if no translations were available in the manifest of a widget
+
+### Changed
+- Widgets can now have an icon as default thumbnail
 
 ## [Power BI](./Widgets/Power BI.md) 1.43.0 - November 15, 2023
 
