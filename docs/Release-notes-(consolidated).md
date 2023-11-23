@@ -1,3 +1,9 @@
+## [News](./Widgets/News.md) 1.25.0 - November 23, 2023
+
+### Fixed
+- Slow initial loading time
+- Removed icon thumbnail image
+
 ## [Banner](./Widgets/Banner.md) 1.1.0 - November 23, 2023
 
 ### Fixed

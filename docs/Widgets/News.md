@@ -1,3 +1,9 @@
+## 1.25.0 - November 23, 2023
+
+### Fixed
+- Slow initial loading time
+- Removed icon thumbnail image
+
 ## 1.24.0 - November 13, 2023
 
 ### Changed
