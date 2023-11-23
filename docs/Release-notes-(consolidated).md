@@ -1,3 +1,8 @@
+## [Banner](./Widgets/Banner.md) 1.1.0 - November 23, 2023
+
+### Fixed
+- Slow initial loading time
+
 ## [Apps](./Widgets/Apps.md) 1.27.0 - November 23, 2023
 
 ### Added
