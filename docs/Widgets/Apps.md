@@ -1,3 +1,9 @@
+## 1.27.0 - November 23, 2023
+
+### Added
+
+- Support for 6 column layouts
+
 ## 1.26.0 - November 22, 2023
 
 ### Changed

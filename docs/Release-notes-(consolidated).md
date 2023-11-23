@@ -1,3 +1,9 @@
+## [Apps](./Widgets/Apps.md) 1.27.0 - November 23, 2023
+
+### Added
+
+- Support for 6 column layouts
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.1.0 - November 22, 2023
 
 ###Added
