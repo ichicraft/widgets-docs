@@ -1,3 +1,8 @@
+## 1.4.0 - November 30, 2023
+
+### Changed
+- Optimization of widget script bundle size
+
 ## 1.3.0 - April 20, 2023
 
 ### Added

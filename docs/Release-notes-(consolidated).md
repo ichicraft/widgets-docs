@@ -1,3 +1,8 @@
+## [Embed](./Widgets/Embed.md) 1.4.0 - November 30, 2023
+
+### Changed
+- Optimization of widget script bundle size
+
 ## [Countdown](./Widgets/Countdown.md) 1.1.0 - November 30, 2023
 
 ### Changed
