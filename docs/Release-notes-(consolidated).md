@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.26.0 - November 30, 2023
+
+### Changed
+- Optimization of widget script bundle size
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.2.0 - November 30, 2023
 
 ### Fixed
