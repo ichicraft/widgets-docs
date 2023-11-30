@@ -1,3 +1,11 @@
+## [Power BI](./Widgets/Power BI.md) 1.44.0 - November 30, 2023
+
+### Fixed
+- An issue where switching source type to Dashboard caused an exception
+
+### Changed
+- Optimization of widget script bundle size
+
 ## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.7.0 - November 30, 2023
 
 ### Changed

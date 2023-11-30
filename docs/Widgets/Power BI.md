@@ -1,3 +1,11 @@
+## 1.44.0 - November 30, 2023
+
+### Fixed
+- An issue where switching source type to Dashboard caused an exception
+
+### Changed
+- Optimization of widget script bundle size
+
 ## 1.43.0 - November 15, 2023
 
 ### Fixed
