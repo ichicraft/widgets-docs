@@ -1,3 +1,12 @@
+## 1.2.0 - November 30, 2023
+
+### Fixed
+- An issue where the carousel didn&#x27;t always proceed to the right slide
+- An issue where missing content translations could cause an error
+
+### Changed
+- Optimization of widget script bundle size
+
 ## 1.1.0 - November 22, 2023
 
 ###Added
