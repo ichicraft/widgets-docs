@@ -1,3 +1,8 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.15.0 - November 30, 2023
+
+### Changed
+- Optimization of widget script bundle size
+
 ## [Bookmarks](./Widgets/Bookmarks.md) 1.6.0 - November 30, 2023
 
 ### Changed
