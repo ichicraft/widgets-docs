@@ -1,3 +1,8 @@
+## [Events](./Widgets/Events.md) 1.10.0 - November 30, 2023
+
+### Changed
+- Optimization of widget script bundle size
+
 ## [Embed](./Widgets/Embed.md) 1.4.0 - November 30, 2023
 
 ### Changed
