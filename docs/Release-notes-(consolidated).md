@@ -1,3 +1,8 @@
+## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.7.0 - November 30, 2023
+
+### Changed
+- Optimization of widget script bundle size
+
 ## [Tasks](./Widgets/Tasks.md) 1.6.0 - November 30, 2023
 
 ### Changed
