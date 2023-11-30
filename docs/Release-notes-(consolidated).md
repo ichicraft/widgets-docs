@@ -1,3 +1,8 @@
+## [Bookmarks](./Widgets/Bookmarks.md) 1.6.0 - November 30, 2023
+
+### Changed
+- Optimization of widget script bundle size
+
 ## [News](./Widgets/News.md) 1.26.0 - November 30, 2023
 
 ### Changed
