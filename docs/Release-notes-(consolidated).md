@@ -1,3 +1,8 @@
+## [Countdown](./Widgets/Countdown.md) 1.1.0 - November 30, 2023
+
+### Changed
+- Optimization of widget script bundle size
+
 ## [World Clock](./Widgets/World Clock.md) 1.1.0 - November 30, 2023
 
 ### Fixed
