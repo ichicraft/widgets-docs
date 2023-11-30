@@ -1,3 +1,8 @@
+## [Followed Sites](./Widgets/Followed Sites.md) 1.6.0 - November 30, 2023
+
+### Changed
+- Optimization of widget script bundle size
+
 ## [Files](./Widgets/Files.md) 1.9.0 - November 30, 2023
 
 ### Fixed
