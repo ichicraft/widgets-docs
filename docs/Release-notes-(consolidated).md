@@ -1,3 +1,8 @@
+## [Banner](./Widgets/Banner.md) 1.2.0 - November 30, 2023
+
+### Changed
+- Optimization of widget script bundle size
+
 ## [Power BI](./Widgets/Power BI.md) 1.44.0 - November 30, 2023
 
 ### Fixed
