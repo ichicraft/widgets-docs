@@ -1,3 +1,8 @@
+## [Inbox](./Widgets/Inbox.md) 1.10.0 - November 30, 2023
+
+### Changed
+- Optimization of widget script bundle size
+
 ## [Followed Sites](./Widgets/Followed Sites.md) 1.6.0 - November 30, 2023
 
 ### Changed
