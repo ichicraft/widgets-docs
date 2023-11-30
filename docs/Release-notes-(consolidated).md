@@ -1,3 +1,8 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.8.0 - November 30, 2023
+
+### Changed
+- Optimization of widget script bundle size
+
 ## [Apps](./Widgets/Apps.md) 1.28.0 - November 30, 2023
 
 ### Changed
