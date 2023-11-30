@@ -1,3 +1,13 @@
+## [Files](./Widgets/Files.md) 1.9.0 - November 30, 2023
+
+### Fixed
+- A bug where using createdBy filter on Recent tab caused an error
+- A bug where using either modifiedBy or createdBy filter, suggestions weren&#x27;t rendered correctly
+
+### Changed
+- Improved exception logging
+- Optimization of widget script bundle size
+
 ## [Events](./Widgets/Events.md) 1.10.0 - November 30, 2023
 
 ### Changed
