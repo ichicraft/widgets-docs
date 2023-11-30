@@ -1,3 +1,8 @@
+## [Sticky Notes](./Widgets/Sticky Notes.md) 1.2.0 - November 30, 2023
+
+### Changed
+- Optimization of widget script bundle size
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.15.0 - November 30, 2023
 
 ### Changed
