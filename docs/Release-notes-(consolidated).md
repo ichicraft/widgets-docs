@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.28.0 - November 30, 2023
+
+### Changed
+- Optimization of widget script bundle size
+
 ## [News](./Widgets/News.md) 1.25.0 - November 23, 2023
 
 ### Fixed
