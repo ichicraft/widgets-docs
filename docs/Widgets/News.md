@@ -1,3 +1,8 @@
+## 1.27.0 - December 11, 2023
+
+### Changed
+- The widget now uses higher resolution images for news articles
+
 ## 1.26.0 - November 30, 2023
 
 ### Changed

@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.27.0 - December 11, 2023
+
+### Changed
+- The widget now uses higher resolution images for news articles
+
 ## [Widget Board](./Widget Board.md) 1.64.28 - December 11, 2023
 
 ### Added
