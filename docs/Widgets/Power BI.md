@@ -1,3 +1,8 @@
+## 1.45.0 - December 11, 2023
+
+### Added
+- Support for the Power BI embed action bar
+
 ## 1.44.0 - November 30, 2023
 
 ### Fixed

@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.45.0 - December 11, 2023
+
+### Added
+- Support for the Power BI embed action bar
+
 ## [News](./Widgets/News.md) 1.27.0 - December 11, 2023
 
 ### Changed
