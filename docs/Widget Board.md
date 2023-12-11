@@ -1,3 +1,15 @@
+## 1.64.28 - December 11, 2023
+
+### Added
+- A whole new installation experience, where default configurations can be picked to allow for a more complete first experience of Ichicraft Boards
+- A new CSS class &#x60;icb-Board-RootInner&#x60; for overrides on one of the core elements of Boards
+
+### Changed
+- Removed the manual &quot;Full height&quot; setting and replaced this with smart detection of optimal rendering
+
+### Fixed
+- Several issues with t
+
 ## 1.64.26 - November 22, 2023
 
 ### Added
