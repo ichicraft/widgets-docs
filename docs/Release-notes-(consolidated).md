@@ -18,7 +18,7 @@
 - Removed the manual &quot;Full height&quot; setting and replaced this with smart detection of optimal rendering
 
 ### Fixed
-- Several issues with t
+- Several issues with the new Backup and Restore advanced features
 
 ## [Banner](./Widgets/Banner.md) 1.2.0 - November 30, 2023
 

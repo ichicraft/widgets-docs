@@ -8,7 +8,7 @@
 - Removed the manual &quot;Full height&quot; setting and replaced this with smart detection of optimal rendering
 
 ### Fixed
-- Several issues with t
+- Several issues with the new Backup and Restore advanced features
 
 ## 1.64.26 - November 22, 2023
 
