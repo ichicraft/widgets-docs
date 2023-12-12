@@ -1,3 +1,8 @@
+## [Inbox](./Widgets/Inbox.md) 1.11.0 - December 12, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
 ## [Power BI](./Widgets/Power BI.md) 1.45.0 - December 11, 2023
 
 ### Added
