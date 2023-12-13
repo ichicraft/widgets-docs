@@ -1,3 +1,9 @@
+## [Countdown](./Widgets/Countdown.md) 1.2.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+
 ## [Banner](./Widgets/Banner.md) 1.3.0 - December 13, 2023
 
 ### Changed
