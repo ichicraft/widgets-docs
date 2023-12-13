@@ -1,3 +1,9 @@
+## [Embed](./Widgets/Embed.md) 1.5.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+
 ## [Countdown](./Widgets/Countdown.md) 1.2.0 - December 13, 2023
 
 ### Changed
