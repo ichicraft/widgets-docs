@@ -1,3 +1,10 @@
+## 1.30.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+Fix language errors during installation
+
 ## 1.28.0 - November 30, 2023
 
 ### Changed

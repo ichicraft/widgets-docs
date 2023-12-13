@@ -1,3 +1,10 @@
+## [Apps](./Widgets/Apps.md) 1.30.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+Fix language errors during installation
+
 ## [World Clock](./Widgets/World Clock.md) 1.2.0 - December 13, 2023
 
 ### Changed
