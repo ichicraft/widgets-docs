@@ -1,3 +1,11 @@
+## 1.7.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+### Fixed
+- An issue where &quot;recently completed tasks&quot; showed all completed tasks, regardless of when they were completed
+
 ## 1.6.0 - November 30, 2023
 
 ### Changed
