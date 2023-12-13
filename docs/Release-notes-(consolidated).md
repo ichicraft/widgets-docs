@@ -1,3 +1,9 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.16.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+
 ## [Power BI](./Widgets/Power BI.md) 1.46.0 - December 13, 2023
 
 ### Changed
