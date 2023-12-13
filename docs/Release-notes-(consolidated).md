@@ -1,3 +1,9 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.9.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+- Upgrade to Graph Toolkit V3
+
 ## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.8.0 - December 13, 2023
 
 ### Changed
