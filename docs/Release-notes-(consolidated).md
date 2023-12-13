@@ -1,3 +1,9 @@
+## [News](./Widgets/News.md) 1.28.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.3.0 - December 13, 2023
 
 ### Changed
