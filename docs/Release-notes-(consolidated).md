@@ -1,3 +1,9 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.3.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+
 ## [Followed Sites](./Widgets/Followed Sites.md) 1.7.0 - December 13, 2023
 
 ### Changed
