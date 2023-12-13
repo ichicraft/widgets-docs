@@ -1,3 +1,9 @@
+## [Banner](./Widgets/Banner.md) 1.3.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+
 ## [Apps](./Widgets/Apps.md) 1.30.0 - December 13, 2023
 
 ### Changed
