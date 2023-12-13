@@ -1,3 +1,9 @@
+## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.8.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+
 ## [Tasks](./Widgets/Tasks.md) 1.7.0 - December 13, 2023
 
 ### Changed
