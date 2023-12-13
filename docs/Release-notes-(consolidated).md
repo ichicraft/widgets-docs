@@ -1,3 +1,9 @@
+## [World Clock](./Widgets/World Clock.md) 1.2.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+
 ## [Inbox](./Widgets/Inbox.md) 1.11.0 - December 12, 2023
 
 ### Changed
