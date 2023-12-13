@@ -1,3 +1,9 @@
+## [Power BI](./Widgets/Power BI.md) 1.46.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+
 ## [Bookmarks](./Widgets/Bookmarks.md) 1.7.0 - December 13, 2023
 
 ### Changed
