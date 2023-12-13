@@ -1,3 +1,9 @@
+## [Saved for Later](./Widgets/Saved for Later.md) 1.5.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+
 ## [Tableau Reports](./Widgets/Tableau Reports.md) 1.5.0 - December 13, 2023
 
 ### Changed
