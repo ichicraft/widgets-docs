@@ -1,3 +1,9 @@
+## [Events](./Widgets/Events.md) 1.11.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+
 ## [Embed](./Widgets/Embed.md) 1.5.0 - December 13, 2023
 
 ### Changed
