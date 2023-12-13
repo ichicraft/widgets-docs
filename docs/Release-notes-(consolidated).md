@@ -1,3 +1,9 @@
+## [Files](./Widgets/Files.md) 1.10.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+
 ## [Events](./Widgets/Events.md) 1.11.0 - December 13, 2023
 
 ### Changed
