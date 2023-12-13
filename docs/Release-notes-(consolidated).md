@@ -1,3 +1,9 @@
+## [Tableau Reports](./Widgets/Tableau Reports.md) 1.5.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+
 ## [Teams](./Widgets/Teams.md) 1.3.0 - December 13, 2023
 
 ### Changed
