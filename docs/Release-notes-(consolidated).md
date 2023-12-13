@@ -1,3 +1,9 @@
+## [Teams](./Widgets/Teams.md) 1.3.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+
 ## [People Search](./Widgets/People Search.md) 1.11.0 - December 13, 2023
 
 ### Changed

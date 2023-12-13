@@ -1,3 +1,9 @@
+## 1.3.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+
 ## 1.2.0 - October 07, 2021
 
 ### Changed
