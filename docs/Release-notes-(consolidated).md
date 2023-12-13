@@ -1,3 +1,9 @@
+## [Sticky Notes](./Widgets/Sticky Notes.md) 1.3.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.16.0 - December 13, 2023
 
 ### Changed
