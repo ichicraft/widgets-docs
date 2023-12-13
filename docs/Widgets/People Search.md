@@ -1,3 +1,9 @@
+## 1.11.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+- Upgrade to Graph Toolkit V3
+
 ## 1.10.0 - July 14, 2022
 
 ### Changed

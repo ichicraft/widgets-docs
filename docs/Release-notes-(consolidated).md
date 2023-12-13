@@ -1,3 +1,9 @@
+## [People Search](./Widgets/People Search.md) 1.11.0 - December 13, 2023
+
+### Changed
+- Internal refactoring of logging logic
+- Upgrade to Graph Toolkit V3
+
 ## [Birthdays](./Widgets/Birthdays.md) 1.9.0 - December 13, 2023
 
 ### Changed
