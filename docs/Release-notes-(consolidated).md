@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.30 - December 19, 2023
+
+### Fixed
+- An issue where diagnostic logging sent duplicate messages
+
 ## [Widget Board](./Widget Board.md) 1.64.29 - December 19, 2023
 
 ### Added
