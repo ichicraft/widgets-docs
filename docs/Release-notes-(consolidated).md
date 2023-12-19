@@ -1,3 +1,11 @@
+## [Widget Board](./Widget Board.md) 1.64.29 - December 19, 2023
+
+### Added
+- The ability to share links to shared boards with colleagues
+
+### Fixed
+- Various issues to smoothen the installation process
+
 ## [Saved for Later](./Widgets/Saved for Later.md) 1.5.0 - December 13, 2023
 
 ### Changed

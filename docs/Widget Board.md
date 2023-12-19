@@ -1,3 +1,11 @@
+## 1.64.29 - December 19, 2023
+
+### Added
+- The ability to share links to shared boards with colleagues
+
+### Fixed
+- Various issues to smoothen the installation process
+
 ## 1.64.28 - December 11, 2023
 
 ### Added
