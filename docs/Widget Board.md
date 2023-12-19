@@ -3,6 +3,9 @@
 ### Added
 - The ability to share links to shared boards with colleagues
 
+### Changed
+- The Teams package generator to include more options and allow versioning
+
 ### Fixed
 - Various issues to smoothen the installation process
 
