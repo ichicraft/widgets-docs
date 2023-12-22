@@ -1,3 +1,8 @@
+## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.9.0 - December 22, 2023
+
+### Fixed
+- An issue where duplicate diagnostics were logged
+
 ## [Teams](./Widgets/Teams.md) 1.4.0 - December 22, 2023
 
 ### Fixed
