@@ -1,3 +1,8 @@
+## [Teams](./Widgets/Teams.md) 1.4.0 - December 22, 2023
+
+### Fixed
+- An issue where duplicate diagnostics were logged
+
 ## [Countdown](./Widgets/Countdown.md) 1.3.0 - December 22, 2023
 
 ### Fixed
