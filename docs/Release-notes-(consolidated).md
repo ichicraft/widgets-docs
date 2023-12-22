@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.31.0 - December 22, 2023
+
+### Fixed
+- An issue where duplicate diagnostics were logged
+
 ## [Files](./Widgets/Files.md) 1.11.0 - December 22, 2023
 
 ### Fixed
