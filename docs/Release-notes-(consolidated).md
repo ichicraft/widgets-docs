@@ -1,3 +1,8 @@
+## [Tasks](./Widgets/Tasks.md) 1.8.0 - December 22, 2023
+
+### Fixed
+- An issue where duplicate diagnostics were logged
+
 ## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.9.0 - December 22, 2023
 
 ### Fixed
