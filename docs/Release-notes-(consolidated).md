@@ -1,3 +1,8 @@
+## [Saved for Later](./Widgets/Saved for Later.md) 1.6.0 - December 22, 2023
+
+### Fixed
+- An issue where duplicate diagnostics were logged
+
 ## [Embed](./Widgets/Embed.md) 1.6.0 - December 22, 2023
 
 ### Fixed
