@@ -1,3 +1,8 @@
+## [World Clock](./Widgets/World Clock.md) 1.3.0 - December 22, 2023
+
+### Fixed
+- An issue where duplicate diagnostics were logged
+
 ## [People Search](./Widgets/People Search.md) 1.12.0 - December 22, 2023
 
 ### Fixed
