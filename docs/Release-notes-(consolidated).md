@@ -1,3 +1,8 @@
+## [Countdown](./Widgets/Countdown.md) 1.3.0 - December 22, 2023
+
+### Fixed
+- An issue where duplicate diagnostics were logged
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.17.0 - December 22, 2023
 
 ### Fixed
