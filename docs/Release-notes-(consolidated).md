@@ -1,3 +1,8 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.4.0 - December 22, 2023
+
+### Fixed
+- An issue where duplicate diagnostics were logged
+
 ## [Saved for Later](./Widgets/Saved for Later.md) 1.6.0 - December 22, 2023
 
 ### Fixed
