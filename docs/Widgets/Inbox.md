@@ -1,3 +1,10 @@
+## 1.13.0 - December 22, 2023
+
+
+
+### Fixed
+- An issue where duplicate diagnostics were sent 
+
 ## 1.11.0 - December 12, 2023
 
 ### Changed

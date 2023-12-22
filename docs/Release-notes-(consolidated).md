@@ -1,3 +1,10 @@
+## [Inbox](./Widgets/Inbox.md) 1.13.0 - December 22, 2023
+
+
+
+### Fixed
+- An issue where duplicate diagnostics were sent 
+
 ## [Widget Board](./Widget Board.md) 1.64.30 - December 19, 2023
 
 ### Fixed
