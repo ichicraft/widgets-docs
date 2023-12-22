@@ -1,3 +1,8 @@
+## [Sticky Notes](./Widgets/Sticky Notes.md) 1.4.0 - December 22, 2023
+
+### Fixed
+- An issue where duplicate diagnostics were logged
+
 ## [Events](./Widgets/Events.md) 1.12.0 - December 22, 2023
 
 ### Fixed
