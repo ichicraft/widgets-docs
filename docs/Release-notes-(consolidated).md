@@ -1,3 +1,8 @@
+## [Embed](./Widgets/Embed.md) 1.6.0 - December 22, 2023
+
+### Fixed
+- An issue where duplicate diagnostics were logged
+
 ## [Widget Board](./Widget Board.md) 1.64.32 - December 22, 2023
 
 ### Fixed
