@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.64.32 - December 22, 2023
+
+### Fixed
+- An issue where duplicate log messages were sent
+- An issue where, after resetting ones profile, a board wouldn&#x27;t appear until a browser refresh was done
+
 ## [Inbox](./Widgets/Inbox.md) 1.13.0 - December 22, 2023
 
 
