@@ -1,3 +1,8 @@
+## [Banner](./Widgets/Banner.md) 1.4.0 - December 22, 2023
+
+### Fixed
+- An issue where duplicate diagnostics were logged
+
 ## [Power BI](./Widgets/Power BI.md) 1.47.0 - December 22, 2023
 
 ### Fixed
