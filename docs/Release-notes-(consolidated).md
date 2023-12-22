@@ -1,3 +1,8 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.17.0 - December 22, 2023
+
+### Fixed
+- An issue where duplicate diagnostics were logged
+
 ## [Apps](./Widgets/Apps.md) 1.31.0 - December 22, 2023
 
 ### Fixed
