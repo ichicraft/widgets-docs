@@ -1,3 +1,8 @@
+## [Followed Sites](./Widgets/Followed Sites.md) 1.8.0 - December 22, 2023
+
+### Fixed
+- An issue where duplicate diagnostics were logged
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.4.0 - December 22, 2023
 
 ### Fixed
