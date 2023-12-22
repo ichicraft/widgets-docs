@@ -1,3 +1,8 @@
+## [Bookmarks](./Widgets/Bookmarks.md) 1.8.0 - December 22, 2023
+
+### Fixed
+- An issue where duplicate diagnostics were logged
+
 ## [Tableau Reports](./Widgets/Tableau Reports.md) 1.6.0 - December 22, 2023
 
 ### Fixed
