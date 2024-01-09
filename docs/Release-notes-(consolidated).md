@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.33 - January 09, 2024
+
+### Fixed
+- An issue where it was possible to select a blank board on the primary personal board on first run
+
 ## [Tasks](./Widgets/Tasks.md) 1.8.0 - December 22, 2023
 
 ### Fixed
