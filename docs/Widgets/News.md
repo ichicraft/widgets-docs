@@ -1,3 +1,9 @@
+## 1.30.0 - January 09, 2024
+
+### Fixed
+- An issue where an embedded new article would disappear when scrolling
+- Potential vulnerable dependencies in package.json
+
 ## 1.29.0 - December 22, 2023
 
 ### Fixed

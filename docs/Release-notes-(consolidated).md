@@ -1,3 +1,9 @@
+## [News](./Widgets/News.md) 1.30.0 - January 09, 2024
+
+### Fixed
+- An issue where an embedded new article would disappear when scrolling
+- Potential vulnerable dependencies in package.json
+
 ## [Widget Board](./Widget Board.md) 1.64.33 - January 09, 2024
 
 ### Fixed
