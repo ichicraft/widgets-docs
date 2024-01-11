@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.64.34 - January 11, 2024
+
+### Fixed
+- A bug where no board was displayed when using a non-existing board ID in the url
+- A bug where the main personal board of a user gets a new ID upon each visit
+
 ## [News](./Widgets/News.md) 1.30.0 - January 09, 2024
 
 ### Fixed
