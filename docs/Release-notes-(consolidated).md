@@ -1,3 +1,24 @@
+## [Widget Board](./Widget Board.md) 1.64.35 - January 16, 2024
+
+### Added
+- Option to add navigation groups to organize your boards
+
+### Changed
+- Element border radius is now applied to most context menus in the core product
+- Hamburger menu is now also used on mobile when using the horizontal navigation layout setting
+- &#x27;Change title&#x27; option for boards is now called &#x27;Rename&#x27;, to be consistent with renaming widgets
+- Titles for personal boards are now edited within a dialog instead of in-line
+- Improved design for various dialogs (Add/edit personal board, delete board, reset board)
+- Improved UI for horizontal navigation layout
+
+### Removed
+- Option to move boards left and right when using the horizontal navigation layout setting (this can now be done through the &#x27;Edit navigation&#x27; option
+
+### Fixed
+- Board templates overflowing when there are 6 or more to choose from.
+- Vertical navigation menu closing when dismissing nested dialogs
+- Board navigation hover animation triggering on initial load
+
 ## [Widget Board](./Widget Board.md) 1.64.34 - January 11, 2024
 
 ### Fixed
