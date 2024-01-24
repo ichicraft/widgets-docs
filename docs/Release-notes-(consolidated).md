@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.38 - January 24, 2024
+
+### Fixed
+- A bug where urgent messages couldn&#x27;t be managed if Shared Boards feature wasn&#x27;t activated
+
 ## [Widget Board](./Widget Board.md) 1.64.37 - January 24, 2024
 
 ### Added
