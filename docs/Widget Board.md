@@ -1,3 +1,12 @@
+## 1.64.37 - January 24, 2024
+
+### Added
+- An alternative way to move boards to a different group using a new Move option in their contextual menu
+
+### Changed
+- Urgent messages can now be targeted to multiple shared boards
+- Urgent messages now display the publication date
+
 ## 1.64.35 - January 16, 2024
 
 ### Added
