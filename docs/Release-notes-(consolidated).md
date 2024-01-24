@@ -1,3 +1,11 @@
+## [Power BI](./Widgets/Power BI.md) 1.48.0 - January 24, 2024
+
+### Added
+- A new &#x27;Open in new window&#x27; functionality for PBI content dialogs (not available in MS Teams client)
+
+### Fixed
+- Source dropdown icons not applying theme color
+
 ## [Widget Board](./Widget Board.md) 1.64.35 - January 16, 2024
 
 ### Added
