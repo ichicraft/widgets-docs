@@ -1,3 +1,9 @@
+## [Power BI](./Widgets/Power BI.md) 1.49.0 - January 25, 2024
+
+### Fixed
+- Horizontal and Vertical page navigation options not working in pop-out
+- Pop-out window title resetting when opening filter menu
+
 ## [Widget Board](./Widget Board.md) 1.64.38 - January 24, 2024
 
 ### Fixed
