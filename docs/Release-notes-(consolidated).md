@@ -1,3 +1,11 @@
+## [Apps](./Widgets/Apps.md) 1.32.0 - January 29, 2024
+
+### Fixed
+- An issue where a user could not add new apps to the app catalog
+
+### Changed
+- Improved app grid styling and layout
+
 ## [Power BI](./Widgets/Power BI.md) 1.49.0 - January 25, 2024
 
 ### Fixed

@@ -1,3 +1,11 @@
+## 1.32.0 - January 29, 2024
+
+### Fixed
+- An issue where a user could not add new apps to the app catalog
+
+### Changed
+- Improved app grid styling and layout
+
 ## 1.31.0 - December 22, 2023
 
 ### Fixed
