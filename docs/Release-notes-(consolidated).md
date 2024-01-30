@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.33.0 - January 30, 2024
+
+### Changed
+- Implemented logic to retry adding/updating app items in case of a certain server error (&#x60;0x80131904&#x60;)
+
 ## [Apps](./Widgets/Apps.md) 1.32.0 - January 29, 2024
 
 ### Fixed
