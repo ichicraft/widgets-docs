@@ -1,3 +1,8 @@
+## 1.64.39 - February 01, 2024
+
+### Fixed
+- An issue where the current board resets when switching tabs in the file picker
+
 ## 1.64.38 - January 24, 2024
 
 ### Fixed

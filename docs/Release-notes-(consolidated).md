@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.39 - February 01, 2024
+
+### Fixed
+- An issue where the current board resets when switching tabs in the file picker
+
 ## [Apps](./Widgets/Apps.md) 1.33.0 - January 30, 2024
 
 ### Changed
