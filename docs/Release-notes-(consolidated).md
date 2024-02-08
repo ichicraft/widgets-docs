@@ -1,3 +1,8 @@
+## [Saved for Later](./Widgets/Saved for Later.md) 1.7.0 - February 08, 2024
+
+### Changed
+- Improved translations
+
 ## [Sticky Notes](./Widgets/Sticky Notes.md) 1.5.0 - February 08, 2024
 
 ### Changed
