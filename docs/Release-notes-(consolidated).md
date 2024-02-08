@@ -1,3 +1,8 @@
+## [Inbox](./Widgets/Inbox.md) 1.14.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.5.0 - February 08, 2024
 
 ### Changed
