@@ -1,3 +1,8 @@
+## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.10.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## [Files](./Widgets/Files.md) 1.12.0 - February 08, 2024
 
 ### Fixed
