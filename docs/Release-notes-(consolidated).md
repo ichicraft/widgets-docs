@@ -1,3 +1,8 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.5.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## [News](./Widgets/News.md) 1.31.0 - February 08, 2024
 
 ### Changed
