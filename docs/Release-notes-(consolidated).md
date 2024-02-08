@@ -1,3 +1,8 @@
+## [Tableau Reports](./Widgets/Tableau Reports.md) 1.7.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## [Teams](./Widgets/Teams.md) 1.5.0 - February 08, 2024
 
 ### Changed
