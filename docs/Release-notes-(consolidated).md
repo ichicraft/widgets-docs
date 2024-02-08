@@ -1,3 +1,8 @@
+## [Countdown](./Widgets/Countdown.md) 1.4.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## [Embed](./Widgets/Embed.md) 1.7.0 - February 08, 2024
 
 ### Changed
