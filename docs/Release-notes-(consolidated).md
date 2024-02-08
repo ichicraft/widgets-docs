@@ -1,3 +1,8 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.18.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## [Saved for Later](./Widgets/Saved for Later.md) 1.7.0 - February 08, 2024
 
 ### Changed
