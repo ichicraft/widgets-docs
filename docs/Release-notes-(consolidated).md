@@ -1,3 +1,8 @@
+## [Events](./Widgets/Events.md) 1.13.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## [Banner](./Widgets/Banner.md) 1.5.0 - February 08, 2024
 
 ### Changed
