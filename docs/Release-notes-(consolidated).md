@@ -1,3 +1,8 @@
+## [Banner](./Widgets/Banner.md) 1.5.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## [Birthdays](./Widgets/Birthdays.md) 1.11.0 - February 08, 2024
 
 ### Changed
