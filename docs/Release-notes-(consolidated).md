@@ -1,3 +1,16 @@
+## [Widget Board](./Widget Board.md) 1.64.40 - February 08, 2024
+
+### Added
+- The ability to change the default language of an installation of Ichicraft Boards
+
+### Changed
+- Improved many translations across different languages
+
+### Fixed
+- An issue where declared analytics preferences in custom widget manifests were discarded upon  uploading the manifest file
+- An issue where the wrong language was used in the application and some widgets failed rendering in scenarios where the user uses a language not available as an Ichicraft Boards system language (like Polish)
+- An issue where the wrong keys where used when storing settings in local storage cache
+
 ## [Events](./Widgets/Events.md) 1.13.0 - February 08, 2024
 
 ### Changed
