@@ -1,3 +1,8 @@
+## [People Search](./Widgets/People Search.md) 1.13.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## [Bookmarks](./Widgets/Bookmarks.md) 1.9.0 - February 08, 2024
 
 ### Changed
