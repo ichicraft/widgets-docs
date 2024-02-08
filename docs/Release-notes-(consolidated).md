@@ -1,3 +1,8 @@
+## [Embed](./Widgets/Embed.md) 1.7.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## [Inbox](./Widgets/Inbox.md) 1.14.0 - February 08, 2024
 
 ### Changed
