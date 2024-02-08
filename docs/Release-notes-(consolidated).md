@@ -1,3 +1,8 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.11.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## [World Clock](./Widgets/World Clock.md) 1.4.0 - February 08, 2024
 
 ### Changed
