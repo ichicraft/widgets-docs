@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.34.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## [Power BI](./Widgets/Power BI.md) 1.50.0 - February 08, 2024
 
 ### Changed
