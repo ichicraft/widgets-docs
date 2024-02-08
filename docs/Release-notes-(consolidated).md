@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.50.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## [Widget Board](./Widget Board.md) 1.64.39 - February 01, 2024
 
 ### Fixed

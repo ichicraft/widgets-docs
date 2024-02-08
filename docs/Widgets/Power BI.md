@@ -1,3 +1,8 @@
+## 1.50.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## 1.49.0 - January 25, 2024
 
 ### Fixed
