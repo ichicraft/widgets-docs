@@ -1,3 +1,8 @@
+## [Bookmarks](./Widgets/Bookmarks.md) 1.9.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.18.0 - February 08, 2024
 
 ### Changed
