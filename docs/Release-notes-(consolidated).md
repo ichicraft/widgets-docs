@@ -1,3 +1,8 @@
+## [World Clock](./Widgets/World Clock.md) 1.4.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## [Countdown](./Widgets/Countdown.md) 1.4.0 - February 08, 2024
 
 ### Changed
