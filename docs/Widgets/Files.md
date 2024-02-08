@@ -1,3 +1,11 @@
+## 1.12.0 - February 08, 2024
+
+### Fixed
+- A bug where a user, trying load a Team or Site files tab without having proper permissions, got a generic error message without explaining what was wrong
+
+### Changed
+- Improved translations (FR)
+
 ## 1.11.0 - December 22, 2023
 
 ### Fixed

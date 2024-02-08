@@ -1,3 +1,11 @@
+## [Files](./Widgets/Files.md) 1.12.0 - February 08, 2024
+
+### Fixed
+- A bug where a user, trying load a Team or Site files tab without having proper permissions, got a generic error message without explaining what was wrong
+
+### Changed
+- Improved translations (FR)
+
 ## [Apps](./Widgets/Apps.md) 1.34.0 - February 08, 2024
 
 ### Changed
