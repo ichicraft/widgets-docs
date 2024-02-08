@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.31.0 - February 08, 2024
+
+### Changed
+- Improved translations (FR)
+
 ## [People Search](./Widgets/People Search.md) 1.13.0 - February 08, 2024
 
 ### Changed
