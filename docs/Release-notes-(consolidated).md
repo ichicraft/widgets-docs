@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.35.0 - February 14, 2024
+
+### Fixed
+- A bug where, after installing with the Complete or Essential configuration or after importing a previously created back-up, issues could occur when adding new Apps
+
 ## [Widget Board](./Widget Board.md) 1.64.40 - February 08, 2024
 
 ### Added
