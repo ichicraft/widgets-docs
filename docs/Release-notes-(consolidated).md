@@ -1,3 +1,8 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.6.0 - February 14, 2024
+
+### Fixed
+- A bug where, after installing with the Complete or Essential configuration or after importing a previously created back-up, issues could occur when adding new items
+
 ## [Apps](./Widgets/Apps.md) 1.35.0 - February 14, 2024
 
 ### Fixed

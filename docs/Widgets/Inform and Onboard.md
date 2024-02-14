@@ -1,3 +1,8 @@
+## 1.6.0 - February 14, 2024
+
+### Fixed
+- A bug where, after installing with the Complete or Essential configuration or after importing a previously created back-up, issues could occur when adding new items
+
 ## 1.5.0 - February 08, 2024
 
 ### Changed
