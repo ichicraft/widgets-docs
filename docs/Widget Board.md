@@ -1,3 +1,12 @@
+## 1.64.41 - February 20, 2024
+
+### Fixed
+- A bug where uploading a custom widget in some scenarios results in a fatal error
+- Some incorrect translations
+
+### Changed
+- Made improvements to storing user configuration
+
 ## 1.64.40 - February 08, 2024
 
 ### Added

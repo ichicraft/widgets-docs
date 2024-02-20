@@ -1,3 +1,12 @@
+## [Widget Board](./Widget Board.md) 1.64.41 - February 20, 2024
+
+### Fixed
+- A bug where uploading a custom widget in some scenarios results in a fatal error
+- Some incorrect translations
+
+### Changed
+- Made improvements to storing user configuration
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.6.0 - February 14, 2024
 
 ### Fixed
