@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.36.0 - February 29, 2024
+
+### Added
+- A CSS class &#x60;icb-App-Launcher-Group-Title&#x60; that can be used to override the styles of an app group title
+
 ## [Sticky Notes](./Widgets/Sticky Notes.md) 1.6.0 - February 29, 2024
 
 ### Changed

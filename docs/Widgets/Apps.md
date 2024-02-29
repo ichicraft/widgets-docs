@@ -1,3 +1,8 @@
+## 1.36.0 - February 29, 2024
+
+### Added
+- A CSS class &#x60;icb-App-Launcher-Group-Title&#x60; that can be used to override the styles of an app group title
+
 ## 1.35.0 - February 14, 2024
 
 ### Fixed
