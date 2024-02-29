@@ -1,3 +1,8 @@
+## [Inbox](./Widgets/Inbox.md) 1.15.0 - February 29, 2024
+
+### Changed
+- Handling of missing M365 license is improved with a clearer message to the user
+
 ## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.11.0 - February 29, 2024
 
 ### Changed
