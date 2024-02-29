@@ -1,3 +1,8 @@
+## [Sticky Notes](./Widgets/Sticky Notes.md) 1.6.0 - February 29, 2024
+
+### Changed
+- Handling of missing M365 license is improved with a clearer message to the user
+
 ## [Inbox](./Widgets/Inbox.md) 1.15.0 - February 29, 2024
 
 ### Changed
