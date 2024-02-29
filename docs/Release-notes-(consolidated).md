@@ -1,3 +1,8 @@
+## [People Search](./Widgets/People Search.md) 1.14.0 - February 29, 2024
+
+### Changed
+- Handling of missing M365 license is improved with a clearer message to the user
+
 ## [Apps](./Widgets/Apps.md) 1.36.0 - February 29, 2024
 
 ### Added

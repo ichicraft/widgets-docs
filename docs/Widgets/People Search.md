@@ -1,3 +1,8 @@
+## 1.14.0 - February 29, 2024
+
+### Changed
+- Handling of missing M365 license is improved with a clearer message to the user
+
 ## 1.13.0 - February 08, 2024
 
 ### Changed
