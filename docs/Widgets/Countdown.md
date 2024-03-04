@@ -1,3 +1,15 @@
+## 1.5.0 - March 04, 2024
+
+### Added
+- Admin configurable countdowns
+- Toggle to control user configurable countdown
+- Autoplay settings (in case of multiple countdowns)
+- Font size options for title and subtitle
+- Image picker for background image
+
+### Changed
+- Renamed description to subtitle
+
 ## 1.4.0 - February 08, 2024
 
 ### Changed
