@@ -1,3 +1,20 @@
+## [Widget Board](./Widget Board.md) 1.64.42 - March 18, 2024
+
+### Added
+- Multiple administrators can now update Ichicraft Boards configuration simultaneously
+- Draft configuration changes are now maintained/remembered between browser sessions/reloads
+- Administrators can now select which sections of their draft configuration they want to save/discard
+- Missing documentation was added for a CSS override class used by the App Launcher Widget
+
+### Changes
+- Improved Widget Library UX in admin panel
+- Improved responsiveness of admin panel
+
+### Fixed
+- An issue where pushed widgets weren&#x27;t pushed correctly to users who created their personal board in an older version of Ichicraft Boards
+- An issue where a required API permission scope like &#x27;User.ReadWrite&#x27; was listed as &#x27;not granted&#x27;, even though the permission scope &#x27;User.ReadWrite.All&#x27; (which is an extension of User.ReadWrite) was granted
+- An issue where a widget that was resizable, movable and pushed to the top-right corner of a board, could not be resized in the horizontal direction
+
 ## [Countdown](./Widgets/Countdown.md) 1.5.0 - March 04, 2024
 
 ### Added
