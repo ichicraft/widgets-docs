@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.64.43 - March 20, 2024
+
+### Fixed
+- An issue where changes to large configurations couldn&#x27;t be stored as draft
+- An issue where urgent messages couldn&#x27;t be published at a predefined time
+
 ## [Widget Board](./Widget Board.md) 1.64.42 - March 18, 2024
 
 ### Added
