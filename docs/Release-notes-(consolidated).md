@@ -1,3 +1,8 @@
+## [World Clock](./Widgets/World Clock.md) 1.5.0 - March 21, 2024
+
+### Changed
+- Upgraded Fluent UI 8 dependency to match version used by Boards Core.
+
 ## [Birthdays](./Widgets/Birthdays.md) 1.12.0 - March 21, 2024
 
 ### Changed
