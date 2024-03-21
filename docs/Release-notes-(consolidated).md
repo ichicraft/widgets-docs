@@ -1,3 +1,9 @@
+## [Files](./Widgets/Files.md) 1.13.0 - March 21, 2024
+
+### Changed
+- Upgraded Fluent UI 8 dependency to match version used by Boards Core
+- Small UI fixes
+
 ## [Apps](./Widgets/Apps.md) 1.37.0 - March 21, 2024
 
 ### Changed

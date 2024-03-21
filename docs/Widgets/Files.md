@@ -1,3 +1,9 @@
+## 1.13.0 - March 21, 2024
+
+### Changed
+- Upgraded Fluent UI 8 dependency to match version used by Boards Core
+- Small UI fixes
+
 ## 1.12.0 - February 08, 2024
 
 ### Fixed
