@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.37.0 - March 21, 2024
+
+### Changed
+- Upgraded Fluent UI 8 dependency to match version used by Boards Core.
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.19.0 - March 21, 2024
 
 ### Changed
