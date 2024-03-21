@@ -1,3 +1,8 @@
+## [Teams](./Widgets/Teams.md) 1.6.0 - March 21, 2024
+
+### Changed
+- Upgraded Fluent UI 8 dependency to match version used by Boards Core.
+
 ## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.12.0 - March 21, 2024
 
 ### Changed
