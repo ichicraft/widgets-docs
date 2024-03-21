@@ -1,3 +1,8 @@
+## [Inbox](./Widgets/Inbox.md) 1.16.0 - March 21, 2024
+
+### Fixed
+- An issue where an e-mail without a sender caused the widget to fail rendering correctly
+
 ## [Banner](./Widgets/Banner.md) 1.7.0 - March 21, 2024
 
 

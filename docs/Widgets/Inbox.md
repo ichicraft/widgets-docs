@@ -1,3 +1,8 @@
+## 1.16.0 - March 21, 2024
+
+### Fixed
+- An issue where an e-mail without a sender caused the widget to fail rendering correctly
+
 ## 1.15.0 - February 29, 2024
 
 ### Changed
