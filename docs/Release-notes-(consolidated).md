@@ -1,3 +1,8 @@
+## [Tasks](./Widgets/Tasks.md) 1.9.0 - March 21, 2024
+
+### Changed
+- Upgraded Fluent UI 8 dependency to match version used by Boards Core.
+
 ## [Inbox](./Widgets/Inbox.md) 1.16.0 - March 21, 2024
 
 ### Fixed
