@@ -1,3 +1,10 @@
+## 1.7.0 - March 21, 2024
+
+
+
+### Fixed
+- An issue with UX layers that was introduced when upgrading to a new version of Fluent UI
+
 ## 1.5.0 - February 08, 2024
 
 ### Changed

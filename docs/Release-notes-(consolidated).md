@@ -1,3 +1,10 @@
+## [Banner](./Widgets/Banner.md) 1.7.0 - March 21, 2024
+
+
+
+### Fixed
+- An issue with UX layers that was introduced when upgrading to a new version of Fluent UI
+
 ## [Widget Board](./Widget Board.md) 1.64.43 - March 20, 2024
 
 ### Fixed
