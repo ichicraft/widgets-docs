@@ -1,3 +1,8 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.12.0 - March 21, 2024
+
+### Changed
+- Upgraded Fluent UI 8 dependency to match version used by Boards Core.
+
 ## [Files](./Widgets/Files.md) 1.13.0 - March 21, 2024
 
 ### Changed
