@@ -1,3 +1,8 @@
+## [Tableau Reports](./Widgets/Tableau Reports.md) 1.8.0 - March 22, 2024
+
+### Changed
+- Upgraded Fluent UI 8 dependency to match version used by Boards Core.
+
 ## [Saved for Later](./Widgets/Saved for Later.md) 1.8.0 - March 22, 2024
 
 ### Changed
