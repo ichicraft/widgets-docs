@@ -1,3 +1,8 @@
+## [Sticky Notes](./Widgets/Sticky Notes.md) 1.7.0 - March 22, 2024
+
+### Changed
+- Upgraded Fluent UI 8 dependency to match version used by Boards Core.
+
 ## [Bookmarks](./Widgets/Bookmarks.md) 1.10.0 - March 22, 2024
 
 ### Changed
