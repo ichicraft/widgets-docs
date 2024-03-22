@@ -1,3 +1,8 @@
+## [Bookmarks](./Widgets/Bookmarks.md) 1.10.0 - March 22, 2024
+
+### Changed
+- Upgraded Fluent UI 8 dependency to match version used by Boards Core.
+
 ## [People Search](./Widgets/People Search.md) 1.15.0 - March 22, 2024
 
 ### Changed
