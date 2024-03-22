@@ -1,3 +1,8 @@
+## [Embed](./Widgets/Embed.md) 1.8.0 - March 22, 2024
+
+### Changed
+- Upgraded Fluent UI 8 dependency to match version used by Boards Core.
+
 ## [Followed Sites](./Widgets/Followed Sites.md) 1.9.0 - March 22, 2024
 
 ### Changed
