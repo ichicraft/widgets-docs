@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.39.0 - March 26, 2024
+
+### Fixed
+- An issue where in some cases, a faulty &#x27;0&#x27; was rendered at different places in the UI
+
 ## [Power BI](./Widgets/Power BI.md) 1.51.0 - March 26, 2024
 
 ## [Apps](./Widgets/Apps.md) 1.38.0 - March 26, 2024
