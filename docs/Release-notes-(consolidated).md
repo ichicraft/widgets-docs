@@ -5,6 +5,9 @@
 
 ## [Power BI](./Widgets/Power BI.md) 1.51.0 - March 26, 2024
 
+### Fixed
+- An issue where failing to store data in browser cache caused the widget to render an error
+
 ## [Apps](./Widgets/Apps.md) 1.38.0 - March 26, 2024
 
 ### Fixed
