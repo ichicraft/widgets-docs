@@ -1,3 +1,5 @@
+## [Power BI](./Widgets/Power BI.md) 1.51.0 - March 26, 2024
+
 ## [Apps](./Widgets/Apps.md) 1.38.0 - March 26, 2024
 
 ### Fixed
