@@ -1,3 +1,8 @@
+## 1.8.0 - March 26, 2024
+
+### Fixed
+- An issue where storing items that don&#x27;t have a publication date (and don&#x27;t require one) caused an error when trying to save
+
 ## 1.7.0 - March 22, 2024
 
 ### Changed

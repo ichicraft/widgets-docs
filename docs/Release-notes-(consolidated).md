@@ -1,3 +1,8 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.8.0 - March 26, 2024
+
+### Fixed
+- An issue where storing items that don&#x27;t have a publication date (and don&#x27;t require one) caused an error when trying to save
+
 ## [Apps](./Widgets/Apps.md) 1.39.0 - March 26, 2024
 
 ### Fixed
