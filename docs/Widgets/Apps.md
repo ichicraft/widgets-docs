@@ -1,3 +1,8 @@
+## 1.38.0 - March 26, 2024
+
+### Fixed
+- An issue where failing to store apps in browser cache causes the widget to render an error
+
 ## 1.37.0 - March 21, 2024
 
 ### Changed

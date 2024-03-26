@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.38.0 - March 26, 2024
+
+### Fixed
+- An issue where failing to store apps in browser cache causes the widget to render an error
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.7.0 - March 22, 2024
 
 ### Changed
