@@ -1,3 +1,5 @@
+## [News](./Widgets/News.md) 1.32.0 - March 27, 2024
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.9.0 - March 27, 2024
 
 ### Fixed
