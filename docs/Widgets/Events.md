@@ -1,3 +1,9 @@
+## 1.14.0 - March 27, 2024
+
+### Changed
+- Completely revamped the widget to work more like the News widget
+- Improved UI
+
 ## 1.13.0 - February 08, 2024
 
 ### Changed

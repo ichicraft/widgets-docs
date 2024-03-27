@@ -1,3 +1,9 @@
+## [Events](./Widgets/Events.md) 1.14.0 - March 27, 2024
+
+### Changed
+- Completely revamped the widget to work more like the News widget
+- Improved UI
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.8.0 - March 26, 2024
 
 ### Fixed
