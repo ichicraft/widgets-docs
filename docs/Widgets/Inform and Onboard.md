@@ -1,3 +1,8 @@
+## 1.9.0 - March 27, 2024
+
+### Fixed
+- An issue where, after restoring a backup of Ichicraft Boards in a site with a different default language than the source site, an error occurs in the widget when editing existing content of which titles were not already available in the new language
+
 ## 1.8.0 - March 26, 2024
 
 ### Fixed

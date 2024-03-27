@@ -1,3 +1,8 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.9.0 - March 27, 2024
+
+### Fixed
+- An issue where, after restoring a backup of Ichicraft Boards in a site with a different default language than the source site, an error occurs in the widget when editing existing content of which titles were not already available in the new language
+
 ## [Widget Board](./Widget Board.md) 1.64.44 - March 27, 2024
 
 ### Added
