@@ -1,3 +1,11 @@
+## [Widget Board](./Widget Board.md) 1.64.44 - March 27, 2024
+
+### Added
+- Widgets can now render a textual link in the widget header (command bar)
+
+### Fixed
+- An issue where the publication date of urgent messages wasn&#x27;t correctly exported in the back-up process
+
 ## [Events](./Widgets/Events.md) 1.14.0 - March 27, 2024
 
 ### Changed
