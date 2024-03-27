@@ -1,5 +1,11 @@
 ## [News](./Widgets/News.md) 1.32.0 - March 27, 2024
 
+### Changed
+- Upgraded Fluent UI 8 dependency to match version used by Boards Core
+
+### Fixed
+- An issue where failing to store news articles in browser cache causes the widget to render an error
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.9.0 - March 27, 2024
 
 ### Fixed
