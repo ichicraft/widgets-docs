@@ -1,3 +1,5 @@
+## [Power BI](./Widgets/Power BI.md) 1.52.0 - March 28, 2024
+
 ## [News](./Widgets/News.md) 1.32.0 - March 27, 2024
 
 ### Changed
