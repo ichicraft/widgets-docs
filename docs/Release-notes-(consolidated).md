@@ -1,3 +1,14 @@
+## [Power BI](./Widgets/Power BI.md) 1.53.0 - April 02, 2024
+
+### Added
+- Button to save persistent filters / bookmarks manually from a dialog or popout window
+- Button to move content between groups without dragging
+
+### Changed
+- Improved UX design for User Configuration and Admin Configuration
+- Grouping functionality is no longer dependent on layout setting
+- Persistent filters are saved automatically when opening a popout window
+
 ## [Power BI](./Widgets/Power BI.md) 1.52.0 - March 28, 2024
 
 ## [News](./Widgets/News.md) 1.32.0 - March 27, 2024
