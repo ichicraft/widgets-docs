@@ -1,3 +1,8 @@
+## 1.64.46 - April 04, 2024
+
+### Fixed
+- An issue where the product didn&#x27;t always render correctly in full-height
+
 ## 1.64.44 - March 27, 2024
 
 ### Added

@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.46 - April 04, 2024
+
+### Fixed
+- An issue where the product didn&#x27;t always render correctly in full-height
+
 ## [Power BI](./Widgets/Power BI.md) 1.53.0 - April 02, 2024
 
 ### Added
