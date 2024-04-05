@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.34.0 - April 05, 2024
+
+### Added
+- A Show More button in the header, giving access to an archive of news articles
+
 ## [News](./Widgets/News.md) 1.33.0 - April 05, 2024
 
 ### Added
