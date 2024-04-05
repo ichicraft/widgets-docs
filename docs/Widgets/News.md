@@ -1,3 +1,14 @@
+## 1.33.0 - April 05, 2024
+
+### Added
+- Automatically including news articles from all sites that are associated to a SharePoint hub site
+- Filtering news articles on certain managed properties, both globally across the entire widget, or specifically for news coming from certain sites
+- Possibility to render a &quot;Show all&quot; link in the widget header
+- Showing more details of a news article like the author and a snippet of the article
+
+### Changed
+- Rendering of the Side-by-side view is updated, with the option to render one item as a &#x27;top story&#x27;
+
 ## 1.32.0 - March 27, 2024
 
 ### Changed
