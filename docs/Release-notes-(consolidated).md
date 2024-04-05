@@ -1,3 +1,8 @@
+## [Events](./Widgets/Events.md) 1.15.0 - April 05, 2024
+
+### Added
+- The site title is now displayed together with the event details
+
 ## [Widget Board](./Widget Board.md) 1.64.46 - April 04, 2024
 
 ### Fixed

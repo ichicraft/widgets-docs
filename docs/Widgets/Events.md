@@ -1,3 +1,8 @@
+## 1.15.0 - April 05, 2024
+
+### Added
+- The site title is now displayed together with the event details
+
 ## 1.14.0 - March 27, 2024
 
 ### Changed
