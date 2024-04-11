@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.64.47 - April 11, 2024
+
+### Fixed
+- An issue where navigating from a page with Ichicraft Boards to another (web part) page caused the scrollbar to disappear
+- An issue where navigating from one installation of Ichicraft Boards to another installation in the same tenant sometimes caused the wrong information to appear
+
 ## [News](./Widgets/News.md) 1.34.0 - April 05, 2024
 
 ### Added
