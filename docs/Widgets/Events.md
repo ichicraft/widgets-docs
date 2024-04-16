@@ -1,3 +1,8 @@
+## 1.16.0 - April 16, 2024
+
+### Fixed
+- Removed log to the developer console
+
 ## 1.15.0 - April 05, 2024
 
 ### Added
