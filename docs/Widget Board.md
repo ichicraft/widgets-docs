@@ -1,3 +1,8 @@
+## 1.64.48 - April 17, 2024
+
+### Fixed
+- Removed logs to the developer console
+
 ## 1.64.47 - April 11, 2024
 
 ### Fixed

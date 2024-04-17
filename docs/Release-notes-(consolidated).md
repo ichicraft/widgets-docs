@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.48 - April 17, 2024
+
+### Fixed
+- Removed logs to the developer console
+
 ## [Events](./Widgets/Events.md) 1.16.0 - April 16, 2024
 
 ### Fixed
