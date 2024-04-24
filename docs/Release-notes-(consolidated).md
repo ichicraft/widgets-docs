@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.49 - April 24, 2024
+
+### Changed
+- Minor update in generated SharePoint package file
+
 ## [Widget Board](./Widget Board.md) 1.64.48 - April 17, 2024
 
 ### Fixed
