@@ -7,14 +7,9 @@
 - Optimized loading of banner images
 - Banners now support 2-line titles.
 
-## [Marketplace](./Widgets/Marketplace.md) 0.2.0 - April 25, 2024
+## [Marketplace](./Widgets/Marketplace.md) 1.0.0 - April 25, 2024
 
-Refactoring and fixes to bundle size
-
-## [Marketplace](./Widgets/Marketplace.md) 0.1.0 - April 25, 2024
-
-### Added
-- First release of the Marketplace widget
+Initial release 🚀
 
 ## [Widget Board](./Widget Board.md) 1.64.49 - April 24, 2024
 
@@ -986,7 +981,7 @@ Fix language errors during installation
 
 ## [World Clock](./Widgets/World Clock.md) 1.0.0 - October 12, 2023
 
-Initial release
+Initial release 🚀
 
 ## [News](./Widgets/News.md) 1.21.0 - October 11, 2023
 
@@ -1061,7 +1056,7 @@ Initial release
 
 ## [Banner](./Widgets/Banner.md) 1.0.0 - September 18, 2023
 
-Initial release
+Initial release 🚀
 
 ## [Power BI](./Widgets/Power BI.md) 1.40.0 - September 15, 2023
 
@@ -1075,7 +1070,7 @@ Initial release
 
 ## [Sticky Notes](./Widgets/Sticky Notes.md) 1.0.0 - September 12, 2023
 
-Initial release
+Initial release 🚀
 
 ## [Widget Board](./Widget Board.md) 1.64.18 - September 11, 2023
 
@@ -1581,7 +1576,7 @@ Fix local storage reset when editing admin config.
 
 ## [Countdown](./Widgets/Countdown.md) 0.1.0 - December 19, 2022
 
-Initial release
+Initial release 🚀
 
 ## [Birthdays](./Widgets/Birthdays.md) 1.6.0 - December 19, 2022
 
@@ -2054,11 +2049,11 @@ Initial release
 
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.0.0 - April 15, 2022
 
-Initial release
+Initial release 🚀
 
 ## [Events](./Widgets/Events.md) 0.1.0 - April 15, 2022
 
-Initial release
+Initial release 🚀
 
 ## [Widget Board](./Widget Board.md) 1.27.0 - March 24, 2022
 
@@ -2529,7 +2524,7 @@ Initial release
 
 ## [Embed](./Widgets/Embed.md) 1.0.0 - March 08, 2021
 
-Initial release
+Initial release 🚀
 
 ## [Widget Board](./Widget Board.md) 1.10.0 - March 05, 2021
 
@@ -2548,11 +2543,11 @@ Initial release
 
 ## [Saved for Later](./Widgets/Saved for Later.md) 1.0.0 - February 25, 2021
 
-Initial release
+Initial release 🚀
 
 ## [People Search](./Widgets/People Search.md) 1.0.0 - February 24, 2021
 
-Initial release
+Initial release 🚀
 
 ## [Widget Board](./Widget Board.md) 1.8.0 - February 24, 2021
 

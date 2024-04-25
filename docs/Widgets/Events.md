@@ -59,7 +59,7 @@
 
 ## 0.1.0 - April 15, 2022
 
-Initial release
+Initial release 🚀
 
 ## 1.6.0 - November 10, 2021
 
@@ -94,4 +94,4 @@ Initial release
 - Improvements to exception handling and logging
 
 ## 1.0.0 - January 29, 2020
-Initial release
+Initial release 🚀

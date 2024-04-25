@@ -40,4 +40,4 @@
 - Upgraded underlying Fluent UI component library from version 7 to 8
 
 ## 1.0.0 - September 9, 2020
-Initial release
+Initial release 🚀

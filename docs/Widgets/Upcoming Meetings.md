@@ -68,4 +68,4 @@
 - Bug where masked private events sometimes did show details
 
 ## 1.0.0 - March 6, 2020
-Initial release
+Initial release 🚀

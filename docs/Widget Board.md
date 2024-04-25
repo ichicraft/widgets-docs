@@ -690,4 +690,4 @@ Minor system update
 - Updates to Portuguese translations after review
 
 ## 1.0.0 - January 29, 2020
-Initial release
+Initial release 🚀

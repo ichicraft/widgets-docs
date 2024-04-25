@@ -331,4 +331,4 @@ Fix local storage reset when editing admin config.
 - Fixed a bug where updating admin configuration as an admin didn&#x27;t result in clearing local cache
 
 ## 1.0.0 - March 16, 2020
-Initial release
+Initial release 🚀

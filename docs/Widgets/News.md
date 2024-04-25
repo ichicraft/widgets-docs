@@ -232,4 +232,4 @@
 - Minor bug where essential/pushed sites were in some scenarios also rendered as followed sites in user config
 
 ## 1.0.0 - March 16, 2020
-Initial release
+Initial release 🚀

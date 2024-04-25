@@ -212,4 +212,4 @@ Fix language errors during installation
 - Improvements to exception handling and logging
 
 ## 1.0.0 - March 16, 2020
-Initial release
+Initial release 🚀
