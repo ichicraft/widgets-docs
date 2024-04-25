@@ -1,3 +1,8 @@
+## [Marketplace](./Widgets/Marketplace.md) 0.1.0 - April 25, 2024
+
+### Added
+- First release of the Marketplace widget
+
 ## [Widget Board](./Widget Board.md) 1.64.49 - April 24, 2024
 
 ### Changed
