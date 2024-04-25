@@ -1,3 +1,12 @@
+## 1.8.0 - April 25, 2024
+
+### Added
+- Layout options for Tiles and Cards
+
+### Changed
+- Optimized loading of banner images
+- Banners now support 2-line titles.
+
 ## 1.7.0 - March 21, 2024
 
 

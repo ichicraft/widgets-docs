@@ -1,3 +1,12 @@
+## [Banner](./Widgets/Banner.md) 1.8.0 - April 25, 2024
+
+### Added
+- Layout options for Tiles and Cards
+
+### Changed
+- Optimized loading of banner images
+- Banners now support 2-line titles.
+
 ## [Marketplace](./Widgets/Marketplace.md) 0.2.0 - April 25, 2024
 
 Refactoring and fixes to bundle size
