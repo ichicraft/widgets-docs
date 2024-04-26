@@ -1,3 +1,8 @@
+## 1.35.0 - April 26, 2024
+
+### Changed
+- Improved UI for dialogs and news items
+
 ## 1.34.0 - April 05, 2024
 
 ### Added

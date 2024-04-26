@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.35.0 - April 26, 2024
+
+### Changed
+- Improved UI for dialogs and news items
+
 ## [Widget Board](./Widget Board.md) 1.64.52 - April 26, 2024
 
 ### Added
