@@ -1,3 +1,8 @@
+## 1.7.0 - April 26, 2024
+
+### Changed
+- Improved UI for countdown dialog
+
 ## 1.6.0 - March 21, 2024
 
 ### Changed

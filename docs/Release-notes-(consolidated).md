@@ -1,3 +1,8 @@
+## [Countdown](./Widgets/Countdown.md) 1.7.0 - April 26, 2024
+
+### Changed
+- Improved UI for countdown dialog
+
 ## [Events](./Widgets/Events.md) 1.17.0 - April 26, 2024
 
 ### Added
