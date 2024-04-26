@@ -1,3 +1,18 @@
+## 1.64.52 - April 26, 2024
+
+### Added
+- Improvements of the iframe dialog used by certain widgets to open URLs
+  - Added &#x27;back&#x27; and &#x27;forward&#x27; buttons for SharePoint sites
+  - Added &#x27;open in new window&#x27; button
+  - Added ability to override dialog header icon and title
+
+### Fixed
+- Some visual issues in the widget header link buttons (e.g. show all)
+- An issue where a missing publication date caused the urgent messages becoming unmanageable
+
+### Removed
+- Redundant functionality to import and export board configuration files
+
 ## 1.64.49 - April 24, 2024
 
 ### Changed
