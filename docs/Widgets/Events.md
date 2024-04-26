@@ -1,3 +1,11 @@
+## 1.17.0 - April 26, 2024
+
+### Added
+- An overview dialog to view all events in a list, accessible via the Show All button
+
+### Changed
+- Improved UI for dialogs and event items
+
 ## 1.16.0 - April 16, 2024
 
 ### Fixed

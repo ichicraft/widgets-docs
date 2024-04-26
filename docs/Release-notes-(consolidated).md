@@ -1,3 +1,11 @@
+## [Events](./Widgets/Events.md) 1.17.0 - April 26, 2024
+
+### Added
+- An overview dialog to view all events in a list, accessible via the Show All button
+
+### Changed
+- Improved UI for dialogs and event items
+
 ## [News](./Widgets/News.md) 1.35.0 - April 26, 2024
 
 ### Changed
