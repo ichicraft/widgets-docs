@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.53 - May 01, 2024
+
+### Fixed
+- An issue where the installation would fail when the &#x27;Everyone except external users&#x27; group is missing
+
 ## [Countdown](./Widgets/Countdown.md) 1.7.0 - April 26, 2024
 
 ### Changed

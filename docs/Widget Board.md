@@ -1,3 +1,8 @@
+## 1.64.53 - May 01, 2024
+
+### Fixed
+- An issue where the installation would fail when the &#x27;Everyone except external users&#x27; group is missing
+
 ## 1.64.52 - April 26, 2024
 
 ### Added
