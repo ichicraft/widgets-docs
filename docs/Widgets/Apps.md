@@ -1,3 +1,15 @@
+## 1.40.0 - May 02, 2024
+
+### Added
+- New &#x27;list&#x27; layout option for apps
+- Compact layout settings for a condensed list or grid
+- CSS override classes for the new layouts
+- CSS override class for the app description callout
+
+### Changed
+- Improved app dialog
+- Improved app UI
+
 ## 1.39.0 - March 26, 2024
 
 ### Fixed

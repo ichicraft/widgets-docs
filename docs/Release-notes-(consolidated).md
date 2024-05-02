@@ -1,3 +1,15 @@
+## [Apps](./Widgets/Apps.md) 1.40.0 - May 02, 2024
+
+### Added
+- New &#x27;list&#x27; layout option for apps
+- Compact layout settings for a condensed list or grid
+- CSS override classes for the new layouts
+- CSS override class for the app description callout
+
+### Changed
+- Improved app dialog
+- Improved app UI
+
 ## [Widget Board](./Widget Board.md) 1.64.53 - May 01, 2024
 
 ### Fixed
