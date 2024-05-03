@@ -1,3 +1,14 @@
+## [Apps](./Widgets/Apps.md) 1.41.0 - May 03, 2024
+
+### Added
+- CSS override class to control the app grid
+
+### Changed
+- Removed gray border around apps in the default Grid layout
+
+### Fixed
+- Default click behavior not working as expected
+
 ## [Apps](./Widgets/Apps.md) 1.40.0 - May 02, 2024
 
 ### Added
