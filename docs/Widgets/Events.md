@@ -1,3 +1,11 @@
+## 1.18.0 - May 06, 2024
+
+### Added
+- CSS override class to style the site button
+
+### Changed
+- Minor UI improvements
+
 ## 1.17.0 - April 26, 2024
 
 ### Added

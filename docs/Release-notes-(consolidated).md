@@ -1,3 +1,11 @@
+## [Events](./Widgets/Events.md) 1.18.0 - May 06, 2024
+
+### Added
+- CSS override class to style the site button
+
+### Changed
+- Minor UI improvements
+
 ## [News](./Widgets/News.md) 1.36.0 - May 06, 2024
 
 ### Added
