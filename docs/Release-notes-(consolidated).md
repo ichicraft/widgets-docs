@@ -1,3 +1,11 @@
+## [News](./Widgets/News.md) 1.36.0 - May 06, 2024
+
+### Added
+- CSS classes to style the site button and author label
+
+### Changed
+- Minor UI improvements
+
 ## [People Search](./Widgets/People Search.md) 1.16.0 - May 06, 2024
 
 ### Added

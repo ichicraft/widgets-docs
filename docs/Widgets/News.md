@@ -1,3 +1,11 @@
+## 1.36.0 - May 06, 2024
+
+### Added
+- CSS classes to style the site button and author label
+
+### Changed
+- Minor UI improvements
+
 ## 1.35.0 - April 26, 2024
 
 ### Changed
