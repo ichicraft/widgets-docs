@@ -1,3 +1,14 @@
+## 1.16.0 - May 06, 2024
+
+### Added
+- Admin configurable account filters
+
+### Changed
+- UI improvements
+
+### Fixed
+- An issue where person cards were not interactable anymore
+
 ## 1.15.0 - March 22, 2024
 
 ### Changed

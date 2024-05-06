@@ -1,3 +1,14 @@
+## [People Search](./Widgets/People Search.md) 1.16.0 - May 06, 2024
+
+### Added
+- Admin configurable account filters
+
+### Changed
+- UI improvements
+
+### Fixed
+- An issue where person cards were not interactable anymore
+
 ## [Apps](./Widgets/Apps.md) 1.41.0 - May 03, 2024
 
 ### Added
