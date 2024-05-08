@@ -1,3 +1,17 @@
+## [Widget Board](./Widget Board.md) 1.64.56 - May 08, 2024
+
+### Added
+- Short description field for urgent messages
+
+### Changed
+- Improved urgent message UI
+- Increased width threshold where vertical navigation is hidden
+
+### Fixed
+- An issue where urgent messages did not appear when timezone UTC+00:00 was selected
+- An issue where embedded Excel files were not rendered correctly
+- An issue when importing a backup with the shared boards feature disabled
+
 ## [Widget Board](./Widget Board.md) 1.64.54 - May 07, 2024
 
 ## [Events](./Widgets/Events.md) 1.18.0 - May 06, 2024
