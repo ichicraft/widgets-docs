@@ -1,3 +1,11 @@
+## 1.42.0 - May 15, 2024
+
+### Changed
+- Improve UI and CSS overrides
+
+### Fixed
+- An issue where embedded Excel documents did not render correctly
+
 ## 1.41.0 - May 03, 2024
 
 ### Added

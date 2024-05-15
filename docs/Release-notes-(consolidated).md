@@ -1,3 +1,11 @@
+## [Apps](./Widgets/Apps.md) 1.42.0 - May 15, 2024
+
+### Changed
+- Improve UI and CSS overrides
+
+### Fixed
+- An issue where embedded Excel documents did not render correctly
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.10.0 - May 15, 2024
 
 ### Added
