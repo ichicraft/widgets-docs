@@ -1,3 +1,11 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.10.0 - May 15, 2024
+
+### Added
+- Rich text functionality to item description
+
+### Fixed
+- An issue where embedding an Excel document would not work
+
 ## [Widget Board](./Widget Board.md) 1.64.57 - May 08, 2024
 
 ### Added

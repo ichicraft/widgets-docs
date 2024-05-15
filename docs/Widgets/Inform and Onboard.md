@@ -1,3 +1,11 @@
+## 1.10.0 - May 15, 2024
+
+### Added
+- Rich text functionality to item description
+
+### Fixed
+- An issue where embedding an Excel document would not work
+
 ## 1.9.0 - March 27, 2024
 
 ### Fixed
