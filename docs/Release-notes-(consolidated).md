@@ -1,3 +1,19 @@
+## [Power BI](./Widgets/Power BI.md) 1.54.0 - May 22, 2024
+
+### Added
+- Deeplinking functionality for Power BI content
+- Info flyout when hovering over content items in list view
+- Multi-column display for list layouts
+
+### Changed
+- Improved UI for list view and dialogs
+- Improved UX for Admin configuration
+
+
+### Fixed
+- Moving items to &#x27;no group assigned&#x27; not working correctly
+
+
 ## [Widget Board](./Widget Board.md) 1.64.58 - May 22, 2024
 
 ### Added
