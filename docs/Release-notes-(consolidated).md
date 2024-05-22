@@ -1,3 +1,17 @@
+## [Widget Board](./Widget Board.md) 1.64.58 - May 22, 2024
+
+### Added
+- Support for deep linking, to be used by widgets
+- Additional debug information for widget developers when debugging a widget locally
+
+### Changed
+- Tweaked UI of urgent messages
+
+### Fixed
+- Full height not working anymore in Teams personal app
+- An issue where the urgent messages link in the navigation didn&#x27;t show consistently
+- An issue where shared boards weren&#x27;t always pushed correctly
+
 ## [Apps](./Widgets/Apps.md) 1.42.0 - May 15, 2024
 
 ### Changed
