@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.37.0 - May 23, 2024
+
+### Changed
+- Followed sites are now cached for 15 minutes (instead of 24 hours)
+
 ## [Power BI](./Widgets/Power BI.md) 1.54.0 - May 22, 2024
 
 ### Added
