@@ -1,3 +1,8 @@
+## [Events](./Widgets/Events.md) 1.19.0 - May 23, 2024
+
+### Changed
+- Followed sites are now cached for 15 minutes (instead of 24 hours)
+
 ## [News](./Widgets/News.md) 1.37.0 - May 23, 2024
 
 ### Changed

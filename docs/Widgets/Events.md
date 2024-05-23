@@ -1,3 +1,8 @@
+## 1.19.0 - May 23, 2024
+
+### Changed
+- Followed sites are now cached for 15 minutes (instead of 24 hours)
+
 ## 1.18.0 - May 06, 2024
 
 ### Added
