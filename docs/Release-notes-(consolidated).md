@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.43.0 - May 27, 2024
+
+### Fixed
+- An issue where adding predefined content in user settings resulted in visually wrongly positioned elements
+
 ## [Events](./Widgets/Events.md) 1.19.0 - May 23, 2024
 
 ### Changed

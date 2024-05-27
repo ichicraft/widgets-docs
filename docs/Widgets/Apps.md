@@ -1,3 +1,8 @@
+## 1.43.0 - May 27, 2024
+
+### Fixed
+- An issue where adding predefined content in user settings resulted in visually wrongly positioned elements
+
 ## 1.42.0 - May 15, 2024
 
 ### Changed
