@@ -1,3 +1,9 @@
+## [Power BI](./Widgets/Power BI.md) 1.55.0 - May 27, 2024
+
+### Fixed
+- An issue where scrolling a longer list of Power BI content didn&#x27;t work correctly in the administration settings of the widget
+- An issue where adding predefined content in user settings resulted in visually wrongly positioned elements
+
 ## [Apps](./Widgets/Apps.md) 1.43.0 - May 27, 2024
 
 ### Fixed
