@@ -1,3 +1,14 @@
+## [Widget Board](./Widget Board.md) 1.64.59 - May 28, 2024
+
+### Fixed
+- An issue where trying to restore an Ichicraft Boards backup that doesn&#x27;t contain urgent messages or shared boards, resulted in an error
+- Some translations
+- Various issues in Ichicraft Boards Lite
+- Dismissed pushed widgets not resetting when resetting your Home board
+- Widget titles sometimes not being tracked in analytics
+- Security validation errors when SharePoint token expires after 30 minutes
+- An issue where a unique Teams package ID wasn&#x27;t always generated after installing Ichicraft Boards
+
 ## [Power BI](./Widgets/Power BI.md) 1.55.0 - May 27, 2024
 
 ### Fixed
