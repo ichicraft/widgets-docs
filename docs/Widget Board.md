@@ -1,3 +1,20 @@
+## 1.64.60 - June 12, 2024
+
+### Added
+- Layout editor for Shared Boards
+- Missing tooltips for disabled board/widget actions
+- Ability to render widget command bar buttons in the more/overflow menu
+- Additional properties for widget command bar buttons
+  - Disabled
+  - Highlighted
+  - Cursor
+
+### Changed
+- Widget command bar will now automatically move overflowed items to the More menu
+- Improved styling for Shared Boards preview and publish bars
+- Improved styling for tooltips across entire software
+- Improved styling for Add and More buttons in the main command bar
+
 ## 1.64.59 - May 28, 2024
 
 ### Fixed
