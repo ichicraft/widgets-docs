@@ -1,3 +1,12 @@
+## 1.8.0 - June 12, 2024
+
+### Added
+- New Count-up display type
+- Years count when the &#x27;days&#x27; count reaches above 365
+
+### Changed
+- Minor UI improvements
+
 ## 1.7.0 - April 26, 2024
 
 ### Changed
