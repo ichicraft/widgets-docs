@@ -1,3 +1,19 @@
+## 1.15.0 - June 17, 2024
+
+### Fixed
+- Opening files from within Teams no longer goes through the browser
+
+### Added
+- File preview option for Excel files
+
+### Changed
+- UI improvements
+- Use new url dialog for file previews
+- Improve error handling when user is missing needed M365 licenses
+
+### Fixed
+- &#x27;Open in Teams&#x27; url not working anymore
+
 ## 1.13.0 - March 21, 2024
 
 ### Changed
