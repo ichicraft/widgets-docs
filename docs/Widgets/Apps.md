@@ -1,3 +1,13 @@
+## 1.44.0 - June 26, 2024
+
+### Changed
+- Improved bundle size by using a centralized PnPjs implementation
+- Improved UI for tooltips and menus
+
+### Fixed
+- Caching issue where App Catalog cache was shared between different Ichicraft Boards installations
+- Wrong rendering of the app preview when editing an app in the user config panel 
+
 ## 1.43.0 - May 27, 2024
 
 ### Fixed
