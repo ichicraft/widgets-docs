@@ -1,3 +1,12 @@
+## 1.64.61 - June 26, 2024
+
+### Added
+- New properties provided to the WidgetContext (sp, spHttpClient, spHttpClientConfiguration), used to communicate with the SharePoint REST api
+
+### Changed
+- Improved ColorPicker UI
+- Improved bundle size
+
 ## 1.64.60 - June 12, 2024
 
 ### Added
