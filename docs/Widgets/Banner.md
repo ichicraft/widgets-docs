@@ -1,3 +1,8 @@
+## 1.9.0 - July 04, 2024
+
+### Changed
+- Widget header is now always visible in Card layout
+
 ## 1.8.0 - April 25, 2024
 
 ### Added

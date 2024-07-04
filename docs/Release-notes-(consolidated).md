@@ -1,3 +1,8 @@
+## [Banner](./Widgets/Banner.md) 1.9.0 - July 04, 2024
+
+### Changed
+- Widget header is now always visible in Card layout
+
 ## [People Search](./Widgets/People Search.md) 1.17.0 - July 04, 2024
 
 ### Changed
