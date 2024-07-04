@@ -1,3 +1,8 @@
+## [People Search](./Widgets/People Search.md) 1.17.0 - July 04, 2024
+
+### Changed
+- Show empty state instead of &#x27;people I work with&#x27; when user has no license
+
 ## [Widget Board](./Widget Board.md) 1.64.61 - June 26, 2024
 
 ### Added

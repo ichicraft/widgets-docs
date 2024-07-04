@@ -1,3 +1,8 @@
+## 1.17.0 - July 04, 2024
+
+### Changed
+- Show empty state instead of &#x27;people I work with&#x27; when user has no license
+
 ## 1.16.0 - May 06, 2024
 
 ### Added
