@@ -1,3 +1,14 @@
+## 1.10.0 - July 09, 2024
+
+### Added
+- User settings panel where users can find more sites to follow, or unfollow sites
+- Carousel layout when widget is 1 row tall
+- Ability to resize widget over multiple columns
+
+### Changed
+- Followed sites are now opened in a dialog (with the option to open them in a new tab)
+- UI improvements
+
 ## 1.9.0 - March 22, 2024
 
 ### Changed
