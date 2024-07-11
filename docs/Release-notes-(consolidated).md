@@ -1,3 +1,24 @@
+## [Widget Board](./Widget Board.md) 1.64.62 - July 11, 2024
+
+### Added
+- &#x27;Widget administrators&#x27; field for a widget variant, to allow other users/groups to edit its admin configuration
+- &#x27;Open in admin center&#x27; button to the widget command bar ,for administrators
+- Rich text support for widget instructions
+- Open/close button for filter panel in the admin widget library
+
+### Changed
+- Rebranded admin settings menu to &#x27;Admin center&#x27;
+- Widget variant titles and subtitles now have a maximum length of 40 and 60, respectively
+- Improved UI for the admin widget library
+- Improved UI for the vertical board navigation panel
+- Improved board template editor for administrators
+
+### Fixed
+- An issue where the &#x27;Show&#x27; button in the vertical board navigation panel would be positioned incorrectly
+- An issue when trying to parse an incorrect etag value
+- An issue where an installation file would always be fetched, even though the application was already installed
+- An issue where the SuiteNavPlaceholder element of SharePoint sites was still visible when embedding them in a dialog
+
 ## [Followed Sites](./Widgets/Followed Sites.md) 1.10.0 - July 09, 2024
 
 ### Added
