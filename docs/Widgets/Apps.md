@@ -1,3 +1,12 @@
+## 1.45.0 - July 11, 2024
+
+### Added
+- Widget administrator compatibility with app storage list
+
+### Fixed
+- An issue where only a maximum of 100 catalog apps are fetched instead of the whole list
+- An issue where a &#x60;null&#x60; value inside the &#x60;dismissedAppIds&#x60; property of the stored config results in an error
+
 ## 1.44.0 - June 26, 2024
 
 ### Changed
