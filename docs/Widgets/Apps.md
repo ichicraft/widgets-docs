@@ -1,3 +1,8 @@
+## 1.46.0 - July 12, 2024
+
+### Fixed
+- A bug where adding or updating apps failed when SharePoint audience targeting is enabled in the apps storage list
+
 ## 1.45.0 - July 11, 2024
 
 ### Added
