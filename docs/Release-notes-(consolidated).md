@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.63 - July 12, 2024
+
+### Fixed
+- An issue with the new widget administrators functionality that caused an error for end users
+
 ## [Apps](./Widgets/Apps.md) 1.46.0 - July 12, 2024
 
 ### Fixed

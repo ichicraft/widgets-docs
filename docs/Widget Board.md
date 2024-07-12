@@ -1,3 +1,8 @@
+## 1.64.63 - July 12, 2024
+
+### Fixed
+- An issue with the new widget administrators functionality that caused an error for end users
+
 ## 1.64.62 - July 11, 2024
 
 ### Added
