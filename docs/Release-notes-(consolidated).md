@@ -1,3 +1,11 @@
+## [Followed Sites](./Widgets/Followed Sites.md) 1.11.0 - July 25, 2024
+
+### Fixed
+- Following and unfollowing now use a new API, hopefully making it more robust
+
+### Changed
+- Sites now open in a new tab again instead of in a modal dialog. We reverted this behavior due to issues with opening a team site in the dialog where the left navigation won&#x27;t render.
+
 ## [Widget Board](./Widget Board.md) 1.64.63 - July 12, 2024
 
 ### Fixed
