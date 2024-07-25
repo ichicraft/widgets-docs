@@ -1,3 +1,16 @@
+## [Widget Board](./Widget Board.md) 1.64.64 - July 25, 2024
+
+### Added
+- Support for our new API and CDN URL&#x27;s that run under our own ichicraft.com domain
+
+### Fixed
+- An issue where during a clean installation, multiple attempts are done to store draft configuration items even though the storage list isn&#x27;t provisioned yet
+
+### Changed
+- Automatically fetching urgent messages now stops after 5 failed attempts
+- Made some improvements to recover from a connection loss to central PnP JS object
+- Added more user role information to widget context, to be used by widget logic
+
 ## [Followed Sites](./Widgets/Followed Sites.md) 1.11.0 - July 25, 2024
 
 ### Fixed
