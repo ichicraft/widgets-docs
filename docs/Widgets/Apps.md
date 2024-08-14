@@ -1,3 +1,11 @@
+## 1.47.0 - August 14, 2024
+
+### Added
+- Add toggle for catalog management for widget admins
+
+### Updated
+- Updated internal URL used to fetch AVD apps
+
 ## 1.46.0 - July 12, 2024
 
 ### Fixed

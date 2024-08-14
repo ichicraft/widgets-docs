@@ -1,3 +1,11 @@
+## [Apps](./Widgets/Apps.md) 1.47.0 - August 14, 2024
+
+### Added
+- Add toggle for catalog management for widget admins
+
+### Updated
+- Updated internal URL used to fetch AVD apps
+
 ## [Widget Board](./Widget Board.md) 1.64.65 - August 14, 2024
 
 ### Fixed
