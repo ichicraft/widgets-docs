@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.65 - August 14, 2024
+
+### Fixed
+- An issue where navigating back and forth between a page with the Ichicraft Boards web part and another SharePoint page sometimes results in an error in Ichicraft Boards.
+
 ## [Widget Board](./Widget Board.md) 1.64.64 - July 25, 2024
 
 ### Added
