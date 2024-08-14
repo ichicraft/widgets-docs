@@ -1,3 +1,8 @@
+## 1.20.0 - August 14, 2024
+
+### Update
+- Update CORS reverse proxy url to use our own domain instead of a more generic azurewebsites.net url
+
 ## 1.19.0 - March 21, 2024
 
 ### Changed

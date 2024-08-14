@@ -1,3 +1,8 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.20.0 - August 14, 2024
+
+### Update
+- Update CORS reverse proxy url to use our own domain instead of a more generic azurewebsites.net url
+
 ## [Apps](./Widgets/Apps.md) 1.47.0 - August 14, 2024
 
 ### Added
