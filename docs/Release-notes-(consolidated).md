@@ -1,3 +1,16 @@
+## [Widget Board](./Widget Board.md) 1.64.66 - September 07, 2024
+
+### Added
+- A central search box can now be provided to open our new search center (using our the new Search Widget)
+- Ability to use tab navigation in a widget header
+
+### Changed
+- The concept of Navigation Policies has evolved into Configuration Packages, where it&#x27;s now possible to select boards, but also configure a central search box
+- Updates to the rendering of the core command bar buttons in the top right
+
+### Fixed
+- German translations used by the core product
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.20.0 - August 14, 2024
 
 ### Update
