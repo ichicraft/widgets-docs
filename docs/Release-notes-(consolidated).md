@@ -1,3 +1,7 @@
+## [Marketplace](./Widgets/Marketplace.md) 0.1.0 - September 07, 2024
+
+Initial release 🚀
+
 ## [Widget Board](./Widget Board.md) 1.64.66 - September 07, 2024
 
 ### Added
