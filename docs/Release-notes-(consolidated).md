@@ -1,4 +1,4 @@
-## [Marketplace](./Widgets/Marketplace.md) 0.1.0 - September 07, 2024
+## [Search](./Widgets/Search.md) 1.0.0 - September 07, 2024
 
 Initial release 🚀
 
