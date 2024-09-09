@@ -1,3 +1,10 @@
+## [Embed](./Widgets/Embed.md) 1.9.0 - September 09, 2024
+
+
+
+### Changed
+- Improved German translations.
+
 ## [Search](./Widgets/Search.md) 1.0.0 - September 07, 2024
 
 Initial release 🚀
