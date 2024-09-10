@@ -1,3 +1,8 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.13.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [Apps](./Widgets/Apps.md) 1.48.0 - September 10, 2024
 
 ### Changed
