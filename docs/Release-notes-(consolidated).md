@@ -1,3 +1,8 @@
+## [Inbox](./Widgets/Inbox.md) 1.17.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [People Search](./Widgets/People Search.md) 1.18.0 - September 10, 2024
 
 ### Changed
