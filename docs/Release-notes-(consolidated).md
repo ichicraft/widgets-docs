@@ -1,3 +1,8 @@
+## [Sticky Notes](./Widgets/Sticky Notes.md) 1.8.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [Banner](./Widgets/Banner.md) 1.10.0 - September 10, 2024
 
 ### Changed
