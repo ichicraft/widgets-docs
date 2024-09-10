@@ -1,3 +1,8 @@
+## [Tableau Reports](./Widgets/Tableau Reports.md) 1.9.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [Tasks](./Widgets/Tasks.md) 1.10.0 - September 10, 2024
 
 ### Changed
