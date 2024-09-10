@@ -1,3 +1,8 @@
+## [Saved for Later](./Widgets/Saved for Later.md) 1.9.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [Sticky Notes](./Widgets/Sticky Notes.md) 1.8.0 - September 10, 2024
 
 ### Changed
