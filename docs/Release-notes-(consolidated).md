@@ -1,3 +1,8 @@
+## [Events](./Widgets/Events.md) 1.20.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [Marketplace](./Widgets/Marketplace.md) 1.1.0 - September 10, 2024
 
 ### Changed
