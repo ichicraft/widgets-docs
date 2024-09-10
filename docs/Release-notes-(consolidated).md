@@ -1,3 +1,8 @@
+## [Teams](./Widgets/Teams.md) 1.7.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.13.0 - September 10, 2024
 
 ### Changed
