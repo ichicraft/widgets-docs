@@ -1,3 +1,8 @@
+## [Marketplace](./Widgets/Marketplace.md) 1.1.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [Files](./Widgets/Files.md) 1.16.0 - September 10, 2024
 
 ### Changed
