@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.56.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.21.0 - September 10, 2024
 
 ### Changed
