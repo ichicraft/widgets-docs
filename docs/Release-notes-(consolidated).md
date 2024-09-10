@@ -1,3 +1,8 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.21.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [Tableau Reports](./Widgets/Tableau Reports.md) 1.9.0 - September 10, 2024
 
 ### Changed
