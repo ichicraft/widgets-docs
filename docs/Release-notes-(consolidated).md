@@ -1,3 +1,10 @@
+## [Search](./Widgets/Search.md) 1.1.0 - September 10, 2024
+
+### Fixed
+- An issue where a certain API permission wasn&#x27;t requested during installation
+- An issue where in some scenarios, date formatting caused a fatal exception
+- Some UI issues in dark mode
+
 ## [Embed](./Widgets/Embed.md) 1.9.0 - September 09, 2024
 
 
