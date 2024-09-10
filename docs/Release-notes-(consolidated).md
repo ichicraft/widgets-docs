@@ -1,3 +1,8 @@
+## [Tasks](./Widgets/Tasks.md) 1.10.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [Teams](./Widgets/Teams.md) 1.7.0 - September 10, 2024
 
 ### Changed
