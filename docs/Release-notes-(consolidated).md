@@ -1,3 +1,8 @@
+## [Followed Sites](./Widgets/Followed Sites.md) 1.12.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [Events](./Widgets/Events.md) 1.20.0 - September 10, 2024
 
 ### Changed
