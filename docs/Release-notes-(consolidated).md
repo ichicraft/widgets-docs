@@ -1,3 +1,8 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.11.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [Inbox](./Widgets/Inbox.md) 1.17.0 - September 10, 2024
 
 ### Changed
