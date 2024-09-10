@@ -1,3 +1,8 @@
+## 1.48.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## 1.47.0 - August 14, 2024
 
 ### Added

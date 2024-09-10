@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.48.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [World Clock](./Widgets/World Clock.md) 1.6.0 - September 10, 2024
 
 ### Changed
