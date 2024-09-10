@@ -1,3 +1,8 @@
+## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.13.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [Search](./Widgets/Search.md) 1.1.0 - September 10, 2024
 
 ### Fixed
