@@ -1,3 +1,8 @@
+## [World Clock](./Widgets/World Clock.md) 1.6.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [Followed Sites](./Widgets/Followed Sites.md) 1.12.0 - September 10, 2024
 
 ### Changed
