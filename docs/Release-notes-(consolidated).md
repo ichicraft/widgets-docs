@@ -1,3 +1,8 @@
+## [Countdown](./Widgets/Countdown.md) 1.9.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.11.0 - September 10, 2024
 
 ### Changed
