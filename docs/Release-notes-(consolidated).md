@@ -1,3 +1,8 @@
+## [Bookmarks](./Widgets/Bookmarks.md) 1.11.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [Power BI](./Widgets/Power BI.md) 1.56.0 - September 10, 2024
 
 ### Changed
