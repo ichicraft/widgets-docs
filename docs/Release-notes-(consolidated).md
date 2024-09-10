@@ -1,3 +1,8 @@
+## [Files](./Widgets/Files.md) 1.16.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## [Countdown](./Widgets/Countdown.md) 1.9.0 - September 10, 2024
 
 ### Changed

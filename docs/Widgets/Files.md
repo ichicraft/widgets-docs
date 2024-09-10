@@ -1,3 +1,8 @@
+## 1.16.0 - September 10, 2024
+
+### Changed
+- Improved German translations.
+
 ## 1.15.0 - June 17, 2024
 
 ### Fixed
