@@ -1,3 +1,10 @@
+## [News](./Widgets/News.md) 1.38.0 - September 13, 2024
+
+### Changed
+- Improved German translations
+- Improved admin panel readability
+- Improved image quality of news article thumbnails
+
 ## [Saved for Later](./Widgets/Saved for Later.md) 1.9.0 - September 10, 2024
 
 ### Changed

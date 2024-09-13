@@ -1,3 +1,10 @@
+## 1.38.0 - September 13, 2024
+
+### Changed
+- Improved German translations
+- Improved admin panel readability
+- Improved image quality of news article thumbnails
+
 ## 1.37.0 - May 23, 2024
 
 ### Changed
