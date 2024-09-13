@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.64.67 - September 13, 2024
+
+### Changed
+- Made some improvements to dark mode rendering
+
 ## [News](./Widgets/News.md) 1.38.0 - September 13, 2024
 
 ### Changed

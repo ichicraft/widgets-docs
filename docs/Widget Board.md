@@ -1,3 +1,8 @@
+## 1.64.67 - September 13, 2024
+
+### Changed
+- Made some improvements to dark mode rendering
+
 ## 1.64.66 - September 07, 2024
 
 ### Added
