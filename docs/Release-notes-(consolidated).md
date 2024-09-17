@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.64.68 - September 17, 2024
+
+### Changed
+- Added some extra logging
+- Removed a duplicate call to an internal function
+
 ## [World Clock](./Widgets/World Clock.md) 1.7.0 - September 17, 2024
 
 ### Fixed

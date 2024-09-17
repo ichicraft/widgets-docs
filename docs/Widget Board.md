@@ -1,3 +1,9 @@
+## 1.64.68 - September 17, 2024
+
+### Changed
+- Added some extra logging
+- Removed a duplicate call to an internal function
+
 ## 1.64.67 - September 13, 2024
 
 ### Changed
