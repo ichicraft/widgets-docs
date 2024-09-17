@@ -1,3 +1,11 @@
+## [World Clock](./Widgets/World Clock.md) 1.7.0 - September 17, 2024
+
+### Fixed
+- A bug where timezones that consist of 3 parts only used the middle part for the title
+
+### Changed
+- Introduced scrolling list readability
+
 ## [Widget Board](./Widget Board.md) 1.64.67 - September 13, 2024
 
 ### Changed

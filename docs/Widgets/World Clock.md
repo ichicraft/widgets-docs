@@ -1,3 +1,11 @@
+## 1.7.0 - September 17, 2024
+
+### Fixed
+- A bug where timezones that consist of 3 parts only used the middle part for the title
+
+### Changed
+- Introduced scrolling list readability
+
 ## 1.6.0 - September 10, 2024
 
 ### Changed
