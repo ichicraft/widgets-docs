@@ -1,3 +1,10 @@
+## [News](./Widgets/News.md) 1.39.0 - September 18, 2024
+
+### Changed
+- Improved refreshing news articles in background
+- Improved logging
+
+
 ## [Widget Board](./Widget Board.md) 1.64.68 - September 17, 2024
 
 ### Changed

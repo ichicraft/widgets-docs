@@ -1,3 +1,10 @@
+## 1.39.0 - September 18, 2024
+
+### Changed
+- Improved refreshing news articles in background
+- Improved logging
+
+
 ## 1.38.0 - September 13, 2024
 
 ### Changed
