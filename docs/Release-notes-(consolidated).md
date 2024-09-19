@@ -1,3 +1,18 @@
+## [Search](./Widgets/Search.md) 1.2.0 - September 19, 2024
+
+### Added
+- A new [SP.CurrentLanguage] token to be used in query templates, which will be replaced by the user&#x27;s current UI language in SharePoint.
+
+### Changed
+- Improved some tooltips with links to documentation
+- Improved News scope template.  Now sorted from new to old, and localized articles are filtered based on the user&#x27;s language.
+
+### Fixed
+- Acronyms not showing up in the promoted results
+- Wildcard Search toggle not working
+- Custom sort order not working
+
+
 ## [News](./Widgets/News.md) 1.39.0 - September 18, 2024
 
 ### Changed
