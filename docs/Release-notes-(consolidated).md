@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.40.0 - September 24, 2024
+
+### Fixed
+- An issue where news articles that use SharePoint stock images, didn&#x27;t render acceptable thumbnails
+
 ## [Search](./Widgets/Search.md) 1.2.0 - September 19, 2024
 
 ### Added

@@ -1,3 +1,8 @@
+## 1.40.0 - September 24, 2024
+
+### Fixed
+- An issue where news articles that use SharePoint stock images, didn&#x27;t render acceptable thumbnails
+
 ## 1.39.0 - September 18, 2024
 
 ### Changed
