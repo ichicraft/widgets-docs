@@ -1,3 +1,14 @@
+## 1.64.69 - September 30, 2024
+
+### Fixed
+- Multiple issues in using configuration packages without using the Shared Boards features
+- An issue where, as an administrator, you couldn&#x27;t always update a shared board
+- An issue where in some cases, warning symbols weren&#x27;t immediately visible when entering the admin center
+
+### Changed
+- It&#x27;s now possible to create configuration packages without preselected boards and only include a central search box configuration
+- Creating a new shared board from the admin center now automatically has admin view
+
 ## 1.64.68 - September 17, 2024
 
 ### Changed
