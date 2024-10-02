@@ -1,3 +1,9 @@
+## 1.64.71 - October 02, 2024
+
+### Fixed
+- An issue where using the Configuration Packages tab fails in the Admin Center for some older installations
+- An issue where additional personal boards are falsely automatically created
+
 ## 1.64.70 - October 01, 2024
 
 ### Fixed
