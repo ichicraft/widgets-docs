@@ -1,3 +1,8 @@
+## 1.64.72 - October 02, 2024
+
+### Fixed
+- An issue where users see duplicate personal boards in their navigation
+
 ## 1.64.71 - October 02, 2024
 
 ### Fixed
