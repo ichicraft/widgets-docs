@@ -6,3 +6,5 @@ theme:
     favicon: images/favicon.png
 extra_css:
     - styles/extra.css
+extra_javascript:
+    - scripts/script.js
