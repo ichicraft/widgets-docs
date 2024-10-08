@@ -9,3 +9,13 @@
     height: auto;
     fill: none;
 }
+
+.ic-env--dialog .md-sidebar--primary, 
+.ic-env--dialog .md-header, 
+.ic-env--dialog .md-footer {
+    display: none;
+}
+
+.ic-env--dialog .md-main__inner {
+    margin-top: 0;
+}
