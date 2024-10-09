@@ -1,3 +1,8 @@
+## 1.3.0 - October 09, 2024
+
+### Updated
+- Some internals
+
 ## 1.2.0 - September 19, 2024
 
 ### Added

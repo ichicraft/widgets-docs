@@ -1,3 +1,8 @@
+## [Search](./Widgets/Search.md) 1.3.0 - October 09, 2024
+
+### Updated
+- Some internals
+
 ## [Widget Board](./Widget Board.md) 1.64.72 - October 02, 2024
 
 ### Fixed
