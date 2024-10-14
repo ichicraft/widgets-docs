@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.64.73 - October 14, 2024
+
+### Added
+- An About page to the Admin Center with contact information
+- A changelog section to the About page that shows information about new releases of Ichicraft Boards
+
 ## [Search](./Widgets/Search.md) 1.3.0 - October 09, 2024
 
 ### Updated

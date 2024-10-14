@@ -1,3 +1,9 @@
+## 1.64.73 - October 14, 2024
+
+### Added
+- An About page to the Admin Center with contact information
+- A changelog section to the About page that shows information about new releases of Ichicraft Boards
+
 ## 1.64.72 - October 02, 2024
 
 ### Fixed
