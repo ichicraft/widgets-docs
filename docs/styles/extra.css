@@ -19,3 +19,8 @@
 .ic-env--dialog .md-main__inner {
     margin-top: 0;
 }
+
+.md-content a {
+    text-decoration: underline;
+    font-weight: 600;
+}
