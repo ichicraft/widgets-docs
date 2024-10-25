@@ -1,3 +1,16 @@
+## 1.65.0 - October 25, 2024
+
+### Added
+- New feature that allows Urgent Message editors to send push notifications to the audience of a message. These notifications appear as activities in the end user&#x27;s Teams activity feed. Check out [our blog](https://ichicraft.com/push-notifications-urgent-messages-ichicraft-boards/) for more information!
+
+### Changed
+- Made various improvements to the API permission panel in the admin center
+
+### Fixed
+- An issue where an error was rendered when opening an empty folder or library in the file picker component
+- An issue where the organizational library couldn&#x27;t be used for centrally managed assets from within the file picker component
+- An issue where audience targeting didn&#x27;t always work correctly with external users (widget updates will follow)
+
 ## 1.64.73 - October 14, 2024
 
 ### Added
