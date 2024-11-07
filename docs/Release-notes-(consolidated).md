@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.49.0 - November 07, 2024
+
+### Fixed
+- A bug where a widget didn&#x27;t reflect changes in layout options made as an administrator when those changes were still in draft
+
 ## [Widget Board](./Widget Board.md) 1.65.0 - October 25, 2024
 
 ### Added

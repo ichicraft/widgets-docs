@@ -1,3 +1,8 @@
+## 1.49.0 - November 07, 2024
+
+### Fixed
+- A bug where a widget didn&#x27;t reflect changes in layout options made as an administrator when those changes were still in draft
+
 ## 1.48.0 - September 10, 2024
 
 ### Changed
