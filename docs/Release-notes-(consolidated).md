@@ -1,3 +1,14 @@
+## [Tasks](./Widgets/Tasks.md) 1.11.0 - November 08, 2024
+
+### Added
+- &#x27;Edit&#x27; functionality for ToDo and Planner tasks
+- &#x27;Add&#x27; functionality for Planner tasks
+- &#x27;Checklist&#x27; functionality for Planner tasks
+
+### Changed
+- Improved UI for tasks
+
+
 ## [Apps](./Widgets/Apps.md) 1.49.0 - November 07, 2024
 
 ### Fixed

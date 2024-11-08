@@ -1,3 +1,14 @@
+## 1.11.0 - November 08, 2024
+
+### Added
+- &#x27;Edit&#x27; functionality for ToDo and Planner tasks
+- &#x27;Add&#x27; functionality for Planner tasks
+- &#x27;Checklist&#x27; functionality for Planner tasks
+
+### Changed
+- Improved UI for tasks
+
+
 ## 1.10.0 - September 10, 2024
 
 ### Changed
