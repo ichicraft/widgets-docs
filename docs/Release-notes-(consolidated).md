@@ -1,3 +1,10 @@
+## [Tasks](./Widgets/Tasks.md) 1.12.0 - November 11, 2024
+
+### Fixed
+- An issue that caused the Planner tab to fail rendering when tasks were assigned to users that no longer exist
+- An issue where Shared Board owners could select personal To Do lists that don&#x27;t work for other users
+- An issue where users without a M365 license or without their mailbox in M365, caused the widget to fail in the To Do tab without giving a proper error message
+
 ## [Tasks](./Widgets/Tasks.md) 1.11.0 - November 08, 2024
 
 ### Added
