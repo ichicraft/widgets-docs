@@ -1,3 +1,15 @@
+## [Widget Board](./Widget Board.md) 1.66.0 - December 13, 2024
+
+### Added
+- The Buddy Bar (quickly check out our [blog](https://ichicraft.com/buddy-bar-ichicraft-boards/) for the details!)
+- The ability to move widgets between personal boards and the Buddy Bar
+- Various new CSS classes that can be used to override styling Ichicraft Boards
+- Some minor improvements to the administration of configuration packages
+
+### Fixed
+- An issue where sometimes the buttons in the header (top right) remained active when hovering over them quickly
+- Inconsistencies with some translations
+
 ## [Tasks](./Widgets/Tasks.md) 1.12.0 - November 11, 2024
 
 ### Fixed
