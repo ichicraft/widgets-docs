@@ -1,3 +1,15 @@
+## 1.12.0 - December 16, 2024
+
+### Added
+- Badge count when the widget is used as a buddy in the new Buddy Bar
+- New Checklist layout (also includes upcoming items)
+- Custom icon for content items
+- Custom introduction text (only in Checklist layout)
+- Custom completion text (shown when the user has completed all their items)
+
+### Changed
+- Improved UI for News layout
+
 ## 1.11.0 - September 10, 2024
 
 ### Changed
