@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.67.0 - December 16, 2024
+
+### Fixed
+- A bug where the new Buddy Bar rendered twice on mobile devices in some scenarios
+
 ## [Files](./Widgets/Files.md) 1.17.0 - December 16, 2024
 
 ### Added

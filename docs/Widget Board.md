@@ -1,3 +1,8 @@
+## 1.67.0 - December 16, 2024
+
+### Fixed
+- A bug where the new Buddy Bar rendered twice on mobile devices in some scenarios
+
 ## 1.66.0 - December 13, 2024
 
 ### Added
