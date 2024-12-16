@@ -1,3 +1,8 @@
+## [Tasks](./Widgets/Tasks.md) 1.13.0 - December 16, 2024
+
+### Added
+- Badge count when the widget is used as a buddy in the new Buddy Bar
+
 ## [Inbox](./Widgets/Inbox.md) 1.18.0 - December 16, 2024
 
 ### Added
