@@ -1,3 +1,8 @@
+## 1.18.0 - December 16, 2024
+
+### Added
+- Badge count when the widget is used as a buddy in the new Buddy Bar
+
 ## 1.17.0 - September 10, 2024
 
 ### Changed

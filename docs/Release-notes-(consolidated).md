@@ -1,3 +1,8 @@
+## [Inbox](./Widgets/Inbox.md) 1.18.0 - December 16, 2024
+
+### Added
+- Badge count when the widget is used as a buddy in the new Buddy Bar
+
 ## [Search](./Widgets/Search.md) 1.4.0 - December 16, 2024
 
 ### Added
