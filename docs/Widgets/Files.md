@@ -1,3 +1,31 @@
+## 1.17.0 - December 16, 2024
+
+### Added
+- Ability to select a Drive while browsing files (instead of always browsing the root drive)
+- Ability to create new files
+  - Create file based on admin-defined Office templates
+  - New folder
+  - Upload file
+- New location picker dialog to choose a file location
+- Additional menu options for files
+  - Copy link
+  - Manage access
+  - Favorite / Unfavorite
+  - Delete
+  - Rename
+  - Move to
+  - Copy to
+  - Details
+- Improved filter system
+  - Choose which filters to show in a tab
+  - Custom Aggregation filters
+- Query template support for &#x27;Flat list&#x27; tabs
+- Context menu support for Folders
+
+### Changed
+- Improved tab UI
+- Improved Share dialog
+
 ## 1.16.0 - September 10, 2024
 
 ### Changed
