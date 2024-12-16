@@ -1,3 +1,13 @@
+## [Search](./Widgets/Search.md) 1.4.0 - December 16, 2024
+
+### Added
+- Custom sort options
+- File Type filter for file scopes
+- Add Manage Access option for files
+
+### Changed
+- Improve Share dialog for files
+
 ## [Widget Board](./Widget Board.md) 1.66.0 - December 13, 2024
 
 ### Added

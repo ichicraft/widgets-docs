@@ -1,3 +1,13 @@
+## 1.4.0 - December 16, 2024
+
+### Added
+- Custom sort options
+- File Type filter for file scopes
+- Add Manage Access option for files
+
+### Changed
+- Improve Share dialog for files
+
 ## 1.3.0 - October 09, 2024
 
 ### Updated
