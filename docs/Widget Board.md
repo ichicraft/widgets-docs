@@ -1,3 +1,8 @@
+## 1.68.0 - December 19, 2024
+
+### Fixed
+- An issue where widget titles that were supposed to be clickable (like with Inbox and Upcoming Meetings), no longer were
+
 ## 1.67.0 - December 16, 2024
 
 ### Fixed
