@@ -1,3 +1,12 @@
+## 1.69.0 - December 21, 2024
+
+### Fixed
+- An issue where a removed Shared Board could cause the app to fail when users try to navigate to that missing board
+- An issue where the Buddy Bar teaching tip wasn&#x27;t presented to users that immediately get buddies from a configuration package
+
+### Changed
+- Some small visual improvements to the rendering of the Buddy Bar
+
 ## 1.68.0 - December 19, 2024
 
 ### Fixed
