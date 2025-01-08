@@ -1,3 +1,10 @@
+## [Files](./Widgets/Files.md) 1.18.0 - January 08, 2025
+
+### Fixed
+- An issue where the Sites.ReadWrite.All permission was expected by the Graph API, but not required by the widget
+- An issue where the My Files context was opened when trying to create files from a OneDrive tab that wasn&#x27;t My OneDrive
+- An issue where an undefined error would occur when a tab was missing oneDriveSettings
+
 ## [Widget Board](./Widget Board.md) 1.69.0 - December 21, 2024
 
 ### Fixed
