@@ -1,3 +1,8 @@
+## 1.19.0 - January 14, 2025
+
+### Fixed
+- An issue where Office templates were not available in the Teams client, due to it being detected as a mobile platform.
+
 ## 1.18.0 - January 08, 2025
 
 ### Fixed
