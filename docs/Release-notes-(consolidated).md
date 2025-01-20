@@ -1,3 +1,8 @@
+## [Tasks](./Widgets/Tasks.md) 1.14.0 - January 20, 2025
+
+### Fixed
+- An issue where priority and due date filters didn&#x27;t work correctly for To Do tasks
+
 ## [Files](./Widgets/Files.md) 1.19.0 - January 14, 2025
 
 ### Fixed

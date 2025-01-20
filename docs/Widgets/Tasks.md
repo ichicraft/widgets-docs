@@ -1,3 +1,8 @@
+## 1.14.0 - January 20, 2025
+
+### Fixed
+- An issue where priority and due date filters didn&#x27;t work correctly for To Do tasks
+
 ## 1.13.0 - December 16, 2024
 
 ### Added
