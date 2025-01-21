@@ -1,3 +1,11 @@
+## [Widget Board](./Widget Board.md) 1.71.0 - January 21, 2025
+
+### Fixed
+- A bug where the Buddy Bar didn&#x27;t disappear completely when the placeholder was dismissed
+- A bug where selecting a tab from within a widget&#x27;s code didn&#x27;t work correctly
+- A bug where the correct boardType wasn&#x27;t provided to a widget when a widget resides in the Buddy Bar
+- Some issues in the analytics feature, not providing the correct event details in all cases
+
 ## [Tasks](./Widgets/Tasks.md) 1.14.0 - January 20, 2025
 
 ### Fixed
