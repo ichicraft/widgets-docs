@@ -1,3 +1,10 @@
+## [Widget Board](./Widget Board.md) 1.72.0 - February 06, 2025
+
+
+
+### Fixed
+- An issue where the installation of Ichicraft Boards couldn&#x27;t proceed due to a failure in detecting granted API permissions
+
 ## [Widget Board](./Widget Board.md) 1.71.0 - January 21, 2025
 
 ### Fixed
