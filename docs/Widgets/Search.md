@@ -1,3 +1,17 @@
+## 1.5.0 - February 19, 2025
+
+### Added
+- Polish 🇵🇱 translations added, allowing Polish-speaking users to navigate and use the software in their native language
+- Person detail cards added to user picker controls used in widget settings
+
+### Changed
+- Use native SharePoint people card fly-out in favor of MGT card to reduce JavaScript bundle size
+- Various under-the-hood performance updates 
+
+### Fixed
+- An issue where in rare cases, the widget could fail rendering when no tab was selected
+- An issue where external users with capital &#x27;#EXT#&#x27; in their username weren&#x27;t correctly recognized as external
+
 ## 1.4.0 - December 16, 2024
 
 ### Added
