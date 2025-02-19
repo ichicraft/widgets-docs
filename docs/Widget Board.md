@@ -1,3 +1,20 @@
+## 1.73.0 - February 19, 2025
+
+### Added
+- Additional design options, such as colors for the header, navigation and badges
+- Globally defined colors, for easier configuration of color fields
+- Configuration of multiple themes / brandings
+- Theme setting for configuration packages
+- Configuration of multiple backgrounds users can choose from
+- Polish translation support
+
+### Changed
+- Increased widget row height
+- Improved UI for board navigation, badges and Color Picker fields
+- Replaced custom User Card behavior with the default SharePoint behavior
+- Optimized bundle size for faster initialization
+
+
 ## 1.72.0 - February 06, 2025
 
 
