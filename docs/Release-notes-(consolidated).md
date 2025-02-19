@@ -1,3 +1,11 @@
+## [World Clock](./Widgets/World Clock.md) 1.8.0 - February 19, 2025
+
+### Added
+- Polish 🇵🇱 translations added, allowing Polish-speaking users to navigate and use the software in their native language
+
+### Changed
+- Various under-the-hood performance updates 
+
 ## [Birthdays](./Widgets/Birthdays.md) 1.14.0 - February 19, 2025
 
 ### Added
