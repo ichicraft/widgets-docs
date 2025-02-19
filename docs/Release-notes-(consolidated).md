@@ -1,3 +1,15 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.22.0 - February 19, 2025
+
+### Added
+- Polish 🇵🇱 translations added, allowing Polish-speaking users to navigate and use the software in their native language
+- Person detail cards added to user picker controls used in widget settings
+
+### Changed
+- Various under-the-hood performance updates 
+
+### Fixed
+- An issue where external users with capital &#x27;#EXT#&#x27; in their username weren&#x27;t correctly recognized as external
+
 ## [Sticky Notes](./Widgets/Sticky Notes.md) 1.9.0 - February 19, 2025
 
 ### Added
