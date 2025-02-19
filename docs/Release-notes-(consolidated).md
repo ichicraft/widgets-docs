@@ -1,3 +1,12 @@
+## [Inbox](./Widgets/Inbox.md) 1.19.0 - February 19, 2025
+
+### Added
+- Polish 🇵🇱 translations added, allowing Polish-speaking users to navigate and use the software in their native language
+- Person detail cards added to user picker controls used in widget settings
+
+### Changed
+- Various under-the-hood performance updates 
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.13.0 - February 19, 2025
 
 ### Added
