@@ -1,3 +1,13 @@
+## 1.14.0 - February 19, 2025
+
+### Added
+- Polish 🇵🇱 translations added, allowing Polish-speaking users to navigate and use the software in their native language
+
+### Changed
+- Use native SharePoint people card fly-out in favor of MGT card to reduce JavaScript bundle size
+- Widget can now be resized to span up to 6 columns instead of 2
+- Various under-the-hood performance updates 
+
 ## 1.13.0 - September 10, 2024
 
 ### Changed
