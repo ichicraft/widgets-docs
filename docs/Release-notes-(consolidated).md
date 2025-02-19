@@ -1,3 +1,11 @@
+## [Marketplace](./Widgets/Marketplace.md) 1.2.0 - February 19, 2025
+
+### Added
+- Polish 🇵🇱 translations added, allowing Polish-speaking users to navigate and use the software in their native language
+
+### Changed
+- Various under-the-hood performance updates 
+
 ## [News](./Widgets/News.md) 1.41.0 - February 19, 2025
 
 ### Added
