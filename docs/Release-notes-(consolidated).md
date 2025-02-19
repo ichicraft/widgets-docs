@@ -1,3 +1,11 @@
+## [Countdown](./Widgets/Countdown.md) 1.10.0 - February 19, 2025
+
+### Added
+- Polish 🇵🇱 translations added, allowing Polish-speaking users to navigate and use the software in their native language
+
+### Changed
+- Various under-the-hood performance updates 
+
 ## [Embed](./Widgets/Embed.md) 1.10.0 - February 19, 2025
 
 ### Added
