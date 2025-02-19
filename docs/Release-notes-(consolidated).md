@@ -1,3 +1,11 @@
+## [Followed Sites](./Widgets/Followed Sites.md) 1.13.0 - February 19, 2025
+
+### Added
+- Polish 🇵🇱 translations added, allowing Polish-speaking users to navigate and use the software in their native language
+
+### Changed
+- Various under-the-hood performance updates 
+
 ## [Inbox](./Widgets/Inbox.md) 1.19.0 - February 19, 2025
 
 ### Added
