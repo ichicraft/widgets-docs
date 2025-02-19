@@ -1,3 +1,12 @@
+## 1.15.0 - February 19, 2025
+
+### Added
+- Polish 🇵🇱 translations added, allowing Polish-speaking users to navigate and use the software in their native language
+- Person detail cards added to user picker controls used in widget settings
+
+### Changed
+- Various under-the-hood performance updates 
+
 ## 1.14.0 - January 20, 2025
 
 ### Fixed
