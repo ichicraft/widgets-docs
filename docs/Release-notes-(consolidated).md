@@ -1,3 +1,11 @@
+## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.14.0 - February 19, 2025
+
+### Added
+- Polish 🇵🇱 translations added, allowing Polish-speaking users to navigate and use the software in their native language
+
+### Changed
+- Various under-the-hood performance updates 
+
 ## [Banner](./Widgets/Banner.md) 1.11.0 - February 19, 2025
 
 ### Added
