@@ -1,3 +1,12 @@
+## [People Search](./Widgets/People Search.md) 1.19.0 - February 19, 2025
+
+### Added
+- Polish 🇵🇱 translations added, allowing Polish-speaking users to navigate and use the software in their native language
+
+### Changed
+- Use native SharePoint people card fly-out in favor of MGT card to reduce JavaScript bundle size
+- Various under-the-hood performance updates 
+
 ## [Saved for Later](./Widgets/Saved for Later.md) 1.10.0 - February 19, 2025
 
 ### Added
