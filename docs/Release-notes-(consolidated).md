@@ -1,3 +1,11 @@
+## [Sticky Notes](./Widgets/Sticky Notes.md) 1.9.0 - February 19, 2025
+
+### Added
+- Polish 🇵🇱 translations added, allowing Polish-speaking users to navigate and use the software in their native language
+
+### Changed
+- Various under-the-hood performance updates 
+
 ## [Tableau Reports](./Widgets/Tableau Reports.md) 1.10.0 - February 19, 2025
 
 ### Added
