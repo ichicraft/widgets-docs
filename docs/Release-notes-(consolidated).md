@@ -1,3 +1,15 @@
+## [Apps](./Widgets/Apps.md) 1.50.0 - February 19, 2025
+
+### Added
+- Polish 🇵🇱 translations added, allowing Polish-speaking users to navigate and use the software in their native language
+- Person detail cards added to user picker controls used in App settings
+
+### Changed
+- Various under-the-hood performance updates 
+
+### Fixed
+- An issue where external users with capital &#x27;#EXT#&#x27; in their username weren&#x27;t correctly recognized as external
+
 ## [Widget Board](./Widget Board.md) 1.73.0 - February 19, 2025
 
 ### Added
