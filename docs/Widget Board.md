@@ -1,3 +1,11 @@
+## 1.74.0 - February 22, 2025
+
+### Fixed
+- An issue where the hamburger left navigation didn&#x27;t work well with large numbers of menu items
+- An issue where menu item titles were cut off without giving access to the original long title
+- An issue where 6-column layout wasn&#x27;t available anymore on larger screens in combination with left navigation
+- An issue where discarding someone else&#x27;s widget changes wasn&#x27;t possible due to a UI issue
+
 ## 1.73.0 - February 19, 2025
 
 ### Added
