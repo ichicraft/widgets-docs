@@ -1,3 +1,10 @@
+## [Banner](./Widgets/Banner.md) 1.12.0 - February 22, 2025
+
+### Added
+- Color Slot integration for all color fields
+- CSS override support for banner tiles
+- Font size setting for banner tiles
+
 ## [Widget Board](./Widget Board.md) 1.74.0 - February 22, 2025
 
 ### Fixed

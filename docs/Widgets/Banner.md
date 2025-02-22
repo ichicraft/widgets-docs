@@ -1,3 +1,10 @@
+## 1.12.0 - February 22, 2025
+
+### Added
+- Color Slot integration for all color fields
+- CSS override support for banner tiles
+- Font size setting for banner tiles
+
 ## 1.11.0 - February 19, 2025
 
 ### Added
