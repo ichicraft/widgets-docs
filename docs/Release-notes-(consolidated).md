@@ -1,3 +1,11 @@
+## [Apps](./Widgets/Apps.md) 1.51.0 - February 22, 2025
+
+### Added
+- Color slot support for color fields
+
+### Changed
+- On mobile, apps with a description now open directly on click
+
 ## [Banner](./Widgets/Banner.md) 1.12.0 - February 22, 2025
 
 ### Added
