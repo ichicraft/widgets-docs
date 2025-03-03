@@ -1,3 +1,11 @@
+## [Files](./Widgets/Files.md) 1.21.0 - March 03, 2025
+
+### Fixed
+- An issue where the breadcrumb in the tab editor wasn&#x27;t always correct
+- An issue where previewing OneDrive files didn&#x27;t work properly
+- An issue where selecting multiple sites in the tab editor didn&#x27;t reflect correctly in the tab itself
+- An issue where using Office templates to create files didn&#x27;t work well in Teams personal apps or root site collections
+
 ## [Apps](./Widgets/Apps.md) 1.51.0 - February 22, 2025
 
 ### Added

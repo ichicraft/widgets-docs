@@ -1,3 +1,11 @@
+## 1.21.0 - March 03, 2025
+
+### Fixed
+- An issue where the breadcrumb in the tab editor wasn&#x27;t always correct
+- An issue where previewing OneDrive files didn&#x27;t work properly
+- An issue where selecting multiple sites in the tab editor didn&#x27;t reflect correctly in the tab itself
+- An issue where using Office templates to create files didn&#x27;t work well in Teams personal apps or root site collections
+
 ## 1.20.0 - February 19, 2025
 
 ### Added
