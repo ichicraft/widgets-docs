@@ -1,3 +1,11 @@
+## 1.75.0 - March 05, 2025
+
+### Added
+- It is now possible to select users and/or groups that need to see the Ichicraft Boards What&#x27;s New section, as opposed to the all or nothing toggle it used to be
+
+### Fixed
+- An issue where using rich text editors in the admin center caused errors when used in combination with the Sticky Notes widget
+
 ## 1.74.0 - February 22, 2025
 
 ### Fixed
