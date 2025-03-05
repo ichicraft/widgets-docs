@@ -1,3 +1,8 @@
+## [Sticky Notes](./Widgets/Sticky Notes.md) 1.10.0 - March 05, 2025
+
+### Fixed
+- An issue where the rich text editor logic conflicted with other rich text editors in Ichicraft Boards
+
 ## [News](./Widgets/News.md) 1.42.0 - March 05, 2025
 
 ### Added
