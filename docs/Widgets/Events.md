@@ -1,3 +1,9 @@
+## 1.22.0 - March 05, 2025
+
+### Added
+- Color slot support
+- New color field for Overlay Text color
+
 ## 1.21.0 - February 19, 2025
 
 ### Added

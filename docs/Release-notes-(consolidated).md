@@ -1,3 +1,9 @@
+## [Events](./Widgets/Events.md) 1.22.0 - March 05, 2025
+
+### Added
+- Color slot support
+- New color field for Overlay Text color
+
 ## [Sticky Notes](./Widgets/Sticky Notes.md) 1.10.0 - March 05, 2025
 
 ### Fixed
