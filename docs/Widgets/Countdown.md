@@ -1,3 +1,8 @@
+## 1.11.0 - March 05, 2025
+
+### Added
+- Color slot support
+
 ## 1.10.0 - February 19, 2025
 
 ### Added

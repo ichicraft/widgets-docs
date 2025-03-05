@@ -1,3 +1,8 @@
+## [Countdown](./Widgets/Countdown.md) 1.11.0 - March 05, 2025
+
+### Added
+- Color slot support
+
 ## [Events](./Widgets/Events.md) 1.22.0 - March 05, 2025
 
 ### Added
