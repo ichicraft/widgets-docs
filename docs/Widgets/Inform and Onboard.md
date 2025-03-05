@@ -1,3 +1,8 @@
+## 1.14.0 - March 05, 2025
+
+### Fixed
+- An issue where the rich text editor logic conflicted with other rich text editors in Ichicraft Boards
+
 ## 1.13.0 - February 19, 2025
 
 ### Added

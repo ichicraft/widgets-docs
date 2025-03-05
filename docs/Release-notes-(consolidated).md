@@ -1,3 +1,8 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.14.0 - March 05, 2025
+
+### Fixed
+- An issue where the rich text editor logic conflicted with other rich text editors in Ichicraft Boards
+
 ## [Widget Board](./Widget Board.md) 1.75.0 - March 05, 2025
 
 ### Added
