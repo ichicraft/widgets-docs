@@ -1,3 +1,12 @@
+## 1.58.0 - March 05, 2025
+
+### Added
+- New content source: Scorecard
+   - Requires a new permission: Scorecard.Read.All
+
+### Fixed
+- Scorecard embeds not working when selected through the &quot;Report&quot; content source
+
 ## 1.57.0 - February 19, 2025
 
 ### Added

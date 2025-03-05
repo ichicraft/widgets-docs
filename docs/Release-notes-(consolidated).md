@@ -1,3 +1,12 @@
+## [Power BI](./Widgets/Power BI.md) 1.58.0 - March 05, 2025
+
+### Added
+- New content source: Scorecard
+   - Requires a new permission: Scorecard.Read.All
+
+### Fixed
+- Scorecard embeds not working when selected through the &quot;Report&quot; content source
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.14.0 - March 05, 2025
 
 ### Fixed
