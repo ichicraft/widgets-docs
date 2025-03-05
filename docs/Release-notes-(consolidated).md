@@ -1,3 +1,8 @@
+## [Tasks](./Widgets/Tasks.md) 1.16.0 - March 05, 2025
+
+### Fixed
+- An issue where it was impossible to filter on specific plans in the Planner tab
+
 ## [Countdown](./Widgets/Countdown.md) 1.11.0 - March 05, 2025
 
 ### Added
