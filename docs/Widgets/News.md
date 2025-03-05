@@ -1,3 +1,12 @@
+## 1.42.0 - March 05, 2025
+
+### Added
+- Color slot support
+- New color fields for Text and Subtext in the Tiles layout
+
+### Changed
+- UI improvements for site labels and news preview
+
 ## 1.41.0 - February 19, 2025
 
 ### Added

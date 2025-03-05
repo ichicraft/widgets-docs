@@ -1,3 +1,12 @@
+## [News](./Widgets/News.md) 1.42.0 - March 05, 2025
+
+### Added
+- Color slot support
+- New color fields for Text and Subtext in the Tiles layout
+
+### Changed
+- UI improvements for site labels and news preview
+
 ## [Power BI](./Widgets/Power BI.md) 1.58.0 - March 05, 2025
 
 ### Added
