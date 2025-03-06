@@ -1,3 +1,9 @@
+## [Events](./Widgets/Events.md) 1.23.0 - March 06, 2025
+
+### Fixed
+- Carousel not working when only an Events widget is placed on a board
+- Event images not loading properly
+
 ## [Tasks](./Widgets/Tasks.md) 1.16.0 - March 05, 2025
 
 ### Fixed

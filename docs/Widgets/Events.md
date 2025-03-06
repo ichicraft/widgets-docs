@@ -1,3 +1,9 @@
+## 1.23.0 - March 06, 2025
+
+### Fixed
+- Carousel not working when only an Events widget is placed on a board
+- Event images not loading properly
+
 ## 1.22.0 - March 05, 2025
 
 ### Added
