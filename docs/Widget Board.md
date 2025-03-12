@@ -1,3 +1,15 @@
+## 1.76.0 - March 12, 2025
+
+### Added
+- Option to maintain previously made widget settings when resetting your board
+
+### Changed
+- Improved UI for special element surfaces, such as an Empty Board
+- Improved Polish translations
+
+### Fixed
+- Missing translations in Layout Editor
+
 ## 1.75.0 - March 05, 2025
 
 ### Added
