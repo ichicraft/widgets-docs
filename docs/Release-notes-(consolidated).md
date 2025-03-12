@@ -1,3 +1,8 @@
+## [Tasks](./Widgets/Tasks.md) 1.17.0 - March 12, 2025
+
+### Changed
+- Improve polish translations
+
 ## [Events](./Widgets/Events.md) 1.23.0 - March 06, 2025
 
 ### Fixed

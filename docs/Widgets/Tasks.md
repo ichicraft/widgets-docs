@@ -1,3 +1,8 @@
+## 1.17.0 - March 12, 2025
+
+### Changed
+- Improve polish translations
+
 ## 1.16.0 - March 05, 2025
 
 ### Fixed
