@@ -1,3 +1,13 @@
+## 1.22.0 - March 14, 2025
+
+### Fixed
+- The location picker in the &#x27;New Document&#x27; flow now correctly displays all sites a user has access to.
+- Various issues affecting file previews for OneDrive-stored files have been resolved.
+- OneDrive tabs now correctly display an icon.
+
+### Changed
+- Introduced a new site picker for selecting site collections in SharePoint tabs. This also resolves an issue where not all sites were available in larger environments.
+
 ## 1.21.0 - March 03, 2025
 
 ### Fixed
