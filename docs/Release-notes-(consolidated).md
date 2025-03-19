@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.77.0 - March 19, 2025
+
+### Added
+- Administrators can now force a reset of users&#x27; personal boards, ensuring that updates—such as a revised board template—are applied. This option is available in the **Advanced** section of the **Admin Center**.
+
 ## [Files](./Widgets/Files.md) 1.22.0 - March 14, 2025
 
 ### Fixed
