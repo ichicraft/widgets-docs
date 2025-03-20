@@ -1,3 +1,10 @@
+## [Widget Board](./Widget Board.md) 1.78.0 - March 20, 2025
+
+### Fixed
+- Urgent messages now work correctly when a user&#x27;s language preference is set to Italian 🇮🇹.  
+- The vertical navigation menu, opened via the hamburger menu button, can now be styled properly.  
+- **.webp** files now display the correct file type icon in the file picker. 
+
 ## [Widget Board](./Widget Board.md) 1.77.0 - March 19, 2025
 
 ### Added
