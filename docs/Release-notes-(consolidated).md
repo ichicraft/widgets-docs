@@ -1,3 +1,8 @@
+## [Inbox](./Widgets/Inbox.md) 1.20.0 - March 21, 2025
+
+### Fixed
+- Using an e-mail address to configure a shared inbox no longer causes an error or infinite spinner when using the user picker
+
 ## [Widget Board](./Widget Board.md) 1.78.0 - March 20, 2025
 
 ### Fixed

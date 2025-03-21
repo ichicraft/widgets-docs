@@ -1,3 +1,8 @@
+## 1.20.0 - March 21, 2025
+
+### Fixed
+- Using an e-mail address to configure a shared inbox no longer causes an error or infinite spinner when using the user picker
+
 ## 1.19.0 - February 19, 2025
 
 ### Added
