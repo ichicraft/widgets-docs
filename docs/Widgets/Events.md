@@ -1,3 +1,9 @@
+## 1.24.0 - March 25, 2025
+
+### Changed
+- Improved the loading of images from the stock gallery.
+- Further enhanced item rendering, potentially resolving issues with missing or incorrect images.
+
 ## 1.23.0 - March 06, 2025
 
 ### Fixed
