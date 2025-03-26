@@ -1,3 +1,8 @@
+## 1.13.0 - March 26, 2025
+
+### Changed
+- Improved quality of rendered banner images.
+
 ## 1.12.0 - February 22, 2025
 
 ### Added

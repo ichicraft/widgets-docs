@@ -1,3 +1,8 @@
+## [Banner](./Widgets/Banner.md) 1.13.0 - March 26, 2025
+
+### Changed
+- Improved quality of rendered banner images.
+
 ## [Events](./Widgets/Events.md) 1.24.0 - March 25, 2025
 
 ### Changed
