@@ -1,3 +1,12 @@
+## 1.15.0 - March 26, 2025
+
+### Changes
+- Increased maximum widget width from 2 to 6 columns
+- Improved UI for tooltips
+
+### Fixes
+- Increased resolution for auto-generated thumbnail images
+
 ## 1.14.0 - March 05, 2025
 
 ### Fixed

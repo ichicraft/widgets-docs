@@ -1,3 +1,12 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.15.0 - March 26, 2025
+
+### Changes
+- Increased maximum widget width from 2 to 6 columns
+- Improved UI for tooltips
+
+### Fixes
+- Increased resolution for auto-generated thumbnail images
+
 ## [Banner](./Widgets/Banner.md) 1.13.0 - March 26, 2025
 
 ### Changed
