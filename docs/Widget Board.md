@@ -1,3 +1,11 @@
+## 1.80.0 - April 03, 2025
+
+### Changed
+- It&#x27;s now possible to force the web part to render in full height, even when other web parts are on the page.
+
+### Fixed
+- The app should no longer crash when performing a board reset when a user had one or more widgets on its board that weren&#x27;t available anymore.
+
 ## 1.78.0 - March 20, 2025
 
 ### Fixed
