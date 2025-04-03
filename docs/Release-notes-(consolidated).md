@@ -1,3 +1,8 @@
+## [Web Part Container](./Widgets/Web Part Container.md) 0.1.0 - April 03, 2025
+
+Initial release 🚀
+
+
 ## [Widget Board](./Widget Board.md) 1.80.0 - April 03, 2025
 
 ### Changed
