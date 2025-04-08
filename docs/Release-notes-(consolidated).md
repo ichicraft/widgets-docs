@@ -3,7 +3,7 @@
 ### Fixed
 - The widget should no longer crash when trying to add a new banner tile.
 
-## [Web Part Container](./Widgets/Web Part Container.md) 0.1.0 - April 03, 2025
+## [Web Part Container](./Widgets/Web Part Container.md) 1.0.0 - April 03, 2025
 
 Initial release 🚀
 
