@@ -1,3 +1,8 @@
+## 1.14.0 - April 08, 2025
+
+### Fixed
+- The widget should no longer crash when trying to add a new banner tile.
+
 ## 1.13.0 - March 26, 2025
 
 ### Changed
