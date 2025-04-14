@@ -1,3 +1,8 @@
+## [Web Part Container](./Widgets/Web Part Container.md) 1.1.0 - April 14, 2025
+
+### Changed
+- Improved the explanation of how to use the widget.
+
 ## [Banner](./Widgets/Banner.md) 1.14.0 - April 08, 2025
 
 ### Fixed
