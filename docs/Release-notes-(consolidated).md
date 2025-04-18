@@ -1,3 +1,8 @@
+## [Files](./Widgets/Files.md) 1.23.0 - April 18, 2025
+
+### Fixed
+- Fix Favorite action for folders
+
 ## [Power BI](./Widgets/Power BI.md) 1.59.0 - April 18, 2025
 
 ### Fixed

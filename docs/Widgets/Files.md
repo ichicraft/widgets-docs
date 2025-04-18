@@ -1,3 +1,8 @@
+## 1.23.0 - April 18, 2025
+
+### Fixed
+- Fix Favorite action for folders
+
 ## 1.22.0 - March 14, 2025
 
 ### Fixed
