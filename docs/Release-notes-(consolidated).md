@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.59.0 - April 18, 2025
+
+### Fixed
+- Fix vertical navigation setting being used in Scorecard &amp; Dashboard sources
+
 ## [Web Part Container](./Widgets/Web Part Container.md) 1.1.0 - April 14, 2025
 
 ### Changed

@@ -1,3 +1,8 @@
+## 1.59.0 - April 18, 2025
+
+### Fixed
+- Fix vertical navigation setting being used in Scorecard &amp; Dashboard sources
+
 ## 1.58.0 - March 05, 2025
 
 ### Added
