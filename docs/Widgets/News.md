@@ -1,3 +1,8 @@
+## 1.43.0 - April 24, 2025
+
+### Changed
+- Improved UI for small news tiles in the Tiles (Hero) layout
+
 ## 1.42.0 - March 05, 2025
 
 ### Added

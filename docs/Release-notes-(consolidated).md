@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.43.0 - April 24, 2025
+
+### Changed
+- Improved UI for small news tiles in the Tiles (Hero) layout
+
 ## [Files](./Widgets/Files.md) 1.23.0 - April 18, 2025
 
 ### Fixed
