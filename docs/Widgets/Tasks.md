@@ -1,3 +1,8 @@
+## 1.18.0 - April 24, 2025
+
+### Added
+- Support was added for linked resources in To Do, such as email attachments for flagged emails.
+
 ## 1.17.0 - March 12, 2025
 
 ### Changed
