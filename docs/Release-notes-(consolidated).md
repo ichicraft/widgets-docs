@@ -1,3 +1,8 @@
+## [Banner](./Widgets/Banner.md) 1.15.0 - April 24, 2025
+
+### Changed
+- Improve padding around tile content to be consistent with other widgets
+
 ## [News](./Widgets/News.md) 1.43.0 - April 24, 2025
 
 ### Changed

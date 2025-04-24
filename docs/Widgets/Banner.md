@@ -1,3 +1,8 @@
+## 1.15.0 - April 24, 2025
+
+### Changed
+- Improve padding around tile content to be consistent with other widgets
+
 ## 1.14.0 - April 08, 2025
 
 ### Fixed
