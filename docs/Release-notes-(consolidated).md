@@ -1,3 +1,12 @@
+## [Inbox](./Widgets/Inbox.md) 1.21.0 - April 24, 2025
+
+### Added
+- Option to split the inbox into Focused and Other categories
+- Clickable sender profile pictures that link to their profiles
+
+### Changed
+- Enhanced UI for message previews, tooltips, and empty states
+
 ## [Tasks](./Widgets/Tasks.md) 1.18.0 - April 24, 2025
 
 ### Added

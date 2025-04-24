@@ -1,3 +1,12 @@
+## 1.21.0 - April 24, 2025
+
+### Added
+- Option to split the inbox into Focused and Other categories
+- Clickable sender profile pictures that link to their profiles
+
+### Changed
+- Enhanced UI for message previews, tooltips, and empty states
+
 ## 1.20.0 - March 21, 2025
 
 ### Fixed
