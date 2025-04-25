@@ -1,3 +1,8 @@
+## 1.83.0 - April 25, 2025
+
+### Fixed
+- Fixed an issue where checking if a user can create shared boards sometimes results in an exception for the user
+
 ## 1.82.0 - April 25, 2025
 
 ### Added
