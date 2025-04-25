@@ -1,3 +1,27 @@
+## [Widget Board](./Widget Board.md) 1.82.0 - April 25, 2025
+
+### Added
+- Duplicate functionality for widgets and boards
+  - Create a shared board based on a personal board
+  - Create a personal board based on a shared board
+  - Copy a widget directly to another board or to the buddy bar
+- Improved board library in Admin Center
+  - View who is currently working on a draft
+  - View owners, visitors and push information
+  - Manage access, duplicate, delete shared boards
+- View draft &amp; owner information when pinning shared boards
+- You can now move widgets to a shared board
+- You can now set your start board (enabled through configuration packages)
+
+### Changes
+- Improved widget error state UI
+- Improved widget rename UI
+- Improved widget &amp; board context menus
+- Moved &#x27;Edit navigation&#x27; action to a separate context menu in the horizontal navigation
+
+### Fixes
+- Fixed widgets still being rendered even when they&#x27;re not allowed in that scope (personal, shared, buddy)
+
 ## [Inbox](./Widgets/Inbox.md) 1.21.0 - April 24, 2025
 
 ### Added
