@@ -1,3 +1,8 @@
+## [Search](./Widgets/Search.md) 1.6.0 - May 19, 2025
+
+### Fixed
+- The widget should no longer crash when deselecting data sources in the configuration panel
+
 ## [Events](./Widgets/Events.md) 1.25.0 - May 19, 2025
 
 ### Fixed
