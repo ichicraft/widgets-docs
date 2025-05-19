@@ -1,3 +1,11 @@
+## [Files](./Widgets/Files.md) 1.24.0 - May 19, 2025
+
+### Added
+- Support for selecting folders when choosing templates
+
+### Changed
+- Enhanced tooltip UI for better clarity and usability
+
 ## [Widget Board](./Widget Board.md) 1.83.0 - April 25, 2025
 
 ### Fixed

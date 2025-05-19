@@ -1,3 +1,11 @@
+## 1.24.0 - May 19, 2025
+
+### Added
+- Support for selecting folders when choosing templates
+
+### Changed
+- Enhanced tooltip UI for better clarity and usability
+
 ## 1.23.0 - April 18, 2025
 
 ### Fixed
