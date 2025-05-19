@@ -1,3 +1,8 @@
+## 1.25.0 - May 19, 2025
+
+### Fixed
+- Resolved an issue where the widget would render with an error if items couldn&#x27;t be stored in the browser cache
+
 ## 1.24.0 - March 25, 2025
 
 ### Changed

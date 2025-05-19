@@ -1,3 +1,8 @@
+## [Events](./Widgets/Events.md) 1.25.0 - May 19, 2025
+
+### Fixed
+- Resolved an issue where the widget would render with an error if items couldn&#x27;t be stored in the browser cache
+
 ## [Files](./Widgets/Files.md) 1.24.0 - May 19, 2025
 
 ### Added
