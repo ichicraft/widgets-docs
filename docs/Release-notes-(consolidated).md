@@ -1,3 +1,12 @@
+## [Power BI](./Widgets/Power BI.md) 1.61.0 - May 20, 2025
+
+### Added
+- Page-level audience targeting for reports
+
+### Changed
+- Enhanced tooltip UI for improved clarity
+- Refined UI for horizontal page navigation
+
 ## [Search](./Widgets/Search.md) 1.6.0 - May 19, 2025
 
 ### Fixed

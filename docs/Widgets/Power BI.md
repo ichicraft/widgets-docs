@@ -1,3 +1,12 @@
+## 1.61.0 - May 20, 2025
+
+### Added
+- Page-level audience targeting for reports
+
+### Changed
+- Enhanced tooltip UI for improved clarity
+- Refined UI for horizontal page navigation
+
 ## 1.59.0 - April 18, 2025
 
 ### Fixed
