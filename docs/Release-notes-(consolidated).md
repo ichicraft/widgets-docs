@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.62.0 - May 20, 2025
+
+### Fixed
+- Restored expected functionality of the list view
+
 ## [Power BI](./Widgets/Power BI.md) 1.61.0 - May 20, 2025
 
 ### Added
