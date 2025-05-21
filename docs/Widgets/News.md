@@ -1,3 +1,8 @@
+## 1.44.0 - May 21, 2025
+
+### Fixed
+- The widget no longer incorrectly displays “no sites selected” when no news articles are available
+
 ## 1.43.0 - April 24, 2025
 
 ### Changed

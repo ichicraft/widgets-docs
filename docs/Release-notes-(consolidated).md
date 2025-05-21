@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.44.0 - May 21, 2025
+
+### Fixed
+- The widget no longer incorrectly displays “no sites selected” when no news articles are available
+
 ## [Events](./Widgets/Events.md) 1.26.0 - May 21, 2025
 
 ### Fixed
