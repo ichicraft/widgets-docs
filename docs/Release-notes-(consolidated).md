@@ -1,3 +1,8 @@
+## [Inbox](./Widgets/Inbox.md) 1.22.0 - May 22, 2025
+
+### Fixed
+- Choosing shared mailbox but not selecting an account should no longer cause an exception
+
 ## [News](./Widgets/News.md) 1.44.0 - May 21, 2025
 
 ### Fixed

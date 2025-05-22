@@ -1,3 +1,8 @@
+## 1.22.0 - May 22, 2025
+
+### Fixed
+- Choosing shared mailbox but not selecting an account should no longer cause an exception
+
 ## 1.21.0 - April 24, 2025
 
 ### Added
