@@ -1,3 +1,8 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.23.0 - June 03, 2025
+
+### Fixed
+- Resolved an issue where the widget would render with an error if items couldn&#x27;t be stored in the browser cache
+
 ## [Widget Board](./Widget Board.md) 1.84.0 - June 03, 2025
 
 ### Fixed
