@@ -1,3 +1,10 @@
+## 1.84.0 - June 03, 2025
+
+### Fixed
+- Widget audience rules were not being enforced for widgets already added to the board
+- Shared board layout editor was not functional when accessed by an administrator
+- Some elements were hard to reach on touch-only devices like tablets
+
 ## 1.83.0 - April 25, 2025
 
 ### Fixed

@@ -1,3 +1,10 @@
+## [Widget Board](./Widget Board.md) 1.84.0 - June 03, 2025
+
+### Fixed
+- Widget audience rules were not being enforced for widgets already added to the board
+- Shared board layout editor was not functional when accessed by an administrator
+- Some elements were hard to reach on touch-only devices like tablets
+
 ## [Inbox](./Widgets/Inbox.md) 1.22.0 - May 22, 2025
 
 ### Fixed
