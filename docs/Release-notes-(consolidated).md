@@ -1,3 +1,8 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.16.0 - June 04, 2025
+
+### Fixed
+- Exception handling didn&#x27;t take place in all possible scenarios.
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.23.0 - June 03, 2025
 
 ### Fixed

@@ -1,3 +1,8 @@
+## 1.16.0 - June 04, 2025
+
+### Fixed
+- Exception handling didn&#x27;t take place in all possible scenarios.
+
 ## 1.15.0 - March 26, 2025
 
 ### Changes
