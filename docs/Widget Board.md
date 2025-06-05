@@ -1,3 +1,15 @@
+## 1.85.0 - June 05, 2025
+
+### Fixed
+
+- Board reset now works even when no templates are available to the user
+- Fixed a crash when resetting a board that contains a broken or unavailable widget with configuration
+- Re-enabled the ability to delete broken widgets from the Buddy Bar
+
+### Added
+
+- Added &#x60;icb-Board-Scroll&#x60; class to the root scrollable element of the application
+
 ## 1.84.0 - June 03, 2025
 
 ### Fixed
