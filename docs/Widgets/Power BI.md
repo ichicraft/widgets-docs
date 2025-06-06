@@ -1,3 +1,8 @@
+## 1.63.0 - June 06, 2025
+
+### Fixed
+- Implemented a fallback mechanism for retrieving the API token, addressing [this SharePoint issue](https://github.com/SharePoint/sp-dev-docs/issues/10292)
+
 ## 1.62.0 - May 20, 2025
 
 ### Fixed
