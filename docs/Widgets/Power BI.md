@@ -1,3 +1,8 @@
+## 1.64.0 - June 10, 2025
+
+### Fixed
+- Various improvements were made to loading a user&#x27;s access token to improve stability
+
 ## 1.63.0 - June 06, 2025
 
 ### Fixed
