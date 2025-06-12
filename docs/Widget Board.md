@@ -1,3 +1,8 @@
+## 1.86.0 - June 12, 2025
+
+### Fixed
+- Creating or resetting a board when no templates are available no longer prevents users from adding widgets
+
 ## 1.85.0 - June 05, 2025
 
 ### Fixed

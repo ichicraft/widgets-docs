@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.86.0 - June 12, 2025
+
+### Fixed
+- Creating or resetting a board when no templates are available no longer prevents users from adding widgets
+
 ## [Power BI](./Widgets/Power BI.md) 1.64.0 - June 10, 2025
 
 ### Fixed
