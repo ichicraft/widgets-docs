@@ -1,3 +1,11 @@
+## [Power BI](./Widgets/Power BI.md) 1.65.0 - June 13, 2025
+
+### Changed
+- Removed popout functionality, as PowerBI is not supporting this anymore (for now).
+
+### Fixed
+- Implemented a token workaround in SharePoint for PowerBI Dashboards and Scorecards.
+
 ## [Widget Board](./Widget Board.md) 1.86.0 - June 12, 2025
 
 ### Fixed

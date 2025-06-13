@@ -1,3 +1,11 @@
+## 1.65.0 - June 13, 2025
+
+### Changed
+- Removed popout functionality, as PowerBI is not supporting this anymore (for now).
+
+### Fixed
+- Implemented a token workaround in SharePoint for PowerBI Dashboards and Scorecards.
+
 ## 1.64.0 - June 10, 2025
 
 ### Fixed
