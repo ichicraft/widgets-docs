@@ -1,3 +1,8 @@
+## [Followed Sites](./Widgets/Followed Sites.md) 1.14.0 - June 19, 2025
+
+### Added
+- Italian 🇮🇹 translations added, allowing Italian-speaking users to navigate and use the software in their native language.
+
 ## [Files](./Widgets/Files.md) 1.25.0 - June 19, 2025
 
 ### Added
