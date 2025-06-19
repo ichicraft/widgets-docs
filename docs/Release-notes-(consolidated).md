@@ -1,3 +1,8 @@
+## [Embed](./Widgets/Embed.md) 1.11.0 - June 19, 2025
+
+### Added
+- Italian 🇮🇹 translations added, allowing Italian-speaking users to navigate and use the software in their native language.
+
 ## [Countdown](./Widgets/Countdown.md) 1.12.0 - June 19, 2025
 
 ### Added
