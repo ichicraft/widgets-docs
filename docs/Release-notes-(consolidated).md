@@ -1,3 +1,8 @@
+## [Marketplace](./Widgets/Marketplace.md) 1.3.0 - June 19, 2025
+
+### Added
+- Italian 🇮🇹 translations added, allowing Italian-speaking users to navigate and use the software in their native language.
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.17.0 - June 19, 2025
 
 ### Added
