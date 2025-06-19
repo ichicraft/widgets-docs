@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.45.0 - June 19, 2025
+
+### Added
+- Italian 🇮🇹 translations added, allowing Italian-speaking users to navigate and use the software in their native language.
+
 ## [Marketplace](./Widgets/Marketplace.md) 1.3.0 - June 19, 2025
 
 ### Added
