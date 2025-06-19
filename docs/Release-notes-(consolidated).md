@@ -1,3 +1,8 @@
+## [Search](./Widgets/Search.md) 1.7.0 - June 19, 2025
+
+### Added
+- Italian 🇮🇹 translations added, allowing Italian-speaking users to navigate and use the software in their native language.
+
 ## [Saved for Later](./Widgets/Saved for Later.md) 1.11.0 - June 19, 2025
 
 ### Added
