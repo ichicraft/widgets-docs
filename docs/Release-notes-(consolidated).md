@@ -1,3 +1,8 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.24.0 - June 19, 2025
+
+### Added
+- Italian 🇮🇹 translations added, allowing Italian-speaking users to navigate and use the software in their native language.
+
 ## [Power BI](./Widgets/Power BI.md) 1.66.0 - June 19, 2025
 
 ### Added
