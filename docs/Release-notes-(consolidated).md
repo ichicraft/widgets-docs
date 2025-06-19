@@ -1,3 +1,8 @@
+## [Teams](./Widgets/Teams.md) 1.9.0 - June 19, 2025
+
+### Added
+- Italian 🇮🇹 translations added, allowing Italian-speaking users to navigate and use the software in their native language.
+
 ## [Tasks](./Widgets/Tasks.md) 1.19.0 - June 19, 2025
 
 ### Added
