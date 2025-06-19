@@ -1,3 +1,8 @@
+## [World Clock](./Widgets/World Clock.md) 1.9.0 - June 19, 2025
+
+### Added
+- Italian 🇮🇹 translations added, allowing Italian-speaking users to navigate and use the software in their native language.
+
 ## [Banner](./Widgets/Banner.md) 1.16.0 - June 19, 2025
 
 ### Added
