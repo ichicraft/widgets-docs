@@ -1,3 +1,11 @@
+## 1.66.0 - June 19, 2025
+
+### Added
+- Italian 🇮🇹 translations added, allowing Italian-speaking users to navigate and use the software in their native language.
+
+### Fixed
+- The widget should no longer fail rendering when running in Teams
+
 ## 1.65.0 - June 13, 2025
 
 ### Changed
