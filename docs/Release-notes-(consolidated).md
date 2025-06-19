@@ -1,3 +1,8 @@
+## [Files](./Widgets/Files.md) 1.25.0 - June 19, 2025
+
+### Added
+- Italian 🇮🇹 translations added, allowing Italian-speaking users to navigate and use the software in their native language.
+
 ## [Events](./Widgets/Events.md) 1.27.0 - June 19, 2025
 
 ### Added
