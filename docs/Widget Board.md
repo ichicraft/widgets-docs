@@ -1,3 +1,9 @@
+## 1.87.0 - June 19, 2025
+
+## Added
+- Italian 🇮🇹 translations added, allowing Italian-speaking users to navigate and use the software in their native language.
+
+
 ## 1.86.0 - June 12, 2025
 
 ### Fixed
