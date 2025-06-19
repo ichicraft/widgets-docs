@@ -1,3 +1,8 @@
+## [Inbox](./Widgets/Inbox.md) 1.23.0 - June 19, 2025
+
+### Added
+- Italian 🇮🇹 translations added, allowing Italian-speaking users to navigate and use the software in their native language.
+
 ## [Followed Sites](./Widgets/Followed Sites.md) 1.14.0 - June 19, 2025
 
 ### Added
