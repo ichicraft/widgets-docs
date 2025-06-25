@@ -1,3 +1,9 @@
+## [Power BI](./Widgets/Power BI.md) 1.67.0 - June 25, 2025
+
+### Fixed
+- Removed redundant caching that could cause the browser’s local storage to fill up
+- Corrected a broken Italian translation
+
 ## [Birthdays](./Widgets/Birthdays.md) 1.15.0 - June 19, 2025
 
 ### Added
