@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.88.0 - June 26, 2025
+
+### Fixed
+- Organizational assets libraries should now show up correctly for all users across all file pickers
+
 ## [Power BI](./Widgets/Power BI.md) 1.67.0 - June 25, 2025
 
 ### Fixed

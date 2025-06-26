@@ -1,3 +1,8 @@
+## 1.88.0 - June 26, 2025
+
+### Fixed
+- Organizational assets libraries should now show up correctly for all users across all file pickers
+
 ## 1.87.0 - June 19, 2025
 
 ## Added
