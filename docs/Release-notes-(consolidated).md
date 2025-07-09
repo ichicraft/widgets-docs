@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.54.0 - July 09, 2025
+
+### Changed
+- Added some details to required API permissions needed to run the widget
+
 ## [Widget Board](./Widget Board.md) 1.89.0 - July 09, 2025
 
 ### Changed
