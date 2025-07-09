@@ -1,3 +1,16 @@
+## 1.89.0 - July 09, 2025
+
+### Changed
+- Rebuilt the mechanism for ensuring correct API permissions are granted
+- Simplified the installation of Ichicraft Boards by removing the separate ‘API Permissions’ step, now handled as part of the automatic installation process
+- Widgets missing required API permissions now display clearer, more descriptive error messages
+- API permissions for widgets can now be marked as optional and include a justification to explain why the permission is needed
+- When shared boards or urgent messages are deleted through the Ichicraft Boards UI, they are now moved to the recycle bin and can be restored
+
+### Fixed
+- The app no longer continues fetching urgent messages after the user navigates to a different SharePoint page or site
+- It is no longer possible to duplicate a personal board when the setting to allow multiple personal boards is disabled
+
 ## 1.88.0 - June 26, 2025
 
 ### Fixed
