@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.68.0 - July 09, 2025
+
+### Changed
+- Added some details to required API permissions needed to run the widget
+
 ## [Apps](./Widgets/Apps.md) 1.54.0 - July 09, 2025
 
 ### Changed

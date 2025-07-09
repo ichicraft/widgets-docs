@@ -1,3 +1,8 @@
+## 1.68.0 - July 09, 2025
+
+### Changed
+- Added some details to required API permissions needed to run the widget
+
 ## 1.67.0 - June 25, 2025
 
 ### Fixed
