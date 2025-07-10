@@ -1,3 +1,11 @@
+## 1.28.0 - July 10, 2025
+
+### Added
+- Site labels can now be configured with custom colors on a per-site basis
+
+### Fixed
+- Corrected several incorrect German translations
+
 ## 1.27.0 - June 19, 2025
 
 ### Added

@@ -1,3 +1,11 @@
+## [Events](./Widgets/Events.md) 1.28.0 - July 10, 2025
+
+### Added
+- Site labels can now be configured with custom colors on a per-site basis
+
+### Fixed
+- Corrected several incorrect German translations
+
 ## [Birthdays](./Widgets/Birthdays.md) 1.16.0 - July 09, 2025
 
 ### Changed
