@@ -3,9 +3,6 @@
 ### Added
 - Site labels can now be configured with custom colors on a per-site basis
 
-### Fixed
-- Corrected several incorrect German translations
-
 ## 1.45.0 - June 19, 2025
 
 ### Added

@@ -3,9 +3,6 @@
 ### Added
 - Site labels can now be configured with custom colors on a per-site basis
 
-### Fixed
-- Corrected several incorrect German translations
-
 ## [Events](./Widgets/Events.md) 1.28.0 - July 10, 2025
 
 ### Added
