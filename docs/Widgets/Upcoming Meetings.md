@@ -1,3 +1,13 @@
+## 1.15.0 - July 14, 2025
+
+### Added
+- You can now display calendars that others have shared with you (requires the additional Graph permission: &#x60;Calendars.Read.Shared&#x60;)
+- Added Italian 🇮🇹 translations, enabling Italian-speaking users to navigate the software in their native language
+
+### Changed
+
+- Refreshed various parts of the UI for improved clarity and consistency
+
 ## 1.14.0 - February 19, 2025
 
 ### Added
