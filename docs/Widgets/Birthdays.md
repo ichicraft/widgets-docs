@@ -1,3 +1,9 @@
+## 1.17.0 - July 14, 2025
+
+### Added
+- Added the ability to force a refresh of loaded birthdays, bypassing any cached data
+- Users can now update their birthday at any time, even if one is already set
+
 ## 1.16.0 - July 09, 2025
 
 ### Changed
