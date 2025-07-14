@@ -1,3 +1,11 @@
+## [Search](./Widgets/Search.md) 1.8.0 - July 14, 2025
+
+### Added
+- URL-based query support for central search bar
+
+### Changed
+- Added some details to required API permissions needed to run the widget
+
 ## [Birthdays](./Widgets/Birthdays.md) 1.17.0 - July 14, 2025
 
 ### Added
