@@ -1,3 +1,8 @@
+## 1.16.0 - July 15, 2025
+
+### Fixed
+- Fixed a minor issue related to caching
+
 ## 1.15.0 - July 14, 2025
 
 ### Added
