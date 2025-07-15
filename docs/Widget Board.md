@@ -1,3 +1,31 @@
+## 1.90.0 - July 15, 2025
+
+### Added  
+- Configuration package improvements: 
+  - Support for multiple personal boards  
+  - Control over available board templates for managed and additional boards  
+  - Ability to specify which personal board widgets should be pushed to  
+  - A default configuration package for *Everyone* is now always present (lowest priority, cannot be deleted but can be configured)  
+- Option to disable pushed widgets in a board template 
+
+### Changed  
+- Analytics events for *Primary board* and *Additional board* are now unified under a new *Personal Board* category  
+- UI improvements across the Admin Center, including:  
+  - Configuration packages  
+  - Board templates  
+  - Urgent message lists  
+- Enhanced UI for the board template editor  
+- Improved navigation UI in the Admin Center  
+
+### Fixed  
+- Deleting a shared board from the Admin Center only worked if the board was pinned to the user’s navigation  
+- Central board resets were always applied *Silently*, regardless of the configured setting  
+- Additional Buddy Bar widgets were pushed even when a buddy of the same type was already present  
+- Teaching Tip for a pushed widget could appear partially outside the visible window  
+- &#x27;Add navigation group&#x27; action was missing when the user wasn’t allowed to create boards  
+- Added some missing translation keys  
+- Editing urgent messages during daylight saving time (DST) no longer adds an extra hour to the publication date  
+
 ## 1.89.0 - July 09, 2025
 
 ### Changed
