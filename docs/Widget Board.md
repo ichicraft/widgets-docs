@@ -2,18 +2,18 @@
 
 ### Added  
 - Configuration package improvements: 
-  - Support for multiple personal boards  
-  - Control over available board templates for managed and additional boards  
-  - Ability to specify which personal board widgets should be pushed to  
-  - A default configuration package for *Everyone* is now always present (lowest priority, cannot be deleted but can be configured)  
+    - Support for multiple personal boards  
+    - Control over available board templates for managed and additional boards  
+    - Ability to specify which personal board widgets should be pushed to  
+    - A default configuration package for *Everyone* is now always present (lowest priority, cannot be deleted but can be configured)  
 - Option to disable pushed widgets in a board template 
 
 ### Changed  
 - Analytics events for *Primary board* and *Additional board* are now unified under a new *Personal Board* category  
 - UI improvements across the Admin Center, including:  
-  - Configuration packages  
-  - Board templates  
-  - Urgent message lists  
+    - Configuration packages  
+    - Board templates  
+    - Urgent message lists  
 - Enhanced UI for the board template editor  
 - Improved navigation UI in the Admin Center  
 
