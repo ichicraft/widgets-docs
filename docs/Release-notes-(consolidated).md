@@ -1,3 +1,13 @@
+## [Embed](./Widgets/Embed.md) 1.12.0 - July 16, 2025
+
+### Added
+- You can now see a sample embed for a TikTok post
+
+### Fixed  
+- Increased widget security by enforcing the &#x60;sandbox&#x60; attribute on &#x60;iframe&#x60; elements, restricting behavior to specific safe scenarios  
+- Removed the deprecated Twitter/X embed sample, as this feature is no longer supported by X.com
+- Removed the redundant clock embed samples since there&#x27;s already a dedicated World Clock widget that serves this purpose
+
 ## [Inbox](./Widgets/Inbox.md) 1.24.0 - July 16, 2025
 
 ### Fixed
