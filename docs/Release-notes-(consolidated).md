@@ -1,3 +1,8 @@
+## [Inbox](./Widgets/Inbox.md) 1.24.0 - July 16, 2025
+
+### Fixed
+- Email body preview is no longer incorrectly rendered as HTML
+
 ## [Widget Board](./Widget Board.md) 1.90.0 - July 15, 2025
 
 ### Added  

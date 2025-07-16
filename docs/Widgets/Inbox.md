@@ -1,3 +1,8 @@
+## 1.24.0 - July 16, 2025
+
+### Fixed
+- Email body preview is no longer incorrectly rendered as HTML
+
 ## 1.23.0 - June 19, 2025
 
 ### Added
