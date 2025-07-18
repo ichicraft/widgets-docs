@@ -1,3 +1,13 @@
+## 1.91.0 - July 18, 2025
+
+### Added  
+- &#x60;.agent&#x60; files now display the correct icon in file pickers  
+
+### Fixed  
+- Improved file type validation when uploading files through the file picker  
+- File pickers now display a fallback icon for uncommon or unknown file types  
+- Opening the Admin Center via the context menu in a widget header no longer causes the application to break  
+
 ## 1.90.0 - July 15, 2025
 
 ### Added  
