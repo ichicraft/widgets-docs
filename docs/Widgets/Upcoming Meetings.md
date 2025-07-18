@@ -6,7 +6,7 @@
 ## 1.15.0 - July 14, 2025
 
 ### Added
-- You can now display calendars that others have shared with you (requires the additional Graph permission: &#x60;Calendars.Read.Shared&#x60;)
+- You can now display calendars that others have shared with you (requires the additional Graph permission: `Calendars.Read.Shared`)
 - Added Italian 🇮🇹 translations, enabling Italian-speaking users to navigate the software in their native language
 
 ### Changed

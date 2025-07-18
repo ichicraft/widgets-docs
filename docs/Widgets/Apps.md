@@ -4,7 +4,7 @@
 - Introduced the option to restrict image icon selection for user-added apps, allowing only images from SharePoint organization asset libraries  
 
 ### Fixed  
-- Removed the &#x60;Azure Virtual Desktop User.Access&#x60; API permission, as it did not function as expected  
+- Removed the `Azure Virtual Desktop User.Access` API permission, as it did not function as expected  
 
 ## 1.54.0 - July 09, 2025
 
@@ -66,7 +66,7 @@
 
 ### Fixed
 - An issue where only a maximum of 100 catalog apps are fetched instead of the whole list
-- An issue where a &#x60;null&#x60; value inside the &#x60;dismissedAppIds&#x60; property of the stored config results in an error
+- An issue where a `null` value inside the `dismissedAppIds` property of the stored config results in an error
 
 ## 1.44.0 - June 26, 2024
 
@@ -132,7 +132,7 @@
 ## 1.36.0 - February 29, 2024
 
 ### Added
-- A CSS class &#x60;icb-App-Launcher-Group-Title&#x60; that can be used to override the styles of an app group title
+- A CSS class `icb-App-Launcher-Group-Title` that can be used to override the styles of an app group title
 
 ## 1.35.0 - February 14, 2024
 
@@ -147,7 +147,7 @@
 ## 1.33.0 - January 30, 2024
 
 ### Changed
-- Implemented logic to retry adding/updating app items in case of a certain server error (&#x60;0x80131904&#x60;)
+- Implemented logic to retry adding/updating app items in case of a certain server error (`0x80131904`)
 
 ## 1.32.0 - January 29, 2024
 

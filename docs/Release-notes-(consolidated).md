@@ -4,12 +4,12 @@
 - Introduced the option to restrict image icon selection for user-added apps, allowing only images from SharePoint organization asset libraries  
 
 ### Fixed  
-- Removed the &#x60;Azure Virtual Desktop User.Access&#x60; API permission, as it did not function as expected  
+- Removed the `Azure Virtual Desktop User.Access` API permission, as it did not function as expected  
 
 ## [Widget Board](./Widget Board.md) 1.91.0 - July 18, 2025
 
 ### Added  
-- &#x60;.agent&#x60; files now display the correct icon in file pickers  
+- `.agent` files now display the correct icon in file pickers  
 
 ### Fixed  
 - Improved file type validation when uploading files through the file picker  
@@ -69,7 +69,7 @@
 ## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.15.0 - July 14, 2025
 
 ### Added
-- You can now display calendars that others have shared with you (requires the additional Graph permission: &#x60;Calendars.Read.Shared&#x60;)
+- You can now display calendars that others have shared with you (requires the additional Graph permission: `Calendars.Read.Shared`)
 - Added Italian 🇮🇹 translations, enabling Italian-speaking users to navigate the software in their native language
 
 ### Changed
@@ -304,7 +304,7 @@
 
 ### Added
 
-- Added &#x60;icb-Board-Scroll&#x60; class to the root scrollable element of the application
+- Added `icb-Board-Scroll` class to the root scrollable element of the application
 
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.16.0 - June 04, 2025
 
@@ -1303,7 +1303,7 @@ Initial release 🚀
 
 ### Fixed
 - An issue where only a maximum of 100 catalog apps are fetched instead of the whole list
-- An issue where a &#x60;null&#x60; value inside the &#x60;dismissedAppIds&#x60; property of the stored config results in an error
+- An issue where a `null` value inside the `dismissedAppIds` property of the stored config results in an error
 
 ## [Widget Board](./Widget Board.md) 1.64.62 - July 11, 2024
 
@@ -1858,7 +1858,7 @@ Initial release 🚀
 ## [Apps](./Widgets/Apps.md) 1.36.0 - February 29, 2024
 
 ### Added
-- A CSS class &#x60;icb-App-Launcher-Group-Title&#x60; that can be used to override the styles of an app group title
+- A CSS class `icb-App-Launcher-Group-Title` that can be used to override the styles of an app group title
 
 ## [Sticky Notes](./Widgets/Sticky Notes.md) 1.6.0 - February 29, 2024
 
@@ -2018,7 +2018,7 @@ Initial release 🚀
 ## [Apps](./Widgets/Apps.md) 1.33.0 - January 30, 2024
 
 ### Changed
-- Implemented logic to retry adding/updating app items in case of a certain server error (&#x60;0x80131904&#x60;)
+- Implemented logic to retry adding/updating app items in case of a certain server error (`0x80131904`)
 
 ## [Apps](./Widgets/Apps.md) 1.32.0 - January 29, 2024
 

@@ -1,7 +1,7 @@
 ## 1.91.0 - July 18, 2025
 
 ### Added  
-- &#x60;.agent&#x60; files now display the correct icon in file pickers  
+- `.agent` files now display the correct icon in file pickers  
 
 ### Fixed  
 - Improved file type validation when uploading files through the file picker  
@@ -75,7 +75,7 @@
 
 ### Added
 
-- Added &#x60;icb-Board-Scroll&#x60; class to the root scrollable element of the application
+- Added `icb-Board-Scroll` class to the root scrollable element of the application
 
 ## 1.84.0 - June 03, 2025
 
