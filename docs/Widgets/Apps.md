@@ -1,3 +1,11 @@
+## 1.55.0 - July 18, 2025
+
+### Added  
+- Introduced the option to restrict image icon selection for user-added apps, allowing only images from SharePoint organization asset libraries  
+
+### Fixed  
+- Removed the &#x60;Azure Virtual Desktop User.Access&#x60; API permission, as it did not function as expected  
+
 ## 1.54.0 - July 09, 2025
 
 ### Changed
