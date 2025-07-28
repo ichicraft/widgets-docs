@@ -1,3 +1,16 @@
+## 1.26.0 - July 28, 2025
+
+### Added  
+- Custom columns can now be rendered in file lists  
+- Sites and drives now include a context menu with actions to open in a dialog, open in a new tab, or copy the link  
+- File locations can now be opened in a dialog  
+- Files can now be uploaded by dragging them directly onto the widget  
+
+### Changed  
+- The filter button now displays a badge when filters are active  
+- Clamped column values (&#x60;...&#x60;) are now fully shown in a tooltip on hover  
+- Improved UI of the **Tab Edit** dialog  
+
 ## 1.25.0 - June 19, 2025
 
 ### Added
