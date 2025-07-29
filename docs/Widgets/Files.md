@@ -1,3 +1,8 @@
+## 1.27.0 - July 29, 2025
+
+### Fixed
+- Loading templates no longer causes an exception when no templates are available
+
 ## 1.26.0 - July 28, 2025
 
 ### Added  
