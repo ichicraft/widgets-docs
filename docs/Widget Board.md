@@ -1,3 +1,18 @@
+## 1.93.0 - August 07, 2025
+
+### Added
+- Widget developers can now add a release type (&#x27;alpha&#x27;, &#x27;beta&#x27; or &#x27;release&#x27;) to the widget manifest, which will be shown in the widget library in Admin Center.
+- Widget developers can now override the default onClick behavior of a Buddy in the buddy bar (to e.g. open a dialog instead of the widget).
+- Widget developers can now display an image in a widget header tab, instead of an icon.
+
+### Changed
+- Improved UI for widget thumbnails &amp; Widget Library
+- Improved UI for Analytics panel
+- When pushing a Shared Board, the setting &quot;Allow visitors to delete this pushed board&quot; is now enabled by default
+
+### Fixed
+- Fixed widget thumbnail images being rendered inconsistently across the application
+
 ## 1.91.0 - July 18, 2025
 
 ### Added  
