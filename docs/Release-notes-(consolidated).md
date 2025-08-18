@@ -1,3 +1,11 @@
+## [Copilot](./Widgets/Copilot.md) 0.2.0 - August 18, 2025
+
+### Added
+- First release
+
+### Added
+- First release
+
 ## [Widget Board](./Widget Board.md) 1.93.0 - August 07, 2025
 
 ### Added
