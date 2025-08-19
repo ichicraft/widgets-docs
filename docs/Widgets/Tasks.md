@@ -1,3 +1,8 @@
+## 1.20.0 - August 19, 2025
+
+### Changed
+- Removed User.Read.All permission (replaced by Directory.Read.All, which is granted by default)
+
 ## 1.19.0 - June 19, 2025
 
 ### Added

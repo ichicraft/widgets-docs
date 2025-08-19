@@ -1,3 +1,8 @@
+## [Tasks](./Widgets/Tasks.md) 1.20.0 - August 19, 2025
+
+### Changed
+- Removed User.Read.All permission (replaced by Directory.Read.All, which is granted by default)
+
 ## [Copilot](./Widgets/Copilot.md) 0.3.0 - August 19, 2025
 
 ### Added
