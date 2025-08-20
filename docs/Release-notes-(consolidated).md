@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.95.0 - August 20, 2025
+
+### Fixed
+- Fixed file upload not working when no file extensions are specified
+
 ## [Tasks](./Widgets/Tasks.md) 1.20.0 - August 19, 2025
 
 ### Changed

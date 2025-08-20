@@ -1,3 +1,8 @@
+## 1.95.0 - August 20, 2025
+
+### Fixed
+- Fixed file upload not working when no file extensions are specified
+
 ## 1.93.0 - August 07, 2025
 
 ### Added
