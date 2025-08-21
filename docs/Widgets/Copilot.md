@@ -1,4 +1,4 @@
-## 0.3.0 - August 19, 2025
+## 1.1.0 - August 19, 2025
 
 ### Added
 - Tooltips for widget permissions
@@ -10,11 +10,6 @@
 ### Fixed
 - Missing translations in default widget description
 
-## 0.2.0 - August 18, 2025
+## 1.0.0 - August 18, 2025
 
-### Added
-- First release
-
-### Added
-- First release
-
+Initial release 🚀

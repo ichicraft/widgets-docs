@@ -14,7 +14,7 @@
 ### Changed
 - Removed User.Read.All permission (replaced by Directory.Read.All, which is granted by default)
 
-## [Copilot](./Widgets/Copilot.md) 0.3.0 - August 19, 2025
+## [Copilot](./Widgets/Copilot.md) 1.1.0 - August 19, 2025
 
 ### Added
 - Tooltips for widget permissions
@@ -26,13 +26,9 @@
 ### Fixed
 - Missing translations in default widget description
 
-## [Copilot](./Widgets/Copilot.md) 0.2.0 - August 18, 2025
+## [Copilot](./Widgets/Copilot.md) 1.0.0 - August 18, 2025
 
-### Added
-- First release
-
-### Added
-- First release
+Initial release 🚀
 
 ## [Widget Board](./Widget Board.md) 1.93.0 - August 07, 2025
 
