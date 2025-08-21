@@ -1,3 +1,9 @@
+## [Power BI](./Widgets/Power BI.md) 1.69.0 - August 21, 2025
+
+### Fixed
+- Some Dutch translations have been corrected
+- Redundant logging has been removed from the widget
+
 ## [Widget Board](./Widget Board.md) 1.95.0 - August 20, 2025
 
 ### Fixed

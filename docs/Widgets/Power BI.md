@@ -1,3 +1,9 @@
+## 1.69.0 - August 21, 2025
+
+### Fixed
+- Some Dutch translations have been corrected
+- Redundant logging has been removed from the widget
+
 ## 1.68.0 - July 09, 2025
 
 ### Changed
