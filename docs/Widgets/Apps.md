@@ -1,3 +1,8 @@
+## 1.56.0 - August 21, 2025
+
+### Fixed
+- Fix translations for user apps
+
 ## 1.55.0 - July 18, 2025
 
 ### Added  

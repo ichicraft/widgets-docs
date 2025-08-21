@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.56.0 - August 21, 2025
+
+### Fixed
+- Fix translations for user apps
+
 ## [Power BI](./Widgets/Power BI.md) 1.69.0 - August 21, 2025
 
 ### Fixed
