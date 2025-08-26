@@ -1,3 +1,7 @@
+## [News](./Widgets/News.md) 1.47.0 - August 26, 2025
+
+
+
 ## [Apps](./Widgets/Apps.md) 1.56.0 - August 21, 2025
 
 ### Fixed
