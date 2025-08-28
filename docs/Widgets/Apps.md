@@ -1,3 +1,8 @@
+## 1.57.0 - August 28, 2025
+
+### Fixed
+- Widget no longer tries to do exception logging in scenarios where the widget is already unmounted
+
 ## 1.56.0 - August 21, 2025
 
 ### Fixed
