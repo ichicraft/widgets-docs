@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.97.0 - August 28, 2025
+
+### Changed
+- Our monitoring services now support tracking over ichicraft.com domain
+
 ## [Apps](./Widgets/Apps.md) 1.57.0 - August 28, 2025
 
 ### Fixed
