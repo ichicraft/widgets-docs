@@ -10,7 +10,8 @@
 
 ## [News](./Widgets/News.md) 1.47.0 - August 26, 2025
 
-
+### Fixed
+- Widget no longer tries to do exception logging in scenarios where the widget is already unmounted
 
 ## [Apps](./Widgets/Apps.md) 1.56.0 - August 21, 2025
 
