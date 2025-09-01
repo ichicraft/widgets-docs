@@ -1,3 +1,11 @@
+## [News](./Widgets/News.md) 1.48.0 - September 01, 2025
+
+### Fixed
+- Rendering issue with info tooltips
+
+### Changed
+- Our monitoring services now support tracking over ichicraft.com domain
+
 ## [Web Part Container](./Widgets/Web Part Container.md) 1.3.0 - September 01, 2025
 
 ### Fixed

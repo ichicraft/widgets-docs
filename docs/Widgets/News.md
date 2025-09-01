@@ -1,3 +1,11 @@
+## 1.48.0 - September 01, 2025
+
+### Fixed
+- Rendering issue with info tooltips
+
+### Changed
+- Our monitoring services now support tracking over ichicraft.com domain
+
 ## 1.47.0 - August 26, 2025
 
 ### Fixed
