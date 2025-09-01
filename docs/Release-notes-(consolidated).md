@@ -1,3 +1,12 @@
+## [Web Part Container](./Widgets/Web Part Container.md) 1.3.0 - September 01, 2025
+
+### Fixed
+- It&#x27;s now possible to use the widget properly in the buddy bar
+
+### Changed
+- Our monitoring services now support tracking over ichicraft.com domain
+
+
 ## [Widget Board](./Widget Board.md) 1.97.0 - August 28, 2025
 
 ### Changed
