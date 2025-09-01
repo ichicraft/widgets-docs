@@ -1,3 +1,9 @@
+## [Copilot](./Widgets/Copilot.md) 1.2.0 - September 01, 2025
+
+### Changed
+- Increased widget&#x27;s max width from 2 to 6 columns
+- Our monitoring services now support tracking over ichicraft.com domain
+
 ## [News](./Widgets/News.md) 1.48.0 - September 01, 2025
 
 ### Fixed
