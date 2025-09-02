@@ -1,3 +1,12 @@
+## 1.13.0 - September 02, 2025
+
+### Fixed
+- Count downs and count ups now take leap years into consideration when calculating remaining (or passed) years and days
+
+### Changed
+- Our monitoring services now support tracking over ichicraft.com domain
+
+
 ## 1.12.0 - June 19, 2025
 
 ### Added

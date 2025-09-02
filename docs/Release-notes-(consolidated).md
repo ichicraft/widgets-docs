@@ -1,3 +1,12 @@
+## [Countdown](./Widgets/Countdown.md) 1.13.0 - September 02, 2025
+
+### Fixed
+- Count downs and count ups now take leap years into consideration when calculating remaining (or passed) years and days
+
+### Changed
+- Our monitoring services now support tracking over ichicraft.com domain
+
+
 ## [Copilot](./Widgets/Copilot.md) 1.2.0 - September 01, 2025
 
 ### Changed
