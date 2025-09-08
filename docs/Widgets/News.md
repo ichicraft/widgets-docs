@@ -1,3 +1,8 @@
+## 1.49.0 - September 08, 2025
+
+### Changed
+- The side-by-side layout now shows the author/owner specified in the news article’s header, rather than always displaying the original article creator.
+
 ## 1.48.0 - September 01, 2025
 
 ### Fixed

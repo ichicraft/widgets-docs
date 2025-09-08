@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.49.0 - September 08, 2025
+
+### Changed
+- The side-by-side layout now shows the author/owner specified in the news article’s header, rather than always displaying the original article creator.
+
 ## [Countdown](./Widgets/Countdown.md) 1.13.0 - September 02, 2025
 
 ### Fixed
