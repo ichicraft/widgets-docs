@@ -1,3 +1,16 @@
+## 1.18.0 - September 10, 2025
+
+### Added
+- More efficient way of retrieving birthdays from the API, using a sortable managed property (enable via Admin Config)  
+- Option to change the managed property used for retrieving birthdays
+- Responsive birthday display with support for multiple columns
+- Confetti animation when there’s a birthday today
+
+### Changed
+- The **‘Previous’** birthdays tab has been renamed to **‘Recent’**
+- General UI improvements
+
+
 ## 1.17.0 - July 14, 2025
 
 ### Added
