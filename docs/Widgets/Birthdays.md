@@ -1,3 +1,12 @@
+## 1.20.0 - September 11, 2025
+
+### Fixed
+- Caching now works correctly so widget shows data quickly
+
+### Fixed
+- Legacy configurations/installations of this widget should now work correctly again
+- Padding on legacy lists is consistent again
+
 ## 1.18.0 - September 10, 2025
 
 ### Added
