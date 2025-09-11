@@ -1,3 +1,8 @@
+## 1.70.0 - September 11, 2025
+
+### Changed
+- If fetching the Power BI access token fails, the browser now automatically refreshes while clearing both &#x60;sessionStorage&#x60; and &#x60;localStorage&#x60;.  
+
 ## 1.69.0 - August 21, 2025
 
 ### Fixed
