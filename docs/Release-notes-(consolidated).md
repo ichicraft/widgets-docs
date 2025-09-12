@@ -1,3 +1,17 @@
+## [Search](./Widgets/Search.md) 1.9.0 - September 12, 2025
+
+### Added
+- Saved searches, allowing users to quickly repeat previous searches
+
+### Changed
+- Replaced the **“History”** layout with **“Searches”**
+- Improved UI of the search dialog
+- Monitoring services now support tracking on the &#x60;ichicraft.com&#x60; domain
+
+### Fixed
+- Resolved an issue where the search dialog opened when switching boards if used as a SharePoint Search Center
+
+
 ## [Widget Board](./Widget Board.md) 1.98.0 - September 12, 2025
 
 ### Added
