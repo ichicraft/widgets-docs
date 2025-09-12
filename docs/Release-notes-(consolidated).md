@@ -1,3 +1,14 @@
+## [Widget Board](./Widget Board.md) 1.98.0 - September 12, 2025
+
+### Added
+- Widget developers can now update user configs directly via &#x60;WidgetContext&#x60;, without using the User Config panel  
+- Widget developers can now access a widget’s parent ID through &#x60;WidgetContext&#x60;
+
+### Changed
+- Improved UI for person cards, API permissions, changelog, buddy error states, and widget debugging
+- Improved loading performance of buddies from configuration packages 
+- Improved loading performance of the central search box
+
 ## [Power BI](./Widgets/Power BI.md) 1.70.0 - September 11, 2025
 
 ### Changed
