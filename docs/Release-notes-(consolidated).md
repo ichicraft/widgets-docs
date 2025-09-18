@@ -1,3 +1,8 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.21.0 - September 18, 2025
+
+### Fixed
+- Fix birthdays automatically set to january 1st
+
 ## [Search](./Widgets/Search.md) 1.9.0 - September 12, 2025
 
 ### Added

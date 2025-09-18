@@ -1,3 +1,8 @@
+## 1.21.0 - September 18, 2025
+
+### Fixed
+- Fix birthdays automatically set to january 1st
+
 ## 1.20.0 - September 11, 2025
 
 ### Fixed
