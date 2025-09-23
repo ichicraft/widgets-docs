@@ -1,8 +1,8 @@
 ## 1.24.0 - September 23, 2025
 
-## 1.23.0 - September 23, 2025
-
-## 1.22.0 - September 23, 2025
+### Fixed
+- Dismissing the missing birthday warning now stays dismissed after browser refresh
+- The warning message for a missing birthday is now positioned correctly on top of other content
 
 ## 1.21.0 - September 18, 2025
 
