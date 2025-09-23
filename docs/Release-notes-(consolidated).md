@@ -1,3 +1,5 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.22.0 - September 23, 2025
+
 ## [Birthdays](./Widgets/Birthdays.md) 1.21.0 - September 18, 2025
 
 ### Fixed

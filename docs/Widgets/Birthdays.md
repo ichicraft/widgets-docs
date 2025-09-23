@@ -1,3 +1,5 @@
+## 1.22.0 - September 23, 2025
+
 ## 1.21.0 - September 18, 2025
 
 ### Fixed
