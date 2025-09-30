@@ -1,3 +1,9 @@
+## 1.100.0 - September 30, 2025
+
+## Fixed
+- Fixed incorrect French &amp; Italian translations during onboarding
+- Fixed main context menu in French &amp; Italian being too wide due to long translations
+
 ## 1.98.0 - September 12, 2025
 
 ### Added

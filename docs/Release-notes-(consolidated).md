@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.100.0 - September 30, 2025
+
+## Fixed
+- Fixed incorrect French &amp; Italian translations during onboarding
+- Fixed main context menu in French &amp; Italian being too wide due to long translations
+
 ## [Birthdays](./Widgets/Birthdays.md) 1.25.0 - September 24, 2025
 
 ### Fixed
