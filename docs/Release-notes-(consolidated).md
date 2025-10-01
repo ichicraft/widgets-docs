@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.50.0 - October 01, 2025
+
+### Changed
+- Articles are now rendered primarily left to right instead of top to bottom
+
 ## [Widget Board](./Widget Board.md) 1.100.0 - September 30, 2025
 
 ## Fixed

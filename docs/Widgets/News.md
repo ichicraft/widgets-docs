@@ -1,3 +1,8 @@
+## 1.50.0 - October 01, 2025
+
+### Changed
+- Articles are now rendered primarily left to right instead of top to bottom
+
 ## 1.49.0 - September 08, 2025
 
 ### Changed
