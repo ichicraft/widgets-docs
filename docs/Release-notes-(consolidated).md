@@ -1,3 +1,29 @@
+## [Files](./Widgets/Files.md) 1.28.0 - October 02, 2025
+
+### Added
+- Tabs scoped to a specific Drive or Folder
+- Shortcut to save your current selected location as a new tab
+- Warning message when required metadata has not been filled in yet (when creating a new file)
+- Context menu for Teams, including an option to Open in Teams
+- Followed Sites (Favorites) scope for SharePoint source
+- Toggle to select all sites, for SharePoint source
+- Advanced search filter for Hierarchical structure layout
+
+### Changed
+- Clicking on the current tab (in the widget header) now refreshes the tab
+- When filtering files from within a selected folder, flat search is now scoped within that folder (instead of the tab&#x27;s full scope)
+- Sites are now displayed with their url as subtext
+- Drives are now displayed with a link to their site as subtext (in SharePoint source)
+- Improved Teams picker component
+- Improved UI
+
+### Fixed
+- Templates not available to select from Add File menu
+- Default content type not assigned when creating a new file
+- Template file generation not working when there is a special character (e.g. &amp;) in the folder name
+- Aggregation filters not working when filtering from a Hierarchical tab
+- Filter button in widget header already visible even when no file location has been selected
+
 ## [News](./Widgets/News.md) 1.50.0 - October 01, 2025
 
 ### Changed
