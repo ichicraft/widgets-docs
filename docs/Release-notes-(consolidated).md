@@ -1,3 +1,8 @@
+## [Tableau Reports](./Widgets/Tableau Reports.md) 1.12.0 - October 03, 2025
+
+### Changed
+- Widget is refactored to use centrally provided logging components.
+
 ## [Sticky Notes](./Widgets/Sticky Notes.md) 1.12.0 - October 03, 2025
 
 ### Changed
