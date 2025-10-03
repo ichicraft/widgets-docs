@@ -1,3 +1,8 @@
+## [Teams](./Widgets/Teams.md) 1.10.0 - October 03, 2025
+
+### Changed
+- Widget is refactored to use centrally provided logging components.
+
 ## [Tasks](./Widgets/Tasks.md) 1.21.0 - October 03, 2025
 
 ### Changed
