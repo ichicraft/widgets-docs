@@ -1,3 +1,8 @@
+## [Web Part Container](./Widgets/Web Part Container.md) 1.4.0 - October 03, 2025
+
+### Changed
+- Widget is refactored to use centrally provided logging components.
+
 ## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.17.0 - October 03, 2025
 
 ### Changed
