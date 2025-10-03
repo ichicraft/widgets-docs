@@ -1,3 +1,7 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.26.0 - October 03, 2025
+
+
+
 ## [Banner](./Widgets/Banner.md) 1.17.0 - October 03, 2025
 
 ### Changed
