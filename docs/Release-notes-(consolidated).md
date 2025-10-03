@@ -1,3 +1,8 @@
+## [Followed Sites](./Widgets/Followed Sites.md) 1.15.0 - October 03, 2025
+
+### Changed
+- Widget is refactored to use centrally provided logging components.
+
 ## [Events](./Widgets/Events.md) 1.29.0 - October 03, 2025
 
 ### Changed
