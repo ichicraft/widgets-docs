@@ -1,3 +1,8 @@
+## 1.71.0 - October 03, 2025
+
+### Changed
+- Widget is refactored to use centrally provided logging components.
+
 ## 1.70.0 - September 11, 2025
 
 ### Changed

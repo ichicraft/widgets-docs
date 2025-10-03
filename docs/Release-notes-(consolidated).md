@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.71.0 - October 03, 2025
+
+### Changed
+- Widget is refactored to use centrally provided logging components.
+
 ## [Power Apps](./Widgets/Power Apps.md) 0.1.0 - October 03, 2025
 
 ### Changed
