@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.51.0 - October 03, 2025
+
+### Changed
+- Widget is refactored to use centrally provided logging components.
+
 ## [Embed](./Widgets/Embed.md) 1.13.0 - October 03, 2025
 
 ### Changed
