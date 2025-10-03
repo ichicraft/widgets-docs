@@ -1,3 +1,8 @@
+## [World Clock](./Widgets/World Clock.md) 1.10.0 - October 03, 2025
+
+### Changed
+- Widget is refactored to use centrally provided logging components.
+
 ## [Marketplace](./Widgets/Marketplace.md) 1.4.0 - October 03, 2025
 
 ### Changed
