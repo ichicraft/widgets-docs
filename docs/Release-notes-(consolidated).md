@@ -1,3 +1,8 @@
+## [Embed](./Widgets/Embed.md) 1.13.0 - October 03, 2025
+
+### Changed
+- Widget is refactored to use centrally provided logging components.
+
 ## [Countdown](./Widgets/Countdown.md) 1.14.0 - October 03, 2025
 
 ### Changed
