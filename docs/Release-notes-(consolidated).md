@@ -1,3 +1,8 @@
+## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.17.0 - October 03, 2025
+
+### Changed
+- Widget is refactored to use centrally provided logging components.
+
 ## [Tableau Reports](./Widgets/Tableau Reports.md) 1.12.0 - October 03, 2025
 
 ### Changed
