@@ -1,3 +1,8 @@
+## [Marketplace](./Widgets/Marketplace.md) 1.4.0 - October 03, 2025
+
+### Changed
+- Widget is refactored to use centrally provided logging components.
+
 ## [Birthdays](./Widgets/Birthdays.md) 1.26.0 - October 03, 2025
 
 
