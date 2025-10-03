@@ -1,3 +1,8 @@
+## [Copilot](./Widgets/Copilot.md) 1.3.0 - October 03, 2025
+
+### Changed
+- Widget is refactored to use centrally provided logging components.
+
 ## [World Clock](./Widgets/World Clock.md) 1.10.0 - October 03, 2025
 
 ### Changed
