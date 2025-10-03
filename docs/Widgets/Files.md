@@ -1,3 +1,8 @@
+## 1.29.0 - October 03, 2025
+
+### Fixed
+- Widget should no longer cause an unexpected exception when parsing older configurations
+
 ## 1.28.0 - October 02, 2025
 
 ### Added
