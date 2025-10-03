@@ -1,3 +1,15 @@
+## 1.101.0 - October 03, 2025
+
+### Fixed
+- Creating and restoring a backup now correctly resolves board owners if restored within the same tenant
+- User configuration should no longer refresh without reason
+
+### Changed
+- Core solution is now responsible for logging components used by widgets
+
+### Added
+- Solution is now capable of catching more unexpected situations than before, providing a more user friendly experience when this happens
+
 ## 1.100.0 - September 30, 2025
 
 ## Fixed
