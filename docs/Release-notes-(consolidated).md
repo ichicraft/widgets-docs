@@ -1,3 +1,8 @@
+## [Tasks](./Widgets/Tasks.md) 1.21.0 - October 03, 2025
+
+### Changed
+- Widget is refactored to use centrally provided logging components.
+
 ## [Web Part Container](./Widgets/Web Part Container.md) 1.4.0 - October 03, 2025
 
 ### Changed
