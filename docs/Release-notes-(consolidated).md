@@ -1,3 +1,8 @@
+## [Bookmarks](./Widgets/Bookmarks.md) 1.14.0 - October 03, 2025
+
+### Changed
+- Widget is refactored to use centrally provided logging components.
+
 ## [People Search](./Widgets/People Search.md) 1.21.0 - October 03, 2025
 
 ### Changed
