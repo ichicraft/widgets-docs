@@ -1,3 +1,8 @@
+## [Search](./Widgets/Search.md) 1.10.0 - October 03, 2025
+
+### Changed
+- Widget is refactored to use centrally provided logging components.
+
 ## [Saved for Later](./Widgets/Saved for Later.md) 1.12.0 - October 03, 2025
 
 ### Changed
