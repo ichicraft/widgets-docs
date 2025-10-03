@@ -1,3 +1,8 @@
+## [Saved for Later](./Widgets/Saved for Later.md) 1.12.0 - October 03, 2025
+
+### Changed
+- Widget is refactored to use centrally provided logging components.
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.25.0 - October 03, 2025
 
 ### Changed
