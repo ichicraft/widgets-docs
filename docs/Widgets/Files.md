@@ -1,3 +1,8 @@
+## 1.30.0 - October 03, 2025
+
+### Changed
+- Widget now uses centrally provided logging tools
+
 ## 1.29.0 - October 03, 2025
 
 ### Fixed

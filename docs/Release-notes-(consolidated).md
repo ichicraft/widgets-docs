@@ -1,3 +1,8 @@
+## [Files](./Widgets/Files.md) 1.30.0 - October 03, 2025
+
+### Changed
+- Widget now uses centrally provided logging tools
+
 ## [Teams](./Widgets/Teams.md) 1.10.0 - October 03, 2025
 
 ### Changed
