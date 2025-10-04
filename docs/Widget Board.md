@@ -1,3 +1,8 @@
+## 1.102.0 - October 04, 2025
+
+### Fixed
+- Reduced the number of logged false-positive exceptions caused by network related issues or users switching boards
+
 ## 1.101.0 - October 03, 2025
 
 ### Fixed
