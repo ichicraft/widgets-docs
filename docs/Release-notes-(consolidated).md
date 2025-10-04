@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.59.0 - October 04, 2025
+
+### Fixed
+- Azure Virtual Desktop integration should now work correctly again
+
 ## [Widget Board](./Widget Board.md) 1.102.0 - October 04, 2025
 
 ### Fixed

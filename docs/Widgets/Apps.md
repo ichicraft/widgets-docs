@@ -1,3 +1,8 @@
+## 1.59.0 - October 04, 2025
+
+### Fixed
+- Azure Virtual Desktop integration should now work correctly again
+
 ## 1.58.0 - October 03, 2025
 
 ### Changed
