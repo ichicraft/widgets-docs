@@ -1,3 +1,8 @@
+## 1.31.0 - October 08, 2025
+
+### Fixed
+- Fix tab becoming empty when interacting with a file from within a folder in the OneDrive Favorites tab
+
 ## 1.30.0 - October 03, 2025
 
 ### Changed
