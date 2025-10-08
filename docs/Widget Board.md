@@ -1,3 +1,8 @@
+## 1.103.0 - October 08, 2025
+
+### Fixed
+- Prevent a scenario where widgets in the Buddy Bar could cause fatal errors
+
 ## 1.102.0 - October 04, 2025
 
 ### Fixed

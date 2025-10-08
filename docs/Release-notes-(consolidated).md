@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.103.0 - October 08, 2025
+
+### Fixed
+- Prevent a scenario where widgets in the Buddy Bar could cause fatal errors
+
 ## [Files](./Widgets/Files.md) 1.31.0 - October 08, 2025
 
 ### Fixed
