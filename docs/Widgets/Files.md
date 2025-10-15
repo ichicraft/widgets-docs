@@ -1,3 +1,8 @@
+## 1.32.0 - October 15, 2025
+
+### Fixed
+- The widget now requires the latest and correct API permissions to be granted
+
 ## 1.31.0 - October 08, 2025
 
 ### Fixed
