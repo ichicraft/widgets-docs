@@ -1,3 +1,8 @@
+## [People Search](./Widgets/People Search.md) 1.22.0 - October 15, 2025
+
+### Fixed
+- The widget now requires the latest and correct API permissions to be granted
+
 ## [Files](./Widgets/Files.md) 1.32.0 - October 15, 2025
 
 ### Fixed
