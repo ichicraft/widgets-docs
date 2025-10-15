@@ -1,3 +1,8 @@
+## [Teams](./Widgets/Teams.md) 1.11.0 - October 15, 2025
+
+### Fixed
+- The widget now requires the latest and correct API permissions to be granted
+
 ## [Widget Board](./Widget Board.md) 1.103.0 - October 08, 2025
 
 ### Fixed
