@@ -1,3 +1,17 @@
+## 1.4.0 - October 16, 2025
+
+### Added
+- Support for longer instructions for prompts
+- Descriptions for prompts, displayed as a tooltip when hovering over them
+
+### Changes
+- Validate Copilot license when running in MS Teams
+- Improved UI for chat and prompts
+
+### Fixed
+- An issue where the Copilot agent timed out when missing data from cache (now triggers an automatic reload)
+- Chat inline suggestions menu overflowing outside the widet
+
 ## 1.3.0 - October 03, 2025
 
 ### Changed
