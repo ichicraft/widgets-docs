@@ -1,3 +1,12 @@
+## 1.19.0 - October 24, 2025
+
+### Changes
+- Improve UI for admin configuration dialog
+- Improve UI for Manage Content dialog
+
+### Fixes
+- Fix crash when removing audience from an Inform item
+
 ## 1.18.0 - October 03, 2025
 
 ### Changed
