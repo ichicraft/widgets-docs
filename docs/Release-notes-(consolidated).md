@@ -1,3 +1,9 @@
+## [Search](./Widgets/Search.md) 1.11.0 - October 27, 2025
+
+### Fixed
+- A missing required API permission to search for external items has been added
+- Icons used by Azure DevOps have been restored
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.19.0 - October 24, 2025
 
 ### Changes

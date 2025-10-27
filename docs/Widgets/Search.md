@@ -1,3 +1,9 @@
+## 1.11.0 - October 27, 2025
+
+### Fixed
+- A missing required API permission to search for external items has been added
+- Icons used by Azure DevOps have been restored
+
 ## 1.10.0 - October 03, 2025
 
 ### Changed
