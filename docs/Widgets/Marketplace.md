@@ -1,3 +1,8 @@
+## 1.5.0 - November 03, 2025
+
+### Added
+- Content from the marketplace widget is now included in the backup/restore functionality of Ichicraft Boards
+
 ## 1.4.0 - October 03, 2025
 
 ### Changed

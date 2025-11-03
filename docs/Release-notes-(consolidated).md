@@ -1,3 +1,8 @@
+## [Marketplace](./Widgets/Marketplace.md) 1.5.0 - November 03, 2025
+
+### Added
+- Content from the marketplace widget is now included in the backup/restore functionality of Ichicraft Boards
+
 ## [Search](./Widgets/Search.md) 1.11.0 - October 27, 2025
 
 ### Fixed
