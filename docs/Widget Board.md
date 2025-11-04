@@ -1,3 +1,8 @@
+## 1.104.0 - November 04, 2025
+
+### Fixed
+- Images and other assets should now be correctly included in Ichicraft Boards backups
+
 ## 1.103.0 - October 08, 2025
 
 ### Fixed

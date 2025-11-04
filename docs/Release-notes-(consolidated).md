@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.104.0 - November 04, 2025
+
+### Fixed
+- Images and other assets should now be correctly included in Ichicraft Boards backups
+
 ## [Marketplace](./Widgets/Marketplace.md) 1.5.0 - November 03, 2025
 
 ### Added
