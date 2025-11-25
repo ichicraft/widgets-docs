@@ -4,7 +4,7 @@
 - Support for longer instructions for prompts
 - Descriptions for prompts, displayed as a tooltip when hovering over them
 
-### Changes
+### Changed
 - Validate Copilot license when running in MS Teams
 - Improved UI for chat and prompts
 

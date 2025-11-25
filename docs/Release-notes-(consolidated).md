@@ -4,33 +4,39 @@
 
 ### Added
 
-- **Improved board templates system**
-  - User restrictions (**move**, **delete**) can now be configured directly on a board template — no need to use the old &quot;Pushed widgets&quot; feature.
-  - Board templates are no longer just a one-time blueprint:
-    - Changes to user restrictions are automatically applied to all boards using the template.
-    - Newly added widgets in the template are automatically added to users’ boards.
-  - Templates can now be **synchronized** to apply the latest layout to all linked boards.
-    - User settings are preserved during synchronization.
-  - Added descriptions for board templates.
-  - Templates can now be available for **both personal and shared boards** (instead of only one).
-  - Templates using the old &quot;Pushed widgets&quot; system can be **migrated** by switching to the new system in Template Details.
-  - Added **search bar** and **display options** in the Board Templates panel (Admin Center).
-  - Improved UX for the templates list, details, and editor.
-  - Admins can now see which template is linked to a shared board in the Board Library.
+**Improved board templates system**
+
+- User restrictions (**move**, **delete**) can now be configured directly on a board template — no need to use the old &quot;Pushed widgets&quot; feature.
+- Board templates are no longer just a one-time blueprint:
+  - Changes to user restrictions are automatically applied to all boards using the template.
+  - Newly added widgets in the template are automatically added to users’ boards.
+- Templates can now be **synchronized** to apply the latest layout to all linked boards.
+  - User settings are preserved during synchronization.
+- Added descriptions for board templates.
+- Templates can now be available for **both personal and shared boards** (instead of only one).
+- Templates using the old &quot;Pushed widgets&quot; system can be **migrated** by switching to the new system in Template Details.
+- Added **search bar** and **display options** in the Board Templates panel (Admin Center).
+- Improved UX for the templates list, details, and editor.
+- Admins can now see which template is linked to a shared board in the Board Library.
 
 ### Changed
 
-- **Onboarding tour**
-  - The tour can now be skipped using a &quot;Skip tour&quot; button.
-  - Teaching tips are now dismissed automatically when performing the described action (no need to click Next).
-- **Consistency of terms &quot;Lock&quot; and &quot;Pin&quot;**
-  - *Lock* is used when a user **cannot delete** an item.
-  - *Pin* is used when a user **cannot move** an item (e.g., widgets).
-- **Boards UX**
-  - Widgets now visibly “pick up” when being moved.
-  - Widgets can now be resized from the left side as well.
-  - Widget sizes are now preserved when resetting a board.
-  - User-added widgets without configurations are now also carried over when resetting a board.
+**Onboarding tour**
+
+- The tour can now be skipped using a &quot;Skip tour&quot; button.
+- Teaching tips are now dismissed automatically when performing the described action (no need to click Next).
+
+**Consistency of terms &quot;Lock&quot; and &quot;Pin&quot;**
+
+- *Lock* is used when a user **cannot delete** an item.
+- *Pin* is used when a user **cannot move** an item (e.g., widgets).
+ 
+**Boards UX**
+
+- Widgets now visibly “pick up” when being moved.
+- Widgets can now be resized from the left side as well.
+- Widget sizes are now preserved when resetting a board.
+- User-added widgets without configurations are now also carried over when resetting a board.
 
 ### Fixed
 
@@ -56,11 +62,11 @@
 
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.19.0 - October 24, 2025
 
-### Changes
+### Changed
 - Improve UI for admin configuration dialog
 - Improve UI for Manage Content dialog
 
-### Fixes
+### Fixed
 - Fix crash when removing audience from an Inform item
 
 ## [Copilot](./Widgets/Copilot.md) 1.4.0 - October 16, 2025
@@ -69,7 +75,7 @@
 - Support for longer instructions for prompts
 - Descriptions for prompts, displayed as a tooltip when hovering over them
 
-### Changes
+### Changed
 - Validate Copilot license when running in MS Teams
 - Improved UI for chat and prompts
 
@@ -244,10 +250,6 @@
 ### Changed
 - Widget is refactored to use centrally provided logging components.
 
-## [Birthdays](./Widgets/Birthdays.md) 1.26.0 - October 03, 2025
-
-
-
 ## [Banner](./Widgets/Banner.md) 1.17.0 - October 03, 2025
 
 ### Changed
@@ -300,7 +302,7 @@
 - Fixed incorrect French &amp; Italian translations during onboarding
 - Fixed main context menu in French &amp; Italian being too wide due to long translations
 
-## [Birthdays](./Widgets/Birthdays.md) 1.25.0 - September 24, 2025
+## [Birthdays](./Widgets/Birthdays.md) 1.26.0 - September 24, 2025
 
 ### Fixed
 - An issue where birthdays close to the current user&#x27;s birthday were not being loaded
@@ -881,13 +883,13 @@ Initial release 🚀
 - You can now move widgets to a shared board
 - You can now set your start board (enabled through configuration packages)
 
-### Changes
+### Changed
 - Improved widget error state UI
 - Improved widget rename UI
 - Improved widget &amp; board context menus
 - Moved &#x27;Edit navigation&#x27; action to a separate context menu in the horizontal navigation
 
-### Fixes
+### Fixed
 - Fixed widgets still being rendered even when they&#x27;re not allowed in that scope (personal, shared, buddy)
 
 ## [Inbox](./Widgets/Inbox.md) 1.21.0 - April 24, 2025
@@ -949,11 +951,11 @@ Initial release 🚀
 
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.15.0 - March 26, 2025
 
-### Changes
+### Changed
 - Increased maximum widget width from 2 to 6 columns
 - Improved UI for tooltips
 
-### Fixes
+### Fixed
 - Increased resolution for auto-generated thumbnail images
 
 ## [Banner](./Widgets/Banner.md) 1.13.0 - March 26, 2025
@@ -2320,7 +2322,7 @@ Initial release 🚀
 - Administrators can now select which sections of their draft configuration they want to save/discard
 - Missing documentation was added for a CSS override class used by the App Launcher Widget
 
-### Changes
+### Changed
 - Improved Widget Library UX in admin panel
 - Improved responsiveness of admin panel
 

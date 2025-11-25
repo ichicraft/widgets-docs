@@ -1,10 +1,10 @@
 ## 1.19.0 - October 24, 2025
 
-### Changes
+### Changed
 - Improve UI for admin configuration dialog
 - Improve UI for Manage Content dialog
 
-### Fixes
+### Fixed
 - Fix crash when removing audience from an Inform item
 
 ## 1.18.0 - October 03, 2025
@@ -24,11 +24,11 @@
 
 ## 1.15.0 - March 26, 2025
 
-### Changes
+### Changed
 - Increased maximum widget width from 2 to 6 columns
 - Improved UI for tooltips
 
-### Fixes
+### Fixed
 - Increased resolution for auto-generated thumbnail images
 
 ## 1.14.0 - March 05, 2025

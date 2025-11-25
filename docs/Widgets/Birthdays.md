@@ -1,8 +1,4 @@
-## 1.26.0 - October 03, 2025
-
-
-
-## 1.25.0 - September 24, 2025
+## 1.26.0 - September 24, 2025
 
 ### Fixed
 - An issue where birthdays close to the current user&#x27;s birthday were not being loaded
