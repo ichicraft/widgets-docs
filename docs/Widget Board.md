@@ -1,3 +1,41 @@
+## 1.105.0 - November 25, 2025
+
+### Added
+
+- **Improved board templates system**
+  - User restrictions (**move**, **delete**) can now be configured directly on a board template — no need to use the old &quot;Pushed widgets&quot; feature.
+  - Board templates are no longer just a one-time blueprint:
+    - Changes to user restrictions are automatically applied to all boards using the template.
+    - Newly added widgets in the template are automatically added to users’ boards.
+  - Templates can now be **synchronized** to apply the latest layout to all linked boards.
+    - User settings are preserved during synchronization.
+  - Added descriptions for board templates.
+  - Templates can now be available for **both personal and shared boards** (instead of only one).
+  - Templates using the old &quot;Pushed widgets&quot; system can be **migrated** by switching to the new system in Template Details.
+  - Added **search bar** and **display options** in the Board Templates panel (Admin Center).
+  - Improved UX for the templates list, details, and editor.
+  - Admins can now see which template is linked to a shared board in the Board Library.
+
+### Changed
+
+- **Onboarding tour**
+  - The tour can now be skipped using a &quot;Skip tour&quot; button.
+  - Teaching tips are now dismissed automatically when performing the described action (no need to click Next).
+- **Consistency of terms &quot;Lock&quot; and &quot;Pin&quot;**
+  - *Lock* is used when a user **cannot delete** an item.
+  - *Pin* is used when a user **cannot move** an item (e.g., widgets).
+- **Boards UX**
+  - Widgets now visibly “pick up” when being moved.
+  - Widgets can now be resized from the left side as well.
+  - Widget sizes are now preserved when resetting a board.
+  - User-added widgets without configurations are now also carried over when resetting a board.
+
+### Fixed
+
+- Fetching granted API permissions should no longer fail when SharePoint app registration has granted permissions for more than 15 different API endpoints.
+- Analytics plugin maintenance no longer shows deprecated Google Analytics sample configuration
+
+
 ## 1.104.0 - November 04, 2025
 
 ### Fixed
