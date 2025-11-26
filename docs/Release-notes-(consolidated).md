@@ -1,3 +1,5 @@
+## [Widget Board](./Widget Board.md) 1.107.0 - November 26, 2025
+
 ## [Widget Board](./Widget Board.md) 1.106.0 - November 25, 2025
 
 ## [Widget Board](./Widget Board.md) 1.105.0 - November 25, 2025
