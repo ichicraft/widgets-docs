@@ -1,6 +1,14 @@
 ## [Widget Board](./Widget Board.md) 1.107.0 - November 26, 2025
 
+### Changed
+
+- Improved French and Italian translations of the onboarding interface.
+
 ## [Widget Board](./Widget Board.md) 1.106.0 - November 25, 2025
+
+### Fixed
+
+- Rendering a shared board no longer cause an error when they contain widgets that aren't visible to everyone. 
 
 ## [Widget Board](./Widget Board.md) 1.105.0 - November 25, 2025
 
