@@ -1,3 +1,8 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.20.0 - November 27, 2025
+
+### Fixed
+- Initializing the widget is now possible even when standard group &quot;Everyone Except External Users&quot; isn&#x27;t present with the most common login name &#x60;c:0-.f|rolemanager|spo-grid-all-users/{tenantId}&#x60;
+
 ## [Widget Board](./Widget Board.md) 1.107.0 - November 26, 2025
 
 ### Changed

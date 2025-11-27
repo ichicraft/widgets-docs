@@ -1,3 +1,8 @@
+## 1.20.0 - November 27, 2025
+
+### Fixed
+- Initializing the widget is now possible even when standard group &quot;Everyone Except External Users&quot; isn&#x27;t present with the most common login name &#x60;c:0-.f|rolemanager|spo-grid-all-users/{tenantId}&#x60;
+
 ## 1.19.0 - October 24, 2025
 
 ### Changed
