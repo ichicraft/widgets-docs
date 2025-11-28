@@ -1,3 +1,8 @@
+## 1.12.0 - November 28, 2025
+
+### Fixed 
+- The search modal dialog no longer continues to open when navigating to other boards after doing a search through the SharePoint search bar
+
 ## 1.11.0 - October 27, 2025
 
 ### Fixed
