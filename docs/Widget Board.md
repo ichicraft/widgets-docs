@@ -1,3 +1,9 @@
+## 1.108.0 - November 28, 2025
+
+### Fixed
+- During back-ups, all images should now be included for widgets that include their own content, like Marketplace and Inform &amp; Onboard
+- Installing Ichicraft Boards now automatically uses the latest available setup packages
+
 ## 1.107.0 - November 26, 2025
 
 ### Changed

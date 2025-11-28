@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.108.0 - November 28, 2025
+
+### Fixed
+- During back-ups, all images should now be included for widgets that include their own content, like Marketplace and Inform &amp; Onboard
+- Installing Ichicraft Boards now automatically uses the latest available setup packages
+
 ## [Search](./Widgets/Search.md) 1.12.0 - November 28, 2025
 
 ### Fixed 
