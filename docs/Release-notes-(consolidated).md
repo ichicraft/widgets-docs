@@ -1,9 +1,5 @@
 ## [Widget Board](./Widget Board.md) 1.111.0 - December 21, 2025
 
-## [Widget Board](./Widget Board.md) 1.110.0 - December 21, 2025
-
-## [Widget Board](./Widget Board.md) 1.109.0 - December 21, 2025
-
 ### Changed
 - Installation process is updated to facilitate multiple registrations per tenant
 - Various security related updates were made to the back-end service, including the introduction of industry standard security headers to HTTP responses
