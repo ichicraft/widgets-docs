@@ -1,3 +1,11 @@
+## 1.26.0 - January 06, 2026
+
+### Changed
+- Widget now supports 6 columns
+
+### Fixed
+- Minor security update by upgrading potentially vulnerable dependency library to latest version
+
 ## 1.25.0 - October 03, 2025
 
 ### Changed

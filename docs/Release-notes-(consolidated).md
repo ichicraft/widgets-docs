@@ -1,3 +1,11 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.26.0 - January 06, 2026
+
+### Changed
+- Widget now supports 6 columns
+
+### Fixed
+- Minor security update by upgrading potentially vulnerable dependency library to latest version
+
 ## [Widget Board](./Widget Board.md) 1.111.0 - December 21, 2025
 
 ### Changed
