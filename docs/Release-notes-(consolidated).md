@@ -1,3 +1,20 @@
+## [News](./Widgets/News.md) 1.52.0 - January 12, 2026
+
+### Added
+- Gathering of news items based on term sets
+  - Configure term sets in the Admin Config using managed properties
+- Gathering of news items over all accessible sites (instead of selecting specific sites)
+- Users can filter news items using the configured term sets (Tags)
+  - Select tags you always want to filter on through the User Config
+  - Further refine your filters through the &quot;Show All&quot; overview dialog (these are not persisted)
+- Display of tags on news items
+
+### Changed
+- Improved UX of entire widget
+
+
+
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.26.0 - January 06, 2026
 
 ### Changed
