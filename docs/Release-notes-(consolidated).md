@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.53.0 - January 12, 2026
+
+### Fixed
+- Fix vertical responsiveness in &#x27;side-by-side&#x27; layouts
+
 ## [News](./Widgets/News.md) 1.52.0 - January 12, 2026
 
 ### Added
