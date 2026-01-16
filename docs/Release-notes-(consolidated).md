@@ -1,3 +1,12 @@
+## [Widget Board](./Widget Board.md) 1.112.0 - January 16, 2026
+
+### Added
+- Ichicraft Boards now shows a warning message when its script sources are not configured as &quot;Trusted script sources&quot;
+
+### Fixed
+- Registering a new installation no longer adds multiple registration records in the back-end
+- The correct API permission is now required for when the urgent messages push notification feature is activated
+
 ## [News](./Widgets/News.md) 1.53.0 - January 12, 2026
 
 ### Fixed

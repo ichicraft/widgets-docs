@@ -1,3 +1,12 @@
+## 1.112.0 - January 16, 2026
+
+### Added
+- Ichicraft Boards now shows a warning message when its script sources are not configured as &quot;Trusted script sources&quot;
+
+### Fixed
+- Registering a new installation no longer adds multiple registration records in the back-end
+- The correct API permission is now required for when the urgent messages push notification feature is activated
+
 ## 1.111.0 - December 21, 2025
 
 ### Changed
