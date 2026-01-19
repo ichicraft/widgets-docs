@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.113.0 - January 19, 2026
+
+### Fixed
+- The solution should no longer try to save the user configuration on each page load when configuration packages are used in relation to buddy bar items
+
 ## [Widget Board](./Widget Board.md) 1.112.0 - January 16, 2026
 
 ### Added
