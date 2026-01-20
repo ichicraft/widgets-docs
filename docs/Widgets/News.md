@@ -1,3 +1,8 @@
+## 1.54.0 - January 20, 2026
+
+### Fixed
+- Including many sites in the query no longer causes the widget to complain about too many tags selected
+
 ## 1.53.0 - January 12, 2026
 
 ### Fixed

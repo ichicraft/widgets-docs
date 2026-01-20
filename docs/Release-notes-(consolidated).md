@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.54.0 - January 20, 2026
+
+### Fixed
+- Including many sites in the query no longer causes the widget to complain about too many tags selected
+
 ## [Widget Board](./Widget Board.md) 1.113.0 - January 19, 2026
 
 ### Fixed
