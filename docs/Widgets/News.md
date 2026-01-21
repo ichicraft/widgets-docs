@@ -1,3 +1,8 @@
+## 1.55.0 - January 21, 2026
+
+### Fixed
+- The new term filter no longer causes an exception when no preselected terms are set
+
 ## 1.54.0 - January 20, 2026
 
 ### Fixed
