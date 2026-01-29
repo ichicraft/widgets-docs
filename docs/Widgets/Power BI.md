@@ -1,3 +1,8 @@
+## 1.72.0 - January 29, 2026
+
+### Changed
+- The frequency with which access tokens for Power BI embeds are fetched is optimized to lower the chance of undesirable embed refreshes
+
 ## 1.71.0 - October 03, 2025
 
 ### Changed

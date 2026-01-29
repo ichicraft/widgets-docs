@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.72.0 - January 29, 2026
+
+### Changed
+- The frequency with which access tokens for Power BI embeds are fetched is optimized to lower the chance of undesirable embed refreshes
+
 ## [News](./Widgets/News.md) 1.55.0 - January 21, 2026
 
 ### Fixed
