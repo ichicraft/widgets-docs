@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.114.0 - January 29, 2026
+
+### Fixed
+- Parsing license start date should no longer fail and cause the app to break
+
 ## [Power BI](./Widgets/Power BI.md) 1.72.0 - January 29, 2026
 
 ### Changed
