@@ -1,3 +1,5 @@
+## [Widget Board](./Widget Board.md) 1.115.0 - February 02, 2026
+
 ## [Widget Board](./Widget Board.md) 1.114.0 - January 29, 2026
 
 ### Fixed
