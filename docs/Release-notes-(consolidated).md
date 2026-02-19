@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.60.0 - February 19, 2026
+
+### Fixed
+- An issue where shared board owners were not able to save translations for apps
+
 ## [Widget Board](./Widget Board.md) 1.115.0 - February 02, 2026
 
 ## [Widget Board](./Widget Board.md) 1.114.0 - January 29, 2026

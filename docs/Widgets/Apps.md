@@ -1,3 +1,8 @@
+## 1.60.0 - February 19, 2026
+
+### Fixed
+- An issue where shared board owners were not able to save translations for apps
+
 ## 1.59.0 - October 04, 2025
 
 ### Fixed
