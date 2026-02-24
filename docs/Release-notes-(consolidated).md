@@ -1,3 +1,14 @@
+## [Copilot](./Widgets/Copilot.md) 1.5.0 - February 24, 2026
+
+### Added
+- Input support for prompts
+   - Format your prompt input between square brackets like so: Summarize this document: [file]
+   - The prompt will be presented like this: Summarize this document: **file**
+   - When the user clicks on the prompt, they will be asked to complete it first, before it is executed.
+
+### Fixed
+- Pay-as-you-go licensing check in Microsoft Teams client &amp; web for SharePoint agents
+
 ## [Apps](./Widgets/Apps.md) 1.60.0 - February 19, 2026
 
 ### Fixed
