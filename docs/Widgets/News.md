@@ -1,3 +1,11 @@
+## 1.56.0 - February 25, 2026
+
+### Fixed
+- Carousel no longer automatically resets to first slide after new content is loaded
+
+### Changed
+- To reduce bandwidth used by the widget, article images are only loaded once the carousel slide they&#x27;re on becomes visible
+
 ## 1.55.0 - January 21, 2026
 
 ### Fixed

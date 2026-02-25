@@ -1,3 +1,11 @@
+## [News](./Widgets/News.md) 1.56.0 - February 25, 2026
+
+### Fixed
+- Carousel no longer automatically resets to first slide after new content is loaded
+
+### Changed
+- To reduce bandwidth used by the widget, article images are only loaded once the carousel slide they&#x27;re on becomes visible
+
 ## [Copilot](./Widgets/Copilot.md) 1.5.0 - February 24, 2026
 
 ### Added
