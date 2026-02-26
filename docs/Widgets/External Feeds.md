@@ -1,3 +1,11 @@
+## 1.27.0 - February 26, 2026
+
+### Fixed
+- Feeds returning HTTP 307 or 308 redirects are now handled correctly (CORS proxy service update).
+- Feed requests now default to HTTPS. Only URLs explicitly specifying port :80 will use HTTP (CORS proxy service update).
+- When items do not include a publication date, the channel’s lastBuildDate is now used as a fallback.
+- Some feeds did not respond correctly to the Accept: application/rss+xml header. The request now supports additional content types to improve compatibility.
+
 ## 1.26.0 - January 06, 2026
 
 ### Changed
