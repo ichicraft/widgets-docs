@@ -1,7 +1,5 @@
 ## 1.115.0 - February 02, 2026
 
-## 1.114.0 - January 29, 2026
-
 ### Fixed
 - Parsing license start date should no longer fail and cause the app to break
 

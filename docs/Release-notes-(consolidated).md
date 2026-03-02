@@ -51,8 +51,6 @@
 
 ## [Widget Board](./Widget Board.md) 1.115.0 - February 02, 2026
 
-## [Widget Board](./Widget Board.md) 1.114.0 - January 29, 2026
-
 ### Fixed
 - Parsing license start date should no longer fail and cause the app to break
 
@@ -299,7 +297,7 @@
 ### Changed
 - Widget is refactored to use centrally provided logging components.
 
-## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.17.0 - October 03, 2025
+## [Calendar](./Widgets/Calendar.md) 1.17.0 - October 03, 2025
 
 ### Changed
 - Widget is refactored to use centrally provided logging components.
@@ -703,12 +701,12 @@ Initial release 🚀
 - Added some missing translation keys  
 - Editing urgent messages during daylight saving time (DST) no longer adds an extra hour to the publication date  
 
-## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.16.0 - July 15, 2025
+## [Calendar](./Widgets/Calendar.md) 1.16.0 - July 15, 2025
 
 ### Fixed
 - Fixed a minor issue related to caching
 
-## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.15.0 - July 14, 2025
+## [Calendar](./Widgets/Calendar.md) 1.15.0 - July 14, 2025
 
 ### Added
 - You can now display calendars that others have shared with you (requires the additional Graph permission: `Calendars.Read.Shared`)
@@ -1336,7 +1334,7 @@ Initial release 🚀
 ### Changed
 - Various under-the-hood performance updates 
 
-## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.14.0 - February 19, 2025
+## [Calendar](./Widgets/Calendar.md) 1.14.0 - February 19, 2025
 
 ### Added
 - Polish 🇵🇱 translations added, allowing Polish-speaking users to navigate and use the software in their native language
@@ -1547,7 +1545,7 @@ Initial release 🚀
 ## [Widget Board](./Widget Board.md) 1.68.0 - December 19, 2024
 
 ### Fixed
-- An issue where widget titles that were supposed to be clickable (like with Inbox and Upcoming Meetings), no longer were
+- An issue where widget titles that were supposed to be clickable (like with Inbox and Calendar), no longer were
 
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.12.0 - December 16, 2024
 
@@ -1853,7 +1851,7 @@ Initial release 🚀
 ### Changed
 - Improved German translations.
 
-## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.13.0 - September 10, 2024
+## [Calendar](./Widgets/Calendar.md) 1.13.0 - September 10, 2024
 
 ### Changed
 - Improved German translations.
@@ -2435,7 +2433,7 @@ Initial release 🚀
 ### Changed
 - Upgraded Fluent UI 8 dependency to match version used by Boards Core.
 
-## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.12.0 - March 21, 2024
+## [Calendar](./Widgets/Calendar.md) 1.12.0 - March 21, 2024
 
 ### Changed
 - Upgraded Fluent UI 8 dependency to match version used by Boards Core.
@@ -2512,7 +2510,7 @@ Initial release 🚀
 ### Changed
 - Handling of missing M365 license is improved with a clearer message to the user
 
-## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.11.0 - February 29, 2024
+## [Calendar](./Widgets/Calendar.md) 1.11.0 - February 29, 2024
 
 ### Changed
 - Handling of missing M365 license is improved with a clearer message to the user
@@ -2629,7 +2627,7 @@ Initial release 🚀
 ### Changed
 - Improved translations (FR)
 
-## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.10.0 - February 08, 2024
+## [Calendar](./Widgets/Calendar.md) 1.10.0 - February 08, 2024
 
 ### Changed
 - Improved translations (FR)
@@ -2741,7 +2739,7 @@ Initial release 🚀
 ### Fixed
 - An issue where duplicate diagnostics were logged
 
-## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.9.0 - December 22, 2023
+## [Calendar](./Widgets/Calendar.md) 1.9.0 - December 22, 2023
 
 ### Fixed
 - An issue where duplicate diagnostics were logged
@@ -2900,7 +2898,7 @@ Initial release 🚀
 - Internal refactoring of logging logic
 - Upgrade to Graph Toolkit V3
 
-## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.8.0 - December 13, 2023
+## [Calendar](./Widgets/Calendar.md) 1.8.0 - December 13, 2023
 
 ### Changed
 - Internal refactoring of logging logic
@@ -3039,7 +3037,7 @@ Fix language errors during installation
 ### Changed
 - Optimization of widget script bundle size
 
-## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.7.0 - November 30, 2023
+## [Calendar](./Widgets/Calendar.md) 1.7.0 - November 30, 2023
 
 ### Changed
 - Optimization of widget script bundle size
@@ -3535,7 +3533,7 @@ Minor system update
 ### Fixed
 - An issue where, in an onboarding scenario, the widget could be removed by a user after all items were marked as complete, even though (unread) items are scheduled to be visible in the future.
 
-## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.6.0 - June 20, 2023
+## [Calendar](./Widgets/Calendar.md) 1.6.0 - June 20, 2023
 
 ### Changed
 - Update solution to stop using beta API from Microsoft where it&#x27;s no longer needed
@@ -4098,7 +4096,7 @@ Initial release 🚀
 ### Changed
 - Refactoring and updating to match Power BI widget visualization
 
-## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.5.0 - July 06, 2022
+## [Calendar](./Widgets/Calendar.md) 1.5.0 - July 06, 2022
 
 ### Changed
 - Updated look &amp; feel to better match new styling of Ichicraft Boards
@@ -4375,7 +4373,7 @@ Initial release 🚀
 ### Added
 - Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
 
-## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.4.0 - November 10, 2021
+## [Calendar](./Widgets/Calendar.md) 1.4.0 - November 10, 2021
 
 ### Added
 - Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
@@ -4575,7 +4573,7 @@ Initial release 🚀
 - `87%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
 
-## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.3.0 - October 07, 2021
+## [Calendar](./Widgets/Calendar.md) 1.3.0 - October 07, 2021
 
 ### Changed
 - `85%` optimization in bundle size due to use of external modules
@@ -4720,7 +4718,7 @@ Initial release 🚀
 ### Fixed
 - Bug where timezones weren&#x27;t taken into consideration correctly in displaying birthdays
 
-## [Upcoming Meetings](./Widgets/Upcoming Meetings.md) 1.2.0 - March 23, 2021
+## [Calendar](./Widgets/Calendar.md) 1.2.0 - March 23, 2021
 
 ### Added
 - Next day&#x27;s meetings
