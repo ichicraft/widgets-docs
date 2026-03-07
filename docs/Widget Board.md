@@ -1,3 +1,14 @@
+## 1.116.0 - March 07, 2026
+
+### Fixed
+- Installation of Ichicraft Boards now succeeds in rare cases where the “Everyone Except External Users” group is not present with the default identifier &#x60;c:0-.f|rolemanager|spo-grid-all-users/${tenantId}&#x60;.
+
+### Changed
+- Reduced the loading footprint for urgent messages and shared boards.
+
+### Removed
+- Removed the CSP trusted sources check, as Microsoft now actively enforces CSP rules.
+
 ## 1.115.0 - February 02, 2026
 
 ### Fixed
