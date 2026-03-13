@@ -1,3 +1,10 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.21.0 - March 13, 2026
+
+### Changed
+- It&#x27;s now possible to change the Call to action label (default &quot;Get started&quot;)
+- It&#x27;s now possible to hide items that have been scheduled for later publication
+- The UI for marking an item as read/completed has been improved
+
 ## [Widget Board](./Widget Board.md) 1.116.0 - March 07, 2026
 
 ### Fixed

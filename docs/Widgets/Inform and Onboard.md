@@ -1,3 +1,10 @@
+## 1.21.0 - March 13, 2026
+
+### Changed
+- It&#x27;s now possible to change the Call to action label (default &quot;Get started&quot;)
+- It&#x27;s now possible to hide items that have been scheduled for later publication
+- The UI for marking an item as read/completed has been improved
+
 ## 1.20.0 - November 27, 2025
 
 ### Fixed
