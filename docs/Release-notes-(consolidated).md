@@ -1,3 +1,9 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.27.0 - March 13, 2026
+
+### Changed
+- The widget now displays a confirmation message after sending a birthday wish via email or Teams chat
+- The birthday wish fly-out no longer closes when the cursor moves outside of it
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.21.0 - March 13, 2026
 
 ### Changed

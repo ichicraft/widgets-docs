@@ -1,3 +1,9 @@
+## 1.27.0 - March 13, 2026
+
+### Changed
+- The widget now displays a confirmation message after sending a birthday wish via email or Teams chat
+- The birthday wish fly-out no longer closes when the cursor moves outside of it
+
 ## 1.26.0 - September 24, 2025
 
 ### Fixed
