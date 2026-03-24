@@ -1,3 +1,8 @@
+## 1.30.0 - March 24, 2026
+
+### Changed
+- Used new caching framework for better performance, reliability and loading speed
+
 ## 1.29.0 - October 03, 2025
 
 ### Changed

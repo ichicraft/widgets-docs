@@ -1,3 +1,8 @@
+## [Events](./Widgets/Events.md) 1.30.0 - March 24, 2026
+
+### Changed
+- Used new caching framework for better performance, reliability and loading speed
+
 ## [Widget Board](./Widget Board.md) 1.117.0 - March 24, 2026
 
 ### Fixed
