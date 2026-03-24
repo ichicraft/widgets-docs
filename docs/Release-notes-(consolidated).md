@@ -1,3 +1,8 @@
+## [People Search](./Widgets/People Search.md) 1.23.0 - March 24, 2026
+
+### Changed
+- Used new caching framework for better performance, reliability and loading speed
+
 ## [Events](./Widgets/Events.md) 1.30.0 - March 24, 2026
 
 ### Changed
