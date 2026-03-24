@@ -1,3 +1,12 @@
+## [Calendar](./Widgets/Calendar.md) 1.19.0 - March 24, 2026
+
+### Fixed
+- The widget should no longer flicker when in a certain scroll position under some conditions
+- Scrolling to today should now work consistently
+
+### Changed
+- Implementation of new caching framework, preventing filling of local storage
+
 ## [Power BI](./Widgets/Power BI.md) 1.73.0 - March 24, 2026
 
 ### Changed
