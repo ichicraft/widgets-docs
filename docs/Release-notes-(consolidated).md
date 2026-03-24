@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.73.0 - March 24, 2026
+
+### Changed
+- Used new caching framework for better performance, reliability and loading speed
+
 ## [Files](./Widgets/Files.md) 1.33.0 - March 24, 2026
 
 ### Changed
