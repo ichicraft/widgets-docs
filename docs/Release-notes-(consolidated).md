@@ -1,3 +1,9 @@
+## [Files](./Widgets/Files.md) 1.33.0 - March 24, 2026
+
+### Changed
+- Used new caching framework for better performance, reliability and loading speed
+- Improved readability of active filters
+
 ## [Apps](./Widgets/Apps.md) 1.61.0 - March 24, 2026
 
 ### Changed

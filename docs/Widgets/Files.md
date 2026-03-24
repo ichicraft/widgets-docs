@@ -1,3 +1,9 @@
+## 1.33.0 - March 24, 2026
+
+### Changed
+- Used new caching framework for better performance, reliability and loading speed
+- Improved readability of active filters
+
 ## 1.32.0 - October 15, 2025
 
 ### Fixed
