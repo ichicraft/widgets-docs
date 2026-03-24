@@ -1,3 +1,8 @@
+## [Search](./Widgets/Search.md) 1.13.0 - March 24, 2026
+
+### Changed
+- Used new caching framework for better performance, reliability and loading speed
+
 ## [Calendar](./Widgets/Calendar.md) 1.19.0 - March 24, 2026
 
 ### Fixed
