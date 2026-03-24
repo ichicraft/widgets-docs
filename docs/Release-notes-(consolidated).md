@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.61.0 - March 24, 2026
+
+### Changed
+- Used new caching framework for better performance, reliability and loading speed
+
 ## [People Search](./Widgets/People Search.md) 1.23.0 - March 24, 2026
 
 ### Changed
