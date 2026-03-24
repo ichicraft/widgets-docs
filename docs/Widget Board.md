@@ -1,3 +1,12 @@
+## 1.117.0 - March 24, 2026
+
+### Fixed
+- Widgets from a Shared Board template no longer reappear automatically when being removed from a Shared Board
+
+### Changed
+- New caching framework is now being used by the entire solution
+- Upon widget deletion, cached data is no longer left behind
+
 ## 1.116.0 - March 07, 2026
 
 ### Fixed
