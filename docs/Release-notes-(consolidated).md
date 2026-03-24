@@ -1,3 +1,8 @@
+## [Tableau Reports](./Widgets/Tableau Reports.md) 1.13.0 - March 24, 2026
+
+### Changed
+- Used new caching framework for better performance, reliability and loading speed
+
 ## [Search](./Widgets/Search.md) 1.13.0 - March 24, 2026
 
 ### Changed
