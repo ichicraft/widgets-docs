@@ -1,3 +1,7 @@
+## 1.118.0 - March 25, 2026
+
+Update caching package references to @ichicraft/caching version 1.0.2 and adjust imports accordingly
+
 ## 1.117.0 - March 24, 2026
 
 ### Fixed

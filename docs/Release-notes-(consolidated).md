@@ -1,3 +1,7 @@
+## [Widget Board](./Widget Board.md) 1.118.0 - March 25, 2026
+
+Update caching package references to @ichicraft/caching version 1.0.2 and adjust imports accordingly
+
 ## [Tableau Reports](./Widgets/Tableau Reports.md) 1.13.0 - March 24, 2026
 
 ### Changed
