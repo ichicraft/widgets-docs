@@ -1,3 +1,13 @@
+## [News](./Widgets/News.md) 1.57.0 - March 26, 2026
+
+### Added
+- News articles display a comment count
+- Users are notified of new comments on articles rendered by the widget
+- Users can open a panel showing an overview of read and unread comments, including replies
+
+### Changed
+- Migrated to the new caching framework for improved performance, reliability, and load times
+
 ## [Widget Board](./Widget Board.md) 1.118.0 - March 25, 2026
 
 Update caching package references to @ichicraft/caching version 1.0.2 and adjust imports accordingly

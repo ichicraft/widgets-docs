@@ -1,3 +1,13 @@
+## 1.57.0 - March 26, 2026
+
+### Added
+- News articles display a comment count
+- Users are notified of new comments on articles rendered by the widget
+- Users can open a panel showing an overview of read and unread comments, including replies
+
+### Changed
+- Migrated to the new caching framework for improved performance, reliability, and load times
+
 ## 1.56.0 - February 25, 2026
 
 ### Fixed
