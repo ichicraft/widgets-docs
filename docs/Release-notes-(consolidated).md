@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.62.0 - March 27, 2026
+
+### Fixed
+- Editing custom metadata on applications now works correctly again
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.28.0 - March 27, 2026
 
 ### Changed

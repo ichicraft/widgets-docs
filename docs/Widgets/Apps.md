@@ -1,3 +1,8 @@
+## 1.62.0 - March 27, 2026
+
+### Fixed
+- Editing custom metadata on applications now works correctly again
+
 ## 1.61.0 - March 24, 2026
 
 ### Changed
