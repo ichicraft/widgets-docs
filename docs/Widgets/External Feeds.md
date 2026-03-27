@@ -1,3 +1,9 @@
+## 1.28.0 - March 27, 2026
+
+### Changed
+- Used new caching framework for better performance, reliability and loading speed
+- Improved rendering to match rendering of News widget
+
 ## 1.27.0 - February 26, 2026
 
 ### Fixed

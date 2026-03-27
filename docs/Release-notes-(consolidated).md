@@ -1,3 +1,9 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.28.0 - March 27, 2026
+
+### Changed
+- Used new caching framework for better performance, reliability and loading speed
+- Improved rendering to match rendering of News widget
+
 ## [News](./Widgets/News.md) 1.57.0 - March 26, 2026
 
 ### Added
