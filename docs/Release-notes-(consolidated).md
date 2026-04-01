@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.74.0 - April 01, 2026
+
+### Changed
+- Added logic to clear stale local storage values
+
 ## [Apps](./Widgets/Apps.md) 1.62.0 - March 27, 2026
 
 ### Fixed

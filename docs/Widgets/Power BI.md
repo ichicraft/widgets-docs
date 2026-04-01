@@ -1,3 +1,8 @@
+## 1.74.0 - April 01, 2026
+
+### Changed
+- Added logic to clear stale local storage values
+
 ## 1.73.0 - March 24, 2026
 
 ### Changed
