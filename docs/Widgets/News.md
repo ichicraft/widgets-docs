@@ -1,3 +1,8 @@
+## 1.58.0 - April 01, 2026
+
+### Changed
+- Add additional logging to when comments failed to load
+
 ## 1.57.0 - March 26, 2026
 
 ### Added

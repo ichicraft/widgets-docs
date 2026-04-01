@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.58.0 - April 01, 2026
+
+### Changed
+- Add additional logging to when comments failed to load
+
 ## [Power BI](./Widgets/Power BI.md) 1.74.0 - April 01, 2026
 
 ### Changed
