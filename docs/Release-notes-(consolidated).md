@@ -1,3 +1,8 @@
+## [News](./Widgets/News.md) 1.59.0 - April 02, 2026
+
+### Fixed
+- Comments should now load more consistently
+
 ## [News](./Widgets/News.md) 1.58.0 - April 01, 2026
 
 ### Changed
