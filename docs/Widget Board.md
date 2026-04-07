@@ -1,3 +1,8 @@
+## 1.119.0 - April 07, 2026
+
+### Fixed
+- Application is no longer hidden in certain tenants when a SharePoint footer is rendered.
+
 ## 1.118.0 - March 25, 2026
 
 Update caching package references to @ichicraft/caching version 1.0.2 and adjust imports accordingly

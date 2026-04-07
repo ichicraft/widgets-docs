@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.119.0 - April 07, 2026
+
+### Fixed
+- Application is no longer hidden in certain tenants when a SharePoint footer is rendered.
+
 ## [News](./Widgets/News.md) 1.59.0 - April 02, 2026
 
 ### Fixed
