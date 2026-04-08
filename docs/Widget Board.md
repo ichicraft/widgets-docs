@@ -1,17 +1,9 @@
 ## 1.120.0 - April 08, 2026
 
 ### Fixed
-
-## 1.119.0 - April 07, 2026
-
-### Fixed
 - Application is no longer hidden in certain tenants when a SharePoint footer is rendered.
 
 ## 1.118.0 - March 25, 2026
-
-Update caching package references to @ichicraft/caching version 1.0.2 and adjust imports accordingly
-
-## 1.117.0 - March 24, 2026
 
 ### Fixed
 - Widgets from a Shared Board template no longer reappear automatically when being removed from a Shared Board
