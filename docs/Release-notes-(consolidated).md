@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.75.0 - April 09, 2026
+
+### Fixed
+- Made some performance improvement in communication between widget and web part.
+
 ## [Widget Board](./Widget Board.md) 1.120.0 - April 08, 2026
 
 ### Fixed

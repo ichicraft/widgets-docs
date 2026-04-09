@@ -1,3 +1,8 @@
+## 1.75.0 - April 09, 2026
+
+### Fixed
+- Made some performance improvement in communication between widget and web part.
+
 ## 1.74.0 - April 01, 2026
 
 ### Changed
