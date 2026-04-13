@@ -1,3 +1,15 @@
+## 1.121.0 - April 13, 2026
+
+### Changed
+- Whenever possible, a user&#x27;s board will now always be connected to a template, giving more control to administrators (only applies to modern templates that don&#x27;t use legacy pushed widgets)
+
+### Fixed
+- Whenever a board template is deleted that was explicitly selected in a configuration package, the configuration package will show a warning
+- Templates don&#x27;t show legacy push warning in template list when there are no more widgets that are actually being pushed
+- Restoring a back-up now properly displays progress when assets are being uploaded and widgets are being restored
+- Legacy pushed widgets now work correctly again when no templates exist
+- Templates with only one widget no longer break upon being applied to a user&#x27;s board
+
 ## 1.120.0 - April 08, 2026
 
 ### Fixed
