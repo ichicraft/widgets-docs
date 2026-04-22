@@ -1,3 +1,8 @@
+## 1.22.0 - April 22, 2026
+
+### Changed
+- Hyperlinks to SharePoint pages and documents in the rich content now open in new tab/window
+
 ## 1.21.0 - March 13, 2026
 
 ### Changed

@@ -1,3 +1,8 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.22.0 - April 22, 2026
+
+### Changed
+- Hyperlinks to SharePoint pages and documents in the rich content now open in new tab/window
+
 ## [Widget Board](./Widget Board.md) 1.121.0 - April 13, 2026
 
 ### Changed
