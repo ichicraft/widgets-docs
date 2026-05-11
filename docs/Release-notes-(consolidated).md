@@ -1,3 +1,17 @@
+## [Copilot](./Widgets/Copilot.md) 1.6.0 - May 11, 2026
+
+### Added
+- Custom prompts for file-based agents
+- Toggle for using built-in prompts from file-based agents
+
+### Changed
+- Reduced JavaScript bundle size
+- Removed redundant caching logic
+- Improved UI of prompt layout
+
+### Fixed
+- CSS styling overrides in Copilot embed
+
 ## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.22.0 - April 22, 2026
 
 ### Changed

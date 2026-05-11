@@ -1,3 +1,17 @@
+## 1.6.0 - May 11, 2026
+
+### Added
+- Custom prompts for file-based agents
+- Toggle for using built-in prompts from file-based agents
+
+### Changed
+- Reduced JavaScript bundle size
+- Removed redundant caching logic
+- Improved UI of prompt layout
+
+### Fixed
+- CSS styling overrides in Copilot embed
+
 ## 1.5.0 - February 24, 2026
 
 ### Added
