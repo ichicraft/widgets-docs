@@ -1,3 +1,8 @@
+## 1.122.0 - June 02, 2026
+
+### Changed
+- Minor update that should help clearing cached tokens in scenarios where API calls are failing due to invalid tokens
+
 ## 1.121.0 - April 13, 2026
 
 ### Changed

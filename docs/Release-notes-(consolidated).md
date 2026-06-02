@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.122.0 - June 02, 2026
+
+### Changed
+- Minor update that should help clearing cached tokens in scenarios where API calls are failing due to invalid tokens
+
 ## [Copilot](./Widgets/Copilot.md) 1.6.0 - May 11, 2026
 
 ### Added
