@@ -1,3 +1,14 @@
+## 1.123.0 - June 11, 2026
+
+## Added
+
+- **Default template for package boards.** Admins can now pick a default template per package board in the Edit board dialog (shown only when multiple templates are selectable). When a user new to the package has access to the default template, it is applied silently without showing the template picker. If the template isn&#x27;t available to the user the picker still appears as usual.
+
+## Fixed
+
+- Fixed an issue where users without an &#x60;accountCreated&#x60; date were shown an error message instead of their boards.
+- Fixed an issue where some users received a duplicate personal board because the package board wasn&#x27;t linked to their existing personal board.
+
 ## 1.122.0 - June 02, 2026
 
 ### Changed
