@@ -1,3 +1,8 @@
+## 1.124.0 - June 11, 2026
+
+### Fixed
+- Product should no longer fail immediately when trying to fetch user&#x27;s security groups.
+
 ## 1.123.0 - June 11, 2026
 
 ## Added
