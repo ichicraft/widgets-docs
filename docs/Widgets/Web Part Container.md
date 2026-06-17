@@ -1,3 +1,8 @@
+## 1.5.0 - June 17, 2026
+
+### Fixed
+- Trying to fetch additional metadata about a web part no longer throws an error when this fails
+
 ## 1.4.0 - October 03, 2025
 
 ### Changed

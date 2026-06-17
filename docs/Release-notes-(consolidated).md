@@ -1,3 +1,8 @@
+## [Web Part Container](./Widgets/Web Part Container.md) 1.5.0 - June 17, 2026
+
+### Fixed
+- Trying to fetch additional metadata about a web part no longer throws an error when this fails
+
 ## [Widget Board](./Widget Board.md) 1.124.0 - June 11, 2026
 
 ### Fixed
