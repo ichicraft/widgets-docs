@@ -1,3 +1,8 @@
+## [Events](./Widgets/Events.md) 1.31.0 - June 17, 2026
+
+### Fixed
+- Background process fetching Events shouldn&#x27;t continue running after user left the page.
+
 ## [Web Part Container](./Widgets/Web Part Container.md) 1.5.0 - June 17, 2026
 
 ### Fixed

@@ -1,3 +1,8 @@
+## 1.31.0 - June 17, 2026
+
+### Fixed
+- Background process fetching Events shouldn&#x27;t continue running after user left the page.
+
 ## 1.30.0 - March 24, 2026
 
 ### Changed
