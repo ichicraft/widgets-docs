@@ -1,3 +1,21 @@
+## [Widget Board](./Widget Board.md) 1.125.0 - June 21, 2026
+
+## Added
+- New product: Bloom Elements. Place widgets in a webpart, on any SharePoint page.
+  - Start a free 30-day trial license from the admin center Licenses panel
+  - New &#x27;Allow as web part&#x27; toggle for widgets (selectable via the Bloom Elements web part)
+  - For more information, visit: https://bloomintranet.com/elements/
+- Stock Images tab in file picker
+
+## Changed
+- Complete product rebranding from Ichicraft Boards to Bloom Intranet
+- Widget&#x27;s admin config is now configured through the settings icon in the widget header (instead of the context menu)
+- Improved widget&#x27;s &quot;View information&quot; dialog
+- Improved UX across the admin center
+- Improved UX in admin widget library
+  - Widgets now have a quick-access context menu
+
+
 ## [Events](./Widgets/Events.md) 1.31.0 - June 17, 2026
 
 ### Fixed
