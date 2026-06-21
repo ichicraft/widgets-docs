@@ -1,3 +1,17 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.29.0 - June 21, 2026
+
+### Fixed
+- Navigating away from the page no longer causes running requests to fail
+
+### Changed
+- Updated dependency to mitigate potential vulnerability in lodash.
+
+### Fixed
+- Using the refresh button from the context menu should no longer cause the widget to crash
+
+### Changed
+- Used new caching framework for better performance, reliability and loading speed
+
 ## [Widget Board](./Widget Board.md) 1.125.0 - June 21, 2026
 
 ## Added
