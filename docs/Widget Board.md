@@ -1,3 +1,10 @@
+## 1.128.0 - June 23, 2026
+
+### Fixed
+- The people picker field no longer gets stuck in a loop, causing the application to break.
+
+noop
+
 ## 1.125.0 - June 21, 2026
 
 ## Added
