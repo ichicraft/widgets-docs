@@ -1,3 +1,15 @@
+## 1.130.0 - June 28, 2026
+
+### Fixes
+- Fix Bloom Elements trial message bar shown, even though client has Bloom Hub license.
+- Fix broken @ic/controls imports causing several admin center screens to crash.
+- Fix search box in widget library not maintaining search terms after switch to widget details
+- Fix performance issue rendering widget library
+- Fix search box in widget library behaving sluggish on typing
+- Fix shared board losing published by info when publishing quickly after saving draft
+
+fix: update version to 2.1.0.1 and remove unsupported SharePointFullPage host from manifest
+
 ## 1.128.0 - June 23, 2026
 
 ### Fixed
