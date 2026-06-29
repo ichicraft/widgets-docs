@@ -8,14 +8,10 @@
 - Fix search box in widget library behaving sluggish on typing
 - Fix shared board losing published by info when publishing quickly after saving draft
 
-fix: update version to 2.1.0.1 and remove unsupported SharePointFullPage host from manifest
-
 ## 1.128.0 - June 23, 2026
 
 ### Fixed
 - The people picker field no longer gets stuck in a loop, causing the application to break.
-
-noop
 
 ## 1.125.0 - June 21, 2026
 
