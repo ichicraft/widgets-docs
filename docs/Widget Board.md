@@ -1,3 +1,8 @@
+## 1.131.0 - June 29, 2026
+
+### Changed
+- Minor technical improvements
+
 ## 1.130.0 - June 28, 2026
 
 ### Fixes
