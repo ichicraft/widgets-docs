@@ -1,3 +1,8 @@
+## 1.133.0 - June 30, 2026
+
+### Changed
+- Improved loading widgets under poor network conditions
+
 ## 1.131.0 - June 29, 2026
 
 ### Changed
