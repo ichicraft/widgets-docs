@@ -1,0 +1,38 @@
+name: Deploy docs (MkDocs → GitHub Pages)
+
+# The Boards release pipelines (widgets + the Widget Board web part) used to rebuild
+# and publish this whole site in-line on every release. That build lives here now,
+# fired by the notes push — so releases don't pay for it.
+on:
+    push:
+        branches: [master]
+        paths:
+            - 'docs/**'
+            - 'mkdocs.yml'
+            - 'requirements.txt'
+            - '.github/workflows/deploy-docs.yml'
+    workflow_dispatch: {}
+
+# Let the built-in GITHUB_TOKEN push to the gh-pages branch (no PAT needed).
+permissions:
+    contents: write
+
+# If several widgets release in quick succession, coalesce to a single build of
+# the latest state instead of one build per push.
+concurrency:
+    group: deploy-docs
+    cancel-in-progress: true
+
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0
+            - uses: actions/setup-python@v5
+              with:
+                  python-version: '3.x'
+                  cache: pip
+            - run: pip install -r requirements.txt
+            - run: mkdocs gh-deploy --force
