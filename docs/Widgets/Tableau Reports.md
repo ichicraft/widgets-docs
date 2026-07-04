@@ -1,3 +1,11 @@
+## 1.14.0 - 2026-07-04
+
+removed redundant prop
+
+### Changed
+- Widget now makes use of new v3 engine of Tableau embed API
+- Exception logging improved
+
 ## 1.13.0 - March 24, 2026
 
 ### Changed

@@ -1,3 +1,11 @@
+## [Tableau Reports](./Widgets/Tableau Reports.md) 1.14.0 - 2026-07-04
+
+removed redundant prop
+
+### Changed
+- Widget now makes use of new v3 engine of Tableau embed API
+- Exception logging improved
+
 ## [Power BI](./Widgets/Power BI.md) 1.75.0 - April 09, 2026
 
 ### Fixed
