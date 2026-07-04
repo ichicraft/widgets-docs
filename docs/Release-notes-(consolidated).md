@@ -1,4 +1,4 @@
-## [Tableau Reports](./Widgets/Tableau Reports.md) 1.14.0 - 2026-07-04
+## [Tableau Reports](./Widgets/Tableau Reports.md) 1.14.0 - July 04, 2026
 
 removed redundant prop
 
