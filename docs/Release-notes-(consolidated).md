@@ -4,6 +4,130 @@
 - Widget now makes use of new v3 engine of Tableau embed API
 - Exception logging improved
 
+## [Widget Board](./Widget Board.md) 1.135.0 - July 01, 2026
+
+### Changed
+- Non-functional system updates
+
+## [Widget Board](./Widget Board.md) 1.134.0 - June 30, 2026
+
+### Changed
+- Improved loading widgets under poor network conditions
+
+## [Widget Board](./Widget Board.md) 1.131.0 - June 29, 2026
+
+### Changed
+- Minor technical improvements
+
+## [Widget Board](./Widget Board.md) 1.130.0 - June 28, 2026
+
+### Fixes
+- Fix Bloom Elements trial message bar shown, even though client has Bloom Hub license.
+- Fix broken @ic/controls imports causing several admin center screens to crash.
+- Fix search box in widget library not maintaining search terms after switch to widget details
+- Fix performance issue rendering widget library
+- Fix search box in widget library behaving sluggish on typing
+- Fix shared board losing published by info when publishing quickly after saving draft
+
+## [Widget Board](./Widget Board.md) 1.128.0 - June 23, 2026
+
+### Fixed
+- The people picker field no longer gets stuck in a loop, causing the application to break.
+
+## [Birthdays](./Widgets/Birthdays.md) 1.29.0 - June 21, 2026
+
+### Fixed
+- Navigating away from the page no longer causes running requests to fail
+
+### Changed
+- Updated dependency to mitigate potential vulnerability in lodash.
+
+### Fixed
+- Using the refresh button from the context menu should no longer cause the widget to crash
+
+### Changed
+- Used new caching framework for better performance, reliability and loading speed
+
+## [Widget Board](./Widget Board.md) 1.125.0 - June 21, 2026
+
+## Added
+- New product: Bloom Elements. Place widgets in a webpart, on any SharePoint page.
+  - Start a free 30-day trial license from the admin center Licenses panel
+  - New &#x27;Allow as web part&#x27; toggle for widgets (selectable via the Bloom Elements web part)
+  - For more information, visit: https://bloomintranet.com/elements/
+- Stock Images tab in file picker
+
+## Changed
+- Complete product rebranding from Ichicraft Boards to Bloom Intranet
+- Widget&#x27;s admin config is now configured through the settings icon in the widget header (instead of the context menu)
+- Improved widget&#x27;s &quot;View information&quot; dialog
+- Improved UX across the admin center
+- Improved UX in admin widget library
+  - Widgets now have a quick-access context menu
+
+
+## [Events](./Widgets/Events.md) 1.31.0 - June 17, 2026
+
+### Fixed
+- Background process fetching Events shouldn&#x27;t continue running after user left the page.
+
+## [Web Part Container](./Widgets/Web Part Container.md) 1.5.0 - June 17, 2026
+
+### Fixed
+- Trying to fetch additional metadata about a web part no longer throws an error when this fails
+
+## [Widget Board](./Widget Board.md) 1.124.0 - June 11, 2026
+
+### Fixed
+- Product should no longer fail immediately when trying to fetch user&#x27;s security groups.
+
+## [Widget Board](./Widget Board.md) 1.123.0 - June 11, 2026
+
+## Added
+
+- **Default template for package boards.** Admins can now pick a default template per package board in the Edit board dialog (shown only when multiple templates are selectable). When a user new to the package has access to the default template, it is applied silently without showing the template picker. If the template isn&#x27;t available to the user the picker still appears as usual.
+
+## Fixed
+
+- Fixed an issue where users without an &#x60;accountCreated&#x60; date were shown an error message instead of their boards.
+- Fixed an issue where some users received a duplicate personal board because the package board wasn&#x27;t linked to their existing personal board.
+
+## [Widget Board](./Widget Board.md) 1.122.0 - June 02, 2026
+
+### Changed
+- Minor update that should help clearing cached tokens in scenarios where API calls are failing due to invalid tokens
+
+## [Copilot](./Widgets/Copilot.md) 1.6.0 - May 11, 2026
+
+### Added
+- Custom prompts for file-based agents
+- Toggle for using built-in prompts from file-based agents
+
+### Changed
+- Reduced JavaScript bundle size
+- Removed redundant caching logic
+- Improved UI of prompt layout
+
+### Fixed
+- CSS styling overrides in Copilot embed
+
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.22.0 - April 22, 2026
+
+### Changed
+- Hyperlinks to SharePoint pages and documents in the rich content now open in new tab/window
+
+## [Widget Board](./Widget Board.md) 1.121.0 - April 13, 2026
+
+### Changed
+- Whenever possible, a user&#x27;s board will now always be connected to a template, giving more control to administrators (only applies to modern templates that don&#x27;t use legacy pushed widgets)
+
+### Fixed
+- Whenever a board template is deleted that was explicitly selected in a configuration package, the configuration package will show a warning
+- Templates don&#x27;t show legacy push warning in template list when there are no more widgets that are actually being pushed
+- Restoring a back-up now properly displays progress when assets are being uploaded and widgets are being restored
+- Legacy pushed widgets now work correctly again when no templates exist
+- Templates with only one widget no longer break upon being applied to a user&#x27;s board
+
 ## [Power BI](./Widgets/Power BI.md) 1.75.0 - April 09, 2026
 
 ### Fixed
