@@ -1,6 +1,9 @@
 ## [Widget Board](./Widget Board.md) 1.136.0 - July 14, 2026
 
+### Fixed
 
+- When using the Save & Sync feature of board templates, widgets that were removed from the template will now also be removed from user's boards if the user didn't do any configuration/customization to the widget. Previously, those widgets would remain on a user's board.
+- Changes to configuration packages are now correctly enforced to existing/enrolled users.
 
 ## [Tableau Reports](./Widgets/Tableau Reports.md) 1.14.0 - July 04, 2026
 
