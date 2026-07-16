@@ -1,3 +1,8 @@
+## 1.137.0 - July 16, 2026
+
+### Fixed
+- The + button in widget library now correctly honors active licenses and doesn't disable when no Bloom Elements license is active
+
 ## 1.136.0 - July 14, 2026
 
 ### Fixed
