@@ -1,3 +1,11 @@
+## [Search](./Widgets/Search.md) 1.14.0 - July 17, 2026
+
+### Added
+- Hero-style central search box rendering for new Hero theme layout
+
+### Changed
+- Central search box on Mobile now reuses the default buddy rendering, making it more consistent with the buddy bar
+
 ## [Widget Board](./Widget Board.md) 1.138.0 - July 17, 2026
 
 ### Added
