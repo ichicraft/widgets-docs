@@ -1,3 +1,14 @@
+## [Power BI](./Widgets/Power BI.md) 1.77.0 - July 17, 2026
+
+### Added
+- Report collections feature
+   - Group PBI content & groups inside collections
+- New Tiles layout, to display collections as cards
+- Users are now able to remove their own content from the widget without deleting it
+
+### Changed
+- Improved UI across the whole widget
+
 ## [Widget Board](./Widget Board.md) 1.137.0 - July 16, 2026
 
 ### Fixed
