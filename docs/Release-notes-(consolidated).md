@@ -1,3 +1,7 @@
+## [Approvals](./Widgets/Approvals.md) 0.1.0 - July 17, 2026
+
+
+
 ## [Search](./Widgets/Search.md) 1.14.0 - July 17, 2026
 
 ### Added
