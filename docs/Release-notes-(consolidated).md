@@ -1,6 +1,6 @@
-## [Approvals](./Widgets/Approvals.md) 0.1.0 - July 17, 2026
+## [Approvals](./Widgets/Approvals.md) 1.0.0 - July 17, 2026
 
-
+Initial release 🚀
 
 ## [Search](./Widgets/Search.md) 1.14.0 - July 17, 2026
 
@@ -86,14 +86,10 @@
 
 ### Fixed
 - Navigating away from the page no longer causes running requests to fail
-
-### Changed
-- Updated dependency to mitigate potential vulnerability in lodash.
-
-### Fixed
 - Using the refresh button from the context menu should no longer cause the widget to crash
 
 ### Changed
+- Updated dependency to mitigate potential vulnerability in lodash.
 - Used new caching framework for better performance, reliability and loading speed
 
 ## [Widget Board](./Widget Board.md) 1.125.0 - June 21, 2026
