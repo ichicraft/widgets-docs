@@ -1,3 +1,16 @@
+## [Widget Board](./Widget Board.md) 1.138.0 - July 17, 2026
+
+### Added
+- New Hero layout option for themes
+  - Hero-style central search box
+  - Hero-style buddy bar
+- Descriptions for personal boards (rendered as a tooltip)
+- Personal board description support for configuration packagaes
+- Configurable spacing between widgets on a board
+- Configurable theming for urgent messages
+- More color options for buddy, header & navigation elements
+- Improved theme
+
 ## [Power BI](./Widgets/Power BI.md) 1.77.0 - July 17, 2026
 
 ### Added
