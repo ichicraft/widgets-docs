@@ -14,14 +14,25 @@ Initial release 🚀
 
 ### Added
 - New Hero layout option for themes
-  - Hero-style central search box
-  - Hero-style buddy bar
+    - Hero-style central search box
+    - Hero-style buddy bar
 - Descriptions for personal boards (rendered as a tooltip)
 - Personal board description support for configuration packagaes
 - Configurable spacing between widgets on a board
 - Configurable theming for urgent messages
 - More color options for buddy, header & navigation elements
-- Improved theme
+- Improved theme backgrounds
+    - Split background type and overlay type, allowing for a Color + Gradient background combination
+    - New 'Arc'-style background overlay (upwards or downwards curve)
+    - Configurable vertical overlay position for gradient overlays
+    - Configurable zoom, position & blur for image backgrounds
+
+### Changed
+- Improved UI for dialogs throughout the application
+- Improved UI for Configuration Packages & Design panels in admin center
+- Improved UI for urgent messages
+- Improved UI for horizontal & vertical board navigation
+- Improved buddy bar rendering on mobile
 
 ## [Power BI](./Widgets/Power BI.md) 1.77.0 - July 17, 2026
 
