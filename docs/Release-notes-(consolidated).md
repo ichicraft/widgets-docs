@@ -1,3 +1,10 @@
+## [Widget Board](./Widget Board.md) 1.139.0 - July 18, 2026
+
+### Fixed
+- Navigation items could show unreadable text colors when using a custom active background color
+- Navigation item context menu button and badges could be invisible when the active and active text colors match
+- The Layout selector didn't open in the template editor and shared board editing bar
+
 ## [Approvals](./Widgets/Approvals.md) 1.0.0 - July 17, 2026
 
 Initial release 🚀
