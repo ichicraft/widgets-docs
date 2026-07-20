@@ -1,3 +1,11 @@
+## 1.78.0 - July 20, 2026
+
+### Fixes
+- Fixed resonsiveness of list layout
+- Fixed uppercase group headers & item subtitles
+- Fixed missing group headers when only one language is selected
+- Fixed inconsistent behavior in content selection & dismissal
+
 ## 1.77.0 - July 17, 2026
 
 ### Added

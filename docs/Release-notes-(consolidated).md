@@ -1,3 +1,11 @@
+## [Power BI](./Widgets/Power BI.md) 1.78.0 - July 20, 2026
+
+### Fixes
+- Fixed resonsiveness of list layout
+- Fixed uppercase group headers & item subtitles
+- Fixed missing group headers when only one language is selected
+- Fixed inconsistent behavior in content selection & dismissal
+
 ## [Widget Board](./Widget Board.md) 1.139.0 - July 18, 2026
 
 ### Fixed
