@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.79.0 - July 21, 2026
+
+### Changed
+- Changed group headers to better match the original look and feel
+
 ## [Power BI](./Widgets/Power BI.md) 1.78.0 - July 20, 2026
 
 ### Fixes
