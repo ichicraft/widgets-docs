@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.80.0 - July 21, 2026
+
+### Changes
+- Make group header styles consistent with other widgets
+
 ## [Power BI](./Widgets/Power BI.md) 1.79.0 - July 21, 2026
 
 ### Changed

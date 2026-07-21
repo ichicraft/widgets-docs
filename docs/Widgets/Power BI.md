@@ -1,3 +1,8 @@
+## 1.80.0 - July 21, 2026
+
+### Changes
+- Make group header styles consistent with other widgets
+
 ## 1.79.0 - July 21, 2026
 
 ### Changed
