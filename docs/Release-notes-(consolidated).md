@@ -1,3 +1,7 @@
+## [Widget Board](./Widget Board.md) 1.141.0 - July 22, 2026
+
+
+
 ## [Power BI](./Widgets/Power BI.md) 1.80.0 - July 21, 2026
 
 ### Changes
