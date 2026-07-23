@@ -1,3 +1,15 @@
+## [Power BI](./Widgets/Power BI.md) 1.81.0 - July 23, 2026
+
+### Added
+- Mixed layout view where you can combine Content & List layouts together using groups
+- Hungarian, Romanian and Simplified Chinese language support
+
+### Changed
+- Improved icons for 'Move to collection' menu
+
+### Fixed
+- Fixed 'Move to collection' menu option being visible when there are no collections
+
 ## [Widget Board](./Widget Board.md) 1.141.0 - July 22, 2026
 
 

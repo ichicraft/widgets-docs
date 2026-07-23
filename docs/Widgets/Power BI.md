@@ -1,3 +1,15 @@
+## 1.81.0 - July 23, 2026
+
+### Added
+- Mixed layout view where you can combine Content & List layouts together using groups
+- Hungarian, Romanian and Simplified Chinese language support
+
+### Changed
+- Improved icons for 'Move to collection' menu
+
+### Fixed
+- Fixed 'Move to collection' menu option being visible when there are no collections
+
 ## 1.80.0 - July 21, 2026
 
 ### Changes
