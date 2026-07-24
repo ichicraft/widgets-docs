@@ -1,3 +1,8 @@
+## 1.143.0 - July 24, 2026
+
+### Fixes
+- Fix crash when toggling off widget push data
+
 ## 1.141.0 - July 22, 2026
 
 

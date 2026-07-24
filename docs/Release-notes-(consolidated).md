@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.143.0 - July 24, 2026
+
+### Fixes
+- Fix crash when toggling off widget push data
+
 ## [Power BI](./Widgets/Power BI.md) 1.81.0 - July 23, 2026
 
 ### Added
