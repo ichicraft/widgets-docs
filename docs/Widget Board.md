@@ -1,3 +1,8 @@
+## 1.145.0 - July 27, 2026
+
+### Added
+- Simplified Chinese, Romanian & Hungarian UI language support
+
 ## 1.143.0 - July 24, 2026
 
 ### Fixes
