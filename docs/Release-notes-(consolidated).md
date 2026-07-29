@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.149.0 - July 29, 2026
+
+### Fixes
+- Fix buddy badge props not applying correctly
+
 ## [Widget Board](./Widget Board.md) 1.147.0 - July 29, 2026
 
 

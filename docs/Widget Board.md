@@ -1,3 +1,8 @@
+## 1.149.0 - July 29, 2026
+
+### Fixes
+- Fix buddy badge props not applying correctly
+
 ## 1.147.0 - July 29, 2026
 
 
