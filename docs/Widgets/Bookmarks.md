@@ -1,3 +1,13 @@
+## 1.15.0 - August 06, 2026
+
+### Added
+- Add Hungarian, Romanian and Simplified Chinese language support
+- Add website url for Admin Center
+
+### Changed
+- Widget can now be resized to multiple columns
+- Improved UI
+
 ## 1.14.0 - October 03, 2025
 
 ### Changed

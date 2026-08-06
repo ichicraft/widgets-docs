@@ -1,3 +1,13 @@
+## [Bookmarks](./Widgets/Bookmarks.md) 1.15.0 - August 06, 2026
+
+### Added
+- Add Hungarian, Romanian and Simplified Chinese language support
+- Add website url for Admin Center
+
+### Changed
+- Widget can now be resized to multiple columns
+- Improved UI
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.29.0 - August 06, 2026
 
 ### Added
