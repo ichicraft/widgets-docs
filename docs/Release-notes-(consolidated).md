@@ -1,3 +1,12 @@
+## [Saved for Later](./Widgets/Saved for Later.md) 1.13.0 - August 06, 2026
+
+### Added
+- Add Hungarian, Romanian and Simplified Chinese language support
+- Add website url for Admin Center
+
+### Changed
+- Improved UI
+
 ## [Bookmarks](./Widgets/Bookmarks.md) 1.15.0 - August 06, 2026
 
 ### Added
