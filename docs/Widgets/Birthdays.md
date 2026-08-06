@@ -1,3 +1,11 @@
+## 1.30.0 - August 06, 2026
+
+### Added
+- Add Hungarian, Romanian and Simplified Chinese language support
+
+### Changed
+- Improved UI
+
 ## 1.29.0 - June 21, 2026
 
 ### Fixed

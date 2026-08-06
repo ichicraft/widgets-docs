@@ -1,3 +1,11 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.30.0 - August 06, 2026
+
+### Added
+- Add Hungarian, Romanian and Simplified Chinese language support
+
+### Changed
+- Improved UI
+
 ## [World Clock](./Widgets/World Clock.md) 1.11.0 - August 06, 2026
 
 ### Added
