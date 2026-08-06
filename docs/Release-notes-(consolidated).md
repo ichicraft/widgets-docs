@@ -1,3 +1,12 @@
+## [Banner](./Widgets/Banner.md) 1.18.0 - August 06, 2026
+
+### Added
+- Add Hungarian, Romanian and Simplified Chinese language support
+- Add website url for Admin Center
+
+### Changed
+- Improved UI
+
 ## [Inbox](./Widgets/Inbox.md) 1.26.0 - August 06, 2026
 
 ### Added
