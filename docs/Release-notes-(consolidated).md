@@ -1,3 +1,12 @@
+## [Countdown](./Widgets/Countdown.md) 1.15.0 - August 06, 2026
+
+### Added
+- Add Hungarian, Romanian and Simplified Chinese language support
+- Add website url for Admin Center
+
+### Changed
+- Improved UI
+
 ## [Birthdays](./Widgets/Birthdays.md) 1.30.0 - August 06, 2026
 
 ### Added
