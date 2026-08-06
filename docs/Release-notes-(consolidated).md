@@ -1,3 +1,12 @@
+## [World Clock](./Widgets/World Clock.md) 1.11.0 - August 06, 2026
+
+### Added
+- Add Hungarian, Romanian and Simplified Chinese language support
+- Add website url for Admin Center
+
+### Changed
+- Improved UI
+
 ## [Embed](./Widgets/Embed.md) 1.14.0 - August 06, 2026
 
 ### Added
