@@ -1,3 +1,12 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.29.0 - August 06, 2026
+
+### Added
+- Add Hungarian, Romanian and Simplified Chinese language support
+- Add website url for Admin Center
+
+### Changed
+- Improved UI
+
 ## [Widget Board](./Widget Board.md) 1.149.0 - July 29, 2026
 
 ### Fixes

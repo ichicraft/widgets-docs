@@ -1,3 +1,12 @@
+## 1.29.0 - August 06, 2026
+
+### Added
+- Add Hungarian, Romanian and Simplified Chinese language support
+- Add website url for Admin Center
+
+### Changed
+- Improved UI
+
 ## 1.28.0 - March 27, 2026
 
 ### Changed
