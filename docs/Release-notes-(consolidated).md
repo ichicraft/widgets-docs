@@ -1,3 +1,15 @@
+## [Embed](./Widgets/Embed.md) 1.14.0 - August 06, 2026
+
+### Added
+- Add Hungarian, Romanian and Simplified Chinese language support
+- Add website url for Admin Center
+
+### Changed
+- Improved UI
+
+### Fixed
+- Fixed embed code editor not loading properly, always showing the fallback text field
+
 ## [Saved for Later](./Widgets/Saved for Later.md) 1.13.0 - August 06, 2026
 
 ### Added

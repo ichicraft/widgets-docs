@@ -1,3 +1,15 @@
+## 1.14.0 - August 06, 2026
+
+### Added
+- Add Hungarian, Romanian and Simplified Chinese language support
+- Add website url for Admin Center
+
+### Changed
+- Improved UI
+
+### Fixed
+- Fixed embed code editor not loading properly, always showing the fallback text field
+
 ## 1.13.0 - October 03, 2025
 
 ### Changed
