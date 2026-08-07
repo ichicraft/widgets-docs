@@ -1,3 +1,11 @@
+## 1.6.0 - August 07, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+
+### Changed
+- Improved UI
+
 ## 1.5.0 - June 17, 2026
 
 ### Fixed

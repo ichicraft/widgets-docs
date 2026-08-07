@@ -1,3 +1,11 @@
+## [Web Part Container](./Widgets/Web Part Container.md) 1.6.0 - August 07, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+
+### Changed
+- Improved UI
+
 ## [Teams](./Widgets/Teams.md) 1.12.0 - August 07, 2026
 
 ### Added
