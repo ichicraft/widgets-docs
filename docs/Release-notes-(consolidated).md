@@ -1,3 +1,12 @@
+## [Apps](./Widgets/Apps.md) 1.63.0 - August 07, 2026
+
+### Added
+- Add Hungarian, Romanian and Simplified Chinese translations
+- Add website url to Admin Center
+
+### Changed
+- Improved UI
+
 ## [Banner](./Widgets/Banner.md) 1.18.0 - August 06, 2026
 
 ### Added
