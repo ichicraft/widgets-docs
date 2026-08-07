@@ -1,3 +1,11 @@
+## [Copilot](./Widgets/Copilot.md) 1.7.0 - August 07, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+
+### Changed
+- Improved UI
+
 ## [Files](./Widgets/Files.md) 1.34.0 - August 07, 2026
 
 ### Added
