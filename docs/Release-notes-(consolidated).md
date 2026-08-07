@@ -1,3 +1,9 @@
+## [Files](./Widgets/Files.md) 1.34.0 - August 07, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+- Website url for Admin Center
+
 ## [Power BI](./Widgets/Power BI.md) 1.82.0 - August 07, 2026
 
 ### Changed
