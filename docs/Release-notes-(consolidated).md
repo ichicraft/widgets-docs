@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.82.0 - August 07, 2026
+
+### Changed
+- Improved search mechanic for report lists
+
 ## [Apps](./Widgets/Apps.md) 1.63.0 - August 07, 2026
 
 ### Added

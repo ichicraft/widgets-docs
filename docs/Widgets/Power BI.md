@@ -1,3 +1,8 @@
+## 1.82.0 - August 07, 2026
+
+### Changed
+- Improved search mechanic for report lists
+
 ## 1.81.0 - July 23, 2026
 
 ### Added
