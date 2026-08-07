@@ -1,3 +1,13 @@
+## 1.12.0 - August 07, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+- Website url for Admin Center
+
+### Changed
+- Added Team icon rendering (requires optional Group.ReadWrite.All permission to be granted)
+- Improved UI
+
 ## 1.11.0 - October 15, 2025
 
 ### Fixed
