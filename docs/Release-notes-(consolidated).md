@@ -1,3 +1,9 @@
+## [Calendar](./Widgets/Calendar.md) 1.20.0 - August 07, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+- Website url for Admin Center
+
 ## [Approvals](./Widgets/Approvals.md) 1.1.0 - August 07, 2026
 
 ### Added
