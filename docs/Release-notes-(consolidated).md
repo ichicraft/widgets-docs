@@ -1,3 +1,13 @@
+## [Approvals](./Widgets/Approvals.md) 1.1.0 - August 07, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+
+### Fixed
+- Missing icons in the new request button
+
+Initial release 🚀
+
 ## [Sticky Notes](./Widgets/Sticky Notes.md) 1.13.0 - August 07, 2026
 
 ### Added
