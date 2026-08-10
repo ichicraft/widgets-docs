@@ -1,3 +1,8 @@
+## 1.15.0 - August 10, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+
 ## 1.14.0 - July 04, 2026
 
 ### Changed

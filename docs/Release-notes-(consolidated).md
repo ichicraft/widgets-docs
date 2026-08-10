@@ -1,3 +1,8 @@
+## [Tableau Reports](./Widgets/Tableau Reports.md) 1.15.0 - August 10, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+
 ## [Search](./Widgets/Search.md) 1.15.0 - August 10, 2026
 
 ### Added
