@@ -1,3 +1,11 @@
+## [Events](./Widgets/Events.md) 1.32.0 - August 10, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+
+### Changed
+- Improved UI for admin & user config forms
+
 ## [Tasks](./Widgets/Tasks.md) 1.22.0 - August 10, 2026
 
 ### Added

@@ -1,3 +1,11 @@
+## 1.32.0 - August 10, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+
+### Changed
+- Improved UI for admin & user config forms
+
 ## 1.31.0 - June 17, 2026
 
 ### Fixed
