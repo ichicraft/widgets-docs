@@ -1,3 +1,12 @@
+## [Tasks](./Widgets/Tasks.md) 1.22.0 - August 10, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+- Website url for Admin Center
+
+### Changed
+- Improved UI for admin & user config
+
 ## [Web Part Container](./Widgets/Web Part Container.md) 1.6.0 - August 07, 2026
 
 ### Added
