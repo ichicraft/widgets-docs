@@ -1,3 +1,12 @@
+## [Followed Sites](./Widgets/Followed Sites.md) 1.16.0 - August 10, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+- Website url for Admin Center
+
+### Changed
+- Improved UI
+
 ## [Tableau Reports](./Widgets/Tableau Reports.md) 1.15.0 - August 10, 2026
 
 ### Added
