@@ -1,3 +1,9 @@
+## [News](./Widgets/News.md) 1.60.0 - August 10, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+- Website url for Admin Center
+
 ## [People Search](./Widgets/People Search.md) 1.24.0 - August 10, 2026
 
 ### Added
