@@ -1,3 +1,9 @@
+## 1.6.0 - August 10, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+- Website url for Admin Center
+
 ## 1.5.0 - November 03, 2025
 
 ### Added
