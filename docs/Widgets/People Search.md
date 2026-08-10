@@ -1,3 +1,15 @@
+## 1.24.0 - August 10, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+- Website url for Admin Center
+
+### Changed
+- Improved UI in admin configuration form
+
+### Fixed
+- Admin configuration form being stuck on a loading spinner
+
 ## 1.23.0 - March 24, 2026
 
 ### Changed

@@ -1,3 +1,15 @@
+## [People Search](./Widgets/People Search.md) 1.24.0 - August 10, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+- Website url for Admin Center
+
+### Changed
+- Improved UI in admin configuration form
+
+### Fixed
+- Admin configuration form being stuck on a loading spinner
+
 ## [Followed Sites](./Widgets/Followed Sites.md) 1.16.0 - August 10, 2026
 
 ### Added
