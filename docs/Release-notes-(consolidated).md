@@ -1,3 +1,8 @@
+## [Search](./Widgets/Search.md) 1.15.0 - August 10, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+
 ## [Power Apps](./Widgets/Power Apps.md) 1.1.0 - August 10, 2026
 
 ### Added
