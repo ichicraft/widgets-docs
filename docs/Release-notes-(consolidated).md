@@ -1,3 +1,9 @@
+## [Inform and Onboard](./Widgets/Inform and Onboard.md) 1.23.0 - August 10, 2026
+
+### Added
+- Hungarian, Romanian and Simplified Chinese translations
+- Website url for Admin Center
+
 ## [News](./Widgets/News.md) 1.60.0 - August 10, 2026
 
 ### Added
