@@ -1,3 +1,8 @@
+## 1.30.0 - August 11, 2026
+
+### Fixes
+- Fix RSS feeds not loading properly
+
 ## 1.29.0 - August 06, 2026
 
 ### Added

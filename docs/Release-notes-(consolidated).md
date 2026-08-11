@@ -1,3 +1,8 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.30.0 - August 11, 2026
+
+### Fixes
+- Fix RSS feeds not loading properly
+
 ## [Files](./Widgets/Files.md) 1.35.0 - August 11, 2026
 
 ### Fixes
