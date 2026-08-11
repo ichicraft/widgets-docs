@@ -1,3 +1,8 @@
+## 1.35.0 - August 11, 2026
+
+### Fixes
+- Fix file icons not always loading properly
+
 ## 1.34.0 - August 07, 2026
 
 ### Added

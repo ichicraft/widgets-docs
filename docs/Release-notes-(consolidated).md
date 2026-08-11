@@ -1,3 +1,8 @@
+## [Files](./Widgets/Files.md) 1.35.0 - August 11, 2026
+
+### Fixes
+- Fix file icons not always loading properly
+
 ## [Marketplace](./Widgets/Marketplace.md) 1.6.0 - August 10, 2026
 
 ### Added
