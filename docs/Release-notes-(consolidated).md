@@ -1,3 +1,8 @@
+## [Saved for Later](./Widgets/Saved for Later.md) 1.14.0 - August 12, 2026
+
+### Fixes
+- Fix file icons sometimes not loading correctly
+
 ## [Calendar](./Widgets/Calendar.md) 1.21.0 - August 12, 2026
 
 ### Fixes
