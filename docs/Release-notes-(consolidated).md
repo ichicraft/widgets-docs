@@ -1,3 +1,8 @@
+## [Inbox](./Widgets/Inbox.md) 1.27.0 - August 12, 2026
+
+### Fixes
+- Fix attachment icons sometimes not loading correctly
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.30.0 - August 11, 2026
 
 ### Fixes

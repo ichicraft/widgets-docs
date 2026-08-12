@@ -1,3 +1,8 @@
+## 1.27.0 - August 12, 2026
+
+### Fixes
+- Fix attachment icons sometimes not loading correctly
+
 ## 1.26.0 - August 06, 2026
 
 ### Added
