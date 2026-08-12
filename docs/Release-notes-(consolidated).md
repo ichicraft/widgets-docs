@@ -1,3 +1,8 @@
+## [Calendar](./Widgets/Calendar.md) 1.21.0 - August 12, 2026
+
+### Fixes
+- Fix attachment icons sometimes not loading correctly
+
 ## [Inbox](./Widgets/Inbox.md) 1.27.0 - August 12, 2026
 
 ### Fixes
