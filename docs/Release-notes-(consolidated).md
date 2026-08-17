@@ -1,3 +1,8 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.31.0 - August 17, 2026
+
+### Fixed
+- Url validation improved to prevent invalid URL's from being entered in the feed form
+
 ## [Search](./Widgets/Search.md) 1.16.0 - August 12, 2026
 
 ### Fixes

@@ -1,3 +1,8 @@
+## 1.31.0 - August 17, 2026
+
+### Fixed
+- Url validation improved to prevent invalid URL's from being entered in the feed form
+
 ## 1.30.0 - August 11, 2026
 
 ### Fixes
