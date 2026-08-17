@@ -1,3 +1,9 @@
+## [Widget Board](./Widget Board.md) 1.150.0 - August 17, 2026
+
+### Fixed
+- Board template enforcement is now only applied on existing boards
+- A console error message stating some invalid action on redux state should no longer appear
+
 ## [External Feeds](./Widgets/External Feeds.md) 1.31.0 - August 17, 2026
 
 ### Fixed

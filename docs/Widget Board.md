@@ -1,3 +1,9 @@
+## 1.150.0 - August 17, 2026
+
+### Fixed
+- Board template enforcement is now only applied on existing boards
+- A console error message stating some invalid action on redux state should no longer appear
+
 ## 1.149.0 - July 29, 2026
 
 ### Fixes
