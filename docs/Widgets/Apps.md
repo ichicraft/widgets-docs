@@ -1,3 +1,11 @@
+## 1.64.0 - August 25, 2026
+
+### Added
+- Bloom Groups can now be selected in the widget's people and group pickers. The contacts field on an app keeps listing individual people only.
+
+### Changed
+- Language files are now loaded on demand instead of being bundled with the widget, reducing its download size.
+
 ## 1.63.0 - August 07, 2026
 
 ### Added

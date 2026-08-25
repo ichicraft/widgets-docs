@@ -1,3 +1,11 @@
+## [Apps](./Widgets/Apps.md) 1.64.0 - August 25, 2026
+
+### Added
+- Bloom Groups can now be selected in the widget's people and group pickers. The contacts field on an app keeps listing individual people only.
+
+### Changed
+- Language files are now loaded on demand instead of being bundled with the widget, reducing its download size.
+
 ## [Countdown](./Widgets/Countdown.md) 1.16.0 - August 25, 2026
 
 ### Changed
