@@ -1,3 +1,8 @@
+## [World Clock](./Widgets/World Clock.md) 1.12.0 - August 25, 2026
+
+### Changed
+- Language files are now loaded on demand instead of being bundled with the widget, reducing its download size.
+
 ## [Widget Board](./Widget Board.md) 1.150.0 - August 17, 2026
 
 ### Fixed
