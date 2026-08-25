@@ -1,3 +1,12 @@
+## [Power BI](./Widgets/Power BI.md) 1.83.0 - August 25, 2026
+
+### Added
+- Notes can now be added to collections, just like they already could be added to individual reports.
+- Bloom Groups can now be selected in the widget's people and group pickers.
+
+### Changed
+- Language files are now loaded on demand instead of being bundled with the widget, reducing its download size.
+
 ## [World Clock](./Widgets/World Clock.md) 1.12.0 - August 25, 2026
 
 ### Changed

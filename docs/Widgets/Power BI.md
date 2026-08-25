@@ -1,3 +1,12 @@
+## 1.83.0 - August 25, 2026
+
+### Added
+- Notes can now be added to collections, just like they already could be added to individual reports.
+- Bloom Groups can now be selected in the widget's people and group pickers.
+
+### Changed
+- Language files are now loaded on demand instead of being bundled with the widget, reducing its download size.
+
 ## 1.82.0 - August 07, 2026
 
 ### Changed
