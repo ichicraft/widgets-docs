@@ -1,3 +1,8 @@
+## 1.28.0 - August 25, 2026
+
+### Changed
+- Language files are now loaded on demand instead of being bundled with the widget, reducing its download size.
+
 ## 1.27.0 - August 12, 2026
 
 ### Fixes
