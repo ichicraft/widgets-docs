@@ -1,3 +1,11 @@
+## 1.36.0 - August 25, 2026
+
+### Added
+- Bloom Groups can now be selected in the widget's people and group pickers. The person filter keeps listing individual people only.
+
+### Changed
+- Language files are now loaded on demand instead of being bundled with the widget, reducing its download size.
+
 ## 1.35.0 - August 11, 2026
 
 ### Fixes

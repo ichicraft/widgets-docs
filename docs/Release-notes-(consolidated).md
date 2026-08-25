@@ -1,3 +1,11 @@
+## [Files](./Widgets/Files.md) 1.36.0 - August 25, 2026
+
+### Added
+- Bloom Groups can now be selected in the widget's people and group pickers. The person filter keeps listing individual people only.
+
+### Changed
+- Language files are now loaded on demand instead of being bundled with the widget, reducing its download size.
+
 ## [Birthdays](./Widgets/Birthdays.md) 1.31.0 - August 25, 2026
 
 ### Changed
