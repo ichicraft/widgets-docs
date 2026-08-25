@@ -1,3 +1,8 @@
+## [People Search](./Widgets/People Search.md) 1.25.0 - August 25, 2026
+
+### Changed
+- Language files are now loaded on demand instead of being bundled with the widget, reducing its download size.
+
 ## [Search](./Widgets/Search.md) 1.17.0 - August 25, 2026
 
 ### Added
