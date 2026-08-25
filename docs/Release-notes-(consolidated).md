@@ -1,3 +1,8 @@
+## [Bookmarks](./Widgets/Bookmarks.md) 1.16.0 - August 25, 2026
+
+### Changed
+- Language files are now loaded on demand instead of being bundled with the widget, reducing its download size.
+
 ## [Files](./Widgets/Files.md) 1.36.0 - August 25, 2026
 
 ### Added
