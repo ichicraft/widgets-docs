@@ -1,3 +1,11 @@
+## 1.17.0 - August 25, 2026
+
+### Added
+- Bloom Groups can now be selected when configuring search scopes. The person filter keeps listing individual people only.
+
+### Changed
+- Language files are now loaded on demand instead of being bundled with the widget, reducing its download size.
+
 ## 1.16.0 - August 12, 2026
 
 ### Fixes
