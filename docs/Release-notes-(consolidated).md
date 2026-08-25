@@ -1,3 +1,8 @@
+## [Countdown](./Widgets/Countdown.md) 1.16.0 - August 25, 2026
+
+### Changed
+- Language files are now loaded on demand instead of being bundled with the widget, reducing its download size.
+
 ## [News](./Widgets/News.md) 1.61.0 - August 25, 2026
 
 ### Added
