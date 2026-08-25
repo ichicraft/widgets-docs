@@ -1,3 +1,11 @@
+## 1.16.0 - August 25, 2026
+
+### Added
+- Bloom Groups can now be selected in the widget's people and group pickers.
+
+### Changed
+- Language files are now loaded on demand instead of being bundled with the widget, reducing its download size.
+
 ## 1.15.0 - August 10, 2026
 
 ### Added
