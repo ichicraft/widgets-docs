@@ -1,3 +1,11 @@
+## [Calendar](./Widgets/Calendar.md) 1.22.0 - August 25, 2026
+
+### Added
+- Bloom Groups can now be selected in the widget's people and group pickers. The calendar picker keeps listing individual people only.
+
+### Changed
+- Language files are now loaded on demand instead of being bundled with the widget, reducing its download size.
+
 ## [Embed](./Widgets/Embed.md) 1.15.0 - August 25, 2026
 
 ### Changed
