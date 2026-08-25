@@ -1,3 +1,10 @@
+## [Widget Board](./Widget Board.md) 1.151.0 - August 25, 2026
+
+### Added
+- Bloom Groups: a new, flexible way to combine SharePoint groups and individual users, making user pickers easier to configure. Use them across Bloom Intranet and its widgets without needing to create a separate group in SharePoint.
+- Bloom Groups are configured in Bloom's Admin Center.
+- Bloom Groups can be given owners, who can add new members and edit the group's metadata, similar to Shared Board owners.
+
 ## [Events](./Widgets/Events.md) 1.33.0 - August 25, 2026
 
 ### Added
