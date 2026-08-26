@@ -1,3 +1,8 @@
+## [Widget Board](./Widget Board.md) 1.152.0 - August 26, 2026
+
+### Fixed
+- A page with both Bloom Hub and Bloom Elements no longer shows an error screen or stops responding in one of the two web parts. This was most likely to happen when using Bloom in a language other than English.
+
 ## [Widget Board](./Widget Board.md) 1.151.0 - August 25, 2026
 
 ### Added
