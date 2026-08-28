@@ -1,12 +1,46 @@
 :root {
-    --md-primary-fg-color: #013c51;
-    --md-accent-fg-color: #f9b62b;
+    --bloom-yellow: #fee400;
+    --bloom-orange-light: #f9b62b;
+    --bloom-orange-dark: #ff7112;
+    --bloom-purple: #9400d9;
+    --bloom-blue: #1b2a4a;
+    --bloom-teal: #013c51;
+    --bloom-grey: #707070;
+    --bloom-black: #0a0a0a;
+    --bloom-gradient: linear-gradient(135deg, #fee400 0%, #f9b62b 15%, #ff7112 50%, #9400d9 100%);
+
+    /* The header is white, so the theme's primary color can't double as the link color. */
+    --md-primary-fg-color: #ffffff;
+    --md-primary-fg-color--light: #ffffff;
+    --md-primary-fg-color--dark: #f2f2f2;
+    --md-primary-bg-color: var(--bloom-black);
+    --md-primary-bg-color--light: var(--bloom-grey);
+    --md-accent-fg-color: var(--bloom-orange-dark);
+    --md-typeset-a-color: var(--bloom-teal);
+}
+
+.md-header {
+    border-bottom: 1px solid rgba(10, 10, 10, 0.1);
+    box-shadow: none;
+    color: var(--bloom-black);
+}
+
+.md-header--shadow {
+    box-shadow: none;
+}
+
+.md-search__form {
+    background-color: rgba(10, 10, 10, 0.05);
+}
+
+.md-search__form:hover {
+    background-color: rgba(10, 10, 10, 0.1);
 }
 
 .md-nav__title .md-nav__button.md-logo img,
 .md-header__button.md-logo img {
     width: auto;
-    height: auto;
+    height: 1.6rem;
     fill: none;
 }
 
@@ -22,4 +56,68 @@
 
 .md-content a {
     text-decoration: underline;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+    color: var(--bloom-black);
+}
+
+.md-typeset .bloom-shot {
+    display: block;
+    max-width: 32rem;
+    margin: 1.5em auto;
+    border-radius: 1rem;
+    box-shadow: 0 1.5rem 3rem rgba(10, 10, 10, 0.18);
+}
+
+.bloom-cta {
+    margin: 3em 0 2em;
+    padding: 3rem 2rem;
+    border-radius: 1rem;
+    background: var(--bloom-gradient);
+    text-align: center;
+}
+
+.md-typeset .bloom-cta__title {
+    max-width: 34rem;
+    margin: 0 auto 1.75rem;
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+}
+
+.md-typeset .bloom-cta__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    margin: 0;
+}
+
+.md-typeset .bloom-cta__button {
+    padding: 0.6rem 1.6rem;
+    border: 2px solid #ffffff;
+    border-radius: 800px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-decoration: none;
+    transition: opacity 125ms;
+}
+
+.md-typeset .bloom-cta__button:hover {
+    opacity: 0.85;
+}
+
+.md-typeset .bloom-cta__button--primary {
+    background-color: #ffffff;
+    color: var(--bloom-black);
+}
+
+.md-typeset .bloom-cta__button--secondary {
+    background-color: transparent;
+    color: #ffffff;
 }

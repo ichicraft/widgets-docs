@@ -1,9 +1,9 @@
-## [Widget Board](./Widget Board.md) 1.152.0 - August 26, 2026
+## [Platform](./Platform.md) 1.152.0 - August 26, 2026
 
 ### Fixed
 - A page with both Bloom Hub and Bloom Elements no longer shows an error screen or stops responding in one of the two web parts. This was most likely to happen when using Bloom in a language other than English.
 
-## [Widget Board](./Widget Board.md) 1.151.0 - August 25, 2026
+## [Platform](./Platform.md) 1.151.0 - August 25, 2026
 
 ### Added
 - Bloom Groups: a new, flexible way to combine SharePoint groups and individual users, making user pickers easier to configure. Use them across Bloom Intranet and its widgets without needing to create a separate group in SharePoint.
@@ -182,7 +182,7 @@
 ### Changed
 - Language files are now loaded on demand instead of being bundled with the widget, reducing its download size.
 
-## [Widget Board](./Widget Board.md) 1.150.0 - August 17, 2026
+## [Platform](./Platform.md) 1.150.0 - August 17, 2026
 
 ### Fixed
 - Board template enforcement is now only applied on existing boards
@@ -452,21 +452,21 @@ Initial release 🚀
 ### Changed
 - Improved UI
 
-## [Widget Board](./Widget Board.md) 1.149.0 - July 29, 2026
+## [Platform](./Platform.md) 1.149.0 - July 29, 2026
 
 ### Fixes
 - Fix buddy badge props not applying correctly
 
-## [Widget Board](./Widget Board.md) 1.147.0 - July 29, 2026
+## [Platform](./Platform.md) 1.147.0 - July 29, 2026
 
 
 
-## [Widget Board](./Widget Board.md) 1.145.0 - July 27, 2026
+## [Platform](./Platform.md) 1.145.0 - July 27, 2026
 
 ### Added
 - Simplified Chinese, Romanian & Hungarian UI language support
 
-## [Widget Board](./Widget Board.md) 1.143.0 - July 24, 2026
+## [Platform](./Platform.md) 1.143.0 - July 24, 2026
 
 ### Fixes
 - Fix crash when toggling off widget push data
@@ -483,7 +483,7 @@ Initial release 🚀
 ### Fixed
 - Fixed 'Move to collection' menu option being visible when there are no collections
 
-## [Widget Board](./Widget Board.md) 1.141.0 - July 22, 2026
+## [Platform](./Platform.md) 1.141.0 - July 22, 2026
 
 
 
@@ -505,7 +505,7 @@ Initial release 🚀
 - Fixed missing group headers when only one language is selected
 - Fixed inconsistent behavior in content selection & dismissal
 
-## [Widget Board](./Widget Board.md) 1.139.0 - July 18, 2026
+## [Platform](./Platform.md) 1.139.0 - July 18, 2026
 
 ### Fixed
 - Navigation items could show unreadable text colors when using a custom active background color
@@ -524,7 +524,7 @@ Initial release 🚀
 ### Changed
 - Central search box on Mobile now reuses the default buddy rendering, making it more consistent with the buddy bar
 
-## [Widget Board](./Widget Board.md) 1.138.0 - July 17, 2026
+## [Platform](./Platform.md) 1.138.0 - July 17, 2026
 
 ### Added
 - New Hero layout option for themes
@@ -559,12 +559,12 @@ Initial release 🚀
 ### Changed
 - Improved UI across the whole widget
 
-## [Widget Board](./Widget Board.md) 1.137.0 - July 16, 2026
+## [Platform](./Platform.md) 1.137.0 - July 16, 2026
 
 ### Fixed
 - The + button in widget library now correctly honors active licenses and doesn't disable when no Bloom Elements license is active
 
-## [Widget Board](./Widget Board.md) 1.136.0 - July 14, 2026
+## [Platform](./Platform.md) 1.136.0 - July 14, 2026
 
 ### Fixed
 
@@ -577,22 +577,22 @@ Initial release 🚀
 - Widget now makes use of new v3 engine of Tableau embed API
 - Exception logging improved
 
-## [Widget Board](./Widget Board.md) 1.135.0 - July 01, 2026
+## [Platform](./Platform.md) 1.135.0 - July 01, 2026
 
 ### Changed
 - Non-functional system updates
 
-## [Widget Board](./Widget Board.md) 1.134.0 - June 30, 2026
+## [Platform](./Platform.md) 1.134.0 - June 30, 2026
 
 ### Changed
 - Improved loading widgets under poor network conditions
 
-## [Widget Board](./Widget Board.md) 1.131.0 - June 29, 2026
+## [Platform](./Platform.md) 1.131.0 - June 29, 2026
 
 ### Changed
 - Minor technical improvements
 
-## [Widget Board](./Widget Board.md) 1.130.0 - June 28, 2026
+## [Platform](./Platform.md) 1.130.0 - June 28, 2026
 
 ### Fixes
 - Fix Bloom Elements trial message bar shown, even though client has Bloom Hub license.
@@ -602,7 +602,7 @@ Initial release 🚀
 - Fix search box in widget library behaving sluggish on typing
 - Fix shared board losing published by info when publishing quickly after saving draft
 
-## [Widget Board](./Widget Board.md) 1.128.0 - June 23, 2026
+## [Platform](./Platform.md) 1.128.0 - June 23, 2026
 
 ### Fixed
 - The people picker field no longer gets stuck in a loop, causing the application to break.
@@ -617,7 +617,7 @@ Initial release 🚀
 - Updated dependency to mitigate potential vulnerability in lodash.
 - Used new caching framework for better performance, reliability and loading speed
 
-## [Widget Board](./Widget Board.md) 1.125.0 - June 21, 2026
+## [Platform](./Platform.md) 1.125.0 - June 21, 2026
 
 ## Added
 - New product: Bloom Elements. Place widgets in a webpart, on any SharePoint page.
@@ -645,12 +645,12 @@ Initial release 🚀
 ### Fixed
 - Trying to fetch additional metadata about a web part no longer throws an error when this fails
 
-## [Widget Board](./Widget Board.md) 1.124.0 - June 11, 2026
+## [Platform](./Platform.md) 1.124.0 - June 11, 2026
 
 ### Fixed
 - Product should no longer fail immediately when trying to fetch user&#x27;s security groups.
 
-## [Widget Board](./Widget Board.md) 1.123.0 - June 11, 2026
+## [Platform](./Platform.md) 1.123.0 - June 11, 2026
 
 ## Added
 
@@ -661,7 +661,7 @@ Initial release 🚀
 - Fixed an issue where users without an &#x60;accountCreated&#x60; date were shown an error message instead of their boards.
 - Fixed an issue where some users received a duplicate personal board because the package board wasn&#x27;t linked to their existing personal board.
 
-## [Widget Board](./Widget Board.md) 1.122.0 - June 02, 2026
+## [Platform](./Platform.md) 1.122.0 - June 02, 2026
 
 ### Changed
 - Minor update that should help clearing cached tokens in scenarios where API calls are failing due to invalid tokens
@@ -685,7 +685,7 @@ Initial release 🚀
 ### Changed
 - Hyperlinks to SharePoint pages and documents in the rich content now open in new tab/window
 
-## [Widget Board](./Widget Board.md) 1.121.0 - April 13, 2026
+## [Platform](./Platform.md) 1.121.0 - April 13, 2026
 
 ### Changed
 - Whenever possible, a user&#x27;s board will now always be connected to a template, giving more control to administrators (only applies to modern templates that don&#x27;t use legacy pushed widgets)
@@ -702,7 +702,7 @@ Initial release 🚀
 ### Fixed
 - Made some performance improvement in communication between widget and web part.
 
-## [Widget Board](./Widget Board.md) 1.120.0 - April 08, 2026
+## [Platform](./Platform.md) 1.120.0 - April 08, 2026
 
 ### Fixed
 - Application is no longer hidden in certain tenants when a SharePoint footer is rendered.
@@ -743,7 +743,7 @@ Initial release 🚀
 ### Changed
 - Migrated to the new caching framework for improved performance, reliability, and load times
 
-## [Widget Board](./Widget Board.md) 1.118.0 - March 25, 2026
+## [Platform](./Platform.md) 1.118.0 - March 25, 2026
 
 ### Fixed
 - Widgets from a Shared Board template no longer reappear automatically when being removed from a Shared Board
@@ -810,7 +810,7 @@ Initial release 🚀
 - It&#x27;s now possible to hide items that have been scheduled for later publication
 - The UI for marking an item as read/completed has been improved
 
-## [Widget Board](./Widget Board.md) 1.116.0 - March 07, 2026
+## [Platform](./Platform.md) 1.116.0 - March 07, 2026
 
 ### Fixed
 - Installation of Ichicraft Boards now succeeds in rare cases where the “Everyone Except External Users” group is not present with the default identifier &#x60;c:0-.f|rolemanager|spo-grid-all-users/${tenantId}&#x60;.
@@ -872,7 +872,7 @@ Initial release 🚀
 ### Fixed
 - An issue where shared board owners were not able to save translations for apps
 
-## [Widget Board](./Widget Board.md) 1.115.0 - February 02, 2026
+## [Platform](./Platform.md) 1.115.0 - February 02, 2026
 
 ### Fixed
 - Parsing license start date should no longer fail and cause the app to break
@@ -892,12 +892,12 @@ Initial release 🚀
 ### Fixed
 - Including many sites in the query no longer causes the widget to complain about too many tags selected
 
-## [Widget Board](./Widget Board.md) 1.113.0 - January 19, 2026
+## [Platform](./Platform.md) 1.113.0 - January 19, 2026
 
 ### Fixed
 - The solution should no longer try to save the user configuration on each page load when configuration packages are used in relation to buddy bar items
 
-## [Widget Board](./Widget Board.md) 1.112.0 - January 16, 2026
+## [Platform](./Platform.md) 1.112.0 - January 16, 2026
 
 ### Added
 - Ichicraft Boards now shows a warning message when its script sources are not configured as &quot;Trusted script sources&quot;
@@ -936,13 +936,13 @@ Initial release 🚀
 ### Fixed
 - Minor security update by upgrading potentially vulnerable dependency library to latest version
 
-## [Widget Board](./Widget Board.md) 1.111.0 - December 21, 2025
+## [Platform](./Platform.md) 1.111.0 - December 21, 2025
 
 ### Changed
 - Installation process is updated to facilitate multiple registrations per tenant
 - Various security related updates were made to the back-end service, including the introduction of industry standard security headers to HTTP responses
 
-## [Widget Board](./Widget Board.md) 1.108.0 - November 28, 2025
+## [Platform](./Platform.md) 1.108.0 - November 28, 2025
 
 ### Fixed
 - During back-ups, all images should now be included for widgets that include their own content, like Marketplace and Inform &amp; Onboard
@@ -958,19 +958,19 @@ Initial release 🚀
 ### Fixed
 - Initializing the widget is now possible even when standard group &quot;Everyone Except External Users&quot; isn&#x27;t present with the most common login name &#x60;c:0-.f|rolemanager|spo-grid-all-users/{tenantId}&#x60;
 
-## [Widget Board](./Widget Board.md) 1.107.0 - November 26, 2025
+## [Platform](./Platform.md) 1.107.0 - November 26, 2025
 
 ### Changed
 
 - Improved French and Italian translations of the onboarding interface.
 
-## [Widget Board](./Widget Board.md) 1.106.0 - November 25, 2025
+## [Platform](./Platform.md) 1.106.0 - November 25, 2025
 
 ### Fixed
 
 - Rendering a shared board no longer cause an error when they contain widgets that aren't visible to everyone. 
 
-## [Widget Board](./Widget Board.md) 1.105.0 - November 25, 2025
+## [Platform](./Platform.md) 1.105.0 - November 25, 2025
 
 ### Added
 
@@ -1014,7 +1014,7 @@ Initial release 🚀
 - Analytics plugin maintenance no longer shows deprecated Google Analytics sample configuration
 
 
-## [Widget Board](./Widget Board.md) 1.104.0 - November 04, 2025
+## [Platform](./Platform.md) 1.104.0 - November 04, 2025
 
 ### Fixed
 - Images and other assets should now be correctly included in Ichicraft Boards backups
@@ -1068,7 +1068,7 @@ Initial release 🚀
 ### Fixed
 - The widget now requires the latest and correct API permissions to be granted
 
-## [Widget Board](./Widget Board.md) 1.103.0 - October 08, 2025
+## [Platform](./Platform.md) 1.103.0 - October 08, 2025
 
 ### Fixed
 - Prevent a scenario where widgets in the Buddy Bar could cause fatal errors
@@ -1083,12 +1083,12 @@ Initial release 🚀
 ### Fixed
 - Azure Virtual Desktop integration should now work correctly again
 
-## [Widget Board](./Widget Board.md) 1.102.0 - October 04, 2025
+## [Platform](./Platform.md) 1.102.0 - October 04, 2025
 
 ### Fixed
 - Reduced the number of logged false-positive exceptions caused by network related issues or users switching boards
 
-## [Widget Board](./Widget Board.md) 1.101.0 - October 03, 2025
+## [Platform](./Platform.md) 1.101.0 - October 03, 2025
 
 ### Fixed
 - Creating and restoring a backup now correctly resolves board owners if restored within the same tenant
@@ -1266,7 +1266,7 @@ Initial release 🚀
 ### Changed
 - Articles are now rendered primarily left to right instead of top to bottom
 
-## [Widget Board](./Widget Board.md) 1.100.0 - September 30, 2025
+## [Platform](./Platform.md) 1.100.0 - September 30, 2025
 
 ## Fixed
 - Fixed incorrect French &amp; Italian translations during onboarding
@@ -1301,7 +1301,7 @@ Initial release 🚀
 - Resolved an issue where the search dialog opened when switching boards if used as a SharePoint Search Center
 
 
-## [Widget Board](./Widget Board.md) 1.98.0 - September 12, 2025
+## [Platform](./Platform.md) 1.98.0 - September 12, 2025
 
 ### Added
 - Widget developers can now update user configs directly via &#x60;WidgetContext&#x60;, without using the User Config panel  
@@ -1376,7 +1376,7 @@ Initial release 🚀
 - Our monitoring services now support tracking over ichicraft.com domain
 
 
-## [Widget Board](./Widget Board.md) 1.97.0 - August 28, 2025
+## [Platform](./Platform.md) 1.97.0 - August 28, 2025
 
 ### Changed
 - Our monitoring services now support tracking over ichicraft.com domain
@@ -1402,7 +1402,7 @@ Initial release 🚀
 - Some Dutch translations have been corrected
 - Redundant logging has been removed from the widget
 
-## [Widget Board](./Widget Board.md) 1.95.0 - August 20, 2025
+## [Platform](./Platform.md) 1.95.0 - August 20, 2025
 
 ### Fixed
 - Fixed file upload not working when no file extensions are specified
@@ -1428,7 +1428,7 @@ Initial release 🚀
 
 Initial release 🚀
 
-## [Widget Board](./Widget Board.md) 1.93.0 - August 07, 2025
+## [Platform](./Platform.md) 1.93.0 - August 07, 2025
 
 ### Added
 - Widget developers can now add a release type (&#x27;alpha&#x27;, &#x27;beta&#x27; or &#x27;release&#x27;) to the widget manifest, which will be shown in the widget library in Admin Center.
@@ -1469,7 +1469,7 @@ Initial release 🚀
 ### Fixed  
 - Removed the `Azure Virtual Desktop User.Access` API permission, as it did not function as expected  
 
-## [Widget Board](./Widget Board.md) 1.91.0 - July 18, 2025
+## [Platform](./Platform.md) 1.91.0 - July 18, 2025
 
 ### Added  
 - `.agent` files now display the correct icon in file pickers  
@@ -1496,7 +1496,7 @@ Initial release 🚀
 ### Fixed
 - Email body preview is no longer incorrectly rendered as HTML
 
-## [Widget Board](./Widget Board.md) 1.90.0 - July 15, 2025
+## [Platform](./Platform.md) 1.90.0 - July 15, 2025
 
 ### Added  
 - Configuration package improvements: 
@@ -1581,7 +1581,7 @@ Initial release 🚀
 ### Changed
 - Added some details to required API permissions needed to run the widget
 
-## [Widget Board](./Widget Board.md) 1.89.0 - July 09, 2025
+## [Platform](./Platform.md) 1.89.0 - July 09, 2025
 
 ### Changed
 - Rebuilt the mechanism for ensuring correct API permissions are granted
@@ -1594,7 +1594,7 @@ Initial release 🚀
 - The app no longer continues fetching urgent messages after the user navigates to a different SharePoint page or site
 - It is no longer possible to duplicate a personal board when the setting to allow multiple personal boards is disabled
 
-## [Widget Board](./Widget Board.md) 1.88.0 - June 26, 2025
+## [Platform](./Platform.md) 1.88.0 - June 26, 2025
 
 ### Fixed
 - Organizational assets libraries should now show up correctly for all users across all file pickers
@@ -1728,7 +1728,7 @@ Initial release 🚀
 ### Added
 - Italian 🇮🇹 translations added, allowing Italian-speaking users to navigate and use the software in their native language.
 
-## [Widget Board](./Widget Board.md) 1.87.0 - June 19, 2025
+## [Platform](./Platform.md) 1.87.0 - June 19, 2025
 
 ## Added
 - Italian 🇮🇹 translations added, allowing Italian-speaking users to navigate and use the software in their native language.
@@ -1742,7 +1742,7 @@ Initial release 🚀
 ### Fixed
 - Implemented a token workaround in SharePoint for PowerBI Dashboards and Scorecards.
 
-## [Widget Board](./Widget Board.md) 1.86.0 - June 12, 2025
+## [Platform](./Platform.md) 1.86.0 - June 12, 2025
 
 ### Fixed
 - Creating or resetting a board when no templates are available no longer prevents users from adding widgets
@@ -1757,7 +1757,7 @@ Initial release 🚀
 ### Fixed
 - Implemented a fallback mechanism for retrieving the API token, addressing [this SharePoint issue](https://github.com/SharePoint/sp-dev-docs/issues/10292)
 
-## [Widget Board](./Widget Board.md) 1.85.0 - June 05, 2025
+## [Platform](./Platform.md) 1.85.0 - June 05, 2025
 
 ### Fixed
 
@@ -1779,7 +1779,7 @@ Initial release 🚀
 ### Fixed
 - Resolved an issue where the widget would render with an error if items couldn&#x27;t be stored in the browser cache
 
-## [Widget Board](./Widget Board.md) 1.84.0 - June 03, 2025
+## [Platform](./Platform.md) 1.84.0 - June 03, 2025
 
 ### Fixed
 - Widget audience rules were not being enforced for widgets already added to the board
@@ -1833,12 +1833,12 @@ Initial release 🚀
 ### Changed
 - Enhanced tooltip UI for better clarity and usability
 
-## [Widget Board](./Widget Board.md) 1.83.0 - April 25, 2025
+## [Platform](./Platform.md) 1.83.0 - April 25, 2025
 
 ### Fixed
 - Fixed an issue where checking if a user can create shared boards sometimes results in an exception for the user
 
-## [Widget Board](./Widget Board.md) 1.82.0 - April 25, 2025
+## [Platform](./Platform.md) 1.82.0 - April 25, 2025
 
 ### Added
 - Duplicate functionality for widgets and boards
@@ -1911,7 +1911,7 @@ Initial release 🚀
 Initial release 🚀
 
 
-## [Widget Board](./Widget Board.md) 1.80.0 - April 03, 2025
+## [Platform](./Platform.md) 1.80.0 - April 03, 2025
 
 ### Changed
 - It&#x27;s now possible to force the web part to render in full height, even when other web parts are on the page.
@@ -1944,14 +1944,14 @@ Initial release 🚀
 ### Fixed
 - Using an e-mail address to configure a shared inbox no longer causes an error or infinite spinner when using the user picker
 
-## [Widget Board](./Widget Board.md) 1.78.0 - March 20, 2025
+## [Platform](./Platform.md) 1.78.0 - March 20, 2025
 
 ### Fixed
 - Urgent messages now work correctly when a user&#x27;s language preference is set to Italian 🇮🇹.  
 - The vertical navigation menu, opened via the hamburger menu button, can now be styled properly.  
 - **.webp** files now display the correct file type icon in the file picker. 
 
-## [Widget Board](./Widget Board.md) 1.77.0 - March 19, 2025
+## [Platform](./Platform.md) 1.77.0 - March 19, 2025
 
 ### Added
 - Administrators can now force a reset of users&#x27; personal boards, ensuring that updates—such as a revised board template—are applied. This option is available in the **Advanced** section of the **Admin Center**.
@@ -1966,7 +1966,7 @@ Initial release 🚀
 ### Changed
 - Introduced a new site picker for selecting site collections in SharePoint tabs. This also resolves an issue where not all sites were available in larger environments.
 
-## [Widget Board](./Widget Board.md) 1.76.0 - March 12, 2025
+## [Platform](./Platform.md) 1.76.0 - March 12, 2025
 
 ### Added
 - Option to maintain previously made widget settings when resetting your board
@@ -2033,7 +2033,7 @@ Initial release 🚀
 ### Fixed
 - An issue where the rich text editor logic conflicted with other rich text editors in Ichicraft Boards
 
-## [Widget Board](./Widget Board.md) 1.75.0 - March 05, 2025
+## [Platform](./Platform.md) 1.75.0 - March 05, 2025
 
 ### Added
 - It is now possible to select users and/or groups that need to see the Ichicraft Boards What&#x27;s New section, as opposed to the all or nothing toggle it used to be
@@ -2064,7 +2064,7 @@ Initial release 🚀
 - CSS override support for banner tiles
 - Font size setting for banner tiles
 
-## [Widget Board](./Widget Board.md) 1.74.0 - February 22, 2025
+## [Platform](./Platform.md) 1.74.0 - February 22, 2025
 
 ### Fixed
 - An issue where the hamburger left navigation didn&#x27;t work well with large numbers of menu items
@@ -2307,7 +2307,7 @@ Initial release 🚀
 ### Fixed
 - An issue where external users with capital &#x27;#EXT#&#x27; in their username weren&#x27;t correctly recognized as external
 
-## [Widget Board](./Widget Board.md) 1.73.0 - February 19, 2025
+## [Platform](./Platform.md) 1.73.0 - February 19, 2025
 
 ### Added
 - Additional design options, such as colors for the header, navigation and badges
@@ -2324,14 +2324,14 @@ Initial release 🚀
 - Optimized bundle size for faster initialization
 
 
-## [Widget Board](./Widget Board.md) 1.72.0 - February 06, 2025
+## [Platform](./Platform.md) 1.72.0 - February 06, 2025
 
 
 
 ### Fixed
 - An issue where the installation of Ichicraft Boards couldn&#x27;t proceed due to a failure in detecting granted API permissions
 
-## [Widget Board](./Widget Board.md) 1.71.0 - January 21, 2025
+## [Platform](./Platform.md) 1.71.0 - January 21, 2025
 
 ### Fixed
 - A bug where the Buddy Bar didn&#x27;t disappear completely when the placeholder was dismissed
@@ -2356,7 +2356,7 @@ Initial release 🚀
 - An issue where the My Files context was opened when trying to create files from a OneDrive tab that wasn&#x27;t My OneDrive
 - An issue where an undefined error would occur when a tab was missing oneDriveSettings
 
-## [Widget Board](./Widget Board.md) 1.69.0 - December 21, 2024
+## [Platform](./Platform.md) 1.69.0 - December 21, 2024
 
 ### Fixed
 - An issue where a removed Shared Board could cause the app to fail when users try to navigate to that missing board
@@ -2365,7 +2365,7 @@ Initial release 🚀
 ### Changed
 - Some small visual improvements to the rendering of the Buddy Bar
 
-## [Widget Board](./Widget Board.md) 1.68.0 - December 19, 2024
+## [Platform](./Platform.md) 1.68.0 - December 19, 2024
 
 ### Fixed
 - An issue where widget titles that were supposed to be clickable (like with Inbox and Calendar), no longer were
@@ -2382,7 +2382,7 @@ Initial release 🚀
 ### Changed
 - Improved UI for News layout
 
-## [Widget Board](./Widget Board.md) 1.67.0 - December 16, 2024
+## [Platform](./Platform.md) 1.67.0 - December 16, 2024
 
 ### Fixed
 - A bug where the new Buddy Bar rendered twice on mobile devices in some scenarios
@@ -2435,7 +2435,7 @@ Initial release 🚀
 ### Changed
 - Improve Share dialog for files
 
-## [Widget Board](./Widget Board.md) 1.66.0 - December 13, 2024
+## [Platform](./Platform.md) 1.66.0 - December 13, 2024
 
 ### Added
 - The Buddy Bar (quickly check out our [blog](https://ichicraft.com/buddy-bar-ichicraft-boards/) for the details!)
@@ -2470,7 +2470,7 @@ Initial release 🚀
 ### Fixed
 - A bug where a widget didn&#x27;t reflect changes in layout options made as an administrator when those changes were still in draft
 
-## [Widget Board](./Widget Board.md) 1.65.0 - October 25, 2024
+## [Platform](./Platform.md) 1.65.0 - October 25, 2024
 
 ### Added
 - New feature that allows Urgent Message editors to send push notifications to the audience of a message. These notifications appear as activities in the end user&#x27;s Teams activity feed. Check out [our blog](https://ichicraft.com/push-notifications-urgent-messages-ichicraft-boards/) for more information!
@@ -2483,7 +2483,7 @@ Initial release 🚀
 - An issue where the organizational library couldn&#x27;t be used for centrally managed assets from within the file picker component
 - An issue where audience targeting didn&#x27;t always work correctly with external users (widget updates will follow)
 
-## [Widget Board](./Widget Board.md) 1.64.73 - October 14, 2024
+## [Platform](./Platform.md) 1.64.73 - October 14, 2024
 
 ### Added
 - An About page to the Admin Center with contact information
@@ -2494,23 +2494,23 @@ Initial release 🚀
 ### Updated
 - Some internals
 
-## [Widget Board](./Widget Board.md) 1.64.72 - October 02, 2024
+## [Platform](./Platform.md) 1.64.72 - October 02, 2024
 
 ### Fixed
 - An issue where users see duplicate personal boards in their navigation
 
-## [Widget Board](./Widget Board.md) 1.64.71 - October 02, 2024
+## [Platform](./Platform.md) 1.64.71 - October 02, 2024
 
 ### Fixed
 - An issue where using the Configuration Packages tab fails in the Admin Center for some older installations
 - An issue where additional personal boards are falsely automatically created
 
-## [Widget Board](./Widget Board.md) 1.64.70 - October 01, 2024
+## [Platform](./Platform.md) 1.64.70 - October 01, 2024
 
 ### Fixed
 - A bug that can cause older installations to fail when navigating to the Configuration Packages feature in the Admin Center
 
-## [Widget Board](./Widget Board.md) 1.64.69 - September 30, 2024
+## [Platform](./Platform.md) 1.64.69 - September 30, 2024
 
 ### Fixed
 - Multiple issues in using configuration packages without using the Shared Boards features
@@ -2548,7 +2548,7 @@ Initial release 🚀
 - Improved logging
 
 
-## [Widget Board](./Widget Board.md) 1.64.68 - September 17, 2024
+## [Platform](./Platform.md) 1.64.68 - September 17, 2024
 
 ### Changed
 - Added some extra logging
@@ -2562,7 +2562,7 @@ Initial release 🚀
 ### Changed
 - Introduced scrolling list readability
 
-## [Widget Board](./Widget Board.md) 1.64.67 - September 13, 2024
+## [Platform](./Platform.md) 1.64.67 - September 13, 2024
 
 ### Changed
 - Made some improvements to dark mode rendering
@@ -2697,7 +2697,7 @@ Initial release 🚀
 
 Initial release 🚀
 
-## [Widget Board](./Widget Board.md) 1.64.66 - September 07, 2024
+## [Platform](./Platform.md) 1.64.66 - September 07, 2024
 
 ### Added
 - A central search box can now be provided to open our new search center (using our the new Search Widget)
@@ -2723,12 +2723,12 @@ Initial release 🚀
 ### Updated
 - Updated internal URL used to fetch AVD apps
 
-## [Widget Board](./Widget Board.md) 1.64.65 - August 14, 2024
+## [Platform](./Platform.md) 1.64.65 - August 14, 2024
 
 ### Fixed
 - An issue where navigating back and forth between a page with the Ichicraft Boards web part and another SharePoint page sometimes results in an error in Ichicraft Boards.
 
-## [Widget Board](./Widget Board.md) 1.64.64 - July 25, 2024
+## [Platform](./Platform.md) 1.64.64 - July 25, 2024
 
 ### Added
 - Support for our new API and CDN URL&#x27;s that run under our own ichicraft.com domain
@@ -2749,7 +2749,7 @@ Initial release 🚀
 ### Changed
 - Sites now open in a new tab again instead of in a modal dialog. We reverted this behavior due to issues with opening a team site in the dialog where the left navigation won&#x27;t render.
 
-## [Widget Board](./Widget Board.md) 1.64.63 - July 12, 2024
+## [Platform](./Platform.md) 1.64.63 - July 12, 2024
 
 ### Fixed
 - An issue with the new widget administrators functionality that caused an error for end users
@@ -2768,7 +2768,7 @@ Initial release 🚀
 - An issue where only a maximum of 100 catalog apps are fetched instead of the whole list
 - An issue where a `null` value inside the `dismissedAppIds` property of the stored config results in an error
 
-## [Widget Board](./Widget Board.md) 1.64.62 - July 11, 2024
+## [Platform](./Platform.md) 1.64.62 - July 11, 2024
 
 ### Added
 - &#x27;Widget administrators&#x27; field for a widget variant, to allow other users/groups to edit its admin configuration
@@ -2810,7 +2810,7 @@ Initial release 🚀
 ### Changed
 - Show empty state instead of &#x27;people I work with&#x27; when user has no license
 
-## [Widget Board](./Widget Board.md) 1.64.61 - June 26, 2024
+## [Platform](./Platform.md) 1.64.61 - June 26, 2024
 
 ### Added
 - New properties provided to the WidgetContext (sp, spHttpClient, spHttpClientConfiguration), used to communicate with the SharePoint REST api
@@ -2845,7 +2845,7 @@ Initial release 🚀
 ### Fixed
 - &#x27;Open in Teams&#x27; url not working anymore
 
-## [Widget Board](./Widget Board.md) 1.64.60 - June 12, 2024
+## [Platform](./Platform.md) 1.64.60 - June 12, 2024
 
 ### Added
 - Layout editor for Shared Boards
@@ -2871,7 +2871,7 @@ Initial release 🚀
 ### Changed
 - Minor UI improvements
 
-## [Widget Board](./Widget Board.md) 1.64.59 - May 28, 2024
+## [Platform](./Platform.md) 1.64.59 - May 28, 2024
 
 ### Fixed
 - An issue where trying to restore an Ichicraft Boards backup that doesn&#x27;t contain urgent messages or shared boards, resulted in an error
@@ -2919,7 +2919,7 @@ Initial release 🚀
 - Moving items to &#x27;no group assigned&#x27; not working correctly
 
 
-## [Widget Board](./Widget Board.md) 1.64.58 - May 22, 2024
+## [Platform](./Platform.md) 1.64.58 - May 22, 2024
 
 ### Added
 - Support for deep linking, to be used by widgets
@@ -2949,7 +2949,7 @@ Initial release 🚀
 ### Fixed
 - An issue where embedding an Excel document would not work
 
-## [Widget Board](./Widget Board.md) 1.64.57 - May 08, 2024
+## [Platform](./Platform.md) 1.64.57 - May 08, 2024
 
 ### Added
 - Quick edit button for urgent messages (if the user has the correct permissions)
@@ -2958,7 +2958,7 @@ Initial release 🚀
 - A redirect issue when clicking on a link in the urgent message short description
 - Image picker components not having the correct height
 
-## [Widget Board](./Widget Board.md) 1.64.56 - May 08, 2024
+## [Platform](./Platform.md) 1.64.56 - May 08, 2024
 
 ### Added
 - Short description field for urgent messages
@@ -3022,7 +3022,7 @@ Initial release 🚀
 - Improved app dialog
 - Improved app UI
 
-## [Widget Board](./Widget Board.md) 1.64.53 - May 01, 2024
+## [Platform](./Platform.md) 1.64.53 - May 01, 2024
 
 ### Fixed
 - An issue where the installation would fail when the &#x27;Everyone except external users&#x27; group is missing
@@ -3045,7 +3045,7 @@ Initial release 🚀
 ### Changed
 - Improved UI for dialogs and news items
 
-## [Widget Board](./Widget Board.md) 1.64.52 - April 26, 2024
+## [Platform](./Platform.md) 1.64.52 - April 26, 2024
 
 ### Added
 - Improvements of the iframe dialog used by certain widgets to open URLs
@@ -3073,12 +3073,12 @@ Initial release 🚀
 
 Initial release 🚀
 
-## [Widget Board](./Widget Board.md) 1.64.49 - April 24, 2024
+## [Platform](./Platform.md) 1.64.49 - April 24, 2024
 
 ### Changed
 - Minor update in generated SharePoint package file
 
-## [Widget Board](./Widget Board.md) 1.64.48 - April 17, 2024
+## [Platform](./Platform.md) 1.64.48 - April 17, 2024
 
 ### Fixed
 - Removed logs to the developer console
@@ -3088,7 +3088,7 @@ Initial release 🚀
 ### Fixed
 - Removed log to the developer console
 
-## [Widget Board](./Widget Board.md) 1.64.47 - April 11, 2024
+## [Platform](./Platform.md) 1.64.47 - April 11, 2024
 
 ### Fixed
 - An issue where navigating from a page with Ichicraft Boards to another (web part) page caused the scrollbar to disappear
@@ -3115,7 +3115,7 @@ Initial release 🚀
 ### Added
 - The site title is now displayed together with the event details
 
-## [Widget Board](./Widget Board.md) 1.64.46 - April 04, 2024
+## [Platform](./Platform.md) 1.64.46 - April 04, 2024
 
 ### Fixed
 - An issue where the product didn&#x27;t always render correctly in full-height
@@ -3146,7 +3146,7 @@ Initial release 🚀
 ### Fixed
 - An issue where, after restoring a backup of Ichicraft Boards in a site with a different default language than the source site, an error occurs in the widget when editing existing content of which titles were not already available in the new language
 
-## [Widget Board](./Widget Board.md) 1.64.44 - March 27, 2024
+## [Platform](./Platform.md) 1.64.44 - March 27, 2024
 
 ### Added
 - Widgets can now render a textual link in the widget header (command bar)
@@ -3278,13 +3278,13 @@ Initial release 🚀
 ### Fixed
 - An issue with UX layers that was introduced when upgrading to a new version of Fluent UI
 
-## [Widget Board](./Widget Board.md) 1.64.43 - March 20, 2024
+## [Platform](./Platform.md) 1.64.43 - March 20, 2024
 
 ### Fixed
 - An issue where changes to large configurations couldn&#x27;t be stored as draft
 - An issue where urgent messages couldn&#x27;t be published at a predefined time
 
-## [Widget Board](./Widget Board.md) 1.64.42 - March 18, 2024
+## [Platform](./Platform.md) 1.64.42 - March 18, 2024
 
 ### Added
 - Multiple administrators can now update Ichicraft Boards configuration simultaneously
@@ -3338,7 +3338,7 @@ Initial release 🚀
 ### Changed
 - Handling of missing M365 license is improved with a clearer message to the user
 
-## [Widget Board](./Widget Board.md) 1.64.41 - February 20, 2024
+## [Platform](./Platform.md) 1.64.41 - February 20, 2024
 
 ### Fixed
 - A bug where uploading a custom widget in some scenarios results in a fatal error
@@ -3357,7 +3357,7 @@ Initial release 🚀
 ### Fixed
 - A bug where, after installing with the Complete or Essential configuration or after importing a previously created back-up, issues could occur when adding new Apps
 
-## [Widget Board](./Widget Board.md) 1.64.40 - February 08, 2024
+## [Platform](./Platform.md) 1.64.40 - February 08, 2024
 
 ### Added
 - The ability to change the default language of an installation of Ichicraft Boards
@@ -3473,7 +3473,7 @@ Initial release 🚀
 ### Changed
 - Improved translations (FR)
 
-## [Widget Board](./Widget Board.md) 1.64.39 - February 01, 2024
+## [Platform](./Platform.md) 1.64.39 - February 01, 2024
 
 ### Fixed
 - An issue where the current board resets when switching tabs in the file picker
@@ -3497,12 +3497,12 @@ Initial release 🚀
 - Horizontal and Vertical page navigation options not working in pop-out
 - Pop-out window title resetting when opening filter menu
 
-## [Widget Board](./Widget Board.md) 1.64.38 - January 24, 2024
+## [Platform](./Platform.md) 1.64.38 - January 24, 2024
 
 ### Fixed
 - A bug where urgent messages couldn&#x27;t be managed if Shared Boards feature wasn&#x27;t activated
 
-## [Widget Board](./Widget Board.md) 1.64.37 - January 24, 2024
+## [Platform](./Platform.md) 1.64.37 - January 24, 2024
 
 ### Added
 - An alternative way to move boards to a different group using a new Move option in their contextual menu
@@ -3519,7 +3519,7 @@ Initial release 🚀
 ### Fixed
 - Source dropdown icons not applying theme color
 
-## [Widget Board](./Widget Board.md) 1.64.35 - January 16, 2024
+## [Platform](./Platform.md) 1.64.35 - January 16, 2024
 
 ### Added
 - Option to add navigation groups to organize your boards
@@ -3540,7 +3540,7 @@ Initial release 🚀
 - Vertical navigation menu closing when dismissing nested dialogs
 - Board navigation hover animation triggering on initial load
 
-## [Widget Board](./Widget Board.md) 1.64.34 - January 11, 2024
+## [Platform](./Platform.md) 1.64.34 - January 11, 2024
 
 ### Fixed
 - A bug where no board was displayed when using a non-existing board ID in the url
@@ -3552,7 +3552,7 @@ Initial release 🚀
 - An issue where an embedded new article would disappear when scrolling
 - Potential vulnerable dependencies in package.json
 
-## [Widget Board](./Widget Board.md) 1.64.33 - January 09, 2024
+## [Platform](./Platform.md) 1.64.33 - January 09, 2024
 
 ### Fixed
 - An issue where it was possible to select a blank board on the primary personal board on first run
@@ -3662,7 +3662,7 @@ Initial release 🚀
 ### Fixed
 - An issue where duplicate diagnostics were logged
 
-## [Widget Board](./Widget Board.md) 1.64.32 - December 22, 2023
+## [Platform](./Platform.md) 1.64.32 - December 22, 2023
 
 ### Fixed
 - An issue where duplicate log messages were sent
@@ -3675,12 +3675,12 @@ Initial release 🚀
 ### Fixed
 - An issue where duplicate diagnostics were sent 
 
-## [Widget Board](./Widget Board.md) 1.64.30 - December 19, 2023
+## [Platform](./Platform.md) 1.64.30 - December 19, 2023
 
 ### Fixed
 - An issue where diagnostic logging sent duplicate messages
 
-## [Widget Board](./Widget Board.md) 1.64.29 - December 19, 2023
+## [Platform](./Platform.md) 1.64.29 - December 19, 2023
 
 ### Added
 - The ability to share links to shared boards with colleagues
@@ -3835,7 +3835,7 @@ Fix language errors during installation
 ### Changed
 - The widget now uses higher resolution images for news articles
 
-## [Widget Board](./Widget Board.md) 1.64.28 - December 11, 2023
+## [Platform](./Platform.md) 1.64.28 - December 11, 2023
 
 ### Added
 - A whole new installation experience, where default configurations can be picked to allow for a more complete first experience of Ichicraft Boards
@@ -3982,7 +3982,7 @@ Fix language errors during installation
 ### Added
 - Support for new Boards import/export feature
 
-## [Widget Board](./Widget Board.md) 1.64.26 - November 22, 2023
+## [Platform](./Platform.md) 1.64.26 - November 22, 2023
 
 ### Added
 - New functionality to fully backup (or restore) an installation of Ichicraft Boards
@@ -4014,7 +4014,7 @@ Fix language errors during installation
 
 
 
-## [Widget Board](./Widget Board.md) 1.64.25 - November 09, 2023
+## [Platform](./Platform.md) 1.64.25 - November 09, 2023
 
 ### Fixed
 - An issue where in some cases the icon for resetting something wasn&#x27;t visible
@@ -4031,12 +4031,12 @@ Fix language errors during installation
 - Sites now display the Site logo thumbnail instead of the Site logo
 - News posts now use a different thumbnail url, resulting in higher resolution images in most cases
 
-## [Widget Board](./Widget Board.md) 1.64.24 - October 25, 2023
+## [Platform](./Platform.md) 1.64.24 - October 25, 2023
 
 ### Fixed
 - an issue where the People Picker didn&#x27;t always store data correctly
 
-## [Widget Board](./Widget Board.md) 1.64.23 - October 24, 2023
+## [Platform](./Platform.md) 1.64.23 - October 24, 2023
 
 ### Added
 - Several CSS classes to the navigation elements to override the show/hide toggle
@@ -4055,7 +4055,7 @@ Initial release 🚀
 - Improved UX of user picker fields
 - Empty widget now shows thumbnail icon
 
-## [Widget Board](./Widget Board.md) 1.64.22 - October 11, 2023
+## [Platform](./Platform.md) 1.64.22 - October 11, 2023
 
 ### Added
 - Widget variants can now have an icon representation instead of just a thumbnail
@@ -4072,7 +4072,7 @@ Initial release 🚀
 ### Fixed
 - An issue where cached filters were not applied on load
 
-## [Widget Board](./Widget Board.md) 1.64.20 - October 05, 2023
+## [Platform](./Platform.md) 1.64.20 - October 05, 2023
 
 ### Fixed
 - An issue where creating urgent messages fails in certain scenarios
@@ -4105,7 +4105,7 @@ Initial release 🚀
 - Sites now display their own icon
 - Simplified followed sites feature
 
-## [Widget Board](./Widget Board.md) 1.64.19 - October 02, 2023
+## [Platform](./Platform.md) 1.64.19 - October 02, 2023
 
 ### Fixed
 - Some smaller issues with the recently released urgent messages feature (wrong icon, missing sorting in drop-down list, unfiltered list of messages during onboarding, etc)
@@ -4134,7 +4134,7 @@ Initial release 🚀
 
 Initial release 🚀
 
-## [Widget Board](./Widget Board.md) 1.64.18 - September 11, 2023
+## [Platform](./Platform.md) 1.64.18 - September 11, 2023
 
 Minor system update
 
@@ -4143,7 +4143,7 @@ Minor system update
 ### Fixed
 - An issue that occurs in a situation where users&#x27; login names aren&#x27;t identical to their primary e-mail addresses
 
-## [Widget Board](./Widget Board.md) 1.64.17 - September 07, 2023
+## [Platform](./Platform.md) 1.64.17 - September 07, 2023
 
 ### Added
 
@@ -4203,12 +4203,12 @@ Minor system update
 - An issue with error handling for News article thumbnails
 - Unnecessary use of the date-fns package
 
-## [Widget Board](./Widget Board.md) 1.64.16 - August 22, 2023
+## [Platform](./Platform.md) 1.64.16 - August 22, 2023
 
 ### Fixed
 - An issue with a newer version of the installation package failing to load the Boards web part correctly
 
-## [Widget Board](./Widget Board.md) 1.64.15 - August 18, 2023
+## [Platform](./Platform.md) 1.64.15 - August 18, 2023
 
 ### Added
 - A **new feature** that allows users to update their profile right from their boards
@@ -4255,7 +4255,7 @@ Minor system update
 ### Fixed
 - A bug where sometimes the recent sites can&#x27;t be loaded in the Create News Post dialog
 
-## [Widget Board](./Widget Board.md) 1.64.14 - August 11, 2023
+## [Platform](./Platform.md) 1.64.14 - August 11, 2023
 
 ### Added
 - Option to quickly access a widget&#x27;s admin configuration from a widget on a board using the widget&#x27;s context menu
@@ -4277,12 +4277,12 @@ Minor system update
 ### Changed
 - Refactored the content dialog to reuse the same embed code as the carousel &amp; preview
 
-## [Widget Board](./Widget Board.md) 1.64.13 - July 17, 2023
+## [Platform](./Platform.md) 1.64.13 - July 17, 2023
 
 ### Fixed
 - An issue where the navigation panel sometimes closed automatically in Teams
 
-## [Widget Board](./Widget Board.md) 1.64.12 - July 14, 2023
+## [Platform](./Platform.md) 1.64.12 - July 14, 2023
 
 ### Added
 - The option to collapse the left navigation
@@ -4341,12 +4341,12 @@ Minor system update
 ### Changed
 - Storage of apps is now done in a designated SharePoint list instead of apps being part of the greater Ichicraft Boards configuration
 
-## [Widget Board](./Widget Board.md) 1.64.11 - June 26, 2023
+## [Platform](./Platform.md) 1.64.11 - June 26, 2023
 
 ### Fixed
 - An issue where in some scenarios the onboarding of new users was impossible due to a disabled &quot;Let&#x27;s get started&quot; button
 
-## [Widget Board](./Widget Board.md) 1.64.10 - June 22, 2023
+## [Platform](./Platform.md) 1.64.10 - June 22, 2023
 
 ### Fixed
 - An issue where failing to retrieve account creation date/time results in infinite loading board
@@ -4361,7 +4361,7 @@ Minor system update
 ### Changed
 - Update solution to stop using beta API from Microsoft where it&#x27;s no longer needed
 
-## [Widget Board](./Widget Board.md) 1.64.9 - June 20, 2023
+## [Platform](./Platform.md) 1.64.9 - June 20, 2023
 
 ### Added
 - Navigation policies (New Feature!) to specify the boards (personal + shared) that should be in a user&#x27;s navigation (only available if and when Shared Boards feature is active)
@@ -4409,14 +4409,14 @@ Minor system update
 ###Changed
 - Removed the Clear functiona
 
-## [Widget Board](./Widget Board.md) 1.64.7 - May 24, 2023
+## [Platform](./Platform.md) 1.64.7 - May 24, 2023
 
 ### Fixed
 - An issue where the people picker didn&#x27;t work correctly all the time
 - An issue where the newly generated sppkg package included too many assets
 - An issue where the newly generated sppkg package introduced an issue with conflicting React versions
 
-## [Widget Board](./Widget Board.md) 1.64.6 - May 17, 2023
+## [Platform](./Platform.md) 1.64.6 - May 17, 2023
 
 ### Changed
 - (non-functional) Upgraded underlying SPFx version to 1.17.2
@@ -4469,7 +4469,7 @@ Minor system update
 
 
 
-## [Widget Board](./Widget Board.md) 1.64.4 - April 14, 2023
+## [Platform](./Platform.md) 1.64.4 - April 14, 2023
 
 ### Fixed
 - an issue where the file picker sometimes falls behind another dialog
@@ -4490,7 +4490,7 @@ Minor system update
 ### Fixed
 - an issue where the file size of the widget bundle file was very large due to invalid sharing of external libraries
 
-## [Widget Board](./Widget Board.md) 1.64.3 - April 12, 2023
+## [Platform](./Platform.md) 1.64.3 - April 12, 2023
 
 ### Fixed
 - An issue where API permissions could no longer be requested from admin panel
@@ -4514,12 +4514,12 @@ Minor system update
 - Fix available filters when selecting a Visual
 - Fix report filters not resetting when enabling custom filters
 
-## [Widget Board](./Widget Board.md) 1.64.2 - April 06, 2023
+## [Platform](./Platform.md) 1.64.2 - April 06, 2023
 
 ### Fixed
 - An issue with missing resource files
 
-## [Widget Board](./Widget Board.md) 1.64.1 - April 06, 2023
+## [Platform](./Platform.md) 1.64.1 - April 06, 2023
 
 ### Added
 - The option to onboard new users without showing a welcome message if no interaction is required
@@ -4557,7 +4557,7 @@ Fix local storage reset when editing admin config.
 ### Changed
 - Some minor feature improvements and fixes for bugs introduced in previous release
 
-## [Widget Board](./Widget Board.md) 1.64.0 - March 17, 2023
+## [Platform](./Platform.md) 1.64.0 - March 17, 2023
 
 ### Added
 - The ability to show multiple custom command bar buttons per widget
@@ -4592,19 +4592,19 @@ Fix local storage reset when editing admin config.
 - PBI content _previews_ as part of the content management
 - Content viewed and clicked _events_ to feed the Ichicraft Boards analytics feature
 
-## [Widget Board](./Widget Board.md) 1.63.0 - February 15, 2023
+## [Platform](./Platform.md) 1.63.0 - February 15, 2023
 
 ### Added
 - The ability to log additional user data as part of the Analytics feature
 - More events related to recently added features to the Analytics feature
 
-## [Widget Board](./Widget Board.md) 1.62.0 - January 27, 2023
+## [Platform](./Platform.md) 1.62.0 - January 27, 2023
 
 ### Fixed
 - An issue where in some cases a pushed widget could not be resized when configuration dictates it should be able to do so
 - An issue where in some cases a move lock appeared even though a pushed widget was allowed to be moved
 
-## [Widget Board](./Widget Board.md) 1.61.0 - January 18, 2023
+## [Platform](./Platform.md) 1.61.0 - January 18, 2023
 
 ### Fixed
 - An issue where the file picker navigation failes sometimes
@@ -4613,17 +4613,17 @@ Fix local storage reset when editing admin config.
 - An issue where some configurations didn&#x27;t load correctly after previous release
 - An issue where the file picker didn&#x27;t work correctly after previous release
 
-## [Widget Board](./Widget Board.md) 1.59.0 - January 17, 2023
+## [Platform](./Platform.md) 1.59.0 - January 17, 2023
 
 ### Added
 - You can now configure a custom theme to be used by Ichicraft Boards (includes dark mode!)
 
-## [Widget Board](./Widget Board.md) 1.58.0 - December 20, 2022
+## [Platform](./Platform.md) 1.58.0 - December 20, 2022
 
 ### Changed
 - Url to Ichicraft announcements updated to ichicraft.com domain
 
-## [Widget Board](./Widget Board.md) 1.57.0 - December 19, 2022
+## [Platform](./Platform.md) 1.57.0 - December 19, 2022
 
 ### Added
 - Ichicraft Boards announcements are now visible from within the product
@@ -4683,7 +4683,7 @@ Initial release 🚀
 - Allow Shared Board owners to specify the sites that serve as news source for the widget
 
 
-## [Widget Board](./Widget Board.md) 1.56.0 - December 15, 2022
+## [Platform](./Platform.md) 1.56.0 - December 15, 2022
 
 ### Changed
 - Under-the-hood update where info about board type and user role is provided to widgets
@@ -4721,7 +4721,7 @@ Initial release 🚀
 ### Fixed
 - An issue where in some cases the app tiles continuously triggered redraws of hidden div elements (LineEllipsis)
 
-## [Widget Board](./Widget Board.md) 1.55.0 - November 25, 2022
+## [Platform](./Platform.md) 1.55.0 - November 25, 2022
 
 ### Changed
 - Removed last jsdelivr CDN pointers
@@ -4737,7 +4737,7 @@ Initial release 🚀
 - There is now a 32 character limit on app titles
 - If title doesn&#x27;t fit on two lines, we now show ellipsis (...) to make this clear
 
-## [Widget Board](./Widget Board.md) 1.54.0 - November 23, 2022
+## [Platform](./Platform.md) 1.54.0 - November 23, 2022
 
 ### Added
 - Board templates can now also be defined for shared boards
@@ -4748,22 +4748,22 @@ Initial release 🚀
 ### Changed
 - Greatly improved the loading speed of the widget
 
-## [Widget Board](./Widget Board.md) 1.53.0 - November 09, 2022
+## [Platform](./Platform.md) 1.53.0 - November 09, 2022
 
 ### Added
 - Option to push a Shared Board to (groups of) users
 
-## [Widget Board](./Widget Board.md) 1.52.0 - November 01, 2022
+## [Platform](./Platform.md) 1.52.0 - November 01, 2022
 
 ### Added
 - It&#x27;s now possible for a user to change the order of boards in the left navigation
 
-## [Widget Board](./Widget Board.md) 1.51.0 - November 01, 2022
+## [Platform](./Platform.md) 1.51.0 - November 01, 2022
 
 ### Fixed
 - An issue where renaming or deleting a widget on a shared board caused an error in some cases
 
-## [Widget Board](./Widget Board.md) 1.50.0 - October 31, 2022
+## [Platform](./Platform.md) 1.50.0 - October 31, 2022
 
 ### Added
 - Introducing the first version of Ichicraft Board&#x27;s newest feature: Shared Boards!
@@ -4777,7 +4777,7 @@ Initial release 🚀
 ### Changed
 - Now loading events for 6 months ahead instead of 2
 
-## [Widget Board](./Widget Board.md) 1.49.0 - September 26, 2022
+## [Platform](./Platform.md) 1.49.0 - September 26, 2022
 
 ### Fixed
 - An issue where pushed widgets were re-pushed after a user suffered from a connection error
@@ -4790,14 +4790,14 @@ Initial release 🚀
 ### Fixed
 - An issue where all of a sudden the report page picker didn&#x27;t work due to an update in the underlying Power BI REST API
 
-## [Widget Board](./Widget Board.md) 1.47.0 - September 20, 2022
+## [Platform](./Platform.md) 1.47.0 - September 20, 2022
 
 ### Fixed
 - An issue where the wrong current language was passed to a widget if that language wasn&#x27;t configured as a content language
 - An issue where the confirmation dialog didn&#x27;t close after deleting a content language
 - An issue where the API Permissions tab showed all variants of a widget type where only one would suffice to give the proper permissions
 
-## [Widget Board](./Widget Board.md) 1.46.0 - September 20, 2022
+## [Platform](./Platform.md) 1.46.0 - September 20, 2022
 
 ### Changed
 - Big under-the-hood update to prepare for separate licenses for product features including the upcoming feature &quot;Shared Boards&quot;
@@ -4810,7 +4810,7 @@ Initial release 🚀
 ### Fixed
 - An issue where following the root site collection returns events from all other site collections
 
-## [Widget Board](./Widget Board.md) 1.45.0 - September 08, 2022
+## [Platform](./Platform.md) 1.45.0 - September 08, 2022
 
 ### Fixed
 - An issue where the background color of the header bleeds out when the web part is placed in a non full-width section
@@ -4821,7 +4821,7 @@ Initial release 🚀
 - [#234] An even better way to manage apps with a redesigned layout picker
 - A new setting to configure the click behavior of an app item
 
-## [Widget Board](./Widget Board.md) 1.44.0 - September 05, 2022
+## [Platform](./Platform.md) 1.44.0 - September 05, 2022
 
 ### Added
 - [#234] Some extra options to open urls in a dialog (used by widgets)
@@ -4832,12 +4832,12 @@ Initial release 🚀
 - [#239] Support for boosted news articles
 - Optional click event tracking for Boards Analytics feature
 
-## [Widget Board](./Widget Board.md) 1.43.0 - August 26, 2022
+## [Platform](./Platform.md) 1.43.0 - August 26, 2022
 
 ### Fixed
 - An error where the new category management feature causes an issue in some cases
 
-## [Widget Board](./Widget Board.md) 1.42.0 - August 26, 2022
+## [Platform](./Platform.md) 1.42.0 - August 26, 2022
 
 ### Fixed
 - An issue where the widget library throws an error
@@ -4847,7 +4847,7 @@ Initial release 🚀
 ### Added
 - Option to open a Power BI visual in full screen
 
-## [Widget Board](./Widget Board.md) 1.41.0 - August 25, 2022
+## [Platform](./Platform.md) 1.41.0 - August 25, 2022
 
 ### Added
 - [#220] Improved ways to organize widgets using category sets and hierarchies
@@ -4864,7 +4864,7 @@ Initial release 🚀
 - Option to use characters as an app icon
 - Option to style the app with different foreground and background colors
 
-## [Widget Board](./Widget Board.md) 1.40.0 - August 25, 2022
+## [Platform](./Platform.md) 1.40.0 - August 25, 2022
 
 ### Fixed
 - An issue where selecting an image in the file picker (from within settings panel) didn&#x27;t work correctly when using the checkbox to select a file
@@ -4877,7 +4877,7 @@ Initial release 🚀
 ### Fixed
 - A minor issue where an invalid label was rendered in case something went wrong in getting a user&#x27;s sites
 
-## [Widget Board](./Widget Board.md) 1.39.0 - August 09, 2022
+## [Platform](./Platform.md) 1.39.0 - August 09, 2022
 
 ### Fixed
 - [#232] An issue where fetching a user&#x27;s security groups could result in a fatal error in case local storage quota was exceeded
@@ -4887,12 +4887,12 @@ Initial release 🚀
 ### Changed
 - PBI content in hidden carrousel slides is no longer loaded in the background. Instead, it&#x27;s loaded upon navigating to the slide. This is to prevent unnecessary burdening of the browser.
 
-## [Widget Board](./Widget Board.md) 1.38.0 - July 19, 2022
+## [Platform](./Platform.md) 1.38.0 - July 19, 2022
 
 ### Fixed
 - [#192] An issue where in rare cases the first name of a user could not be retrieved correctly and a weird message [object Object] is displayed instead
 
-## [Widget Board](./Widget Board.md) 1.37.0 - July 18, 2022
+## [Platform](./Platform.md) 1.37.0 - July 18, 2022
 
 ### Added
 - [#221] Ability to add subtitles to widgets, allowing for more distinguishable widget headers
@@ -4932,13 +4932,13 @@ Initial release 🚀
 ### Fixed
 - An issue where the widget continued to try to refresh content indefinitely even if connection was lost or failed for a while
 
-## [Widget Board](./Widget Board.md) 1.36.0 - July 06, 2022
+## [Platform](./Platform.md) 1.36.0 - July 06, 2022
 
 ### Fixed
 - [#214] An issue where sometimes category filters were visible that had no selectable widgets in them
 - An issue where widget&#x27;s production script was always loaded before a widget&#x27;s script running in debug mode
 
-## [Widget Board](./Widget Board.md) 1.35.0 - June 28, 2022
+## [Platform](./Platform.md) 1.35.0 - June 28, 2022
 
 ### Added
 - Time-based analytics feature allowing events to be raised and sent to third party analytics tools like Google Analytics, Segment, CrazyEgg and many more using the [Analytics](https://getanalytics.io/) library
@@ -4971,7 +4971,7 @@ Initial release 🚀
 ### Changed
 - Removed unnessecary cache feature that caused confusion
 
-## [Widget Board](./Widget Board.md) 1.34.0 - June 15, 2022
+## [Platform](./Platform.md) 1.34.0 - June 15, 2022
 
 ### Fixed
 - An issue where 4-column layouts in SharePoint were no longer enforced correctly
@@ -4987,7 +4987,7 @@ Initial release 🚀
 ### Changed
 - Improved user picker readability for long group names
 
-## [Widget Board](./Widget Board.md) 1.33.0 - May 27, 2022
+## [Platform](./Platform.md) 1.33.0 - May 27, 2022
 
 ### Fixed
 - An issue where the WidgetBoard_Assets library was no longer visible in the Admin panel
@@ -5030,7 +5030,7 @@ Initial release 🚀
 ### Changed
 - Color scheme used by report page navigation
 
-## [Widget Board](./Widget Board.md) 1.32.0 - May 12, 2022
+## [Platform](./Platform.md) 1.32.0 - May 12, 2022
 
 ### Added
 - An alternative way to store board configuration to support large configurations (&gt; 1MB) (experimental feature for now)
@@ -5060,7 +5060,7 @@ Initial release 🚀
 ### Added
 - New layout mode &quot;List&quot;, to display a list of items instead of displaying Power BI content directly.
 
-## [Widget Board](./Widget Board.md) 1.31.0 - May 03, 2022
+## [Platform](./Platform.md) 1.31.0 - May 03, 2022
 
 ### Changed
 - The way the widget board loads when configuration cache is available, speeding up initial load time considerably
@@ -5083,12 +5083,12 @@ Initial release 🚀
 ### Changed
 - The term &quot;(Power BI) Tile&quot; is replaced with &quot;(Power BI) Content&quot; to better reflect that we support different types of content to be rendered.
 
-## [Widget Board](./Widget Board.md) 1.30.0 - May 02, 2022
+## [Platform](./Platform.md) 1.30.0 - May 02, 2022
 
 ### Added
 - An experimental feature to import and export board configuration to your local file system.
 
-## [Widget Board](./Widget Board.md) 1.29.0 - April 27, 2022
+## [Platform](./Platform.md) 1.29.0 - April 27, 2022
 
 ### Fixed 
 - A bug where widgets rerendered when moved around the grid
@@ -5104,7 +5104,7 @@ Initial release 🚀
 ### Added
 - All new design for this widget that goes along nicely with the new design for Ichicraft Boards
 
-## [Widget Board](./Widget Board.md) 1.28.0 - April 24, 2022
+## [Platform](./Platform.md) 1.28.0 - April 24, 2022
 
 ### Added
 - A whole new design experience to Ichicraft Boards! Check the Design tab in the Board Adminsitration Panel for all the new options.
@@ -5117,7 +5117,7 @@ Initial release 🚀
 
 Initial release 🚀
 
-## [Widget Board](./Widget Board.md) 1.27.0 - March 24, 2022
+## [Platform](./Platform.md) 1.27.0 - March 24, 2022
 
 ### Added
 - A temporary work-around to help users with an issue that occurs in older Viva Connections apps in Teams
@@ -5130,7 +5130,7 @@ Initial release 🚀
 ### Changed
 - Changed necessary API Permission scope to a lower level
 
-## [Widget Board](./Widget Board.md) 1.26.0 - March 10, 2022
+## [Platform](./Platform.md) 1.26.0 - March 10, 2022
 
 ### Added
 - The long awaited feature that allows a user to edit the title of a widget
@@ -5140,7 +5140,7 @@ Initial release 🚀
 ### Fixed
 - A bug where duplicate people where sometimes displayed in &quot;People I work with&quot;
 
-## [Widget Board](./Widget Board.md) 1.25.0 - March 09, 2022
+## [Platform](./Platform.md) 1.25.0 - March 09, 2022
 
 ### Added
 - A handy search box in the Add widget panel
@@ -5155,12 +5155,12 @@ Initial release 🚀
 - Automatic authentication token refresh in the background (for long browser sessions)
 - Sorting of dropdown lists is now alphabetical
 
-## [Widget Board](./Widget Board.md) 1.24.0 - February 14, 2022
+## [Platform](./Platform.md) 1.24.0 - February 14, 2022
 
 ### Changed
 -  Replaced permission requirement User.ReadWrite.All with less privileged User.ReadWrite
 
-## [Widget Board](./Widget Board.md) 1.23.0 - February 14, 2022
+## [Platform](./Platform.md) 1.23.0 - February 14, 2022
 
 ### Added
 - Support for only making a widget variant available for new employees (to support onboarding scenarios)
@@ -5170,7 +5170,7 @@ Initial release 🚀
 - A bug where content languages weren&#x27;t displayed in board config panel but a spinner was shown instead
 - A bug where sometimes a custom tooltip re-appeared unintentionally in the widg
 
-## [Widget Board](./Widget Board.md) 1.22.0 - January 11, 2022
+## [Platform](./Platform.md) 1.22.0 - January 11, 2022
 
 ### Fixed
 - A UI issue where the Save/Cancel buttons were hidden below the scroll in a large admin config panel
@@ -5181,7 +5181,7 @@ Initial release 🚀
 ### Added
 - A search box to quickly find the bookmark you&#x27;re looking for (available from 6 bookmarks and above)
 
-## [Widget Board](./Widget Board.md) 1.21.0 - November 11, 2021
+## [Platform](./Platform.md) 1.21.0 - November 11, 2021
 
 ### Changed
 - Minor change in product name in sppkg package
@@ -5241,7 +5241,7 @@ Initial release 🚀
 ### Added
 - Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
 
-## [Widget Board](./Widget Board.md) 1.20.0 - November 10, 2021
+## [Platform](./Platform.md) 1.20.0 - November 10, 2021
 
 ### Added
 - Full support for <span style="color:white;background-color:black">&nbsp;dark&nbsp;</span> themes in MS Teams and SharePoint
@@ -5284,7 +5284,7 @@ Initial release 🚀
 ### Fixed
 - An issue where clearing the search box in the configuration panel resulted in an error
 
-## [Widget Board](./Widget Board.md) 1.19.0 - October 20, 2021
+## [Platform](./Platform.md) 1.19.0 - October 20, 2021
 
 ### Changed
 - Small (~10%) optimization in bundle size
@@ -5294,7 +5294,7 @@ Initial release 🚀
 - a bug where initial installation fails if a user doesn&#x27;t pick a single widget to install
 - a faulty message to indicate that no board templates have been created yet
 
-## [Widget Board](./Widget Board.md) 1.18.0 - October 15, 2021
+## [Platform](./Platform.md) 1.18.0 - October 15, 2021
 
 ### Fixed
 - An issue where a pushed widget that was later removed from board configuration could break a user&#x27;s board
@@ -5402,14 +5402,14 @@ Initial release 🚀
 - `85%` optimization in bundle size due to use of external modules
 - Upgraded underlying Fluent UI component library from version 7 to 8
 
-## [Widget Board](./Widget Board.md) 1.17.0 - October 07, 2021
+## [Platform](./Platform.md) 1.17.0 - October 07, 2021
 
 ### Changed
 - This version of the widget board supports V2 widget manifests. V2 introduces &#x27;externals&#x27;, allowing async loading and sharing of modules/libraries among widgets. Make sure you upgrade your widgets using [this wiki page](https://github.com/ichicraft/widgets-docs/wiki/Migrate-widget-to-Manifest-V2) to benefit from these optimizations.
 
 ## [Inbox](./Widgets/Inbox.md) 1.3.0 - September 24, 2021
 
-## [Widget Board](./Widget Board.md) 1.16.0 - September 15, 2021
+## [Platform](./Platform.md) 1.16.0 - September 15, 2021
 
 ### Added
 - New options in the so called &#x27;pushed widget&#x27; feature: it&#x27;s now possible to define if a pushed widget is _deletable_, _movable_ or _resizable_ by the user.
@@ -5424,7 +5424,7 @@ Initial release 🚀
 - A bug where upcoming events appeared to be missing in some cases where more than 100 items matched the search query
 - A bug where events that were created over 2 months ago, were missing in the results
 
-## [Widget Board](./Widget Board.md) 1.15.0 - August 26, 2021
+## [Platform](./Platform.md) 1.15.0 - August 26, 2021
 
 ### Fixed
 - A bug where the main user board layout gets messed up when an extra board is edited
@@ -5434,7 +5434,7 @@ Initial release 🚀
 ### Updated
 - Improved search experience when adding sites to configured source sites
 
-## [Widget Board](./Widget Board.md) 1.14.0 - July 28, 2021
+## [Platform](./Platform.md) 1.14.0 - July 28, 2021
 
 ### Added
 - All new Board Template editing experience
@@ -5498,12 +5498,12 @@ Initial release 🚀
 ### Fixed
 - Fixed a bug where news articles wouldn&#x27;t open in a dialog in MS Viva Connections
 
-## [Widget Board](./Widget Board.md) 1.13.0 - April 13, 2021
+## [Platform](./Platform.md) 1.13.0 - April 13, 2021
 
 ### Fixed
 - Hopefully solved an issue where in rare cases the `pageContext` property of the web part context is `undefined`
 
-## [Widget Board](./Widget Board.md) 1.12.0 - April 09, 2021
+## [Platform](./Platform.md) 1.12.0 - April 09, 2021
 
 ### Changed
 - Various improvements to initialization of widget board (lower timeout, auto refresh once on error, etc.)
@@ -5523,7 +5523,7 @@ Initial release 🚀
 ### Removed
 - We had to remove the ability to include external users since we now depend on a different endpoint in MS Graph to search
 
-## [Widget Board](./Widget Board.md) 1.11.0 - March 25, 2021
+## [Platform](./Platform.md) 1.11.0 - March 25, 2021
 
 ### Added
 - Option to use a 6 column layout in SharePoint on high resolution screens
@@ -5588,12 +5588,12 @@ Initial release 🚀
 
 Initial release 🚀
 
-## [Widget Board](./Widget Board.md) 1.10.0 - March 05, 2021
+## [Platform](./Platform.md) 1.10.0 - March 05, 2021
 
 ### Fixed
 - Fixed an issue with z-indexes being too high for widget elements, causing stacking issues with new App Bar in SharePoint
 
-## [Widget Board](./Widget Board.md) 1.9.0 - March 05, 2021
+## [Platform](./Platform.md) 1.9.0 - March 05, 2021
 
 ### Fixed
 - Hotfixed an issue that could occur in browsers that don&#x27;t support customElements
@@ -5611,7 +5611,7 @@ Initial release 🚀
 
 Initial release 🚀
 
-## [Widget Board](./Widget Board.md) 1.8.0 - February 24, 2021
+## [Platform](./Platform.md) 1.8.0 - February 24, 2021
 
 ### Added
 - Added additional static class names to allow CSS overrides of the board navigation (part of board header)
@@ -5661,7 +5661,7 @@ Initial release 🚀
 ### Fixed
 - Fixed a bug where updating admin configuration as an admin didn&#x27;t result in clearing cache
 
-## [Widget Board](./Widget Board.md) 1.7.0 - February 03, 2021
+## [Platform](./Platform.md) 1.7.0 - February 03, 2021
 
 ### Added
 - Posibility to target (variants of) widgets to specific audiences

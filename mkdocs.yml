@@ -1,9 +1,18 @@
-site_name: Ichicraft Boards - Release Notes
+site_name: Bloom Intranet - Release Notes
 site_url: https://ichicraft.github.io/widgets-docs/
 theme:
     name: material
     logo: images/logo.png
     favicon: images/favicon.png
+plugins:
+    - search
+    # The page was named 'Widget Board' until the Bloom rebrand; the changelog dialog in
+    # released tenants still asks for that URL until the next Core release goes out.
+    - redirects:
+          redirect_maps:
+              "Widget Board.md": Platform.md
+markdown_extensions:
+    - attr_list
 extra_css:
     - styles/extra.css
 extra_javascript:
