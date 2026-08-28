@@ -1,4 +1,5 @@
 site/
+.venv/
 
 # OSX
 .DS_Store
