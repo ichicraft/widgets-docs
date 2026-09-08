@@ -1,3 +1,17 @@
+## 1.84.0 - September 08, 2026
+
+### Added
+- Copilot can now be used in embedded Power BI reports. Switch on the new Copilot toggle, which appears once the action bar is enabled. Copilot is off by default, also for reports that already use the action bar.
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- Dutch 🇳🇱 texts now address you informally and use consistent wording throughout.
+- Various under-the-hood updates to keep the widget current with the platform.
+
+### Fixed
+- Report counts are shown correctly again in Polish 🇵🇱 and Romanian 🇷🇴.
+- The widget now asks for the two Power BI permissions the action bar needs. Once your administrator grants them, personal bookmarks and persistent filters work as intended, and Copilot becomes available.
+
 ## 1.83.0 - August 25, 2026
 
 ### Added
