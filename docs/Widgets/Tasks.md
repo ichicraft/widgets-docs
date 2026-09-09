@@ -1,3 +1,26 @@
+## 1.24.0 - September 09, 2026
+
+### Added
+- Plans that were shared with you through a group now appear in the Planner tab. You can add tasks to them and open their tasks, the same as your own plans.
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- Dutch 🇳🇱 texts now address you informally and use consistent wording throughout.
+- The Planner tab opens faster. Plan and bucket lists are fetched when you start adding or editing a task, instead of every time the widget loads.
+- The plan and bucket fields in task details are no longer selectable when there is nothing else to choose, and a plan with a single bucket fills that bucket in for you.
+- A plan that has no buckets now says so in the add-task menu, instead of offering an empty list with no explanation.
+- Various under-the-hood updates to keep the widget current with the platform.
+
+### Fixed
+- The plan name is shown under each Planner task again, instead of being left blank.
+- The bucket field in Planner task details now lists the buckets of the task's plan. It was permanently empty and greyed out.
+- A task you add while the Planner tab is showing only tasks assigned to you is now assigned to you, so it no longer disappears the next time the list refreshes.
+- The plan field in task details now offers only the plans a task can actually be moved to, instead of accepting a move that fails when you save.
+- Changing a task's plan now clears its bucket and asks you to pick one that belongs to the new plan, instead of failing on save.
+- Notes added to a task you have just created are now saved without reporting an error.
+- An error message from a failed action now disappears once a later action succeeds or you close the task, instead of staying on screen.
+- Links on To Do tasks now open in an isolated tab, and only ordinary web addresses are opened.
+
 ## 1.23.0 - August 25, 2026
 
 ### Changed
