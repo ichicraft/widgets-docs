@@ -1,3 +1,11 @@
+## [World Clock](./Widgets/World Clock.md) 1.13.0 - September 10, 2026
+
+### Added
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- Various under-the-hood updates to keep the widget current with the platform.
+
 ## [Bookmarks](./Widgets/Bookmarks.md) 1.17.0 - September 10, 2026
 
 ### Added
