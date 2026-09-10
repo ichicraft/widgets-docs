@@ -1,3 +1,22 @@
+## 1.24.0 - September 10, 2026
+
+### Added
+- Bloom Groups can now be used as the audience of a category or content item, and count towards the calculated audience size.
+- The account age range that limits an item to new employees can now be overridden per item, using an explicit toggle.
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- The contributor content list now uses the standard Bloom content list, so columns, sorting and manual ordering behave the same as in the other widgets.
+- The item editing dialog has been reorganised, with audience settings grouped into their own section.
+- Language files are now loaded on demand instead of being bundled with the widget, reducing its download size.
+- Dutch 🇳🇱 texts now address you informally and use consistent wording throughout.
+- Various under-the-hood updates to keep the widget current with the platform.
+
+### Fixed
+- Assorted fixes and visual polish across the content management dialogs.
+- The warning that an audience size may count people twice now appears only when the figure really is an approximation. It used to show whenever more than one group was picked, even though overlapping members are deduplicated.
+- Links now open in an isolated tab, and only ordinary web addresses are opened.
+
 ## 1.23.0 - August 10, 2026
 
 ### Added
