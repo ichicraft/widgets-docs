@@ -1,3 +1,13 @@
+## [Copilot](./Widgets/Copilot.md) 1.9.0 - September 10, 2026
+
+### Added
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- In a short widget, where the introduction header is hidden, the top padding is reduced so more of the conversation fits.
+- Dutch 🇳🇱 texts now address you informally and use consistent wording throughout.
+- Various under-the-hood updates to keep the widget current with the platform.
+
 ## [Power Apps](./Widgets/Power Apps.md) 1.3.0 - September 10, 2026
 
 ### Added
