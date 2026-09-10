@@ -1,3 +1,12 @@
+## 1.8.0 - September 10, 2026
+
+### Added
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- The widget calls the product Bloom Intranet instead of Ichicraft Boards, in the message shown when a page has no other web parts and in the widget description.
+- Various under-the-hood updates to keep the widget current with the platform.
+
 ## 1.7.0 - August 25, 2026
 
 ### Changed
