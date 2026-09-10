@@ -1,3 +1,15 @@
+## [Birthdays](./Widgets/Birthdays.md) 1.32.0 - September 10, 2026
+
+### Added
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- Various under-the-hood updates to keep the widget current with the platform.
+
+### Fixed
+- Changing your birthday no longer empties the birthday list for the rest of the day.
+- A birthday change that fails now reports an error instead of closing as if it saved.
+
 ## [Tableau Reports](./Widgets/Tableau Reports.md) 1.17.0 - September 10, 2026
 
 ### Added
