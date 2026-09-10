@@ -1,3 +1,16 @@
+## [Approvals](./Widgets/Approvals.md) 1.3.0 - September 10, 2026
+
+### Added
+- When configuring an approvals list you can now pick the request form from the forms on that SharePoint list, or use the list's own default form, instead of pasting a url. The form you picked is remembered and its link refreshed each time you open the settings. Entering a url by hand is still available.
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- Dutch 🇳🇱 texts now address you informally and use consistent wording throughout.
+- Various under-the-hood updates to keep the widget current with the platform.
+
+### Fixed
+- Links now open in an isolated tab, and only ordinary web addresses are opened.
+
 ## [Platform](./Platform.md) 1.153.0 - September 10, 2026
 
 ### Added
