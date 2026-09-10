@@ -1,3 +1,16 @@
+## 1.37.0 - September 10, 2026
+
+### Added
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- Dutch 🇳🇱 texts now address you informally and use consistent wording throughout.
+- Various under-the-hood updates to keep the widget current with the platform.
+
+### Fixed
+- File and site links now open in an isolated tab, and only ordinary web addresses are opened.
+- Counts are shown correctly again in Polish 🇵🇱 and Romanian 🇷🇴.
+
 ## 1.36.0 - August 25, 2026
 
 ### Added
