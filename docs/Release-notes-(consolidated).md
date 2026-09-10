@@ -1,3 +1,23 @@
+## [Platform](./Platform.md) 1.153.0 - September 10, 2026
+
+### Added
+- Widget developers can debug several widgets at once. The debug menu lists what is being debugged, where each bundle is served from and when it loaded, and lets you start or stop a widget and add it to the board. Debug mode is offered only when the web part is served from your own machine.
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+- A Show sidebar control in the widget and board libraries.
+
+### Changed
+- The filter sidebars in the widget and board libraries have been reworked, along with the widget and board cards.
+- Dutch 🇳🇱 texts now address you informally and use consistent wording throughout.
+- Various under-the-hood updates to keep the platform current.
+
+### Fixed
+- The buddy bar's context menu is positioned correctly again, and its admin settings action is available again.
+- The Create button in the shared boards panel has the right padding.
+- A card's corner action and footer now sit the same distance from every edge.
+- Links now open in an isolated tab, and only ordinary web addresses are opened.
+- Debugging a widget no longer adds a duplicate of it to the widget library, next to the variants that are already there.
+- The search box in the Bloom Groups admin settings is labelled in Hungarian 🇭🇺, Romanian 🇷🇴 and Chinese 🇨🇳 instead of falling back to English.
+
 ## [Events](./Widgets/Events.md) 1.34.0 - September 10, 2026
 
 ### Added
