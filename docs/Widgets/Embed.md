@@ -1,3 +1,14 @@
+## 1.16.0 - September 10, 2026
+
+### Added
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- Various under-the-hood updates to keep the widget current with the platform.
+
+### Removed
+- The Instagram, TikTok and Tomorrow.io examples have been removed from the embed examples list; they no longer work.
+
 ## 1.15.0 - August 25, 2026
 
 ### Changed
