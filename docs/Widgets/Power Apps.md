@@ -1,3 +1,14 @@
+## 1.3.0 - September 10, 2026
+
+### Added
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- Various under-the-hood updates to keep the widget current with the platform.
+
+### Fixed
+- The message shown before an app is configured sits in the middle of the widget again, instead of near the top.
+
 ## 1.2.0 - August 25, 2026
 
 ### Changed
