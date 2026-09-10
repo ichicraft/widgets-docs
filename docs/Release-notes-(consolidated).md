@@ -1,3 +1,15 @@
+## [External Feeds](./Widgets/External Feeds.md) 1.33.0 - September 10, 2026
+
+### Added
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- Dutch 🇳🇱 texts now address you informally and use consistent wording throughout.
+- Various under-the-hood updates to keep the widget current with the platform.
+
+### Fixed
+- Feed links now open in an isolated tab, and only ordinary web addresses are opened.
+
 ## [Sticky Notes](./Widgets/Sticky Notes.md) 1.15.0 - September 10, 2026
 
 ### Added
