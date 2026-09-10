@@ -1,3 +1,16 @@
+## 1.62.0 - September 10, 2026
+
+### Added
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- The click behaviour settings call the product Bloom Intranet instead of Ichicraft Boards.
+- Dutch 🇳🇱 texts now address you informally and use consistent wording throughout.
+- Various under-the-hood updates to keep the widget current with the platform.
+
+### Fixed
+- Counts are shown correctly again in Polish 🇵🇱 and Romanian 🇷🇴.
+
 ## 1.61.0 - August 25, 2026
 
 ### Added
