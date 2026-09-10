@@ -1,3 +1,12 @@
+## 1.65.0 - September 10, 2026
+
+### Added
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- The click behaviour settings and the apps migration dialog call the product Bloom Intranet instead of Ichicraft Boards.
+- Various under-the-hood updates to keep the widget current with the platform.
+
 ## 1.64.0 - August 25, 2026
 
 ### Added
