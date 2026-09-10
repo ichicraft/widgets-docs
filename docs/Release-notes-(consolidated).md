@@ -1,3 +1,17 @@
+## [Events](./Widgets/Events.md) 1.34.0 - September 10, 2026
+
+### Added
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- Dutch 🇳🇱 texts now address you informally and use consistent wording throughout.
+- The click behaviour settings call the product Bloom Intranet instead of Ichicraft Boards.
+- Various under-the-hood updates to keep the widget current with the platform.
+
+### Fixed
+- Events keep refreshing while a board stays open. Refreshing stopped after the first update, so the list could go stale until you reloaded the page.
+- The See more link under the recently visited sites in the widget configuration can now be clicked.
+
 ## [Tasks](./Widgets/Tasks.md) 1.24.0 - September 09, 2026
 
 ### Added
