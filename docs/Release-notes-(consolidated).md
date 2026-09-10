@@ -1,3 +1,15 @@
+## [Sticky Notes](./Widgets/Sticky Notes.md) 1.15.0 - September 10, 2026
+
+### Added
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- Various under-the-hood updates to keep the widget current with the platform.
+
+### Fixed
+- Text formatting in notes shows again: underline, strikethrough, bulleted lists and paragraph spacing had no styling applied.
+- Links now open in an isolated tab, and only ordinary web addresses are opened.
+
 ## [People Search](./Widgets/People Search.md) 1.26.0 - September 10, 2026
 
 ### Added
