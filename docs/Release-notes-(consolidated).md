@@ -1,3 +1,15 @@
+## [Followed Sites](./Widgets/Followed Sites.md) 1.18.0 - September 10, 2026
+
+### Added
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- Dutch 🇳🇱 texts now address you informally and use consistent wording throughout.
+- Various under-the-hood updates to keep the widget current with the platform.
+
+### Fixed
+- Links now open in an isolated tab, and only ordinary web addresses are opened.
+
 ## [Copilot](./Widgets/Copilot.md) 1.9.0 - September 10, 2026
 
 ### Added
