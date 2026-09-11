@@ -1,3 +1,8 @@
+## [Files](./Widgets/Files.md) 1.38.0 - September 11, 2026
+
+### Fixed
+- "Open in app" opens Word, Excel, PowerPoint, Visio and OneNote files in the desktop app again. Since 1.37.0 the option did nothing when clicked.
+
 ## [Embed](./Widgets/Embed.md) 1.16.0 - September 10, 2026
 
 ### Added
