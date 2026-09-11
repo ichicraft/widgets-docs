@@ -1,3 +1,8 @@
+## 1.154.0 - September 11, 2026
+
+### Added
+- A "Greet users by first name" toggle under Design, Header style. Switch it off and the header greets everyone with just the time of day, with correct punctuation in every language.
+
 ## 1.153.0 - September 10, 2026
 
 ### Added

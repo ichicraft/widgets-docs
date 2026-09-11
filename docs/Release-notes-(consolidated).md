@@ -1,3 +1,8 @@
+## [Platform](./Platform.md) 1.154.0 - September 11, 2026
+
+### Added
+- A "Greet users by first name" toggle under Design, Header style. Switch it off and the header greets everyone with just the time of day, with correct punctuation in every language.
+
 ## [Files](./Widgets/Files.md) 1.38.0 - September 11, 2026
 
 ### Fixed
