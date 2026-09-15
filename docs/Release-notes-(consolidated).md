@@ -1,3 +1,8 @@
+## [Apps](./Widgets/Apps.md) 1.66.0 - September 15, 2026
+
+### Fixed
+- The information balloon on an app no longer stays on screen, on top of the window, when you open an app's detailed information from it.
+
 ## [Platform](./Platform.md) 1.155.0 - September 15, 2026
 
 ### Fixed
