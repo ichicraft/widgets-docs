@@ -1,3 +1,8 @@
+## [Platform](./Platform.md) 1.155.0 - September 15, 2026
+
+### Fixed
+- The debug icon in the header no longer appears for everyone.
+
 ## [Platform](./Platform.md) 1.154.0 - September 11, 2026
 
 ### Added
