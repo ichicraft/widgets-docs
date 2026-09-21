@@ -1,3 +1,7 @@
+## [Power BI Commentary](./Widgets/Power BI Commentary.md) 0.1.0 - September 21, 2026
+
+
+
 ## [Apps](./Widgets/Apps.md) 1.66.0 - September 15, 2026
 
 ### Fixed
