@@ -1,3 +1,14 @@
+## 1.39.0 - September 28, 2026
+
+### Added
+- Ask Copilot about a file from its menu. The chat opens in a dialog with a preview of the file beside it, and offers prompts to summarize the file or create an FAQ.
+- Copilot follows the Copilot settings in the Bloom Intranet admin center and only appears for the people allowed to use it there. Administrators can switch it off for the widget and write its default prompts, and each tab can add prompts of its own and choose whether the defaults are included.
+- Deleting a tab, column, filter or template now asks for confirmation first.
+
+### Changed
+- The lists of tabs, columns, filters and templates in the settings, and their edit dialogs, have a refreshed look. Edit, duplicate and delete now sit together in each item's menu.
+- The Add files tab can be removed straight from the list of tabs, which switches off the Add file menu as a tab.
+
 ## 1.38.0 - September 11, 2026
 
 ### Fixed
