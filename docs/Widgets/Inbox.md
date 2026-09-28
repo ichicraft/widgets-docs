@@ -1,3 +1,21 @@
+## 1.30.0 - September 28, 2026
+
+### Added
+- Right-click an email for a menu with Open in new tab, Ask Copilot, Mark as read or unread, Flag, Mark complete, Unflag and Delete.
+- Ask Copilot about an email from its menu, the quick actions on the email or the card that appears on hover, with prompts to summarize it, explain the thread and find out what is being asked of you. Copilot is only offered for a personal mailbox.
+- Administrators can switch Copilot off for the widget and edit the default prompts. Users can add prompts of their own and choose whether the defaults are included.
+- Each email shows the sender's picture, or their initials in a color of their own when there is no photo. Pictures show once the widget is at least two columns wide and can be switched off in the settings.
+- On phones and tablets, tapping an email opens its details in a dialog.
+
+### Changed
+- The unread count shows as a badge after the widget title and follows the selected tab.
+- Flagged emails show a filled flag.
+- The display density options have new icons.
+
+### Fixed
+- The card with an email's details no longer stays stuck on screen after tapping an email on a phone.
+- The unread count no longer disappears after flagging or deleting an email.
+
 ## 1.29.0 - September 10, 2026
 
 ### Added
