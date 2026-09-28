@@ -1,3 +1,35 @@
+## 1.156.0 - September 28, 2026
+
+### Added
+- Administrators can switch on the Copilot integration in the admin center's general settings and choose who may use it. An empty list allows everyone.
+- Widgets can be shown without a card/background, with their header actions on top of them when hovered.
+- Right-clicking a widget's header opens its header menu.
+- Widgets can show an icon and a badge in their header, and limit it to the actions a user can take right away.
+- Widgets can follow their size, the selected tab, dragging and resizing, their settings permission, and theme and design changes without being reloaded, and can line their content up with the board's columns.
+- Buddies that don't fit move into an overflow menu, from which they can be dragged back into the bar, and every buddy shows its name in a tooltip.
+- The admin center has a compact navigation on narrow screens, and on mobile it opens from the header's more menu.
+- The draft preview bar shows which draft configurations are being previewed.
+
+### Changed
+- Widening a widget into a neighbour pushes the neighbour aside instead of moving the widget you are resizing.
+- A widget's title, icon, badge, tabs and header style from the previous visit show right away while it loads.
+- The buddy bar docks to the bottom on tablets as well as phones.
+- The header search box switches between a button and a full box to fit the space available.
+- The greeting always shows the time-of-day message, in a smaller size on narrow screens.
+- The mobile header runs edge to edge and shows the profile picture and the debug button, and the board navigation panel opens with an animation and shows the logo.
+- In the Hero layout the greeting sits evenly below the arc background, and the buddy bar uses the special element background.
+- While settings are saved, the header shows a spinner with a tooltip instead of a label.
+
+### Fixed
+- Dragging and resizing widgets is more reliable: swaps happen at the same point for every widget, resize handles keep up with fast movements, and a widget no longer grows while it moves up during a resize.
+- A widget's header no longer stays hidden after the widget stops hiding it.
+- New users see their configuration package's theme on the welcome screen instead of the default one.
+- The introduction tips no longer flash the wrong tip on load, or stay away behind a tip that can't be shown yet.
+- SVG and Copilot icons are no longer off-centre, too small or blank in widget command bars, menus and lists.
+- Bloom Intranet no longer flashes the greeting or a different theme while it loads.
+- No scrollbar appears beside the left navigation when there is nothing to scroll, and the docked buddy bar on mobile no longer covers the last widget.
+- Editing rich text in the admin center no longer fails next to a widget with its own rich text editor, such as Sticky Notes.
+
 ## 1.155.0 - September 15, 2026
 
 ### Fixed
