@@ -1,3 +1,10 @@
+## 1.25.0 - September 28, 2026
+
+### Added
+- Each task has a menu, from a button that appears on hover or with a right-click: Open, Ask Copilot, mark as completed or not completed, importance for To Do tasks, and Delete.
+- Ask Copilot about a task, with prompts to help you get started, find related information, draft an update or work out what you need.
+- Administrators can switch Copilot off for the widget and edit the default prompts. Users can add prompts of their own and choose whether the defaults are included.
+
 ## 1.24.0 - September 09, 2026
 
 ### Added
