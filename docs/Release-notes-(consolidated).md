@@ -1,3 +1,8 @@
+## [Tasks](./Widgets/Tasks.md) 1.26.0 - September 29, 2026
+
+### Fixed
+- Ask Copilot on a task no longer waits 20 seconds before the chat loads the first time it is opened on a page, which mostly happened after clearing the browser cache.
+
 ## [Search](./Widgets/Search.md) 1.19.0 - September 29, 2026
 
 ### Fixed
