@@ -1,3 +1,14 @@
+## 1.10.0 - September 29, 2026
+
+### Changed
+- The Copilot widget follows the Copilot integration in the Bloom Intranet admin center. When the integration is switched off, or you are not one of its Copilot users, the widget says so instead of showing the chat, and the buddy no longer opens Copilot.
+
+### Fixed
+- The Copilot chat no longer waits 20 seconds before it loads the first time it is opened on a page, which mostly happened after clearing the browser cache.
+- In Teams, a Copilot chat opened after the first one on a page no longer goes white while it loads.
+- On iOS, the page no longer zooms in when you type in the Copilot chat.
+- The prompts button in the Copilot panel no longer appears for Copilot Studio agents, which cannot take prompts from it.
+
 ## 1.9.0 - September 10, 2026
 
 ### Added
