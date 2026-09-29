@@ -1,3 +1,8 @@
+## 1.19.0 - September 29, 2026
+
+### Fixed
+- Copilot in search no longer waits 20 seconds before it loads the first time it is opened on a page, which mostly happened after clearing the browser cache.
+
 ## 1.18.0 - September 29, 2026
 
 ### Added
