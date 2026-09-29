@@ -1,3 +1,31 @@
+## 1.18.0 - September 29, 2026
+
+### Added
+- You can ask Copilot about your search: from the search box, from a result, or from the buddy bar. The answer appears in a chat panel beside your results, so you keep the results you were looking at.
+- The search dialog has its own Copilot page next to your searches, with recommended prompts to start from.
+- Each result offers prompts that suit what it is. A file offers Summarize this file and Create an FAQ for this file; a Teams message offers Catch me up on this conversation; a person offers Who is this person and What does this person work on; sites, meetings and threads have their own.
+- Recent prompts are kept, so you can pick up a question you asked before.
+- A new Search bar layout: a prominent search box on your board, with the results opening in a dialog. It has a switch between search and Copilot, on phones too.
+- The small search box in the buddy bar has the same switch between search and Copilot.
+- The Searches layout has an Ask Copilot button in the widget header.
+- A search widget of at least four by four board columns and rows shows the search dialog's content right in the widget.
+- Administrators can decide whether users may change the default layout.
+- Copilot follows the Copilot settings in the Bloom Intranet admin center and only appears for the people allowed to use it there. Administrators can point it at a custom agent instead of Microsoft's default, give an individual search scope its own agent, or switch it off for the widget.
+- A Scroll to top button in the results list.
+- Swedish 🇸🇪, Danish 🇩🇰, Norwegian 🇳🇴, Finnish 🇫🇮 and Turkish 🇹🇷 language support.
+
+### Changed
+- The search dialog reopens on its overview when it has one, instead of the first scope.
+- On phones, the buddy bar shows its regular icon instead of the small search box, which was too cramped to use there.
+- The small buddy search box keeps a fixed height and has rounded ends like the search bar.
+- Results show placeholder rows while they load, instead of a spinner.
+- The settings for search scopes, filters and sort options have a refreshed layout, in line with the other Bloom Intranet widgets.
+- Dutch texts now address you informally and use consistent wording throughout.
+
+### Fixed
+- Links now open in an isolated tab, and only web, email, phone and Office app links are opened.
+- The default search scopes and sort options are named in every language the widget supports, including Hungarian, Romanian and Chinese.
+
 ## 1.17.0 - August 25, 2026
 
 ### Added
