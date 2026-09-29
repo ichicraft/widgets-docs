@@ -1,3 +1,8 @@
+## [Inbox](./Widgets/Inbox.md) 1.31.0 - September 29, 2026
+
+### Fixed
+- Ask Copilot on an email no longer waits 20 seconds before the chat loads the first time it is opened on a page, which mostly happened after clearing the browser cache.
+
 ## [Tasks](./Widgets/Tasks.md) 1.26.0 - September 29, 2026
 
 ### Fixed

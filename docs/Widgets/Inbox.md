@@ -1,3 +1,8 @@
+## 1.31.0 - September 29, 2026
+
+### Fixed
+- Ask Copilot on an email no longer waits 20 seconds before the chat loads the first time it is opened on a page, which mostly happened after clearing the browser cache.
+
 ## 1.30.0 - September 28, 2026
 
 ### Added
