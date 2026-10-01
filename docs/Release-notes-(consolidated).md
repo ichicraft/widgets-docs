@@ -1,3 +1,14 @@
+## [Power BI](./Widgets/Power BI.md) 1.85.0 - October 01, 2026
+
+### Changed
+- Reports, report visuals, and dashboard tiles opened in a dialog now open faster after the first one.
+- The Copilot option in a report's settings is switched off and unavailable while the Copilot integration is switched off, with a tooltip explaining that an administrator can switch it on in the Admin center. Users who aren't in the Copilot users list no longer see the option.
+
+### Fixed
+- Opening Power BI reports or report visuals one after another in a dialog should make Microsoft Teams less often run out of memory and show "We've run into an issue".
+- Embedded reports no longer offer Copilot on a board where the Copilot integration is switched off, or to users who don't have access to it.
+- In Safari, reports and collections in the widget's settings can be dragged to reorder them.
+
 ## [Copilot](./Widgets/Copilot.md) 1.10.0 - September 29, 2026
 
 ### Changed
