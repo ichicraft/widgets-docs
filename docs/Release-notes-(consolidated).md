@@ -1,3 +1,17 @@
+## [Platform](./Platform.md) 1.157.0 - October 02, 2026
+
+### Changed
+- Dragging an entry in an admin center list now lifts a copy that follows the pointer, while a shaded slot shows where it will land and the other entries slide out of the way.
+- Large admin center forms, such as the theme editor, open faster.
+
+### Fixed
+- Custom widgets built on React 16, such as those created from the widget template before September 2026, respond again in their admin settings, their user settings and the buddy flyout. Since 1.156.0, clicks, typing and drag and drop did nothing there, while hovering still showed.
+- Lists in a custom widget's settings or flyout can be reordered by dragging again: a dragged item no longer stays stuck to the pointer when it is let go outside the widget, and in Safari it can be picked up.
+- In Safari, boards can be reordered by dragging again in the navigation panel, the More menu and the navigation group menus.
+- In Safari, entries in admin center lists can be picked up and dragged again.
+- When an entry in an admin center list is dragged quickly, the landing slot follows the pointer straight away, and a fast drag past either end of the list lands at that end.
+- An entry dragged to the top of an admin center list keeps the usual spacing to the entry below it, and a reordered list no longer shows its old order for a moment when the entry is dropped.
+
 ## [Power BI](./Widgets/Power BI.md) 1.85.0 - October 01, 2026
 
 ### Changed
