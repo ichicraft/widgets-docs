@@ -1,3 +1,12 @@
+## 1.86.0 - October 02, 2026
+
+### Changed
+- Report slides and collection tabs now show their next report faster after the first one.
+- While a report loads in a dialog or on a slide, a loading animation shows in its place and the report fades in once it is ready.
+
+### Fixed
+- Going through the reports of a carousel or of collection tabs one after another no longer makes Microsoft Teams run out of memory and show "We've run into an issue".
+
 ## 1.85.0 - October 01, 2026
 
 ### Changed
