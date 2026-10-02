@@ -11,6 +11,7 @@
 - In Safari, entries in admin center lists can be picked up and dragged again.
 - When an entry in an admin center list is dragged quickly, the landing slot follows the pointer straight away, and a fast drag past either end of the list lands at that end.
 - An entry dragged to the top of an admin center list keeps the usual spacing to the entry below it, and a reordered list no longer shows its old order for a moment when the entry is dropped.
+- Choosing Rename in a widget's More options menu or header menu keeps its title field open for editing, instead of closing it straight away.
 
 ## 1.156.0 - September 28, 2026
 
