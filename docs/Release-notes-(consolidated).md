@@ -1,3 +1,8 @@
+## [Power BI](./Widgets/Power BI.md) 1.87.0 - October 05, 2026
+
+### Changed
+- A report that takes long to load in a dialog, on a slide or in a collection tab now shows Power BI's own loading progress after a few seconds, instead of a loading animation until it has finished.
+
 ## [Power BI](./Widgets/Power BI.md) 1.86.0 - October 02, 2026
 
 ### Changed
