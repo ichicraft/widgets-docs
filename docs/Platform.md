@@ -1,3 +1,26 @@
+## 1.158.0 - October 10, 2026
+
+### Added
+- A backup remembers the site it was made on. Restoring it on another site, or in another tenant, moves links to the old site to the new one and points site and list settings at their counterparts there.
+- After a restore, you see which settings point at a site, list, page or folder that doesn't exist on the new site yet.
+- A backup with warnings waits for you to download it, so you get the chance to fix the configuration first.
+- A backup lists references that are already broken, and a restore lists the ones it couldn't import.
+- A backup warns you when it can't record its site, or can't read a site its settings point to; restored elsewhere, those links stay as they were.
+- Backups now include Bloom Groups.
+
+### Changed
+- Backups are now always made from the published version, and you get a warning when you or someone else has draft configuration changes.
+- Restoring reuses files that already exist on the new site instead of copying them into the Assets library, and puts files from a widget's own folder back in that folder.
+- A backup's warnings stay visible while you move around the Admin Center.
+
+### Fixed
+- Search scopes, folders and other links that aren't files are no longer turned into files in a backup.
+- Backups made on a root site no longer break links to files.
+- Restored files keep their names, instead of turning spaces into %20.
+- A backup no longer saves an error page as if it were the file, and stores a file referenced by different addresses once.
+- Choosing a file that isn't a backup zip now says the file is invalid, instead of reporting that the restore failed.
+- Requesting API permissions no longer adds three invalid entries to the trusted script sources in the SharePoint Admin Center. Entries added by earlier versions can be deleted there.
+
 ## 1.157.0 - October 02, 2026
 
 ### Changed
