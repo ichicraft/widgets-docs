@@ -1,3 +1,13 @@
+## [Power BI](./Widgets/Power BI.md) 1.88.0 - October 14, 2026
+
+### Changed
+- Copilot in Power BI reports no longer depends on the Copilot integration in the Admin center. A report's Enable Copilot setting is the only switch in the widget, and Power BI's own Copilot settings decide who can use it.
+- Dragging a report into another group in the settings now slides it into place, along with the rows around it.
+- The arrows of a report carousel are now named for screen readers and show while the carousel has keyboard focus, and Tab skips the slides that are out of view.
+
+### Fixed
+- Editing, deleting or moving a report in a collection while the settings are filtered by a search no longer removes the collection's other reports.
+
 ## [Platform](./Platform.md) 1.158.0 - October 10, 2026
 
 ### Added
