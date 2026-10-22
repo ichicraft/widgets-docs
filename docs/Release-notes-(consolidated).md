@@ -1,3 +1,30 @@
+## [Platform](./Platform.md) 1.160.0 - October 22, 2026
+
+### Added
+- The Bloom Guide, the knowledge base for Bloom Hub, now opens right inside Bloom Intranet, on its home page, from Guide in the header menu.
+- Discover more in the widget menu opens the widget's own article in the guide. Admins also find Discover more in the widget details and settings.
+- Discover more on Admin center pages opens the article about that page.
+- Copy link in the guide gives a link that opens the same article in Bloom Intranet, so you can send an article to a colleague, who reads it in their own language.
+- A Bloom Guide section in General settings lets you choose who can use the help articles and interactive guides, who sees What's new, and whether people only get help for the widgets they can add. By default everyone gets help for the widgets they can add, and your current What's new setting is kept. A group you limited Interactive guides to is not carried over: help starts open to everyone.
+- The guide follows Bloom Intranet's theme, so it opens in dark mode when Bloom Intranet does.
+- Two tips point you to the guide: Guide in the header menu, and Discover more in a widget's menu. They show after you have set up your board, as part of the tour. Admins get one more, once, in the Admin center, about Discover more there, with a View guide button that opens the guide.
+- When the guide cannot open, a message says so, with a Try again button where that helps.
+- The guide is available to organizations with an active license or trial.
+
+### Changed
+- What's new in the header menu now opens the latest product updates in the guide, and its badge shows when there is an update you have not seen yet, for organizations with an active license or trial. The badge checks for updates every hour and when you come back to the tab. Widget and Bloom Group admins now see What's new too.
+- In the widget menu, Discover more takes the place of View information for widgets with an article in the guide. Other widgets keep View information.
+- A widget's menu stays with its button when you scroll or resize the window, moves back below the button when there is room again, and no longer slides under SharePoint's app bar.
+- The tour of tips waits until you have finished getting started.
+
+### Fixed
+- On the home board with the Hero header, the hidden search button no longer leaves an empty space in the header.
+- The install screen no longer shows the greeting and profile picture, the dark fade at the top of the page, or a white footer. On phones, it no longer shows the navigation and more menus.
+- For someone whose language is Brazilian Portuguese or Traditional Chinese, the first load no longer shows European Portuguese or Simplified Chinese before switching to the default language or English.
+
+### Removed
+- Interactive guides is no longer a separate item in the header menu or in General settings. The interactive guides are in the guide now.
+
 ## [Power BI](./Widgets/Power BI.md) 1.88.0 - October 14, 2026
 
 ### Changed
