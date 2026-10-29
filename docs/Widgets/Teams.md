@@ -1,3 +1,16 @@
+## 1.15.0 - October 29, 2026
+
+### Added
+- Copilot can be asked about a team from the Copilot button that appears when you hover over the team, or from its menu, with ready-made prompts such as catching up on the past week.
+- Copilot can be asked about all your teams from the Copilot button in the widget header, for example to find conversations waiting for your reply.
+- Admins can switch Copilot off for the widget and change the prompts it offers. Copilot only shows when the Copilot integration is on in the Admin center.
+- Each team has a menu, also on right-click, to open it in Teams or copy its link.
+- A search box appears above the list when you are in more than eight teams.
+
+### Changed
+- The teams from your last visit show at once while the list refreshes, together with the first teams' pictures.
+- Archived teams are no longer listed.
+
 ## 1.14.0 - September 10, 2026
 
 ### Added
