@@ -1,3 +1,17 @@
+## 1.63.0 - October 29, 2026
+
+### Added
+- Users can ask Copilot about a news post.
+- Ask Copilot about the latest news from the widget header.
+- Admins can switch Copilot on or off for the widget and define the prompts users are offered, about a post or about the news feed.
+- Users can add their own Copilot prompts in the widget's settings.
+- Right-clicking a news post now offers Open post and Open in new window, and Ask Copilot where Copilot is available.
+
+### Changed
+- "Show all" now shows Tags, posts and Copilot side by side in a wider dialog. The Tags column can be collapsed and stays collapsed the next time it opens.
+- "Show all" now offers tag filters on tablets and phones too, where they filter the list as they do on larger screens.
+- Updated the news carousel.
+
 ## 1.62.0 - September 10, 2026
 
 ### Added
