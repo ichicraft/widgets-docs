@@ -1,3 +1,17 @@
+## 1.24.0 - October 29, 2026
+
+### Added
+- A meeting can now be asked about through Copilot, opened from its hover callout or from a right-click menu on a list row.
+- A new button in the widget header asks Copilot about today and the six days after it.
+- Administrators can enable or disable Copilot and manage the prompts every user is offered.
+- On a device without hover, tapping a meeting opens its callout, instead of opening Outlook directly.
+
+### Changed
+- The list view keeps the list where the user scrolled it while meetings refresh, instead of pulling it back to today's next meeting on every refresh.
+
+### Fixed
+- Portuguese translations now use European Portuguese throughout instead of a mix with Brazilian Portuguese.
+
 ## 1.23.0 - September 10, 2026
 
 ### Added
