@@ -1,3 +1,26 @@
+## 1.161.0 - October 29, 2026
+
+### Added
+- Boards and board templates can now be split into sections, each with its own layout, title, description and style. Sections are managed from a new Manage sections dialog, reachable from the board menu and the template editor.
+- A section can be pinned to keep its place, or locked so users can't move or remove its widgets.
+- A section can be collapsed and expanded.
+- The theme settings now include section style: divider, header alignment, alternating background and header size, previewed live in the theme dialog.
+- A teaching tip introduces the Add section menu item to users who can add sections to a board.
+- The board template list can be filtered by All, Personal, Shared and Hidden templates.
+- Widgets can ask the board to show their header tabs as a dropdown instead of pills.
+
+### Changed
+- A board's widgets now load once they come near the part of the board in view, so long boards open faster.
+- A board now fades in when you switch to it.
+- Escape now cancels an in-progress widget rename instead of saving it.
+
+### Fixed
+- A widget menu no longer closes unexpectedly while the page scrolls.
+- Teaching tips no longer appear without scrolling their target into view.
+- The connection that watches a configuration list for changes no longer multiplies over time, which caused a growing stream of errors and unnecessary refreshes in long-running sessions.
+- The connection that watches a configuration list for changes is now closed when its board is no longer on the page.
+- Changes to the admin configuration saved around the same time are no longer cached out of order, which could leave the cached configuration behind the saved one.
+
 ## 1.160.0 - October 22, 2026
 
 ### Added
