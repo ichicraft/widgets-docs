@@ -1,3 +1,12 @@
+## 1.11.0 - October 29, 2026
+
+### Changed
+- Portuguese translations now use European Portuguese terms throughout, matching Microsoft's own pt-PT wording.
+
+### Fixed
+- The Copilot chat no longer takes keyboard focus away from the user after each answer.
+- Copilot's own interface text now loads in the user's language instead of always showing in English.
+
 ## 1.10.0 - September 29, 2026
 
 ### Changed
