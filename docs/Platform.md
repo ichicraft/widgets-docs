@@ -1,3 +1,15 @@
+## 1.162.0 - November 02, 2026
+
+### Changed
+- Users can now edit the header of a section that comes from their board's template, unless the template locks it.
+- Users can now choose whether the top section of a board that uses a template shows its header (unless it's locked).
+- Locking a section in a board template now also keeps users from editing its header.
+
+### Fixed
+- The top section can no longer be saved without a title while its header is set to show on the board.
+- The arc of the Hero layout's background now stays above a board's content.
+- Tips no longer come up while a widget's dialog is open, where they couldn't be dismissed.
+
 ## 1.161.0 - October 29, 2026
 
 ### Added
