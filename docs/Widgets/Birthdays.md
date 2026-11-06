@@ -1,3 +1,12 @@
+## 1.33.0 - November 06, 2026
+
+### Changed
+- The admin settings now point to the Bloom Guide for how to make birthdays searchable in SharePoint, instead of an outdated PDF. Select the book icon at the top of the dialog to open it.
+- The Portuguese translations now use European Portuguese.
+
+### Fixes
+- The **Change birthday** link in the "You have not set your birthday yet" message works again.
+
 ## 1.32.0 - September 10, 2026
 
 ### Added
