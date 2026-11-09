@@ -1,3 +1,16 @@
+## [Files](./Widgets/Files.md) 1.41.0 - November 09, 2026
+
+### Changed
+- The Portuguese translation now uses European Portuguese throughout, and several mistranslated labels are corrected.
+- The team picker in the tab settings shows each team's picture, or its initials when it has none.
+
+### Fixed
+- Uploading a template from your computer no longer rejects supported file types such as .dotx with an unsupported file type message.
+- The links to the OData and KQL documentation in the filter and query template tooltips are clickable again instead of showing as plain text.
+- A question asked in the Copilot chat before the chat has finished loading is no longer lost.
+- Asking Copilot about a file whose name contains a word in square brackets now sends the question.
+- The new chat button in the Copilot chat stays disabled until the chat is ready.
+
 ## [Birthdays](./Widgets/Birthdays.md) 1.33.0 - November 06, 2026
 
 ### Changed
